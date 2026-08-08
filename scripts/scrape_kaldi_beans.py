@@ -103,35 +103,90 @@ def parse_price(html: str) -> int | None:
     return None
 
 
+def _html_to_plain(fragment: str) -> str:
+    text = unescape(re.sub(r"<[^>]+>", " ", fragment))
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _append_unique(parts: list[str], text: str) -> None:
+    if not text:
+        return
+    for existing in parts:
+        if text in existing or existing in text:
+            return
+        if len(text) >= 40 and text[:40] in existing:
+            return
+        if len(existing) >= 40 and existing[:40] in text:
+            return
+    parts.append(text)
+
+
+def _description_scope(html: str) -> str:
+    m = re.search(
+        r'<div class="description">(.*?)(?:</div>\s*<aside|<aside id="relation_info")',
+        html,
+        re.DOTALL | re.I,
+    )
+    return m.group(1) if m else html
+
+
 def parse_product_detail_text(html: str) -> str:
-    """Extract headline + body from pro_detail_* blocks."""
+    """Extract headline, body, and highlight blocks from the product description."""
+    scope = _description_scope(html)
     parts: list[str] = []
-    for block in re.finditer(
-        r'<div class="pro_detail_text\d*_style">(.*?)</div>', html, re.DOTALL | re.I
+
+    for headline in re.finditer(
+        r'class="pro_detail_headline\d*_style">\s*(.*?)\s*</h3>',
+        scope,
+        re.DOTALL | re.I,
     ):
-        headline = re.search(
-            r'class="pro_detail_headline\d*_style">\s*(.*?)\s*</h3>',
-            block.group(1),
-            re.DOTALL,
-        )
-        body = re.search(
-            r'class="pro_detail_desp\d*_style">\s*(.*?)\s*</p>',
-            block.group(1),
-            re.DOTALL,
-        )
-        if headline:
-            h = unescape(re.sub(r"<[^>]+>", "", headline.group(1)))
-            h = re.sub(r"\s+", " ", h).strip()
-            if h:
-                parts.append(h)
-        if body:
-            b = unescape(re.sub(r"<[^>]+>", "", body.group(1)))
-            b = re.sub(r"\s+", " ", b).strip()
-            if b:
-                parts.append(b)
+        text = _html_to_plain(headline.group(1))
+        _append_unique(parts, text)
+
+    for body in re.finditer(
+        r'class="pro_detail_desp\d*_style">\s*(.*?)\s*</p>',
+        scope,
+        re.DOTALL | re.I,
+    ):
+        text = _html_to_plain(body.group(1))
+        _append_unique(parts, text)
+
+    for block in re.finditer(
+        r'<div class="text"[^>]*>(.*?)</div>',
+        scope,
+        re.DOTALL | re.I,
+    ):
+        text = _html_to_plain(block.group(1))
+        if len(text) < 20:
+            continue
+        if text.startswith("■"):
+            text = text[1:].strip()
+        _append_unique(parts, text)
+
     if parts:
-        return "。".join(dict.fromkeys(parts))[:500]
+        return "。".join(dict.fromkeys(parts))[:1200]
     return ""
+
+
+def parse_all_product_images(html: str, product_id: str) -> list[str]:
+    """Collect carousel and detail images for a product."""
+    urls: list[str] = []
+    primary = parse_product_image(html, product_id)
+    if primary:
+        urls.append(primary)
+
+    for match in re.finditer(
+        rf'(?:src|href)="([^"]*{re.escape(product_id)}[^"]+\.(?:jpg|jpeg|png|webp))"',
+        html,
+        re.I,
+    ):
+        full = abs_url(match.group(1))
+        lower = full.lower()
+        if "sale" in lower or "/ale/" in lower:
+            continue
+        if full not in urls:
+            urls.append(full)
+    return urls
 
 
 def fallback_description(
@@ -193,19 +248,28 @@ def parse_description(html: str, *, taste: str | None = None, body: str | None =
 
 
 def parse_product_image(html: str, product_id: str) -> str | None:
+    """Prefer standard pack shot; skip sale/OG promo banners that show price text."""
+    main = re.search(
+        rf'/ec/img/\d+/{re.escape(product_id)}_M_1m\.(?:jpg|jpeg|png|webp)',
+        html,
+        re.I,
+    )
+    if main:
+        return abs_url(main.group(0))
+
+    for m in re.finditer(
+        rf'(/ec/img/\d+/{re.escape(product_id)}_[^"\']+\.(?:jpg|jpeg|png|webp))',
+        html,
+        re.I,
+    ):
+        candidate = m.group(1)
+        lower = candidate.lower()
+        if "sale" in lower or "/ale/" in lower:
+            continue
+        return abs_url(candidate)
+
     url = extract_og_image(html)
-    if not url:
-        m = re.search(r'content="([^"]+)"\s+property="og:image"', html)
-        url = m.group(1) if m else None
-    if not url:
-        m = re.search(rf'/ec/img/\d+/{re.escape(product_id)}_[^"\']+\.(?:jpg|png|webp)', html, re.I)
-        if m:
-            url = m.group(0)
-    if not url:
-        m = re.search(rf'src="(/ec/img/[^"]*{re.escape(product_id)}[^"]+\.(?:jpg|png|webp))"', html, re.I)
-        if m:
-            url = m.group(1)
-    if url:
+    if url and "sale" not in url.lower() and "/ale/" not in url.lower():
         return abs_url(url)
     return None
 
@@ -261,6 +325,8 @@ def parse_product(product_id: str, html: str | None = None) -> dict | None:
 
     image_url = parse_product_image(html, product_id)
     image_local = download_product_image(image_url, product_id) if image_url else None
+    all_images = parse_all_product_images(html, product_id)
+    extra_images = [u for u in all_images if u != image_url]
 
     return {
         "product_id": product_id,
@@ -280,6 +346,7 @@ def parse_product(product_id: str, html: str | None = None) -> dict | None:
         "available": not (unavailable or stock_msg),
         "image_url": image_url,
         "image_local": image_local,
+        "extra_images": extra_images or None,
     }
 
 
@@ -336,6 +403,12 @@ def enrich_existing_bean(bean: dict, html: str) -> tuple[dict, int]:
             if local:
                 enriched["image_local"] = local
                 fixes += 1
+
+    all_images = parse_all_product_images(html, str(bean["product_id"]))
+    extra = [u for u in all_images if u != image_url]
+    if extra and enriched.get("extra_images") != extra:
+        enriched["extra_images"] = extra
+        fixes += 1
 
     return enriched, fixes
 

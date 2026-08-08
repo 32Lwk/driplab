@@ -1,0 +1,101 @@
+{
+  "version": "0.1.0",
+  "chain_id": "ucc",
+  "scraped_at": "2026-08-08T19:56:11+0900",
+  "source": "https://store.ucc.co.jp/category/ITEM_210/",
+  "beans": [
+    {
+      "id": "ucc-上島珈琲店ブレンド-250g",
+      "chain_id": "ucc",
+      "name": "【直営店限定】上島珈琲店ブレンド 250g（豆）",
+      "description": "上島珈琲店の創業から変わらぬ美味しさへの飽くなきこだわり、熱い想いを詰め込んで。 ミルクチョコレートやローストナッツのような香りと甘い余韻が心地良い、バランスの取れた味わい。 芳醇な香りと心地よいコクが特徴のコーヒーです。 ◆≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。 ◆「サステナブルなコーヒー調達の基準を満たすコーヒー豆」を使用 おいしいコーヒーは、豊かで美しい地球、そしてすこやかな労働環境があってこそ。 上島珈琲店は「地球環境と生産者」も大切にし、UCCグループのサステナブルなコーヒー調達（※）の基準を満たすコーヒー豆を使用して、コーヒーをお届けします。 ※より良い地球環境、より良い生産者の生活に繋がるよう、サステナブルに調達されたコーヒー豆を50%以上使用しています。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "コロンビア",
+        "ブラジル他",
+        "他"
+      ],
+      "flavor_tags": [
+        "チョコ",
+        "ナッツ",
+        "甘み",
+        "香ばしさ",
+        "コク"
+      ],
+      "acidity": 65,
+      "body": 65,
+      "bitterness": 45,
+      "sweetness": 74,
+      "caffeine": "medium",
+      "price_jpy": 1650,
+      "weight_g": 250,
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600000.html",
+      "product_id": "UCT0600000",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/B0007_02.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "ucc-ucc-珈琲探究-炒り豆-モカブレンド-140g",
+      "chain_id": "ucc",
+      "name": "UCC 珈琲探究 炒り豆 モカブレンド 140g （豆）",
+      "description": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。 ◆華やかでフルーティーな味わいとあまい香り。 ◆コーヒー鑑定士監修。 ◆アラビカ100％使用。 ◆サステナブルに調達されたコーヒー豆を50％以上使用。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "華やか",
+      "origin": [
+        "エチオピア",
+        "ブラジル他",
+        "他"
+      ],
+      "flavor_tags": [
+        "フルーティ",
+        "香ばしさ"
+      ],
+      "acidity": 65,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 62,
+      "caffeine": "medium",
+      "price_jpy": 873,
+      "weight_g": 140,
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_17/TAN0600003.html",
+      "product_id": "TAN0600003",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tan0600003.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "ucc-ucc-ゴールドスペシャル-炒り豆-スぺシャルブレンド-230g",
+      "chain_id": "ucc",
+      "name": "UCC ゴールドスペシャル 炒り豆 スぺシャルブレンド 230g（豆）",
+      "description": "「UCC」の技術力と惜しみない手間ひまにより、コーヒーの奥深さが味わえる本格コーヒー。 ◆甘い香りと風味豊かなコク ◆豆の個性を最大限引き出す「単品焙煎」 ◆環境に配慮したパッケージを使用。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "コク",
+      "origin": [
+        "ブラジル",
+        "ベトナム"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ",
+        "コク"
+      ],
+      "acidity": 65,
+      "body": 65,
+      "bitterness": 45,
+      "sweetness": 74,
+      "caffeine": "medium",
+      "price_jpy": 1035,
+      "weight_g": 230,
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_2/GSP0600001.html",
+      "product_id": "GSP0600001",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/gsp0600001.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}

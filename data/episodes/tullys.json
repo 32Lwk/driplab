@@ -1,0 +1,219 @@
+{
+  "chain_id": "tullys",
+  "generated_at": "2026-08-08T18:53:46.391441+09:00",
+  "count": 21,
+  "ok": 21,
+  "failed": 0,
+  "beans": [
+    {
+      "product_id": "gTCJ-beans-260318-0001",
+      "name": "【限定パッケージ】タリーズ ブラジル バウ 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/",
+      "episode": "豊かなアロマ、しっかりとしたボディと酸味がバランスよく調和し、後味に広がる甘みがお楽しみいただけます。新しい季節に新しいブラジルを。豊かなアロマ、しっかりとしたボディと酸味がバランスよく調和し、後味に広がる甘みがお楽しみいただけます。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/tullys_brazil_bau.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260318-0001_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260318-0001.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-260415-0003",
+      "name": "アイスコーヒーブレンド 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260415-0003/",
+      "episode": "すっきりとした苦みの中に心地よいコクと甘みが広がる、アイスコーヒーにおすすめのブレンドです。店内で提供している定番のアイスコーヒーと同じブレンドを、季節限定でご自宅でもお楽しみいただけます。心地よいコクの中にも、微かに爽やかさが感じられます。すっきりとした苦みと自然な甘みが続く奥行きのある味わいに仕上げました。暑い季節にぴったりのブレンドです。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/26iced_coffee_brend.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260415-0003.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260415-0003.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-espresso_classico",
+      "name": "エスプレッソクラシコ",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/espresso_classico.html",
+      "episode": "リッチなボディと甘く華やかな香りが印象的です。そのままエスプレッソで楽しむのはもちろん、ラテやカプチーノのベースとしてもおすすめ。ミルクをたっぷりいれてお召し上がりください。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/espresso_classico.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/espresso_classico_181102.jpg",
+      "image_local": "data/images/tullys/menu-espresso_classico.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-26_ethiopia_sidamo_g1",
+      "name": "エチオピア シダモG1 シャキッソウォッシュド 150g",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/26_ethiopia_sidamo_g1.html",
+      "episode": "花のように上品な香りと、柑橘系の爽やかな風味が調和したバランスの良い味わいが特徴です。約690軒の小規模生産者が一粒ずつ手摘みで収穫し、トップグレードの品質に仕上げました。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/26_ethiopia_sidamo_g1.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/ethiopia_sidamo_20260217.jpg",
+      "image_local": "data/images/tullys/menu-26_ethiopia_sidamo_g1.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-ethiopia_uraga",
+      "name": "エチオピアモカ G1 ウラガ ナチュラル",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/ethiopia_uraga.html",
+      "episode": "芳醇で鮮やかなモカフレーバーです。ラズベリーやピーチのような爽やかさがあり、すっきりとした飲み口とともに、ユニークな風味とフルーティ感が楽しめる味わいです。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/ethiopia_uraga.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/ethiopia_mocha_201112.jpg",
+      "image_local": "data/images/tullys/menu-ethiopia_uraga.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-cafe_au_lait_monire",
+      "name": "カフェオレ モナーレ",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/cafe_au_lait_monire.html",
+      "episode": "ミルクを入れてコーヒーをお召し上がりになる方へおすすめの豆です。ミルクとあわせて甘みやまろやかな風味を楽しむのも良いですし、そのままブラックで飲んでも美味しくお召し上がりいただけます。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/cafe_au_lait_monire.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/cafeaulait_monire_181102.jpg",
+      "image_local": "data/images/tullys/menu-cafe_au_lait_monire.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-25080113",
+      "name": "キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/",
+      "episode": "シトラスや紅茶を感じさせる華やかな香りのコーヒーです。なめらかな口あたりで飲みやすく、まるではちみつやカラメルのような豊かな甘みが広がります。華やかでシトラス・紅茶を感じさせるフレグランス、まるではちみつやカラメルのような豊かな甘みとジューシーさを感じます。なめらかで丸みのある口あたりと、心地よい甘みが特徴です。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/kilimanjaro_kibosw.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-25080113_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-25080113.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-26cresent_moon",
+      "name": "クレセントムーン",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html",
+      "episode": "夏を愉しむ季節限定オリジナルブレンド。深めの焙煎で仕上げることで生まれる、力強くなめらかなボディが特徴で、アイスコーヒーにもよく合います。ダークチョコレートのような濃厚さとコーヒーの甘みを感じる、スモーキーな味わいをどうぞお楽しみください。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/cresent_moon.png",
+      "image_local": "data/images/tullys/menu-26cresent_moon.png",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-25080103",
+      "name": "コスタリカ ラ ミニータ ウェットミル スイートウォッシュド 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080103/",
+      "episode": "フローラルなアロマが際立つ、クリーンで飲みやすい味わい。なめらかな口あたりで、フルーティ感のある明るさと心地よさが続きます。チョコレート、カラメル、フローラルなアロマが際立ち、クリーンで飲みやすい味わい。明るさと心地よさが続くフルーティ感がお楽しみいただけます。モーニングコーヒーやリフレッシュしたい時の一杯として、おすすめです。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/costarica_laminita.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-25080103.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-25080103.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-26mandeheling_g1",
+      "name": "スマトラ マンデリン G1 リントンニフタ 150g",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/26mandeheling_g1.html",
+      "episode": "マンデリン最高等級のG1（グレード1）ならではの、力強いコクとダークチョコレートのような重厚感が特徴です。個性豊かな味わいと深い余韻を、まずはブラックでお楽しみください。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/26mandeheling_g1.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/mandheling_g1_20251218.jpg",
+      "image_local": "data/images/tullys/menu-26mandeheling_g1.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-260805-0001",
+      "name": "タリーズ アニバーサリーブレンド 200g 豆",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/",
+      "episode": "タリーズが厳選した4つの産地のコーヒー豆をブレンドした、特別なブレンド。フルーティで心地よい酸味となめらかな口あたりに、カラメルやチョコレートのような甘い余韻が広がります。フルーティーで明るい酸味と滑らかな口当たり、カラメルやチョコレートのような甘さの余韻が感じられる、タリーズ創業を記念した特別なコーヒー豆です。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/26_anniversary_blend.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260805-0001.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260805-0001.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0002",
+      "name": "タリーズ ブラジル バウ イエローブルボン 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0002/",
+      "episode": "黄色に熟するイエローブルボン種のみを使用し、完熟のタイミングを丁寧に見極め、太陽のもとでじっくりと天日乾燥させました。すっきり飲みやすいマイルドな味わいを お楽しみください。新しい季節に新しいブラジルを。軽やかに広がる風味に、しっかりと感じられるまろやかな甘み。ほんのりとした酸味が心地よい、やさしいマイルドなコーヒーです。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/26brazil_yellow_bourbon.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260318-0002_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260318-0002.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0003",
+      "name": "タリーズ ブラジル ファゼンダ バレ ド クリスタル 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0003/",
+      "episode": "寒暖差のある環境のもと、ゆっくりと成熟したコーヒーチェリーの華やかな香りと、完熟チェリーを思わせるやさしい甘みがお楽しみいただけます。新しい季節に新しいブラジルを。華やかに立ち上る香りと、完熟チェリーを思わせるやさしい甘み。上品な酸味が心地よく続き、後味にはコクのある豊かな余韻が広がります。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/26brazil_vare_do_cristal.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260318-0003_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260318-0003.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-26tls_masters_note",
+      "name": "タリーズコーヒーマスターズノート",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
+      "episode": "コーヒーマスター*が商品開発に参加し、自信をもってお届けする、この夏アイスコーヒーにおすすめのブレンド。エチオピアを軸にした、華やかな香りとフルーティ感が特徴です。チョコレートのような豊かなコクが重なり合う、奥行のある味わいをお楽しみください。*コーヒーマスターとは、コーヒー全般に関する深い知識を持ち、豆ごとの個性や味わいを見極める、社内の厳しい試験に合格したコーヒーのスペシャリスト。現在、全国で約61名のコーヒーマスターが活躍しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/masters_notes_20260508.jpg",
+      "image_local": "data/images/tullys/menu-26tls_masters_note.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "gTCJ-beans-25080118",
+      "name": "デカフェ ブラジル IP農園 200g （豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080118/",
+      "episode": "マウンテンウォーター製法でカフェインを95％以上除去したブラジル産のデカフェです。チョコレートやカラメルを思わせる香りとクリーンでまろやかな口あたり、さらにカシューナッツのような風味と甘みがほのかに感じられます。一日の終わりや、くつろぎの時間に、甘い香りと優しい飲み心地のコーヒーで、一息つきませんか。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/decafe_bra.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-25080118_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-25080118.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-house_blend",
+      "name": "ハウスブレンド",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "episode": "ほどよいボディとすっきりとした酸味、スムースな飲み口が特徴です。バランスがよく飲みやすい、タリーズコーヒーの定番の味わいです。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/house_blend_181212.jpg",
+      "image_local": "data/images/tullys/menu-house_blend.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-piccolo_bambino",
+      "name": "ピッコロバンビーノ",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/piccolo_bambino.html",
+      "episode": "すっきりとマイルドな口あたりで飲みやすいコーヒーです。後味には、キャラメルのような香ばしい風味が感じられます。朝のコーヒーにもぴったり！ タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/piccolo_bambino.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/piccolo_bambino_181102.jpg",
+      "image_local": "data/images/tullys/menu-piccolo_bambino.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-french_roast",
+      "name": "フレンチロースト",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/french_roast.html",
+      "episode": "タリーズの中で、最も深くローストされたコーヒー。リッチでスモーキーな香りが口いっぱいに広がります。アイスコーヒー用の豆としてもおすすめです。淹れる際に、コロンビアやグァテマラといった酸味のある豆を少量加えて抽出すると、フレンチローストのリッチな風味がより引き立ちます。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/french_roast.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/french_roast_181102.jpg",
+      "image_local": "data/images/tullys/menu-french_roast.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-blackthree",
+      "name": "ブラック スリー",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/blackthree.html",
+      "episode": "心地よいアロマとなめらかな舌さわり、さらに深いボディとカラメルのような甘い余韻が印象的な味わい。ぜひ、ブラックでお召し上がりください。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/blackthree.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/black_181202.jpg",
+      "image_local": "data/images/tullys/menu-blackthree.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-26honduras_erandique",
+      "name": "ホンジュラス 森のエランディケ",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html",
+      "episode": "標高1500mを超える、深い森に囲まれたエランディケ。豊かな森と豊富な水源の元、ゆっくりと育まれたコーヒーは、シトラスのような爽やかなフレーバーと、澄んだ飲み心地が特徴です。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/honduras_erandique_20260603.jpg",
+      "image_local": "data/images/tullys/menu-26honduras_erandique.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "menu-mocha_java",
+      "name": "モカジャバ",
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/mocha_java.html",
+      "episode": "エチオピアモカの華やかなアロマとワイニーな口あたりが特徴です。深いボディを感じながら、ゆっくりと味わいを楽しみましょう。タリーズの豆の中でも、特にユニークな風味を持つブレンドです。 タリーズコーヒーはシアトル発のスペシャルティコーヒー文化を日本に広げ、ハンドクラフトの抽出と厳選した豆を提供しています。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/mocha_java.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/mocha_java_181102.jpg",
+      "image_local": "data/images/tullys/menu-mocha_java.jpg",
+      "extra_images": []
+    }
+  ]
+}

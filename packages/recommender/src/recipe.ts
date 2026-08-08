@@ -1,3 +1,10 @@
+/**
+ * Brewing ratios reference:
+ * - Starbucks hand drip (2 cups): 20g / 360ml, 90–96℃, bloom 20–30s, 3 pours
+ *   https://www.starbucks.co.jp/hellocoffee/howto/howto-handdrip.html
+ * - Solo filter (1 cup): 10g / 180ml
+ */
+
 import { EQUIPMENT_OPTIONS, GRIND_LABELS } from "./constants";
 import type {
   BeanProduct,
@@ -7,11 +14,16 @@ import type {
   RoastLevel,
 } from "./types";
 
+const DRIP_REFERENCE =
+  "https://www.starbucks.co.jp/hellocoffee/howto/howto-handdrip.html";
+
 function equipmentLabel(id: EquipmentId): string {
   return EQUIPMENT_OPTIONS.find((e) => e.id === id)?.name_ja ?? id;
 }
 
-function withGrindJa(recipe: Omit<BrewRecipe, "grind_ja" | "method_ja">): BrewRecipe {
+function withGrindJa(
+  recipe: Omit<BrewRecipe, "grind_ja" | "method_ja">,
+): BrewRecipe {
   return {
     ...recipe,
     method_ja: equipmentLabel(recipe.method),
@@ -20,50 +32,81 @@ function withGrindJa(recipe: Omit<BrewRecipe, "grind_ja" | "method_ja">): BrewRe
 }
 
 function dripRecipe(roast: RoastLevel, mood: MoodProfile): BrewRecipe {
-  const base: Record<
-    RoastLevel,
-    { coffee_g: number; water_ml: number; water_temp_c: number; time_sec: number }
-  > = {
-    light: { coffee_g: 15, water_ml: 250, water_temp_c: 94, time_sec: 180 },
-    medium: { coffee_g: 15, water_ml: 240, water_temp_c: 92, time_sec: 150 },
-    medium_dark: { coffee_g: 16, water_ml: 230, water_temp_c: 90, time_sec: 130 },
-    dark: { coffee_g: 16, water_ml: 230, water_temp_c: 88, time_sec: 120 },
-  };
+  let coffee_g = 20;
+  let water_ml = 360;
+  let water_temp_c = 93;
+  const bloom_ml = 40;
+  const bloom_sec = 25;
+  let grind: BrewRecipe["grind"] = "medium_fine";
 
-  const b = base[roast] ?? base.medium;
-  let { coffee_g, water_ml, water_temp_c, time_sec } = b;
+  if (roast === "light") {
+    water_temp_c = 94;
+    grind = "medium_fine";
+  } else if (roast === "medium") {
+    water_temp_c = 93;
+    grind = "medium_fine";
+  } else if (roast === "medium_dark") {
+    water_temp_c = 91;
+    grind = "medium";
+  } else {
+    water_temp_c = 90;
+    grind = "medium";
+  }
 
   if (mood.alertness <= 33) {
     water_temp_c -= 2;
-    time_sec -= 15;
   } else if (mood.alertness >= 67) {
     coffee_g += 1;
   }
 
   return withGrindJa({
     method: "drip",
-    grind: "medium_fine",
+    grind,
     coffee_g,
     water_ml,
     water_temp_c,
-    time_sec,
-    notes: "最初に30ml注いで30秒蒸らし、その後ゆっくり注ぎます。",
+    bloom_ml,
+    bloom_sec,
+    time_sec: bloom_sec + 150,
+    steps: [
+      "ドリッパー・サーバー・カップを90〜96℃のお湯で温める",
+      `フィルターに${coffee_g}g（${GRIND_LABELS[grind]}）の粉を平らにならす`,
+      `1回目（蒸らし）: 中央から約${bloom_ml}mlを注ぎ、${bloom_sec}秒待つ`,
+      "2回目: 中央から小さな円を描くようにゆっくり注ぎ、粉床の高さを70〜80%に",
+      "3回目: 2回目の高さを維持しながら残りのお湯を数回に分けて注ぐ",
+      "必要量に達したら、落ちきる前にドリッパーを外す",
+    ],
+    notes: `スターバックス公式比（2杯分・1:${Math.round(water_ml / coffee_g)}）。参考: ${DRIP_REFERENCE}`,
+    reference_url: DRIP_REFERENCE,
   });
 }
 
 function frenchPressRecipe(roast: RoastLevel, mood: MoodProfile): BrewRecipe {
-  const recipe = withGrindJa({
+  let coffee_g = 20;
+  const water_ml = 300;
+  let water_temp_c = 92;
+  const time_sec = 240;
+
+  if (roast === "light") water_temp_c = 93;
+  if (roast === "dark") water_temp_c = 90;
+  if (mood.alertness >= 67) coffee_g += 2;
+
+  return withGrindJa({
     method: "french_press",
     grind: "coarse",
-    coffee_g: 20,
-    water_ml: 300,
-    water_temp_c: 92,
-    time_sec: 240,
-    notes: "4分間浸した後、ゆっくりプランジャーを押します。",
+    coffee_g,
+    water_ml,
+    water_temp_c,
+    time_sec,
+    steps: [
+      "フレンチプレスをお湯で温める",
+      `${coffee_g}g（粗挽き）の粉を入れ、平らにならす`,
+      `${water_temp_c}℃のお湯${water_ml}mlを一気に注ぎ、粉を軽くかき混ぜる`,
+      "フタを閉め4分間静置",
+      "プランジャーをゆっくり押し下ろして完成",
+    ],
+    notes: "コクと油分を残す浸出法。粉床が均一になるよう軽くかき混ぜる。",
   });
-
-  if (mood.alertness >= 67) recipe.coffee_g += 2;
-  return recipe;
 }
 
 function espressoRecipe(roast: RoastLevel): BrewRecipe {
@@ -75,19 +118,31 @@ function espressoRecipe(roast: RoastLevel): BrewRecipe {
     yield_ml: 36,
     water_temp_c: 93,
     time_sec: 28,
-    notes: "25〜30秒で36mlを抽出。",
+    steps: [
+      "ポートafilterに18g前後（細挽き）をタンピング",
+      "93℃前後で25〜30秒かけて36mlを抽出",
+      "最初の数滴（プレインフュージョン）の色と流速を確認",
+    ],
+    notes: "短時間・高圧抽出。深煎り豆はコクとビターが際立つ。",
   });
 }
 
 function siphonRecipe(roast: RoastLevel): BrewRecipe {
+  const water_temp_c = roast === "light" ? 93 : 92;
   return withGrindJa({
     method: "siphon",
     grind: "medium",
     coffee_g: 20,
     water_ml: 300,
-    water_temp_c: 92,
+    water_temp_c,
     time_sec: 90,
-    notes: "下球のお湯が上球に上がったら粉を入れ、45秒かき混ぜて火を止めます。",
+    steps: [
+      "下球に300mlのお湯を入れ、加熱して上球に湯を上げる",
+      "20g（中挽き）の粉を入れ、45秒間軽くかき混ぜる",
+      "火を止め、下球にコーヒーが戻るのを待つ",
+      "サーバーに移して完成",
+    ],
+    notes: "真空状態での抽出。酸味とアロマがクリアに立つ。",
   });
 }
 
@@ -110,19 +165,4 @@ export function buildRecipe(
     default:
       return dripRecipe(roast, mood);
   }
-}
-
-export function pickPrimaryEquipment(
-  selected: EquipmentId[],
-): EquipmentId {
-  const order: EquipmentId[] = [
-    "drip",
-    "french_press",
-    "espresso",
-    "siphon",
-  ];
-  for (const id of order) {
-    if (selected.includes(id)) return id;
-  }
-  return "drip";
 }

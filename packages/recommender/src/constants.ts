@@ -2,10 +2,15 @@ import type { ChainId, EquipmentId } from "./types";
 
 export const CHAIN_LABELS: Record<ChainId, string> = {
   starbucks: "スターバックス",
-  maruyama: "丸山コーヒー",
+  maruyama: "丸山珈琲",
   doutor: "ドトール",
   tullys: "タリーズ",
   kaldi: "カルディ",
+  ucc: "UCC",
+  hoshino: "星乃珈琲",
+  ogawa: "小川珈琲",
+  sarutahiko: "猿田彦珈琲",
+  bluebottle: "ブルーボトル",
 };
 
 export const EQUIPMENT_OPTIONS: { id: EquipmentId; name_ja: string }[] = [

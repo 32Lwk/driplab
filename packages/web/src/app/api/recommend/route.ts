@@ -1,19 +1,17 @@
 import { NextResponse } from "next/server";
-import { recommend, normalizeCatalog } from "@driplab/recommender";
+import { recommend } from "@driplab/recommender";
 import type { RecommendRequest } from "@driplab/recommender";
-import catalogData from "@/data/beans.json";
+import { getAvailableBeans } from "@/lib/catalog";
 
-const beans = normalizeCatalog(
-  (catalogData as { beans: Record<string, unknown>[] }).beans,
-);
+const beans = getAvailableBeans();
 
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as RecommendRequest;
 
-    if (!body.mood || !Array.isArray(body.equipment)) {
+    if (!body.mood) {
       return NextResponse.json(
-        { error: "mood と equipment が必要です" },
+        { error: "mood が必要です" },
         { status: 400 },
       );
     }

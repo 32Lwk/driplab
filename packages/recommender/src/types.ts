@@ -3,7 +3,12 @@ export type ChainId =
   | "maruyama"
   | "doutor"
   | "tullys"
-  | "kaldi";
+  | "kaldi"
+  | "ucc"
+  | "hoshino"
+  | "ogawa"
+  | "sarutahiko"
+  | "bluebottle";
 
 export type RoastLevel = "light" | "medium" | "medium_dark" | "dark";
 
@@ -26,6 +31,8 @@ export interface BeanProduct {
   id: string;
   chain_id: ChainId;
   name: string;
+  /** UI向けに整形した商品名 */
+  display_name: string;
   description?: string;
   roast_level: RoastLevel;
   roast_label_ja?: string;
@@ -44,6 +51,16 @@ export interface BeanProduct {
   image_local?: string;
   image_cdn_url?: string;
   available?: boolean;
+  episode?: string;
+  episode_source?: string;
+  /** 味わい・風味の短い説明 */
+  taste_notes?: string;
+  /** 精製方法（水洗式、ナチュラル等） */
+  processing?: string;
+  /** ストレート / ブレンド 等 */
+  coffee_type?: string;
+  /** 公式ページの追加商品画像 */
+  extra_images?: string[];
 }
 
 export interface MoodProfile {
@@ -59,7 +76,11 @@ export interface IdealCoffeeProfile {
   target_bitterness: number;
   target_sweetness: number;
   target_caffeine: CaffeineLevel;
+  /** 0–100 の連続カフェイン目標（覚醒度由来） */
+  target_caffeine_num: number;
   preferred_roast: RoastLevel[];
+  /** 0=light … 3=dark の連続焙煎目標 */
+  target_roast_index: number;
 }
 
 export interface BrewRecipe {
@@ -72,12 +93,19 @@ export interface BrewRecipe {
   yield_ml?: number;
   water_temp_c: number;
   time_sec: number;
+  bloom_ml?: number;
+  bloom_sec?: number;
+  steps?: string[];
   notes?: string;
+  reference_url?: string;
 }
 
 export interface RecommendRequest {
   mood: MoodProfile;
-  equipment: EquipmentId[];
+  /** 使える器具を限定する場合のみ指定。未指定なら全器具から提案 */
+  equipment?: EquipmentId[];
+  /** チェーンを限定する場合のみ指定。未指定なら全チェーン */
+  chains?: ChainId[];
 }
 
 export interface RecommendItem {
@@ -92,7 +120,18 @@ export interface RecommendItem {
   weight_g?: number;
   buy_url: string;
   image_url?: string;
+  /** Retailer image URL when image_url points at CDN. */
+  image_fallback_url?: string;
+  /** Additional image URLs to try after primary / first fallback. */
+  image_fallback_urls?: string[];
   match_score: number;
+  bean_score?: number;
+  equipment_score?: number;
+  recommended_equipment: EquipmentId;
+  episode?: string;
+  episode_source?: string;
+  taste_notes?: string;
+  processing?: string;
   recipe: BrewRecipe;
   reason: string;
 }

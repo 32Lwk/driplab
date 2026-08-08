@@ -9,7 +9,18 @@ SCRAPED = ROOT / "data" / "scraped"
 SEEDS = ROOT / "data" / "seeds"
 OUT = ROOT / "data" / "catalog"
 DOCS = ROOT / "docs"
-CHAINS = ["doutor", "starbucks", "maruyama", "tullys", "kaldi"]
+CHAINS = [
+    "doutor",
+    "starbucks",
+    "maruyama",
+    "tullys",
+    "kaldi",
+    "ucc",
+    "hoshino",
+    "ogawa",
+    "sarutahiko",
+    "bluebottle",
+]
 
 # Allow import when run as script
 import sys
@@ -17,6 +28,8 @@ import sys
 if str(ROOT / "scripts") not in sys.path:
     sys.path.insert(0, str(ROOT / "scripts"))
 
+from backfill_bean_images import link_local_bean_images  # noqa: E402
+from ensure_bean_images import ensure_bean_images, validate_bean_images  # noqa: E402
 from r2_utils import image_cdn_url, load_r2_config  # noqa: E402
 
 CHAIN_LABELS = {
@@ -25,6 +38,11 @@ CHAIN_LABELS = {
     "maruyama": "丸山コーヒー",
     "tullys": "タリーズ",
     "kaldi": "カルディ",
+    "ucc": "UCC",
+    "hoshino": "星乃珈琲",
+    "ogawa": "小川珈琲",
+    "sarutahiko": "猿田彦珈琲",
+    "bluebottle": "ブルーボトル",
 }
 
 
@@ -114,6 +132,31 @@ def main() -> None:
             item.setdefault("chain_id", chain_id)
         all_raw.extend(items)
 
+    img_stats = ensure_bean_images(all_raw, delay_s=0.2)
+    print(
+        "ensure images:",
+        f"ok={img_stats.ok}",
+        f"linked={img_stats.linked}",
+        f"downloaded={img_stats.downloaded}",
+        f"normalized={img_stats.normalized}",
+        f"failed={len(img_stats.failed)}",
+    )
+    if img_stats.failed:
+        print("  missing downloads:", ", ".join(img_stats.failed[:10]))
+
+    linked = link_local_bean_images(all_raw)
+    if linked:
+        print(f"linked {linked} on-disk bean images")
+
+    image_issues = validate_bean_images(all_raw)
+    if image_issues:
+        print(f"ERROR: {len(image_issues)} bean image(s) missing on disk after ensure step")
+        for issue in image_issues[:10]:
+            print(f"  - {issue}")
+        if len(image_issues) > 10:
+            print(f"  ... and {len(image_issues) - 10} more")
+        raise SystemExit(1)
+
     enrich_cdn_urls(all_raw)
     mvp = load_mvp_seeds()
     enrich_cdn_urls(mvp)
@@ -143,6 +186,19 @@ def main() -> None:
     print(f"mvp:     {len(mvp)} beans -> {OUT / 'mvp_beans.json'}")
     print(f"docs:    {DOCS / 'CATALOG.md'}")
     print("by_chain:", by_chain)
+
+    from enrich_episodes import enrich_catalog, enrich_mvp  # noqa: E402
+
+    enrich_catalog()
+    enrich_mvp()
+
+    # Sync bean images to Next.js public folder for /beans/* URLs
+    import subprocess
+
+    sync_script = ROOT / "scripts" / "sync-bean-images.mjs"
+    if sync_script.exists():
+        subprocess.run(["node", str(sync_script)], cwd=ROOT, check=True)
+        subprocess.run(["node", str(ROOT / "scripts" / "sync-web-beans.mjs")], cwd=ROOT, check=True)
 
 
 if __name__ == "__main__":

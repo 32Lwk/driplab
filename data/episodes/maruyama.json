@@ -1,0 +1,806 @@
+{
+  "chain_id": "maruyama",
+  "generated_at": "2026-08-08T22:20:19.871707+09:00",
+  "count": 51,
+  "ok": 51,
+  "failed": 0,
+  "beans": [
+    {
+      "product_id": 24,
+      "name": "丸山珈琲のブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/24",
+      "episode": "ダークチョコレートのような風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/24",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0820143311_5f3e0b177adf7.jpg",
+      "image_local": "data/images/maruyama/24.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0926171525_5d8c739d80fd6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0926171516_5d8c7394e9300.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0926171521_5d8c73992107d.jpg"
+      ],
+      "taste_notes": "ダークチョコレートのような風味。味わい深いコク。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】丸山珈琲のブレンド 400G"
+    },
+    {
+      "product_id": 26,
+      "name": "モカブレンド 茜すみれ",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/26",
+      "episode": "花の香りと柑橘類の爽やかな風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/26",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927145058_5d8da342201d6.jpg",
+      "image_local": "data/images/maruyama/26.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1007153445_6703810571b81.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152330_692a91621c6d5.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152332_692a91644b1e1.jpg"
+      ],
+      "taste_notes": "花の香りと柑橘類の爽やかな風味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】モカブレンド 茜すみれ 400G"
+    },
+    {
+      "product_id": 52,
+      "name": "アイス用ブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/52",
+      "episode": "【大容量】アイス用ブレンド 400G 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/52",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0921163730_5d85d33ab650b.jpg",
+      "image_local": "data/images/maruyama/52.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0921163735_5d85d33f73d89.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0226094925_699f9895e1ff2.jfif"
+      ],
+      "taste_notes": "▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】アイス用ブレンド 400G"
+    },
+    {
+      "product_id": 79,
+      "name": "尾山台オリジナルブレンド【尾山台店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/79",
+      "episode": "ダークチョコレート、ダークチェリーの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/79",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0922174213_5d8733e563b47.jpg",
+      "image_local": "data/images/maruyama/79.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0922174219_5d8733eb650b6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0922174224_5d8733f084410.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、ダークチェリーの風味。　    尾山台店・通信販売限定"
+    },
+    {
+      "product_id": 80,
+      "name": "西麻布ブレンド【西麻布店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/80",
+      "episode": "ダークチョコレート、ビターキャラメルの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/80",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0926170443_5d8c711b6efc1.jpg",
+      "image_local": "data/images/maruyama/80.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523173354_683032f22def6.jpeg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523173807_683033efecf1d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523174037_68303485cc7c5.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、ビターキャラメルの風味。奥行きのある味わい。　    西麻布店・通信販売限定"
+    },
+    {
+      "product_id": 84,
+      "name": "リゾナーレオリジナルマイルドブレンド【リゾナーレ八ヶ岳店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/84",
+      "episode": "オレンジ、チョコレート、ほのかにフローラルな風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/84",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0920204317_5d84bb557e0c6.jpg",
+      "image_local": "data/images/maruyama/84.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0920203509_5d84b96db9a7e.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0920203502_5d84b9665e5b6.jpg"
+      ],
+      "taste_notes": "オレンジ、チョコレート、ほのかにフローラルな風味。爽やかな味わいと深みのある余韻。    リゾナーレ八ヶ岳店・通信販売限定"
+    },
+    {
+      "product_id": 85,
+      "name": "八ヶ岳ブレンド〜満天の星空〜【リゾナーレ八ヶ岳店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/85",
+      "episode": "ダークチョコレート、オレンジピールの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/85",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0415094112_60778ba84ac93.jpg",
+      "image_local": "data/images/maruyama/85.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0929141248_5d903d5042463.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0226103917_699fa445e8831.jfif"
+      ],
+      "taste_notes": "ダークチョコレート、オレンジピールの風味。　    リゾナーレ八ヶ岳店・通信販売限定"
+    },
+    {
+      "product_id": 86,
+      "name": "小諸ブレンド【小諸店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/86",
+      "episode": "ミルクチョコ、オレンジ、キャラメルの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/86",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927140955_5d8d99a39b52f.jpg",
+      "image_local": "data/images/maruyama/86.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0922172723_5d87306b4409e.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729175236_68888bd460af5.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729180042_68888dba07b1d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729174914_68888b0ab89c0.jpg"
+      ],
+      "taste_notes": "ミルクチョコ、オレンジ、キャラメルの風味。爽やかさと心地良い舌触り。    小諸店・通信販売限定"
+    },
+    {
+      "product_id": 97,
+      "name": "丸山珈琲のブレンド・クラシック1991【軽井沢本店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/97",
+      "episode": "ビターチョコ、キャラメルの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/97",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1027154520_5db53d006f673.jpg",
+      "image_local": "data/images/maruyama/97.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0929140602_5d903bba9654d.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0929140606_5d903bbea5861.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1007125003_67035a6b53dc6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1007125003_67035a6baa801.jpg"
+      ],
+      "taste_notes": "ビターチョコ、キャラメルの風味。スパイシーな後味と重厚感。    軽井沢本店・通信販売限定"
+    },
+    {
+      "product_id": 201,
+      "name": "エスプレッソブレンド 中深煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/201",
+      "episode": "チョコレートやナッツを彷彿とさせる風味 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/201",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1004162035_5d96f2c36f63f.jpg",
+      "image_local": "data/images/maruyama/201.jpg",
+      "extra_images": [],
+      "taste_notes": "チョコレートやナッツを彷彿とさせる風味"
+    },
+    {
+      "product_id": 1049,
+      "name": "【大容量】マルケンの恩返し 特選ブレンド 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1049",
+      "episode": "ダークチョコレート、アーモンドの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1049",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0513073859_6a03ac032607e.jpg",
+      "image_local": "data/images/maruyama/1049.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0514114210_6642cf820dc12.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、アーモンドの風味。クリーミーな質感。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 1131,
+      "name": "さわやかブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1131",
+      "episode": "オレンジ、ハチミツの風味。【大容量】さわやかブレンド 400G。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1131",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1013121315_61664ecbc2b5a.jpg",
+      "image_local": "data/images/maruyama/1131.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152257_692a914123631.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152257_692a91419705f.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152256_692a9140e7b60.jpg"
+      ],
+      "taste_notes": "オレンジ、ハチミツの風味。爽やかな後味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】さわやかブレンド 400G"
+    },
+    {
+      "product_id": 1169,
+      "name": "【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1169",
+      "episode": "チェリー、ミルクチョコレートの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1169",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0513082218_6a03b62a6a59f.jpg",
+      "image_local": "data/images/maruyama/1169.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0514114200_6642cf78cba32.jpg"
+      ],
+      "taste_notes": "チェリー、ミルクチョコレートの風味。バランスの良い味わい。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 1935,
+      "name": "アルトシエロ 中深煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1935",
+      "episode": "ローストナッツの風味、バランスの良い味わい 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1935",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1029163436_6720900cc6d07.jpg",
+      "image_local": "data/images/maruyama/1935.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1030120822_653f1e26a5a9c.jpg"
+      ],
+      "taste_notes": "ローストナッツの風味、バランスの良い味わい    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 中深煎り 400G  （まとめ買い対象）"
+    },
+    {
+      "product_id": 1936,
+      "name": "アルトシエロ 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1936",
+      "episode": "花の様な香り、軽やかな口当たり  【大容量】アルトシエロ中煎り 400G 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1936",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1029163408_67208ff02b8a4.jpg",
+      "image_local": "data/images/maruyama/1936.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1030120839_653f1e37eaa30.jpg"
+      ],
+      "taste_notes": "花の様な香り、軽やかな口当たり    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】アルトシエロ中煎り 400G"
+    },
+    {
+      "product_id": 1937,
+      "name": "アルトシエロ 深煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1937",
+      "episode": "ダークチョコレートの深いコク、豊かな香り 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1937",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1029163350_67208fde1a958.jpg",
+      "image_local": "data/images/maruyama/1937.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1030120854_653f1e4680b5e.jpg"
+      ],
+      "taste_notes": "ダークチョコレートの深いコク、豊かな香り    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 深煎り 400G  （まとめ買い対象）"
+    },
+    {
+      "product_id": 1986,
+      "name": "アメリカン・ブレンド 浅煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1986",
+      "episode": "オレンジ、カシューナッツのような風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/1986",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1219180114_65815bdaccfec.jpg",
+      "image_local": "data/images/maruyama/1986.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1219180111_65815bd709809.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0225173356_699eb3f46e328.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0225173405_699eb3fd5694e.jfif"
+      ],
+      "taste_notes": "オレンジ、カシューナッツのような風味。軽やかで爽やかな味わい"
+    },
+    {
+      "product_id": 2018,
+      "name": "フェアトレードコーヒー ニカラグア 深煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2018",
+      "episode": "ダークチョコレート、スイートスパイスの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2018",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0130163504_65b8a6a86678b.jpg",
+      "image_local": "data/images/maruyama/2018.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0130104923_65b855a364dc2.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0130104920_65b855a0d5f79.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0130170149_65b8aced75cb8.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、スイートスパイスの風味。クリーミーな質感。"
+    },
+    {
+      "product_id": 2146,
+      "name": "ハルニレテラスブレンド【ハルニレテラス店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2146",
+      "episode": "ハルニレテラスの緑に包まれ、心癒されるブレンド 丸山珈琲ハルニレテラス店は、2009年7月に丸山珈琲の4店舗目としてオープンし、軽井沢の自然と共存する空間「ハルニレテラス」にあります。このブレンドコーヒーを初めて口にした時、いつまでも続く優しい甘さと滑らかな舌触りに心を癒されました。「まるでハルニレテラスの緑に包まれているような…」 きっと皆さまにも今後長らく愛していただけるブレンドになっていると自信を持っています。毎年ハルニレテラスには様々な国籍の方、年代の方が訪れてくださいます。そんな全ての方に寄り添えるような優しい、落ち着いた味わいをお召し上りください。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2146",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0327125720_66039920f4141.jpg",
+      "image_local": "data/images/maruyama/2146.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0327125730_6603992a95b76.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0327125740_66039934db62a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0327125749_6603993d4165c.jpg"
+      ],
+      "taste_notes": "オレンジ、ナッツの風味。    ハルニレテラス店・通信販売限定"
+    },
+    {
+      "product_id": 2226,
+      "name": "夏のスペシャルブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2226",
+      "episode": "パッションフルーツ、イエローピーチ、ブラックティー、シロップのような口当たり 夏限定のスペシャルブレンド 6月1日～8月31日の期間限定販売 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2226",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528084334_6a1781a6df8db.jpg",
+      "image_local": "data/images/maruyama/2226.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528104259_6a179da308bb4.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528104259_6a179da349262.jpg"
+      ],
+      "taste_notes": "パッションフルーツ、イエローピーチ、ブラックティー、シロップのような口当たり    夏限定のスペシャルブレンド  6月1日～8月31日の期間限定販売"
+    },
+    {
+      "product_id": 2227,
+      "name": "ヴェルデ",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2227",
+      "episode": "ダークチョコレート、オレンジピール、すっきりとした苦み 夏限定の深煎りブレンド 6月1日～8月31日の期間限定販売 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2227",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528083557_6a177fddec31e.jpg",
+      "image_local": "data/images/maruyama/2227.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528104215_6a179d77835f8.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528104215_6a179d77a0aa5.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、オレンジピール、すっきりとした苦み    夏限定の深煎りブレンド  6月1日～8月31日の期間限定販売"
+    },
+    {
+      "product_id": 2228,
+      "name": "ウッドノート",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2228",
+      "episode": "アップル、アーモンド、爽やかな味わい 夏限定の中煎りブレンド 6月1日～8月31日の期間限定販売 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2228",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528083645_6a17800d57580.jpg",
+      "image_local": "data/images/maruyama/2228.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528104104_6a179d3054142.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528104101_6a179d2d3c2f5.jpg"
+      ],
+      "taste_notes": "アップル、アーモンド、爽やかな味わい    夏限定の中煎りブレンド  6月1日～8月31日の期間限定販売"
+    },
+    {
+      "product_id": 2249,
+      "name": "日本橋ブレンド【日本橋店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2249",
+      "episode": "ビターキャラメル、ヘーゼルナッツの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2249",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0612170324_6669564c7c6ca.jpg",
+      "image_local": "data/images/maruyama/2249.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0625165804_667a788c3a745.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0625165748_667a787c60655.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523175547_6830381327b7d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523175716_6830386c15917.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523180209_68303991d2fcc.jpg"
+      ],
+      "taste_notes": "ビターキャラメル、ヘーゼルナッツの風味。クリーミーな質感。    日本橋店・通信販売限定"
+    },
+    {
+      "product_id": 2287,
+      "name": "フルーティーブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2287",
+      "episode": "トロピカルフルーツのような風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2287",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0629123034_6a41e6da816fc.jpg",
+      "image_local": "data/images/maruyama/2287.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0716173251_669630331db2a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0716173307_66963043de615.jpg"
+      ],
+      "taste_notes": "トロピカルフルーツのような風味。甘い後口。"
+    },
+    {
+      "product_id": 2309,
+      "name": "立川ブレンド【立川店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2309",
+      "episode": "ダークチョコレート、ハーブの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2309",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0809100848_66b56c2028267.jpg",
+      "image_local": "data/images/maruyama/2309.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0808165110_66b478ee90ddf.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0808165257_66b47959d38cc.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528133028_683691640ef4b.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528133314_6836920aba878.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528133159_683691bfae8f8.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、ハーブの風味。すっきりとした後味。    立川店・通信販売限定"
+    },
+    {
+      "product_id": 2311,
+      "name": "自由が丘ブレンド【自由が丘店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2311",
+      "episode": "アーモンド、オランジェット、ベリーの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2311",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0903122912_66d68288206c8.jpg",
+      "image_local": "data/images/maruyama/2311.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0830122301_66d13b15ce002.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0830122256_66d13b1053ab6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0710162547_686f6afb01074.jpg"
+      ],
+      "taste_notes": "アーモンド、オランジェット、ベリーの風味。上品な味わい。    自由が丘店・通信販売限定"
+    },
+    {
+      "product_id": 2371,
+      "name": "【オンラインストア限定/大容量】軽井沢ブレンド 深煎り 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2371",
+      "episode": "ダークチョコレート、マカダミアナッツ オンラインストア限定オリジナルブレンド 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2371",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0513074728_6a03ae001736f.jpg",
+      "image_local": "data/images/maruyama/2371.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0930132938_66fa2932ce497.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0409164049_69d758016ea50.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0927150201_66f64a5922ff3.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、マカダミアナッツ    オンラインストア限定オリジナルブレンド    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【オンラインストア限定/大容量】軽井沢ブレンド 400G 2袋 （まとめ買い対象）  ・【オンラインストア限定/大容量】軽井沢ブレンド 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 2420,
+      "name": "北千住ブレンド【北千住マルイ店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2420",
+      "episode": "ダークチェリー、ビターキャラメルの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2420",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1128171039_6748257fe1a22.jpg",
+      "image_local": "data/images/maruyama/2420.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1108112212_672d75d48801d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523130639_682ff44f38e53.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523130642_682ff45203ee9.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523130636_682ff44c46da5.jpg"
+      ],
+      "taste_notes": "ダークチェリー、ビターキャラメルの風味。なめらかな口当たり。    北千住マルイ店・通信販売限定"
+    },
+    {
+      "product_id": 2500,
+      "name": "渋谷ブレンド【エキュートエディション渋谷店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2500",
+      "episode": "ミルクチョコレート、アーモンドプラリネの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2500",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0114171608_67861d485291d.jpg",
+      "image_local": "data/images/maruyama/2500.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0220112949_67b6939d54f23.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0220112948_67b6939cb6e0b.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0711105606_68706f36b75f1.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0711105821_68706fbdab2d6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0711110003_6870702364980.jpg"
+      ],
+      "taste_notes": "ミルクチョコレート、アーモンドプラリネの風味。    エキュートエディション渋谷店・通信販売限定"
+    },
+    {
+      "product_id": 2620,
+      "name": "モダンブレンド【軽井沢バイパス店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2620",
+      "episode": "ダークチョコレート、アプリコット 軽井沢バイパス店 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2620",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0902161400_68b69938c2e75.jpg",
+      "image_local": "data/images/maruyama/2620.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512163205_6821a3f505b77.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523124911_682ff0374710c.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523125041_682ff091d581b.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0523124351_682feef7b3616.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528131713_68368e49c3fe1.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、アプリコット    軽井沢バイパス店・通信販売限定"
+    },
+    {
+      "product_id": 2747,
+      "name": "カフェインレスコーヒー 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2747",
+      "episode": "こんな方におすすめです ◎カフェインが気になる方 ◎席を外しにくい長時間の会議やドライブの時に （映画や読書の時にもおすすめです） ◎おやすみ前のリラックスタイムに ◎妊娠期や授乳期の方に ◎母の日、出産祝いのギフトとして やさしい味わいとまろやかな口当たりの中に、ほんのりと果実のフレッシュさが感じられる中煎りのカフェインレスコーヒーです。シーンを選ばず何気ない日常を彩ってくれる、やさしい味わいのコーヒーです。ミルクキャラメル、オレンジ。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2747",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728170908_68873024873ae.jpg",
+      "image_local": "data/images/maruyama/2747.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0121174428_697091ec7fcc4.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0121174430_697091eed8ca6.jpg"
+      ],
+      "taste_notes": "ミルクキャラメル、オレンジ"
+    },
+    {
+      "product_id": 2982,
+      "name": "サンタ・テレサ2000 ゲイシャ 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2982",
+      "episode": "アップル、イエローピーチ、レモングラス、はちみつ、香水のような香り 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/2982",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0313192154_69b3e5427d37f.jpg",
+      "image_local": "data/images/maruyama/2982.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0313191855_69b3e48f35b87.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0313191856_69b3e49099203.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0313191853_69b3e48d487a9.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0313191853_69b3e48d72272.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0313191856_69b3e49058208.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0313191856_69b3e4907390c.jpg"
+      ],
+      "taste_notes": "アップル、イエローピーチ、レモングラス、はちみつ、香水のような香り"
+    },
+    {
+      "product_id": 3012,
+      "name": "カフェインレス 丸山珈琲のブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3012",
+      "episode": "チョコレートのような風味とコク、ほのかに感じる甘み 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3012",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0424175738_69eb308204f1f.jpg",
+      "image_local": "data/images/maruyama/3012.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0414153843_69dde0f344ed2.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0414154026_69dde15a54837.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0414154029_69dde15d06f60.jpg"
+      ],
+      "taste_notes": "チョコレートのような風味とコク、ほのかに感じる甘み"
+    },
+    {
+      "product_id": 3030,
+      "name": "【大容量】丸山珈琲のブレンド 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3030",
+      "episode": "ダークチョコレートのような風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3030",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512115651_6a0296f349532.jpg",
+      "image_local": "data/images/maruyama/3030.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0edb04.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0ee2ad.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0ee6bc.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0eeb3d.jpg"
+      ],
+      "taste_notes": "ダークチョコレートのような風味。味わい深いコク。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】丸山珈琲のブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】丸山珈琲のブレンド 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3031,
+      "name": "【大容量】さわやかブレンド 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3031",
+      "episode": "オレンジ、ハチミツの風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3031",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512192134_6a02ff2ec8e69.jpg",
+      "image_local": "data/images/maruyama/3031.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d099219.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d09994a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d099cca.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d09a0da.jpg"
+      ],
+      "taste_notes": "オレンジ、ハチミツの風味。爽やかな後味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】さわやかブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】さわやかブレンド 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3032,
+      "name": "【大容量】モカブレンド 茜すみれ 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3032",
+      "episode": "花の香りと柑橘類の爽やかな風味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3032",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512191415_6a02fd774570c.jpg",
+      "image_local": "data/images/maruyama/3032.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce18a1.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce215d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce2690.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce2c38.jpg"
+      ],
+      "taste_notes": "花の香りと柑橘類の爽やかな風味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】モカブレンド 茜すみれ 400G 2袋 （まとめ買い対象）  ・【大容量】モカブレンド 茜すみれ 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3033,
+      "name": "【大容量】アイス用ブレンド 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3033",
+      "episode": "暑い季節だけでなく、一年を通して人気の定番アイス用ブレンドです。①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元 ②400G2袋以上の商品：1個以上購入でポイント3％還元 すっきりとした爽やかさに加え、チョコレートのような風味やコクのあるブレンド。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3033",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512190545_6a02fb79dea5c.jpg",
+      "image_local": "data/images/maruyama/3033.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115523_6a02969be486a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115523_6a02969be50ec.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115523_6a02969be5464.jfif"
+      ],
+      "taste_notes": "▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アイス用ブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】アイス用ブレンド 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3034,
+      "name": "【大容量】アルトシエロ 中煎り 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3034",
+      "episode": "花の様な香り、軽やかな口当たり 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3034",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512145355_6a02c073317d0.jpg",
+      "image_local": "data/images/maruyama/3034.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115650_6a0296f24f626.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115650_6a0296f25057a.jpg"
+      ],
+      "taste_notes": "花の様な香り、軽やかな口当たり    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中煎り 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3035,
+      "name": "【大容量】アルトシエロ 中深煎り 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3035",
+      "episode": "ローストナッツの風味、バランスの良い味わい 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3035",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512185546_6a02f9227b8e0.jpg",
+      "image_local": "data/images/maruyama/3035.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115754_6a0297325053d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115754_6a02973251772.jpg"
+      ],
+      "taste_notes": "ローストナッツの風味、バランスの良い味わい    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中深煎り 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3036,
+      "name": "【大容量】アルトシエロ 深煎り 400g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3036",
+      "episode": "ダークチョコレートの深いコク、豊かな香り 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3036",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512142847_6a02ba8f0318a.jpg",
+      "image_local": "data/images/maruyama/3036.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115909_6a02977dddfc1.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0512115909_6a02977ddf323.jpg"
+      ],
+      "taste_notes": "ダークチョコレートの深いコク、豊かな香り    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ深煎り 400G 3袋 （まとめ買い対象）"
+    },
+    {
+      "product_id": 3062,
+      "name": "サマンバイア 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3062",
+      "episode": "オレンジ、チェリー、ヌガー、なめらかな口当たり 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3062",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528084412_6a1781cc63cea.jpg",
+      "image_local": "data/images/maruyama/3062.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528090348_6a1786648da80.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528085804_6a17850ce0836.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528085800_6a17850837285.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528090335_6a17865731722.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528090339_6a17865b3bfba.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528090403_6a17867316da9.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0528090343_6a17865fafc60.jpg"
+      ],
+      "taste_notes": "オレンジ、チェリー、ヌガー、なめらかな口当たり"
+    },
+    {
+      "product_id": 3067,
+      "name": "名古屋ブレンド【名古屋栄店・通信販売限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3067",
+      "episode": "ビターキャラメル、オレンジピール、なめらかな口当たり 名古屋栄店 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3067",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0608122033_6a263501e8cad.jpg",
+      "image_local": "data/images/maruyama/3067.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0608121113_6a2632d1b8ed5.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0608121112_6a2632d083597.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0610104902_6a28c28e57c7a.jpg"
+      ],
+      "taste_notes": "ビターキャラメル、オレンジピール、なめらかな口当たり    名古屋栄店・通信販売限定"
+    },
+    {
+      "product_id": 3073,
+      "name": "アグロタケシ ゲイシャ 40g",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3073",
+      "episode": "ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ、咲きこぼれる花々を思わせるエレガントな後味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3073",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0629103956_6a41ccec2d783.jpg",
+      "image_local": "data/images/maruyama/3073.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0722103601_6a601e81ada3e.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf94de76.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf97dc0d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf9a630a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf9d1853.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629104010_6a41ccfa0ba7f.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629122642_6a41e5f2b4f53.jpg"
+      ],
+      "taste_notes": "ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ、咲きこぼれる花々を思わせるエレガントな後味。"
+    },
+    {
+      "product_id": 3074,
+      "name": "アグロタケシ ゲイシャブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3074",
+      "episode": "イエローピーチ、ジャスミン、トロピカルフルーツ、洋梨 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3074",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0629103743_6a41cc670213d.jpg",
+      "image_local": "data/images/maruyama/3074.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0722103631_6a601e9fdc81c.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629103754_6a41cc729f813.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629103754_6a41cc72bec7a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629103755_6a41cc7313a7f.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629103755_6a41cc73373e6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629103755_6a41cc73643f0.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629120803_6a41e1932ff8e.jpg"
+      ],
+      "taste_notes": "イエローピーチ、ジャスミン、トロピカルフルーツ、洋梨"
+    },
+    {
+      "product_id": 3075,
+      "name": "アグロタケシ ブレンド",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3075",
+      "episode": "アプリコット、チェリー、メープルシロップ 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3075",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0626174445_6a3e3bfdb2b4c.jpg",
+      "image_local": "data/images/maruyama/3075.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0722103705_6a601ec15ccf0.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0626175855_6a3e3f4f19c93.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4e48ba5.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4eb3acf.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4e2acc4.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4e8ce61.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0629123007_6a41e6bf4c270.jpg"
+      ],
+      "taste_notes": "アプリコット、チェリー、メープルシロップ"
+    },
+    {
+      "product_id": 3087,
+      "name": "サマンバイア ゲイシャ 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3087",
+      "episode": "ジャスミン、アプリコット、オレンジ、ミント、なめらかな口当たり 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3087",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152403_6a548483d0cd3.jpg",
+      "image_local": "data/images/maruyama/3087.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153645_6a54877d173c8.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a54877574404.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a548775b68a9.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a548776003ff.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153638_6a54877625c7f.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877c79da5.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877c9bcde.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877cdb033.JPG"
+      ],
+      "taste_notes": "ジャスミン、アプリコット、オレンジ、ミント、なめらかな口当たり"
+    },
+    {
+      "product_id": 3088,
+      "name": "ハナン 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3088",
+      "episode": "膨らみのある口当たりのと、思わずもう一口飲みたくなる軽やかな飲み心地。オレンジやストーンフルーツのような果実味と、ナッツのような香ばしい甘さが調和したバランスの良い味わいです。＜ペルー ハナン＞ 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3088",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152436_6a5484a469399.jpg",
+      "image_local": "data/images/maruyama/3088.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713152807_6a54857789291.jfif",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713152807_6a548577c4700.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a5485780f510.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a5485782b81e.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a54857864e09.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a548578491e8.JPG"
+      ],
+      "taste_notes": "オレンジ、ブラックティー"
+    },
+    {
+      "product_id": 3089,
+      "name": "ドン・カルロス 深煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3089",
+      "episode": "ダークチョコレート、ドライフィグ 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3089",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152420_6a5484941d9fd.jpg",
+      "image_local": "data/images/maruyama/3089.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc1038d.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc2cee7.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bca05f6.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc4b66f.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc7330e.JPG"
+      ],
+      "taste_notes": "ダークチョコレート、ドライフィグ"
+    },
+    {
+      "product_id": 3095,
+      "name": "サンタ・イサベル 深煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3095",
+      "episode": "ダークチョコレートを思わせるほろ苦さに、レーズンのような奥深い甘さとコクが調和した、心地よい味わい。今日も飲みたい。明日も飲みたい。そんな親しみやすさと奥深さをあわせ持つ、深煎りコーヒーです。＜グアテマラ サンタ・イサベル農園＞ 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3095",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728115628_6a681a5c26dc2.jpg",
+      "image_local": "data/images/maruyama/3095.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173632_6a69bb90eda99.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173633_6a69bb912f9dd.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173633_6a69bb91883ab.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173633_6a69bb91d7b7c.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173639_6a69bb977e1fb.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173639_6a69bb97bc940.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173640_6a69bb983d4dc.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173640_6a69bb9876bea.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173734_6a69bbceb724b.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729173755_6a69bbe3d48b9.jpg"
+      ],
+      "taste_notes": "ダークチョコレート、レーズン"
+    },
+    {
+      "product_id": 3096,
+      "name": "セロ・アルト SL28 中煎り",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3096",
+      "episode": "ラズベリー、ピーチ、はちみつ、ジューシーな味わい 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3096",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728115601_6a681a41734b1.jpg",
+      "image_local": "data/images/maruyama/3096.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57d275fe.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57d5583a.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57d8016f.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57db96ce.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57de5084.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171038_6a69b57e108da.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171038_6a69b57e39f1d.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0729171038_6a69b57e59128.jpg"
+      ],
+      "taste_notes": "ラズベリー、ピーチ、はちみつ、ジューシーな味わい"
+    },
+    {
+      "product_id": 3110,
+      "name": "アグロタケシ ゲイシャ 80g【オンラインストア限定】",
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3110",
+      "episode": "ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ、咲きこぼれる花々を思わせるエレガントな後味。 丸山コーヒーは「美味しさで癒しと幸せを創る」を掲げ、世界で見つけた良質な豆を独自の焙煎技術で最高の一杯に仕上げています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3110",
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728125342_6a6827c6e95de.jpg",
+      "image_local": "data/images/maruyama/3110.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0728125328_6a6827b8f0526.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0728125230_6a68277e0adc9.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0728125230_6a68277e27bf9.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0728125230_6a68277eba8fb.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0728125232_6a682780a8036.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0728125232_6a682780e6e91.jpg"
+      ],
+      "taste_notes": "ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ、咲きこぼれる花々を思わせるエレガントな後味。    ↓40Gの販売はこちらのページをご覧ください。↓  アグロタケシ ゲイシャ 40G"
+    }
+  ]
+}

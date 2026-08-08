@@ -1,0 +1,154 @@
+{
+  "chain_id": "doutor",
+  "count": 12,
+  "beans": [
+    {
+      "product_id": 19,
+      "name": "マイルドブレンド コーヒー　（豆）500g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/19",
+      "episode": "ハイロースト（中深煎）で、バランスの味わい。ドトールコーヒーショップの定番ブレンド。「香り高く、甘みのあるコーヒー」を追求し、バランスのとれた味わいに仕上げた逸品です。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/19",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301112758_65e13d2e3769f.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0312184510_604b3826d4e07.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0312185156_604b39bc50d67.jpg"
+      ]
+    },
+    {
+      "product_id": 20,
+      "name": "ロイヤルクリスタルブレンド コーヒー　（豆）500g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/20",
+      "episode": "ハイロースト（中深煎）で、すっきりの味わい。黒糖のようなまろやかな甘さとカラメルのような香ばしいコク、上品な甘さがお楽しみいただけます。国内自社工場で焙煎したてのコーヒー豆を、ご注文いただいてから製造してお届けします。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/20",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301114332_65e140d49e3a2.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092200_604ea8a870dc6.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092203_604ea8ab586c3.jpg"
+      ]
+    },
+    {
+      "product_id": 21,
+      "name": "ゴールデンモカブレンド コーヒー　（豆）500g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/21",
+      "episode": "ミディアムロースト（中煎）で、まろやかの味わい。モカの豊かな風味を活かした、奥行きのある味わい。熟したベリーのような凝縮された甘酸っぱさとローストナッツのような香ばしさが特長です。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/21",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301113035_65e13dcb0db3e.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315091112_604ea620259a3.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315091115_604ea623c2f74.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315091119_604ea62726632.jpg"
+      ]
+    },
+    {
+      "product_id": 22,
+      "name": "ハワイコナブレンド コーヒー（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/22",
+      "episode": "フレンチロースト（極深煎）で、コクの味わい。アイスコーヒーにもおすすめです。香ばしいカラメルのようなコクと、ビターチョコレートのような深みのある甘さ、スッキリとした口あたりが絶妙に絡み合います。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/22",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090023_6334e0172b0fc.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0528204142_60b0d6f66332c.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0528204029_60b0d6ad82091.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0528204208_60b0d710d7d5f.jpg"
+      ]
+    },
+    {
+      "product_id": 26,
+      "name": "カフェヨーロピアン コーヒー（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/26",
+      "episode": "シティロースト（深煎）で、バランス コクの味わい。アイスコーヒーにもおすすめです。チョコクッキーのようななめらかで香ばしい香りと、ココアのようなコクが感じられます。苦味のきいたヨーロッパタイプの味わいです。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/26",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090001_6334e001624ba.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0902213015_6311f75749bd1.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0902213018_6311f75a3a40b.jpg"
+      ]
+    },
+    {
+      "product_id": 27,
+      "name": "ブルーマウンテンブレンド コーヒー （豆）200ｇ",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/27",
+      "episode": "ミディアムロースト（中煎）で、すっきり バランスの味わい。ブルーマウンテンをメインにブレンドした上品で調和のとれたコーヒー。焼き栗のような香ばしさと、ホワイトチョコのようなすっきりとした甘さが特長です。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/27",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090109_6334e0457331b.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0528204339_60b0d76bc3eb2.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0528204342_60b0d76e1735a.jpg"
+      ]
+    },
+    {
+      "product_id": 29,
+      "name": "キリマンジャロ　（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/29",
+      "episode": "ミディアムロースト（中煎）で、すっきり キレの味わい。レモングラスのようなすっきりとした香りに、シトラスを感じる爽やかな酸味、キレのあるのどごしを楽しんでいただけます。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/29",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090247_6334e0a75e4b1.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092308_604ea8ec231e0.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092311_604ea8ef8d56f.jpg"
+      ]
+    },
+    {
+      "product_id": 30,
+      "name": "モカ　（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/30",
+      "episode": "ミディアムロースト（中煎）で、まろやかの味わい。ストロベリーやクランベリーのような風味とスパイスを感じる香り、フルーティー感のあるまろやかな味わいです。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/30",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090325_6334e0cd8f89c.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092524_604ea97492cfa.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092536_604ea9807b6b1.jpg"
+      ]
+    },
+    {
+      "product_id": 32,
+      "name": "マンデリン　（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/32",
+      "episode": "ミディアムロースト（中煎）で、まろやか コクの味わい。野性味あふれる豊かな味わい、ドライフルーツのような凝縮した甘味と、レーズンのような優しい酸味のある個性的な風味が特長です。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/32",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090211_6334e08362ff2.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092440_604ea94875833.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092442_604ea94aacc94.jpg"
+      ]
+    },
+    {
+      "product_id": 236,
+      "name": "カフェインレス（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/236",
+      "episode": "シティロースト（深煎）で、まろやかの味わい。カフェインが気になる方でもおいしくお飲みいただける、やさしい味わいのカフェインレスコーヒーです。カフェインを94％カットしたコロンビア産コーヒーを100％使用しています。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/236",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0725082432_6882c0b0ae65b.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0520211454_682c723e5a765.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0520211458_682c724215026.jpg"
+      ]
+    },
+    {
+      "product_id": 243,
+      "name": "ケニア　（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/243",
+      "episode": "シティロースト（深煎）で、バランス・すっきりの味わい。アイスコーヒーにもおすすめです。深煎りならではのコクがありながら、オレンジのような爽やかさを感じられる、すっきりした後口が特長のコーヒーです。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/243",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0722110403_687ef193e9699.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0725082728_6882c1600ab72.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0723102518_688039fe5a138.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0723102521_68803a015c172.jpg"
+      ]
+    },
+    {
+      "product_id": 244,
+      "name": "グアテマラ　（豆）200g",
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/244",
+      "episode": "シティロースト（深煎）で、バランス・コクの味わい。アイスコーヒーにもおすすめです。イチジクやリンゴのドライフルーツを思わせる風味と、ダークチョコレートのような甘い香り。ソフトでバランスの取れた味わいをお楽しみいただけます。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/244",
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0722110446_687ef1bedceec.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0725082817_6882c191e7f3b.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0723102536_68803a1079f3c.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0723102539_68803a133f649.jpg"
+      ]
+    }
+  ]
+}

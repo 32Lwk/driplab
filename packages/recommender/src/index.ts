@@ -1,8 +1,22 @@
 export { recommend } from "./recommend";
-export { moodToIdeal, roastFromMood } from "./mood";
+export {
+  resolveBeanImageUrl,
+  resolveBeanImageUrls,
+  localBeanImageUrl,
+  beanImageCandidates,
+  type ResolvedBeanImage,
+} from "./beanImage";
+export { moodToIdeal, roastFromMood, idealRoastIndex } from "./mood";
 export { scoreBean } from "./score";
-export { buildRecipe, pickPrimaryEquipment } from "./recipe";
+export { buildRecipe } from "./recipe";
+export {
+  scoreEquipment,
+  pickBestEquipment,
+  equipmentReasonPhrase,
+} from "./equipment";
 export { normalizeBean, normalizeCatalog } from "./normalize";
+export { formatProductName, isBundleProduct, isBulkVariant } from "./displayName";
+export { cleanStoryText, resolveStoryFields, storyTextsEqual } from "./storyText";
 export {
   CHAIN_LABELS,
   EQUIPMENT_OPTIONS,
@@ -13,6 +27,7 @@ export type {
   BeanProduct,
   BeansCatalog,
   BrewRecipe,
+  CaffeineLevel,
   ChainId,
   EquipmentId,
   MoodProfile,

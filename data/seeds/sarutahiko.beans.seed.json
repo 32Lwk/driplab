@@ -1,0 +1,102 @@
+{
+  "version": "0.1.0",
+  "chain_id": "sarutahiko",
+  "scraped_at": "2026-08-08T19:50:09+09:00",
+  "source": "https://sarutahiko.jp/collections/coffeebeans-groundcoffee",
+  "beans": [
+    {
+      "id": "sarutahiko-8-11より順次発送-浅煎り-ホンジュラス-la-orquidea-pacas-",
+      "chain_id": "sarutahiko",
+      "name": "<8/11より順次発送>【浅煎り】ホンジュラス／La Orquidea Pacas Anaerobic Washed",
+      "description": "COEに複数回入賞するラ・サルサで有名なベンハミン氏が手掛ける、ラ・オルキデアのパカス品種アナエロビックウォッシュトプロセスのロットです。 サンタ・バルバラは雲霧林の冷涼なテロワールが特徴で、ホンジュラスの中でも特に高品質なコーヒーに定評があります。 パカス種の持つシトラス系の明るさにプロセスの影響でダークチェリーや糖蜜の風味が加わり、程よい口当たりの印象と爽やかな後味が魅力のコーヒーです。 フルーティーな甘みのあるコーヒーが好きな方に",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ホンジュラス"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "シトラス",
+        "フルーティ",
+        "キレ"
+      ],
+      "acidity": 78,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1380,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-hon20260807-mame",
+      "product_id": "m-hon20260807-mame",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260804_T___ec.jpg?v=1786092144",
+      "image_local": "data/images/sarutahiko/m-hon20260807-mame.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-8-12より順次発送-浅煎り-コロンビア-pe-as-blancas-geish",
+      "chain_id": "sarutahiko",
+      "name": "<8/12より順次発送>【浅煎り】コロンビア／Peñas Blancas Geisha Washed",
+      "description": "ペニャス・ブランカスはラス・フローレス農園のヨハン氏が立ち上げた、小規模生産者の多いアセベド地域のコーヒー生産処理場です。 特殊プロセスのマイクロロットに特化することで、アセベド地域のコーヒーの品質向上と発展に寄与しています。 今回ご紹介するのはゲイシャ品種のロットで、”フローラルシンフォニー”と名付けられた、好気性発酵と嫌気性発酵を組み合わせたウォッシュトプロセスで生産処理されています。 ラベンダーやミントを思わせる特殊プロセスによる",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "シトラス",
+      "origin": [
+        "エチオピア",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "シトラス",
+        "フルーティ",
+        "フローラル",
+        "香ばしさ"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2980,
+      "weight_g": 50,
+      "buy_url": "https://sarutahiko.jp/products/m-col20260711",
+      "product_id": "m-col20260711",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_S___EC.jpg?v=1784261767",
+      "image_local": "data/images/sarutahiko/m-col20260711.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-オンラインショップ限定-巣ごもりブレンド-500g",
+      "chain_id": "sarutahiko",
+      "name": "【オンラインショップ限定】巣ごもりブレンド(500g)",
+      "description": "日常の中で、何度でも自然に手に取りたくなる。毎日のコーヒーとして飲み続けやすいバランスを大切にした深煎りブレンドです。 味わい チョコレートのコクと、ドライフルーツの凝縮された甘みが重なります。 冷めると、チョコレートとドライフルーツの一体感が増し、満足感がありながらも軽やかな後味が印象的です。 ストーリー 『毎日触れる美味しさ』をテーマにしたブレンドです。 一日に何回も飲みたくなるバランス。 毎日飲んでも疲れないバランス。",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "チョコ",
+        "フルーティ",
+        "コク"
+      ],
+      "acidity": 40,
+      "body": 83,
+      "bitterness": 80,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 3000,
+      "weight_g": 500,
+      "buy_url": "https://sarutahiko.jp/products/m-su500",
+      "product_id": "m-su500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/newlogo.jpg?v=1736947510",
+      "image_local": "data/images/sarutahiko/m-su500.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}

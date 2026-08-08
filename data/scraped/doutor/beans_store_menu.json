@@ -1,0 +1,73 @@
+{
+  "chain_id": "doutor",
+  "scraped_at": "2026-08-08T21:10:00+09:00",
+  "source": "https://www.doutor.co.jp/dcs/products/",
+  "source_note": "Store-retail beans not listed on onlineshop.doutor.co.jp (verified 2026-08-08)",
+  "count": 2,
+  "beans": [
+    {
+      "product_id": "store-2107",
+      "name": "イタリアンエスプレッソ（豆）200g",
+      "description": "深みのあるビターチョコレートのようなコクとアーモンドのような香り高い香ばしさ。ミルクの甘味を引き立たせ、エスプレッソマシンやモカ pot 向け。",
+      "price_jpy": 1210,
+      "weight_g": 200,
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り（エスプレッソ向け）",
+      "taste_label_ja": "コク・香ばしさ",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "チョコ",
+        "香ばしさ",
+        "コク",
+        "エスプレッソ"
+      ],
+      "acidity": 35,
+      "body": 75,
+      "bitterness": 72,
+      "sweetness": 42,
+      "caffeine": "high",
+      "buy_url": "https://www.doutor.co.jp/dcs/products/detail/2107.html",
+      "menu_url": "https://www.doutor.co.jp/dcs/products/detail/2107.html",
+      "purchase_channel": "store",
+      "source": "store_menu",
+      "available": true,
+      "image_url": "https://www.doutor.co.jp/product/file/2107.jpg",
+      "image_local": "data/images/doutor/store-2107.jpg"
+    },
+    {
+      "product_id": "store-209705",
+      "name": "アイスコーヒー（豆）200g",
+      "description": "香ばしさと透明感のあるキレが特長。ヘーゼルナッツのような香りと、チョコレートのようなコク。店内アイスコーヒーと同じブレンドを自宅でも。",
+      "price_jpy": 1240,
+      "weight_g": 200,
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り（アイス向け）",
+      "taste_label_ja": "キレ・コク",
+      "origin": [
+        "ブラジル",
+        "グアテマラ",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "アイス向き",
+        "香ばしさ",
+        "コク",
+        "キレ"
+      ],
+      "acidity": 42,
+      "body": 62,
+      "bitterness": 58,
+      "sweetness": 48,
+      "caffeine": "medium",
+      "buy_url": "https://www.doutor.co.jp/dcs/products/detail/209705.html",
+      "menu_url": "https://www.doutor.co.jp/dcs/products/detail/209705.html",
+      "purchase_channel": "store",
+      "source": "store_menu",
+      "available": true,
+      "image_url": "https://www.doutor.co.jp/product/file/209705.jpg",
+      "image_local": "data/images/doutor/store-209705.jpg"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import { CHAIN_LABELS } from "./constants";
+import { equipmentReasonPhrase } from "./equipment";
 import type { BeanProduct, BrewRecipe, MoodProfile } from "./types";
 
 function alertnessPhrase(alertness: number): string {
@@ -18,10 +19,12 @@ export function buildReason(
   bean: BeanProduct,
   mood: MoodProfile,
   recipe: BrewRecipe,
+  equipmentScore: number,
 ): string {
   const chain = CHAIN_LABELS[bean.chain_id] ?? bean.chain_id;
   const alert = alertnessPhrase(mood.alertness);
   const taste = tastePhrase(mood);
+  const equipWhy = equipmentReasonPhrase(mood, recipe.method);
 
-  return `${alert}で、${taste}のバランスから${chain}の「${bean.name}」を選びました。${recipe.method_ja}なら${bean.taste_label_ja ?? "個性"}が引き立ちます。`;
+  return `${alert}で、${taste}のバランスから${chain}の「${bean.display_name}」を選びました。${equipWhy}（器具マッチ ${Math.round(equipmentScore * 100)}%）で、${bean.taste_label_ja ?? "個性"}が引き立ちます。`;
 }

@@ -1,0 +1,99 @@
+{
+  "chain_id": "hoshino",
+  "generated_at": "2026-08-08T22:10:49.280245+09:00",
+  "count": 6,
+  "ok": 6,
+  "failed": 0,
+  "beans": [
+    {
+      "product_id": "34500100",
+      "name": "星乃珈琲・珈琲豆【星乃ブレンド】（500g）",
+      "buy_url": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34500100",
+      "episode": "星乃珈琲が店舗で提供しているメインとなるコーヒー豆です。賞味期限は未開封で焙煎より10ヶ月です。商品は窒素充填されており、袋にはガス抜き弁が付いてますので、開封するまでは出来る限りの酸化防止をしております コーヒースペシャリストの菅野眞博が世界中から選び抜いた豆を使用。焙煎からブレンドまで長年培った技術をもとに直火焙煎にこだわりました。挽きたての豆をハンドドリップで丁寧に淹れた、プレミアムコーヒーです。",
+      "episode_source": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34500100",
+      "image_url": "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/34500100.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=ODAw&t=20210323152730",
+        "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-02.jpg?size=l&w=ODAw&t=20231225173329",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_creditcard.svg?t=20260807131121"
+      ]
+    },
+    {
+      "product_id": "34501100",
+      "name": "星乃珈琲・珈琲豆【アイスブレンド】（400g）",
+      "buy_url": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34501100",
+      "episode": "星乃珈琲が店舗で提供しているコーヒー豆です。アイスコーヒー用に深炒りで仕上げています。ホットコーヒー同様にドリップして氷を入れて急冷するだけで美味しいアイスコーヒーができます コーヒースペシャリストの菅野眞博が世界中から選び抜いた豆を使用。焙煎からブレンドまで長年培った技術をもとに直火焙煎にこだわりました。挽きたての豆をハンドドリップで丁寧に淹れた、プレミアムコーヒーです。",
+      "episode_source": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34501100",
+      "image_url": "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/34501100.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-01.jpg?size=l&w=ODAw&t=20260203133845",
+        "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-02.jpg?size=l&w=ODAw&t=20260203133845",
+        "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-03.jpg?size=l&w=ODAw&t=20260203133846",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121"
+      ]
+    },
+    {
+      "product_id": "hoshino-blend-store-100g",
+      "name": "星乃ブレンド（豆）100g",
+      "buy_url": "https://hoshinocoffee.com/shop.html",
+      "episode": "星乃珈琲店のメインブレンド。シティローストで深みのある香りと、コクがあり酸味と甘味のバランスがとれた味わい。店舗レジにて100g単位で購入可能（オンライン豆販売は500gのみ）。 星乃珈琲店は1963年創業の老舗喫茶店ブランド。シティローストを基調に、香りとコクのバランスを大切にした一杯を提供しています。",
+      "episode_source": "https://hoshinocoffee.com/shop.html",
+      "image_url": "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/hoshino-blend-store-100g.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/206/000000020697/000000020697-01.jpg?size=l&w=ODAw&t=20231123085402",
+        "https://anshindo.itembox.cloud/product/206/000000020697/000000020697-02.jpg?size=l&w=ODAw&t=20231123085403",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_creditcard.svg?t=20260807131121"
+      ]
+    },
+    {
+      "product_id": "hikoboshi-store",
+      "name": "彦星ブレンド（豆）100g",
+      "buy_url": "https://hoshinocoffee.com/shop.html",
+      "episode": "程よい苦味を味わいたい方への重厚なブレンド。香ばしさとコクが特徴で、酸味は控えめ。店舗レジにて100g単位で購入可能（オンライン豆販売なし）。 星乃珈琲店は1963年創業の老舗喫茶店ブランド。シティローストを基調に、香りとコクのバランスを大切にした一杯を提供しています。",
+      "episode_source": "https://hoshinocoffee.com/shop.html",
+      "image_url": "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/hikoboshi-store.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-01.jpg?size=l&w=ODAw&t=20231123085506",
+        "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-02.jpg?size=l&w=ODAw&t=20231123085443",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_creditcard.svg?t=20260807131121"
+      ]
+    },
+    {
+      "product_id": "orihime-store-100g",
+      "name": "織姫ブレンド（豆）100g",
+      "buy_url": "https://hoshinocoffee.com/shop.html",
+      "episode": "アメリカンタイプの軽やかな口当たりで、飲みやすいブレンド。やや華やかで酸味のある味わい。店舗レジにて100g単位で購入可能（オンライン豆販売なし）。 星乃珈琲店は1963年創業の老舗喫茶店ブランド。シティローストを基調に、香りとコクのバランスを大切にした一杯を提供しています。",
+      "episode_source": "https://hoshinocoffee.com/shop.html",
+      "image_url": "https://anshindo.itembox.cloud/product/206/000000020696/000000020696-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/orihime-store-100g.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/206/000000020696/000000020696-01.jpg?size=l&w=ODAw&t=20231123085531",
+        "https://anshindo.itembox.cloud/product/206/000000020696/000000020696-02.jpg?size=l&w=ODAw&t=20231123085422",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_creditcard.svg?t=20260807131121"
+      ]
+    },
+    {
+      "product_id": "decaf-store-100g",
+      "name": "カフェインレス珈琲（豆）100g",
+      "buy_url": "https://hoshinocoffee.com/shop.html",
+      "episode": "カフェインを控えたい方向けの店舗販売豆。やわらかな口当たりで、店舗により取り扱い・在庫が異なります。店舗レジにて100g単位で購入可能（オンライン豆販売なし）。 星乃珈琲店は1963年創業の老舗喫茶店ブランド。シティローストを基調に、香りとコクのバランスを大切にした一杯を提供しています。",
+      "episode_source": "https://hoshinocoffee.com/shop.html",
+      "image_url": "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/decaf-store-100g.jpg",
+      "extra_images": []
+    }
+  ]
+}

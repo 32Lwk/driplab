@@ -15,7 +15,12 @@
     "og_description": "人気No.1　ダークチョコレートのような風味。味わい深いコク。  創業当時から長年愛され続ける定番のブレンドコーヒーです。    苦味：●●●●  酸味：●●  コク：●●●  香り：●●●  ダークチョコレートのような風味。味わい深いコク。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】丸山珈琲のブレンド 400G",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0820143311_5f3e0b177adf7.jpg",
     "image_local": "data/images/maruyama/24.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/24.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/24.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0926171525_5d8c739d80fd6.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0926171516_5d8c7394e9300.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0926171521_5d8c73992107d.jpg"
+    ]
   },
   {
     "product_id": 26,
@@ -26,14 +31,22 @@
     "roast": null,
     "description": "モカコーヒーがお好きな方におすすめの人気の定番ブレンド。  丸山珈琲創業の地である軽井沢では、長く寒さの厳しい冬が終わり、最初に花をつけるのがすみれの花です。  毎年すみれの花の開花とともに、春の訪れを感じます。  コーヒーはアカネ科の植物ということで、すみれの中でも「茜すみれ」と名付けました。    苦味：●●  酸味：●●●  コク：●●  香り：●●●  花の香りと柑橘類の爽やかな風味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】モカブレンド 茜すみれ 400G",
     "flavor_notes": "花の香りと柑橘類の爽やかな風味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】モカブレンド 茜すみれ 400G",
-    "origin": "モカ",
+    "origin": [
+      "エルサルバドル",
+      "エチオピア"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/26",
     "has_bean_option": true,
     "available": true,
     "og_description": "モカコーヒーがお好きな方におすすめの人気の定番ブレンド。  丸山珈琲創業の地である軽井沢では、長く寒さの厳しい冬が終わり、最初に花をつけるのがすみれの花です。  毎年すみれの花の開花とともに、春の訪れを感じます。  コーヒーはアカネ科の植物ということで、すみれの中でも「茜すみれ」と名付けました。    苦味：●●  酸味：●●●  コク：●●  香り：●●●  花の香りと柑橘類の爽やかな風味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】モカブレンド 茜すみれ 400G",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927145058_5d8da342201d6.jpg",
     "image_local": "data/images/maruyama/26.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/26.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/26.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1007153445_6703810571b81.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1129152330_692a91621c6d5.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1129152332_692a91644b1e1.jpg"
+    ]
   },
   {
     "product_id": 52,
@@ -51,7 +64,11 @@
     "og_description": "すっきりとした爽やかさに加え、チョコレートのような風味やコクのあるブレンド。  暑い季節だけでなく、一年を通して人気の定番アイス用ブレンドです。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】アイス用ブレンド 400G",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0921163730_5d85d33ab650b.jpg",
     "image_local": "data/images/maruyama/52.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/52.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/52.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0921163735_5d85d33f73d89.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0226094925_699f9895e1ff2.jfif"
+    ]
   },
   {
     "product_id": 79,
@@ -62,14 +79,22 @@
     "roast": "深煎り",
     "description": "都会の中で緑が多くゆったりとした時間の流れる尾山台をイメージしたブレンド。  尾山台の穏やかな時間の流れを思わせる、奥行きある深煎りブレンドです。  飲み終えた後も、やわらかな余韻が静かに続きます。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、ダークチェリーの風味。　    尾山台店・通信販売限定",
     "flavor_notes": "ダークチョコレート、ダークチェリーの風味。　    尾山台店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/79",
     "has_bean_option": true,
     "available": true,
     "og_description": "都会の中で緑が多くゆったりとした時間の流れる尾山台をイメージしたブレンド。  尾山台の穏やかな時間の流れを思わせる、奥行きある深煎りブレンドです。  飲み終えた後も、やわらかな余韻が静かに続きます。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、ダークチェリーの風味。　    尾山台店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0922174213_5d8733e563b47.jpg",
     "image_local": "data/images/maruyama/79.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/79.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/79.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0922174219_5d8733eb650b6.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0922174224_5d8733f084410.jpg"
+    ]
   },
   {
     "product_id": 80,
@@ -80,14 +105,23 @@
     "roast": "深煎り",
     "description": "昼の穏やかさと夜の上品な華やかさのふたつの顔を持つ、魅惑的な大人の街をイメージした深煎りブレンド。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、ビターキャラメルの風味。奥行きのある味わい。　    西麻布店・通信販売限定",
     "flavor_notes": "ダークチョコレート、ビターキャラメルの風味。奥行きのある味わい。　    西麻布店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/80",
     "has_bean_option": true,
     "available": true,
     "og_description": "昼の穏やかさと夜の上品な華やかさのふたつの顔を持つ、魅惑的な大人の街をイメージした深煎りブレンド。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、ビターキャラメルの風味。奥行きのある味わい。　    西麻布店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0926170443_5d8c711b6efc1.jpg",
     "image_local": "data/images/maruyama/80.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/80.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/80.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523173354_683032f22def6.jpeg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523173807_683033efecf1d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523174037_68303485cc7c5.jpg"
+    ]
   },
   {
     "product_id": 84,
@@ -98,14 +132,22 @@
     "roast": "中深煎り",
     "description": "リゾナーレ八ヶ岳店のある山梨県小淵沢をイメージした爽やかで甘みのあるブレンド。  オープン当初から愛され続ける中深煎りブレンドです。    苦味：●●  酸味：●●●●  コク：●●  香り：●●●  オレンジ、チョコレート、ほのかにフローラルな風味。爽やかな味わいと深みのある余韻。    リゾナーレ八ヶ岳店・通信販売限定",
     "flavor_notes": "オレンジ、チョコレート、ほのかにフローラルな風味。爽やかな味わいと深みのある余韻。    リゾナーレ八ヶ岳店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ケニア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/84",
     "has_bean_option": true,
     "available": true,
     "og_description": "リゾナーレ八ヶ岳店のある山梨県小淵沢をイメージした爽やかで甘みのあるブレンド。  オープン当初から愛され続ける中深煎りブレンドです。    苦味：●●  酸味：●●●●  コク：●●  香り：●●●  オレンジ、チョコレート、ほのかにフローラルな風味。爽やかな味わいと深みのある余韻。    リゾナーレ八ヶ岳店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0920204317_5d84bb557e0c6.jpg",
     "image_local": "data/images/maruyama/84.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/84.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/84.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0920203509_5d84b96db9a7e.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0920203502_5d84b9665e5b6.jpg"
+    ]
   },
   {
     "product_id": 85,
@@ -116,14 +158,22 @@
     "roast": "中深煎り",
     "description": "リゾナーレのある八ヶ岳の重厚な山々と澄みきった夜空の星をイメージした、重量感の中にきらめきのあるブレンド。  中深煎りのリゾナーレオリジナルマイルドブレンドとともに、ファンが多いブレンドです。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●  ダークチョコレート、オレンジピールの風味。　    リゾナーレ八ヶ岳店・通信販売限定",
     "flavor_notes": "ダークチョコレート、オレンジピールの風味。　    リゾナーレ八ヶ岳店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "エチオピア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/85",
     "has_bean_option": true,
     "available": true,
     "og_description": "リゾナーレのある八ヶ岳の重厚な山々と澄みきった夜空の星をイメージした、重量感の中にきらめきのあるブレンド。  中深煎りのリゾナーレオリジナルマイルドブレンドとともに、ファンが多いブレンドです。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●  ダークチョコレート、オレンジピールの風味。　    リゾナーレ八ヶ岳店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0415094112_60778ba84ac93.jpg",
     "image_local": "data/images/maruyama/85.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/85.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/85.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0929141248_5d903d5042463.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0226103917_699fa445e8831.jfif"
+    ]
   },
   {
     "product_id": 86,
@@ -134,14 +184,24 @@
     "roast": null,
     "description": "焙煎工場併設の店舗である小諸店オリジナルブレンド。  静かで趣のある小諸の街並みと、雄大な景色を思わせる、包み込むようにやさしい味わいが特徴です。  酸味と苦味がなめらかに重なり合い、絶妙なグラデーションを描く逸品。  コーヒー初心者の方にも、経験豊かな方にも親しまれる、間口の広さと懐の深さを兼ね備えたブレンドです。    苦味：●●  酸味：●●●  コク：●●●  香り：●●  ミルクチョコ、オレンジ、キャラメルの風味。爽やかさと心地良い舌触り。    小諸店・通信販売限定",
     "flavor_notes": "ミルクチョコ、オレンジ、キャラメルの風味。爽やかさと心地良い舌触り。    小諸店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/86",
     "has_bean_option": true,
     "available": true,
     "og_description": "焙煎工場併設の店舗である小諸店オリジナルブレンド。  静かで趣のある小諸の街並みと、雄大な景色を思わせる、包み込むようにやさしい味わいが特徴です。  酸味と苦味がなめらかに重なり合い、絶妙なグラデーションを描く逸品。  コーヒー初心者の方にも、経験豊かな方にも親しまれる、間口の広さと懐の深さを兼ね備えたブレンドです。    苦味：●●  酸味：●●●  コク：●●●  香り：●●  ミルクチョコ、オレンジ、キャラメルの風味。爽やかさと心地良い舌触り。    小諸店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927140955_5d8d99a39b52f.jpg",
     "image_local": "data/images/maruyama/86.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/86.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/86.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0922172723_5d87306b4409e.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729175236_68888bd460af5.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729180042_68888dba07b1d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729174914_68888b0ab89c0.jpg"
+    ]
   },
   {
     "product_id": 97,
@@ -152,14 +212,24 @@
     "roast": "深煎り",
     "description": "創業当時の「丸山珈琲のブレンド」の味わいを再現。  深煎りならではのしっかりとしたボディと、長く続く余韻が特徴です。    苦味：●●●●●  酸味：●●  コク：●●●●●  香り：●●●●  ビターチョコ、キャラメルの風味。スパイシーな後味と重厚感。    軽井沢本店・通信販売限定",
     "flavor_notes": "ビターチョコ、キャラメルの風味。スパイシーな後味と重厚感。    軽井沢本店・通信販売限定",
-    "origin": "軽井沢",
+    "origin": [
+      "エルサルバドル",
+      "ケニア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/97",
     "has_bean_option": true,
     "available": true,
     "og_description": "創業当時の「丸山珈琲のブレンド」の味わいを再現。  深煎りならではのしっかりとしたボディと、長く続く余韻が特徴です。    苦味：●●●●●  酸味：●●  コク：●●●●●  香り：●●●●  ビターチョコ、キャラメルの風味。スパイシーな後味と重厚感。    軽井沢本店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1027154520_5db53d006f673.jpg",
     "image_local": "data/images/maruyama/97.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/97.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/97.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0929140602_5d903bba9654d.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0929140606_5d903bbea5861.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1007125003_67035a6b53dc6.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1007125003_67035a6baa801.jpg"
+    ]
   },
   {
     "product_id": 201,
@@ -170,7 +240,11 @@
     "roast": "中深煎り",
     "description": "チョコレートやナッツを彷彿とさせる風味。  滑らかな質感と後味に甘さが続く中深煎りのエスプレッソブレンド。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●  チョコレートやナッツを彷彿とさせる風味",
     "flavor_notes": "チョコレートやナッツを彷彿とさせる風味",
-    "origin": "ブレンド",
+    "origin": [
+      "ブラジル",
+      "ホンジュラス",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/201",
     "has_bean_option": true,
     "available": true,
@@ -188,14 +262,21 @@
     "roast": null,
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    自ら生産地を訪れ、厳選した高品質コーヒーを直接買い付ける丸山健太郎。  そんな“マルケン”が、「毎日のコーヒーをもっと気軽に楽しんでほしい」という思いを込めてご用意したのが、「マルケンの恩返し 特選ブレンド」です。  日々の一杯に寄り添う、たっぷり400Gでご用意しました。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、アーモンドの風味。クリーミーな質感。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "ダークチョコレート、アーモンドの風味。クリーミーな質感。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 400G 3袋 （まとめ買い対象）",
-    "origin": "ブレンド",
+    "origin": [
+      "ブラジル",
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1049",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    自ら生産地を訪れ、厳選した高品質コーヒーを直接買い付ける丸山健太郎。  そんな“マルケン”が、「毎日のコーヒーをもっと気軽に楽しんでほしい」という思いを込めてご用意したのが、「マルケンの恩返し 特選ブレンド」です。  日々の一杯に寄り添う、たっぷり400Gでご用意しました。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、アーモンドの風味。クリーミーな質感。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0513073859_6a03ac032607e.jpg",
     "image_local": "data/images/maruyama/1049.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1049.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1049.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0514114210_6642cf820dc12.jpg"
+    ]
   },
   {
     "product_id": 1131,
@@ -206,14 +287,23 @@
     "roast": "浅煎り",
     "description": "透明感とさわやかな酸味がある浅煎りブレンド。    苦味：●  酸味：●●●●  コク：●●●  香り：●●●  オレンジ、ハチミツの風味。爽やかな後味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】さわやかブレンド 400G",
     "flavor_notes": "オレンジ、ハチミツの風味。爽やかな後味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】さわやかブレンド 400G",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "コスタリカ",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1131",
     "has_bean_option": true,
     "available": true,
     "og_description": "透明感とさわやかな酸味がある浅煎りブレンド。    苦味：●  酸味：●●●●  コク：●●●  香り：●●●  オレンジ、ハチミツの風味。爽やかな後味。    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】さわやかブレンド 400G",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1013121315_61664ecbc2b5a.jpg",
     "image_local": "data/images/maruyama/1131.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1131.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1131.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1129152257_692a914123631.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1129152257_692a91419705f.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1129152256_692a9140e7b60.jpg"
+    ]
   },
   {
     "product_id": 1169,
@@ -224,14 +314,21 @@
     "roast": "中深煎り",
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    代表丸山健太郎が数あるコーヒーより選び抜いた特選コーヒーを贅沢に配合したブレンド。  バランスがよく、飲みごたえのある中深煎りに仕上げました。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●●  チェリー、ミルクチョコレートの風味。バランスの良い味わい。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "チェリー、ミルクチョコレートの風味。バランスの良い味わい。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 3袋 （まとめ買い対象）",
-    "origin": "ブレンド",
+    "origin": [
+      "エチオピア",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1169",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    代表丸山健太郎が数あるコーヒーより選び抜いた特選コーヒーを贅沢に配合したブレンド。  バランスがよく、飲みごたえのある中深煎りに仕上げました。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●●  チェリー、ミルクチョコレートの風味。バランスの良い味わい。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0513082218_6a03b62a6a59f.jpg",
     "image_local": "data/images/maruyama/1169.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1169.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1169.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0514114200_6642cf78cba32.jpg"
+    ]
   },
   {
     "product_id": 1935,
@@ -242,14 +339,21 @@
     "roast": "中深煎り",
     "description": "苦味：●●●  酸味：●●  コク：●●●  香り：●●  ローストナッツの風味、バランスの良い味わい    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 中深煎り 400G  （まとめ買い対象）",
     "flavor_notes": "ローストナッツの風味、バランスの良い味わい    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 中深煎り 400G  （まとめ買い対象）",
-    "origin": null,
+    "origin": [
+      "エルサルバドル",
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1935",
     "has_bean_option": true,
     "available": true,
     "og_description": "苦味：●●●  酸味：●●  コク：●●●  香り：●●  ローストナッツの風味、バランスの良い味わい    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 中深煎り 400G  （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1029163436_6720900cc6d07.jpg",
     "image_local": "data/images/maruyama/1935.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1935.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1935.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1030120822_653f1e26a5a9c.jpg"
+    ]
   },
   {
     "product_id": 1936,
@@ -260,14 +364,21 @@
     "roast": "中煎り",
     "description": "苦味：●●　  酸味：●●●●　  コク：●●●　  香り：●●●●  花の様な香り、軽やかな口当たり    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】アルトシエロ中煎り 400G",
     "flavor_notes": "花の様な香り、軽やかな口当たり    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】アルトシエロ中煎り 400G",
-    "origin": null,
+    "origin": [
+      "エルサルバドル",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1936",
     "has_bean_option": true,
     "available": true,
     "og_description": "苦味：●●　  酸味：●●●●　  コク：●●●　  香り：●●●●  花の様な香り、軽やかな口当たり    ▼大容量をお求めの方はこちらのページをご覧ください。  【大容量】アルトシエロ中煎り 400G",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1029163408_67208ff02b8a4.jpg",
     "image_local": "data/images/maruyama/1936.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1936.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1936.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1030120839_653f1e37eaa30.jpg"
+    ]
   },
   {
     "product_id": 1937,
@@ -278,14 +389,21 @@
     "roast": "深煎り",
     "description": "苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレートの深いコク、豊かな香り    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 深煎り 400G  （まとめ買い対象）",
     "flavor_notes": "ダークチョコレートの深いコク、豊かな香り    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 深煎り 400G  （まとめ買い対象）",
-    "origin": null,
+    "origin": [
+      "ブラジル",
+      "ホンジュラス",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1937",
     "has_bean_option": true,
     "available": true,
     "og_description": "苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレートの深いコク、豊かな香り    ▼大容量をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ 深煎り 400G  （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1029163350_67208fde1a958.jpg",
     "image_local": "data/images/maruyama/1937.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1937.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1937.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1030120854_653f1e4680b5e.jpg"
+    ]
   },
   {
     "product_id": 1986,
@@ -296,14 +414,22 @@
     "roast": "浅煎り",
     "description": "90年代に親しまれた定番コーヒー“アメリカン”をスペシャルティコーヒーで。  浅煎り豆を使用し、軽やかですっきりとした味わいが特徴のブレンドです。  どこか懐かしく、それでいて今の時代に合わせて進化させた一杯です。    苦味：●  酸味：●●●●  コク：●●  香り：●●  オレンジ、カシューナッツのような風味。軽やかで爽やかな味わい",
     "flavor_notes": "オレンジ、カシューナッツのような風味。軽やかで爽やかな味わい",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ブラジル"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/1986",
     "has_bean_option": true,
     "available": true,
     "og_description": "90年代に親しまれた定番コーヒー“アメリカン”をスペシャルティコーヒーで。  浅煎り豆を使用し、軽やかですっきりとした味わいが特徴のブレンドです。  どこか懐かしく、それでいて今の時代に合わせて進化させた一杯です。    苦味：●  酸味：●●●●  コク：●●  香り：●●  オレンジ、カシューナッツのような風味。軽やかで爽やかな味わい",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1219180114_65815bdaccfec.jpg",
     "image_local": "data/images/maruyama/1986.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1986.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/1986.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1219180111_65815bd709809.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0225173356_699eb3f46e328.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0225173405_699eb3fd5694e.jfif"
+    ]
   },
   {
     "product_id": 2018,
@@ -321,7 +447,12 @@
     "og_description": "深煎りコーヒー好きにおすすめな、香ばしく飲みごたえのある味わい。  淹れたてはアーモンドやチョコレートのような香ばしい香りが立ちのぼります。  滑らかな口当たりでコクのあるコーヒーなので、しっかり飲みたいという時にピッタリのコーヒーです。    苦味：●●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、スイートスパイスの風味。クリーミーな質感。",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0130163504_65b8a6a86678b.jpg",
     "image_local": "data/images/maruyama/2018.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2018.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2018.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0130104923_65b855a364dc2.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0130104920_65b855a0d5f79.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0130170149_65b8aced75cb8.jpg"
+    ]
   },
   {
     "product_id": 2146,
@@ -332,14 +463,23 @@
     "roast": null,
     "description": "春楡（ハルニレ）の巨木が立ち並ぶ、美しい景観と澄んだ空気が広がる軽井沢「ハルニレテラス」。  そのハルニレの大樹をイメージし、やさしい甘さとなめらかな口あたりに仕上げたブレンドです。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●●  オレンジ、ナッツの風味。    ハルニレテラス店・通信販売限定",
     "flavor_notes": "オレンジ、ナッツの風味。    ハルニレテラス店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ケニア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2146",
     "has_bean_option": true,
     "available": true,
     "og_description": "春楡（ハルニレ）の巨木が立ち並ぶ、美しい景観と澄んだ空気が広がる軽井沢「ハルニレテラス」。  そのハルニレの大樹をイメージし、やさしい甘さとなめらかな口あたりに仕上げたブレンドです。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●●  オレンジ、ナッツの風味。    ハルニレテラス店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0327125720_66039920f4141.jpg",
     "image_local": "data/images/maruyama/2146.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2146.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2146.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0327125730_6603992a95b76.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0327125740_66039934db62a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0327125749_6603993d4165c.jpg"
+    ]
   },
   {
     "product_id": 2226,
@@ -350,14 +490,22 @@
     "roast": null,
     "description": "パッションフルーツやイエローピーチを思わせる、甘く明るい果実味のある味わい。  シロップのようなまろやかな質感があり、華やかな香りと甘い口当たりが楽しめる夏らしさ溢れるスペシャルブレンドです。    苦味：●  酸味：●●●●  コク：●●●●  香り：●●●●  パッションフルーツ、イエローピーチ、ブラックティー、シロップのような口当たり    夏限定のスペシャルブレンド  6月1日～8月31日の期間限定販売",
     "flavor_notes": "パッションフルーツ、イエローピーチ、ブラックティー、シロップのような口当たり    夏限定のスペシャルブレンド  6月1日～8月31日の期間限定販売",
-    "origin": "ブレンド",
+    "origin": [
+      "エチオピア",
+      "ケニア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2226",
     "has_bean_option": true,
     "available": true,
     "og_description": "パッションフルーツやイエローピーチを思わせる、甘く明るい果実味のある味わい。  シロップのようなまろやかな質感があり、華やかな香りと甘い口当たりが楽しめる夏らしさ溢れるスペシャルブレンドです。    苦味：●  酸味：●●●●  コク：●●●●  香り：●●●●  パッションフルーツ、イエローピーチ、ブラックティー、シロップのような口当たり    夏限定のスペシャルブレンド  6月1日～8月31日の期間限定販売",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528084334_6a1781a6df8db.jpg",
     "image_local": "data/images/maruyama/2226.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2226.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2226.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528104259_6a179da308bb4.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528104259_6a179da349262.jpg"
+    ]
   },
   {
     "product_id": 2227,
@@ -368,14 +516,22 @@
     "roast": "深煎り",
     "description": "深い緑色の木々が生い茂る夏の軽井沢をイメージした、濃度感と爽やかさが調和した深煎りブレンドです。  ダークチョコレートのようなほろ苦さに、オレンジピールを思わせる爽やかなニュアンス。  深みがありながらも後味は軽やかで、暑い季節にも心地よく寄り添います。    苦味：●●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、オレンジピール、すっきりとした苦み    夏限定の深煎りブレンド  6月1日～8月31日の期間限定販売",
     "flavor_notes": "ダークチョコレート、オレンジピール、すっきりとした苦み    夏限定の深煎りブレンド  6月1日～8月31日の期間限定販売",
-    "origin": null,
+    "origin": [
+      "ケニア",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2227",
     "has_bean_option": true,
     "available": true,
     "og_description": "深い緑色の木々が生い茂る夏の軽井沢をイメージした、濃度感と爽やかさが調和した深煎りブレンドです。  ダークチョコレートのようなほろ苦さに、オレンジピールを思わせる爽やかなニュアンス。  深みがありながらも後味は軽やかで、暑い季節にも心地よく寄り添います。    苦味：●●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、オレンジピール、すっきりとした苦み    夏限定の深煎りブレンド  6月1日～8月31日の期間限定販売",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528083557_6a177fddec31e.jpg",
     "image_local": "data/images/maruyama/2227.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2227.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2227.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528104215_6a179d77835f8.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528104215_6a179d77a0aa5.jpg"
+    ]
   },
   {
     "product_id": 2228,
@@ -386,14 +542,22 @@
     "roast": "中煎り",
     "description": "夏の軽井沢を連想させる、アップルやオレンジのような果実味の爽やかな味わいです。  口当たりもなめらかで、飲むシチュエーションを選ばないコーヒーです。    苦味：●●  酸味：●●●  コク：●●●  香り：●●●  アップル、アーモンド、爽やかな味わい    夏限定の中煎りブレンド  6月1日～8月31日の期間限定販売",
     "flavor_notes": "アップル、アーモンド、爽やかな味わい    夏限定の中煎りブレンド  6月1日～8月31日の期間限定販売",
-    "origin": null,
+    "origin": [
+      "ケニア",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2228",
     "has_bean_option": true,
     "available": true,
     "og_description": "夏の軽井沢を連想させる、アップルやオレンジのような果実味の爽やかな味わいです。  口当たりもなめらかで、飲むシチュエーションを選ばないコーヒーです。    苦味：●●  酸味：●●●  コク：●●●  香り：●●●  アップル、アーモンド、爽やかな味わい    夏限定の中煎りブレンド  6月1日～8月31日の期間限定販売",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528083645_6a17800d57580.jpg",
     "image_local": "data/images/maruyama/2228.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2228.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2228.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528104104_6a179d3054142.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528104101_6a179d2d3c2f5.jpg"
+    ]
   },
   {
     "product_id": 2249,
@@ -404,14 +568,25 @@
     "roast": null,
     "description": "数多くの近代建築と東京を代表する老舗が建ち並ぶ日本橋。  日本の今と昔が融合した、進化し続ける街をイメージしたブレンドです。  ビターキャラメル、ヘーゼルナッツの風味とクリーミーな質感が楽しめます。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ビターキャラメル、ヘーゼルナッツの風味。クリーミーな質感。    日本橋店・通信販売限定",
     "flavor_notes": "ビターキャラメル、ヘーゼルナッツの風味。クリーミーな質感。    日本橋店・通信販売限定",
-    "origin": "日本",
+    "origin": [
+      "エルサルバドル",
+      "エチオピア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2249",
     "has_bean_option": true,
     "available": true,
     "og_description": "数多くの近代建築と東京を代表する老舗が建ち並ぶ日本橋。  日本の今と昔が融合した、進化し続ける街をイメージしたブレンドです。  ビターキャラメル、ヘーゼルナッツの風味とクリーミーな質感が楽しめます。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ビターキャラメル、ヘーゼルナッツの風味。クリーミーな質感。    日本橋店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0612170324_6669564c7c6ca.jpg",
     "image_local": "data/images/maruyama/2249.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2249.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2249.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0625165804_667a788c3a745.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0625165748_667a787c60655.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523175547_6830381327b7d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523175716_6830386c15917.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523180209_68303991d2fcc.jpg"
+    ]
   },
   {
     "product_id": 2287,
@@ -422,14 +597,22 @@
     "roast": null,
     "description": "スペシャルティコーヒーの中でも特に高品質な豆を厳選したブレンドです。  熟したフルーツを思わせる豊かな果実味と、心地よく広がるフルーティーな風味。  スペシャルティコーヒーならではの上質な酸味、風味、口当たりを存分にお楽しみいただけます。    苦味：●  酸味：●●●●●  コク：●●●●  香り：●●●●●    トロピカルフルーツのような風味。甘い後口。",
     "flavor_notes": "トロピカルフルーツのような風味。甘い後口。",
-    "origin": "ブレンド",
+    "origin": [
+      "エチオピア",
+      "ケニア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2287",
     "has_bean_option": true,
     "available": true,
     "og_description": "スペシャルティコーヒーの中でも特に高品質な豆を厳選したブレンドです。  熟したフルーツを思わせる豊かな果実味と、心地よく広がるフルーティーな風味。  スペシャルティコーヒーならではの上質な酸味、風味、口当たりを存分にお楽しみいただけます。    苦味：●  酸味：●●●●●  コク：●●●●  香り：●●●●●    トロピカルフルーツのような風味。甘い後口。",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0629123034_6a41e6da816fc.jpg",
     "image_local": "data/images/maruyama/2287.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2287.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2287.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0716173251_669630331db2a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0716173307_66963043de615.jpg"
+    ]
   },
   {
     "product_id": 2309,
@@ -440,14 +623,25 @@
     "roast": null,
     "description": "にぎやかな市街地と季節感豊かな自然が調和した立川をイメージしたブレンドです。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、ハーブの風味。すっきりとした後味。    立川店・通信販売限定",
     "flavor_notes": "ダークチョコレート、ハーブの風味。すっきりとした後味。    立川店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ケニア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2309",
     "has_bean_option": true,
     "available": true,
     "og_description": "にぎやかな市街地と季節感豊かな自然が調和した立川をイメージしたブレンドです。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、ハーブの風味。すっきりとした後味。    立川店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0809100848_66b56c2028267.jpg",
     "image_local": "data/images/maruyama/2309.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2309.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2309.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0808165110_66b478ee90ddf.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0808165257_66b47959d38cc.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528133028_683691640ef4b.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528133314_6836920aba878.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528133159_683691bfae8f8.jpg"
+    ]
   },
   {
     "product_id": 2311,
@@ -458,14 +652,23 @@
     "roast": null,
     "description": "上品で洗練されていながら、華やかさも持ち合わせた自由が丘をイメージしたブレンド。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●●●  アーモンド、オランジェット、ベリーの風味。上品な味わい。    自由が丘店・通信販売限定",
     "flavor_notes": "アーモンド、オランジェット、ベリーの風味。上品な味わい。    自由が丘店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エチオピア",
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2311",
     "has_bean_option": true,
     "available": true,
     "og_description": "上品で洗練されていながら、華やかさも持ち合わせた自由が丘をイメージしたブレンド。    苦味：●●●  酸味：●●●  コク：●●●  香り：●●●●  アーモンド、オランジェット、ベリーの風味。上品な味わい。    自由が丘店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0903122912_66d68288206c8.jpg",
     "image_local": "data/images/maruyama/2311.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2311.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2311.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0830122301_66d13b15ce002.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0830122256_66d13b1053ab6.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0710162547_686f6afb01074.jpg"
+    ]
   },
   {
     "product_id": 2371,
@@ -483,7 +686,12 @@
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    深煎り好きの方に毎日飲んでいただきたい、しっかりとした深煎りのコーヒー。    苦味：●●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、マカダミアナッツ    オンラインストア限定オリジナルブレンド    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【オンラインストア限定/大容量】軽井沢ブレンド 400G 2袋 （まとめ買い対象）  ・【オンラインストア限定/大容量】軽井沢ブレンド 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0513074728_6a03ae001736f.jpg",
     "image_local": "data/images/maruyama/2371.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2371.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2371.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0930132938_66fa2932ce497.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0409164049_69d758016ea50.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0927150201_66f64a5922ff3.jpg"
+    ]
   },
   {
     "product_id": 2420,
@@ -494,14 +702,24 @@
     "roast": null,
     "description": "下町の風情と繁華街の賑わいが混ざり合う北千住の街をイメージしたブレンド。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●●  ダークチェリー、ビターキャラメルの風味。なめらかな口当たり。    北千住マルイ店・通信販売限定",
     "flavor_notes": "ダークチェリー、ビターキャラメルの風味。なめらかな口当たり。    北千住マルイ店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2420",
     "has_bean_option": true,
     "available": true,
     "og_description": "下町の風情と繁華街の賑わいが混ざり合う北千住の街をイメージしたブレンド。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●●  ダークチェリー、ビターキャラメルの風味。なめらかな口当たり。    北千住マルイ店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/1128171039_6748257fe1a22.jpg",
     "image_local": "data/images/maruyama/2420.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2420.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2420.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/1108112212_672d75d48801d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523130639_682ff44f38e53.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523130642_682ff45203ee9.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523130636_682ff44c46da5.jpg"
+    ]
   },
   {
     "product_id": 2500,
@@ -512,14 +730,24 @@
     "roast": null,
     "description": "文化・流行の発信基地として常に変化し続けるエネルギーにあふれた渋谷の街をイメージ。  ミルクチョコレートのような優しい甘さに、カラメリゼしたアーモンドを思わせる香ばしい甘さも持ち合わせています。  バランスの取れた味わいに仕上がっていますので、ぜひ様々なペアリングでお楽しみ下さい。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●  ミルクチョコレート、アーモンドプラリネの風味。    エキュートエディション渋谷店・通信販売限定",
     "flavor_notes": "ミルクチョコレート、アーモンドプラリネの風味。    エキュートエディション渋谷店・通信販売限定",
-    "origin": "ブレンド",
+    "origin": [
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2500",
     "has_bean_option": true,
     "available": true,
     "og_description": "文化・流行の発信基地として常に変化し続けるエネルギーにあふれた渋谷の街をイメージ。  ミルクチョコレートのような優しい甘さに、カラメリゼしたアーモンドを思わせる香ばしい甘さも持ち合わせています。  バランスの取れた味わいに仕上がっていますので、ぜひ様々なペアリングでお楽しみ下さい。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●  ミルクチョコレート、アーモンドプラリネの風味。    エキュートエディション渋谷店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0114171608_67861d485291d.jpg",
     "image_local": "data/images/maruyama/2500.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2500.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2500.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0220112949_67b6939d54f23.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0220112948_67b6939cb6e0b.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0711105606_68706f36b75f1.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0711105821_68706fbdab2d6.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0711110003_6870702364980.jpg"
+    ]
   },
   {
     "product_id": 2620,
@@ -530,14 +758,25 @@
     "roast": "中深煎り",
     "description": "ダークチョコレートの様なほろ苦い味わいにアプリコットを思わせる優しい酸味を持つ中深煎りブレンド。  日常を少し離れ、軽井沢の四季折々の美しい自然の中で過ごすような、上質なくつろぎを感じていただきたいという思いを込めました。    苦味：●●●●  酸味：●●●  コク：●●●●  香り：●●●●  ダークチョコレート、アプリコット    軽井沢バイパス店・通信販売限定",
     "flavor_notes": "ダークチョコレート、アプリコット    軽井沢バイパス店・通信販売限定",
-    "origin": "軽井沢",
+    "origin": [
+      "エチオピア",
+      "ホンジュラス",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2620",
     "has_bean_option": true,
     "available": true,
     "og_description": "ダークチョコレートの様なほろ苦い味わいにアプリコットを思わせる優しい酸味を持つ中深煎りブレンド。  日常を少し離れ、軽井沢の四季折々の美しい自然の中で過ごすような、上質なくつろぎを感じていただきたいという思いを込めました。    苦味：●●●●  酸味：●●●  コク：●●●●  香り：●●●●  ダークチョコレート、アプリコット    軽井沢バイパス店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0902161400_68b69938c2e75.jpg",
     "image_local": "data/images/maruyama/2620.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2620.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2620.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512163205_6821a3f505b77.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523124911_682ff0374710c.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523125041_682ff091d581b.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0523124351_682feef7b3616.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528131713_68368e49c3fe1.jpg"
+    ]
   },
   {
     "product_id": 2747,
@@ -548,14 +787,20 @@
     "roast": "中煎り",
     "description": "やさしい果実味とまろやかな口当たりの、中煎りカフェインレスブレンドです。    苦味：●●  酸味：●●●  コク：●●  香り：●●●  ミルクキャラメル、オレンジ",
     "flavor_notes": "ミルクキャラメル、オレンジ",
-    "origin": "カフェインレス",
+    "origin": [
+      "ブラジル"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/2747",
     "has_bean_option": true,
     "available": true,
     "og_description": "やさしい果実味とまろやかな口当たりの、中煎りカフェインレスブレンドです。    苦味：●●  酸味：●●●  コク：●●  香り：●●●  ミルクキャラメル、オレンジ",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728170908_68873024873ae.jpg",
     "image_local": "data/images/maruyama/2747.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2747.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2747.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0121174428_697091ec7fcc4.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0121174430_697091eed8ca6.jpg"
+    ]
   },
   {
     "product_id": 2982,
@@ -573,7 +818,15 @@
     "og_description": "香水のような華やかな香りと明るく甘く爽やかな果実味のある芳醇な味わいのコスタリカ産ゲイシャコーヒーです。  カップに口を近づけた瞬間ジャスミン、レモングラスなどの香水を思わせるうっとりするような香りを感じます。  甘く芳醇な余韻をお楽しみください。    ＜コスタリカ　サンタ・テレサ2000マイクロミル＞  苦味：●  酸味：●●●●  コク：●●●●  香り：●●●●●  アップル、イエローピーチ、レモングラス、はちみつ、香水のような香り",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0313192154_69b3e5427d37f.jpg",
     "image_local": "data/images/maruyama/2982.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2982.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/2982.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0313191855_69b3e48f35b87.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0313191856_69b3e49099203.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0313191853_69b3e48d487a9.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0313191853_69b3e48d72272.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0313191856_69b3e49058208.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0313191856_69b3e4907390c.jpg"
+    ]
   },
   {
     "product_id": 3012,
@@ -584,14 +837,22 @@
     "roast": null,
     "description": "創業当時から長年愛され続ける定番のブレンド、丸山珈琲のブレンドがカフェインレスで新登場。  チョコレートのような風味とコク、ほのかに感じる甘みは、どなたにも親しみやすい味わいです。  ブラックでもミルクと合わせても楽しめます。    苦味：●●●●  酸味：●  コク：●●●●  香り：●●●  チョコレートのような風味とコク、ほのかに感じる甘み",
     "flavor_notes": "チョコレートのような風味とコク、ほのかに感じる甘み",
-    "origin": "ブレンド",
+    "origin": [
+      "ブラジル",
+      "ニカラグア"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3012",
     "has_bean_option": true,
     "available": true,
     "og_description": "創業当時から長年愛され続ける定番のブレンド、丸山珈琲のブレンドがカフェインレスで新登場。  チョコレートのような風味とコク、ほのかに感じる甘みは、どなたにも親しみやすい味わいです。  ブラックでもミルクと合わせても楽しめます。    苦味：●●●●  酸味：●  コク：●●●●  香り：●●●  チョコレートのような風味とコク、ほのかに感じる甘み",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0424175738_69eb308204f1f.jpg",
     "image_local": "data/images/maruyama/3012.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3012.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3012.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0414153843_69dde0f344ed2.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0414154026_69dde15a54837.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0414154029_69dde15d06f60.jpg"
+    ]
   },
   {
     "product_id": 3030,
@@ -602,14 +863,24 @@
     "roast": null,
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●●●  酸味：●●  コク：●●●  香り：●●●  ダークチョコレートのような風味。味わい深いコク。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】丸山珈琲のブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】丸山珈琲のブレンド 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "ダークチョコレートのような風味。味わい深いコク。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】丸山珈琲のブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】丸山珈琲のブレンド 400G 3袋 （まとめ買い対象）",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3030",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●●●  酸味：●●  コク：●●●  香り：●●●  ダークチョコレートのような風味。味わい深いコク。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】丸山珈琲のブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】丸山珈琲のブレンド 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512115651_6a0296f349532.jpg",
     "image_local": "data/images/maruyama/3030.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3030.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3030.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0edb04.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0ee2ad.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0ee6bc.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512114800_6a0294e0eeb3d.jpg"
+    ]
   },
   {
     "product_id": 3031,
@@ -620,14 +891,24 @@
     "roast": "浅煎り",
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    透明感とさわやかな酸味がある浅煎りブレンド。    苦味：●  酸味：●●●●  コク：●●●  香り：●●●  オレンジ、ハチミツの風味。爽やかな後味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】さわやかブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】さわやかブレンド 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "オレンジ、ハチミツの風味。爽やかな後味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】さわやかブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】さわやかブレンド 400G 3袋 （まとめ買い対象）",
-    "origin": "ブレンド",
+    "origin": [
+      "エルサルバドル",
+      "コスタリカ",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3031",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    透明感とさわやかな酸味がある浅煎りブレンド。    苦味：●  酸味：●●●●  コク：●●●  香り：●●●  オレンジ、ハチミツの風味。爽やかな後味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】さわやかブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】さわやかブレンド 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512192134_6a02ff2ec8e69.jpg",
     "image_local": "data/images/maruyama/3031.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3031.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3031.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d099219.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d09994a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d099cca.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115200_6a0295d09a0da.jpg"
+    ]
   },
   {
     "product_id": 3032,
@@ -638,14 +919,24 @@
     "roast": null,
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●  酸味：●●●  コク：●●  香り：●●●  花の香りと柑橘類の爽やかな風味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】モカブレンド 茜すみれ 400G 2袋 （まとめ買い対象）  ・【大容量】モカブレンド 茜すみれ 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "花の香りと柑橘類の爽やかな風味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】モカブレンド 茜すみれ 400G 2袋 （まとめ買い対象）  ・【大容量】モカブレンド 茜すみれ 400G 3袋 （まとめ買い対象）",
-    "origin": "モカ",
+    "origin": [
+      "エルサルバドル",
+      "エチオピア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3032",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●  酸味：●●●  コク：●●  香り：●●●  花の香りと柑橘類の爽やかな風味。    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】モカブレンド 茜すみれ 400G 2袋 （まとめ買い対象）  ・【大容量】モカブレンド 茜すみれ 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512191415_6a02fd774570c.jpg",
     "image_local": "data/images/maruyama/3032.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3032.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3032.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce18a1.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce215d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce2690.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115348_6a02963ce2c38.jpg"
+    ]
   },
   {
     "product_id": 3033,
@@ -663,7 +954,12 @@
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    すっきりとした爽やかさに加え、チョコレートのような風味やコクのあるブレンド。  暑い季節だけでなく、一年を通して人気の定番アイス用ブレンドです。    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アイス用ブレンド 400G 2袋 （まとめ買い対象）  ・【大容量】アイス用ブレンド 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512190545_6a02fb79dea5c.jpg",
     "image_local": "data/images/maruyama/3033.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3033.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3033.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115523_6a02969be486a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115523_6a02969be50ec.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115523_6a02969be5464.jfif"
+    ]
   },
   {
     "product_id": 3034,
@@ -674,14 +970,22 @@
     "roast": "中煎り",
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●　  酸味：●●●●　  コク：●●●　  香り：●●●●  花の様な香り、軽やかな口当たり    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中煎り 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "花の様な香り、軽やかな口当たり    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中煎り 400G 3袋 （まとめ買い対象）",
-    "origin": null,
+    "origin": [
+      "エルサルバドル",
+      "ブラジル",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3034",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●　  酸味：●●●●　  コク：●●●　  香り：●●●●  花の様な香り、軽やかな口当たり    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中煎り 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512145355_6a02c073317d0.jpg",
     "image_local": "data/images/maruyama/3034.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3034.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3034.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115650_6a0296f24f626.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115650_6a0296f25057a.jpg"
+    ]
   },
   {
     "product_id": 3035,
@@ -692,14 +996,22 @@
     "roast": "中深煎り",
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●●  酸味：●●  コク：●●●  香り：●●  ローストナッツの風味、バランスの良い味わい    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中深煎り 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "ローストナッツの風味、バランスの良い味わい    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中深煎り 400G 3袋 （まとめ買い対象）",
-    "origin": null,
+    "origin": [
+      "エルサルバドル",
+      "ニカラグア",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3035",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●●  酸味：●●  コク：●●●  香り：●●  ローストナッツの風味、バランスの良い味わい    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ中深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ中深煎り 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512185546_6a02f9227b8e0.jpg",
     "image_local": "data/images/maruyama/3035.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3035.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3035.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115754_6a0297325053d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115754_6a02973251772.jpg"
+    ]
   },
   {
     "product_id": 3036,
@@ -710,14 +1022,22 @@
     "roast": "深煎り",
     "description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレートの深いコク、豊かな香り    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ深煎り 400G 3袋 （まとめ買い対象）",
     "flavor_notes": "ダークチョコレートの深いコク、豊かな香り    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ深煎り 400G 3袋 （まとめ買い対象）",
-    "origin": null,
+    "origin": [
+      "ブラジル",
+      "ホンジュラス",
+      "他"
+    ],
     "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3036",
     "has_bean_option": true,
     "available": true,
     "og_description": "＊まとめ買い対象 ポイントアップ＊  ①400G単品商品：400G商品をいずれか2個以上同時購入でポイント3％還元  ②400G2袋以上の商品：1個以上購入でポイント3％還元    苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレートの深いコク、豊かな香り    ▼複数商品をお求めの方はこちらのページをご覧ください。  ・【大容量】アルトシエロ深煎り 400G 2袋 （まとめ買い対象）  ・【大容量】アルトシエロ深煎り 400G 3袋 （まとめ買い対象）",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0512142847_6a02ba8f0318a.jpg",
     "image_local": "data/images/maruyama/3036.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3036.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3036.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115909_6a02977dddfc1.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0512115909_6a02977ddf323.jpg"
+    ]
   },
   {
     "product_id": 3062,
@@ -735,7 +1055,16 @@
     "og_description": "オレンジやチェリーを思わせる明るい酸味に、ヌガーのようなやさしい甘さ。  温かい一口目から冷めていくまで、一貫してなめらかな口当たりが続く中煎りです。    ＜ブラジル　サマンバイア農園＞  苦味：●  酸味：●●●  コク：●●●  香り：●●●●  オレンジ、チェリー、ヌガー、なめらかな口当たり",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0528084412_6a1781cc63cea.jpg",
     "image_local": "data/images/maruyama/3062.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3062.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3062.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528090348_6a1786648da80.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528085804_6a17850ce0836.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528085800_6a17850837285.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528090335_6a17865731722.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528090339_6a17865b3bfba.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528090403_6a17867316da9.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0528090343_6a17865fafc60.jpg"
+    ]
   },
   {
     "product_id": 3067,
@@ -753,7 +1082,12 @@
     "og_description": "＜2026年6月11日 オープン！名古屋栄店 限定ブレンド＞  格調高き歴史に、きらびやかな革新が息づく都市をイメージした中深煎りブレンド。  コーヒーの質感と芳醇な香りを活かし、名古屋の食文化に寄り添う味わいに仕上げました。    苦味：●●●●  酸味：●●●  コク：●●●  香り：●●●●  ビターキャラメル、オレンジピール、なめらかな口当たり    名古屋栄店・通信販売限定",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0608122033_6a263501e8cad.jpg",
     "image_local": "data/images/maruyama/3067.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3067.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3067.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0608121113_6a2632d1b8ed5.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0608121112_6a2632d083597.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0610104902_6a28c28e57c7a.jpg"
+    ]
   },
   {
     "product_id": 3073,
@@ -771,7 +1105,16 @@
     "og_description": "世界を代表する最高峰のゲイシャ。今年のアグロタケシゲイシャは、クリーンでエレガントな印象と、圧倒的な味わいの深さをお楽しみいただけます。    淹れたては、ジャスミンやマスカット、ダージリンティーを思わせる気品あふれる味わい。  温度が下がるにつれて、ローズやラズベリー、イエローピーチのような果実味が重なり、さらにジャスミンやレモネード、アップルティーを思わせる華やかで奥行きのある味わいへと表情を変えていきます。  なめらかな口当たりと花を思わせるエレガントな余韻が心地よく続き、時間とともに移ろう味わいの変化を最後の一口までお楽しみください。    ＜アグロタケシ農園  ボリビア＞  苦味：●  酸味：●●●●  コク：●●●●  香り：●●●●●  ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ、咲きこぼれる花々を思わせるエレガントな後味。",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0629103956_6a41ccec2d783.jpg",
     "image_local": "data/images/maruyama/3073.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3073.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3073.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0722103601_6a601e81ada3e.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf94de76.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf97dc0d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf9a630a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629104009_6a41ccf9d1853.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629104010_6a41ccfa0ba7f.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629122642_6a41e5f2b4f53.jpg"
+    ]
   },
   {
     "product_id": 3074,
@@ -789,7 +1132,16 @@
     "og_description": "ジャスミンを思わせる気品あるフローラルな香りに、イエローピーチや洋梨のような瑞々しい果実味。  トロピカルフルーツを思わせる甘さが重なり、優雅な余韻が穏やかに広がります。  特別な日のおもてなしや、週末の穏やかな午後に、大切な人と分かち合いたくなる一杯です。    ＜アグロタケシ農園 ボリビア＞  苦味：●●  酸味：●●●●●  コク：●●●●  香り：●●●●  イエローピーチ、ジャスミン、トロピカルフルーツ、洋梨",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0629103743_6a41cc670213d.jpg",
     "image_local": "data/images/maruyama/3074.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3074.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3074.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0722103631_6a601e9fdc81c.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629103754_6a41cc729f813.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629103754_6a41cc72bec7a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629103755_6a41cc7313a7f.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629103755_6a41cc73373e6.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629103755_6a41cc73643f0.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629120803_6a41e1932ff8e.jpg"
+    ]
   },
   {
     "product_id": 3075,
@@ -807,7 +1159,16 @@
     "og_description": "アグロタケシ農園で収穫されたカトゥアイ種のみを使用したブレンドです。  カトゥアイ種の持つアプリコットのような豊かな酸味。  少しの香ばしさをまとう複雑な味わいが、シロップのようななめらかな甘さとともに長く続きます。      苦味：●●  酸味：●●●●  コク：●●●  香り：●●●●●  アプリコット、チェリー、メープルシロップ",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0626174445_6a3e3bfdb2b4c.jpg",
     "image_local": "data/images/maruyama/3075.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3075.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3075.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0722103705_6a601ec15ccf0.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0626175855_6a3e3f4f19c93.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4e48ba5.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4eb3acf.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4e2acc4.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0626175854_6a3e3f4e8ce61.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0629123007_6a41e6bf4c270.jpg"
+    ]
   },
   {
     "product_id": 3087,
@@ -825,7 +1186,17 @@
     "og_description": "ジャスミンを思わせる香りの中、飲み進めるにつれてアプリコットやオレンジのような酸味と優しい甘さが広がり、滑らかな口当たりが後味の甘さとともに長く続きます。  香りと味わいが複雑に絡みあう、滑らかな口当たりと甘さが絶妙なバランスを作り出すコーヒーです。    ＜ブラジル　サマンバイア＞  苦味：●●  酸味：●●●●  コク：●●●●  香り：●●●●  ジャスミン、アプリコット、オレンジ、ミント、なめらかな口当たり",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152403_6a548483d0cd3.jpg",
     "image_local": "data/images/maruyama/3087.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3087.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3087.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153645_6a54877d173c8.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a54877574404.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a548775b68a9.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a548776003ff.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153638_6a54877625c7f.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877c79da5.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877c9bcde.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877cdb033.JPG"
+    ]
   },
   {
     "product_id": 3088,
@@ -843,7 +1214,15 @@
     "og_description": "膨らみのある口当たりのと、思わずもう一口飲みたくなる軽やかな飲み心地。  オレンジやストーンフルーツのような果実味と、ナッツのような香ばしい甘さが調和したバランスの良い味わいです。    ＜ペルー　ハナン＞  苦味：●  酸味：●●●●  コク：●●●  香り：●●●●  オレンジ、ブラックティー",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152436_6a5484a469399.jpg",
     "image_local": "data/images/maruyama/3088.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3088.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3088.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713152807_6a54857789291.jfif",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713152807_6a548577c4700.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a5485780f510.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a5485782b81e.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a54857864e09.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713152808_6a548578491e8.JPG"
+    ]
   },
   {
     "product_id": 3089,
@@ -861,7 +1240,14 @@
     "og_description": "ダークチョコレートを思わせるコクのある苦味、ドライフルーツのような優しい甘さのバランスが取れたコーヒー。滑らかな口当たりでゆっくりと楽しんでいただきたいコーヒーです。    ＜ボリビア　ドン・カルロス農園＞  苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●●  ダークチョコレート、ドライフィグ",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152420_6a5484941d9fd.jpg",
     "image_local": "data/images/maruyama/3089.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3089.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3089.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc1038d.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc2cee7.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bca05f6.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc4b66f.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0713154204_6a5488bc7330e.JPG"
+    ]
   },
   {
     "product_id": 3095,
@@ -879,7 +1265,19 @@
     "og_description": "ダークチョコレートを思わせるほろ苦さに、レーズンのような奥深い甘さとコクが調和した、心地よい味わい。  今日も飲みたい。明日も飲みたい。そんな親しみやすさと奥深さをあわせ持つ、深煎りコーヒーです。    ＜グアテマラ　サンタ・イサベル農園＞  苦味：●●●●  酸味：●●  コク：●●●●  香り：●●●  ダークチョコレート、レーズン",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728115628_6a681a5c26dc2.jpg",
     "image_local": "data/images/maruyama/3095.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3095.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3095.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173632_6a69bb90eda99.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173633_6a69bb912f9dd.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173633_6a69bb91883ab.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173633_6a69bb91d7b7c.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173639_6a69bb977e1fb.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173639_6a69bb97bc940.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173640_6a69bb983d4dc.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173640_6a69bb9876bea.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173734_6a69bbceb724b.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729173755_6a69bbe3d48b9.jpg"
+    ]
   },
   {
     "product_id": 3096,
@@ -897,7 +1295,17 @@
     "og_description": "ラズベリーやピーチを思わせるきれいな果実味に、はちみつのようなやさしい甘さ。  口に含むとジューシーな風味が広がり、明るくクリーンな余韻をお楽しみいただけます。    ＜コスタリカ　セロ・アルトマイクロミル＞  苦味：●  酸味：●●●●●  コク：●●●●  香り：●●●●  ラズベリー、ピーチ、はちみつ、ジューシーな味わい",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728115601_6a681a41734b1.jpg",
     "image_local": "data/images/maruyama/3096.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3096.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3096.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57d275fe.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57d5583a.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57d8016f.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57db96ce.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171037_6a69b57de5084.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171038_6a69b57e108da.JPG",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171038_6a69b57e39f1d.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0729171038_6a69b57e59128.jpg"
+    ]
   },
   {
     "product_id": 3110,
@@ -915,6 +1323,14 @@
     "og_description": "世界を代表する最高峰のゲイシャ。今年のアグロタケシゲイシャは、クリーンでエレガントな印象と、圧倒的な味わいの深さをお楽しみいただけます。  オンラインストア限定で、通常の2倍容量となる80Gをご用意しました。  ご自身へのご褒美にはもちろん、コーヒー好きの方への贈り物にもおすすめです。    淹れたては、ジャスミンやマスカット、ダージリンティーを思わせる気品あふれる味わい。  温度が下がるにつれて、ローズやラズベリー、イエローピーチのような果実味が重なり、さらにジャスミンやレモネード、アップルティーを思わせる華やかで奥行きのある味わいへと表情を変えていきます。  なめらかな口当たりと花を思わせるエレガントな余韻が心地よく続き、時間とともに移ろう味わいの変化を最後の一口までお楽しみください。    ＜アグロタケシ農園  ボリビア＞  苦味：●  酸味：●●●●  コク：●●●●  香り：●●●●●  ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ、咲きこぼれる花々を思わせるエレガントな後味。    ↓40Gの販売はこちらのページをご覧ください。↓  アグロタケシ ゲイシャ 40G",
     "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0728125342_6a6827c6e95de.jpg",
     "image_local": "data/images/maruyama/3110.jpg",
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3110.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3110.jpg",
+    "extra_images": [
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0728125328_6a6827b8f0526.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0728125230_6a68277e0adc9.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0728125230_6a68277e27bf9.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0728125230_6a68277eba8fb.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0728125232_6a682780a8036.jpg",
+      "https://www.maruyamacoffee.com/ec/upload/save_image/0728125232_6a682780e6e91.jpg"
+    ]
   }
 ]

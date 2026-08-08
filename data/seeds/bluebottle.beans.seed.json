@@ -1,0 +1,105 @@
+{
+  "version": "0.1.0",
+  "chain_id": "bluebottle",
+  "scraped_at": "2026-08-08T10:52:50+09:00",
+  "source": "https://store.bluebottlecoffee.jp",
+  "beans": [
+    {
+      "id": "bluebottle-giant-steps-200g",
+      "chain_id": "bluebottle",
+      "name": "ジャイアント・ステップス",
+      "description": "ハードボイルドさ漂う、ブルーボトルコーヒーの中で最も力強いコーヒーブレンドです。深めの焙煎から生まれる、このたくましいブレンドは、フレンチプレスやハンドドリップで美味しさを発揮します。 しっかりとしたボディとコクのあるブレンド。濃厚でチョコレートのような味わいはミルクとの相性も抜群。",
+      "roast_level": "dark",
+      "roast_label_ja": "ボールド",
+      "taste_label_ja": "コク・ダーク",
+      "origin": [
+        "ペルー",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ココア",
+        "トーストされたマシュマロ",
+        "グラハムクラッカー"
+      ],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c002",
+      "product_id": "c002",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c002___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c002.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c002.jpg"
+    },
+    {
+      "id": "bluebottle-three-africas-200g",
+      "chain_id": "bluebottle",
+      "name": "スリー・アフリカズ",
+      "description": "スリーアフリカズはアフリカの3種類のコーヒー豆のブレンドでチョコレートのようなアロマが特徴です。好みが分かれそうなシングルオリジンのコーヒーとは異なり、このブレンドが持つ程よいボディと複雑さ、クリーンな後味はたくさんの方が飲みやすいと感じてくれるはずです。 ベリーのような甘みと爽やかなシトラス、チョコレートのような風味が複雑に重なりあったすっきりとした後味のコーヒーブレンドです。 コールドブリューでも美味しく召し上がれます。",
+      "roast_level": "medium",
+      "roast_label_ja": "バランス",
+      "taste_label_ja": "フルーティ",
+      "origin": [
+        "エチオピア",
+        "ルワンダ"
+      ],
+      "flavor_tags": [
+        "ゴールデンレーズン",
+        "ワイニーブルーベリー",
+        "レモンゼスト"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c003",
+      "product_id": "c003",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c003___03new.webp?v=1780280568",
+      "image_local": "data/images/bluebottle/c003.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c003.jpg"
+    },
+    {
+      "id": "bluebottle-bella-donovan-200g",
+      "chain_id": "bluebottle",
+      "name": "ベラ・ドノヴァン",
+      "description": "ベリーの繊細さと仄かなスモーキーさの絶妙なバランスを持った、ブルーボトルコーヒーで最も人気のドリップコーヒーといえば、ベラ・ドノヴァン。 絶妙なバランスは、モカとジャバのスタンダードなブレンドを私たちの好みにアレンジして作られています。 少し浅めの焙煎度合ですが、掛け合わせることで深みを生み出します。上品すぎず、主張しすぎることなく洗練された味は、最高級のコーヒーにも匹敵する程です。",
+      "roast_level": "medium",
+      "roast_label_ja": "バランス",
+      "taste_label_ja": "フルーティ",
+      "origin": [
+        "エチオピア",
+        "ペルー",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ラズベリー",
+        "チョコレート",
+        "モラセス"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c001",
+      "product_id": "c001",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c001___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c001.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c001.jpg"
+    }
+  ]
+}

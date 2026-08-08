@@ -2,11 +2,11 @@
 
 import { useCallback, useState } from "react";
 import type {
-  EquipmentId,
+  ChainId,
   MoodProfile,
   RecommendResponse,
 } from "@driplab/recommender";
-import { EquipmentSelector } from "@/components/EquipmentSelector";
+import { ChainSelector } from "@/components/ChainSelector";
 import { MoodSliders } from "@/components/MoodSliders";
 import { PresetButtons } from "@/components/PresetButtons";
 import { ResultPanel } from "@/components/ResultPanel";
@@ -20,7 +20,7 @@ const DEFAULT_MOOD: MoodProfile = {
 
 export function HomeClient() {
   const [mood, setMood] = useState<MoodProfile>(DEFAULT_MOOD);
-  const [equipment, setEquipment] = useState<EquipmentId[]>(["drip"]);
+  const [chainFilter, setChainFilter] = useState<ChainId | "all">("all");
   const [result, setResult] = useState<RecommendResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -32,7 +32,10 @@ export function HomeClient() {
       const res = await fetch("/api/recommend", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ mood, equipment }),
+        body: JSON.stringify({
+          mood,
+          chains: chainFilter === "all" ? undefined : [chainFilter],
+        }),
       });
       if (!res.ok) {
         const body = await res.json().catch(() => ({}));
@@ -46,7 +49,7 @@ export function HomeClient() {
     } finally {
       setLoading(false);
     }
-  }, [mood, equipment]);
+  }, [mood, chainFilter]);
 
   return (
     <main className="app-main">
@@ -58,11 +61,9 @@ export function HomeClient() {
 
             <p className="section-title">今日の気分</p>
             <MoodSliders mood={mood} onChange={setMood} />
-          </div>
 
-          <div className="section-card" style={{ marginTop: "1rem" }}>
-            <p className="section-title">抽出器具</p>
-            <EquipmentSelector selected={equipment} onChange={setEquipment} />
+            <p className="section-title">チェーン（任意）</p>
+            <ChainSelector value={chainFilter} onChange={setChainFilter} />
           </div>
 
           <div style={{ marginTop: "1rem" }}>
@@ -81,12 +82,13 @@ export function HomeClient() {
 
         <section>
           {loading && !result && (
-            <div className="loading section-card">提案を計算しています…</div>
+            <div className="loading section-card">豆と抽出器具を提案中…</div>
           )}
           {result && (
             <ResultPanel
               primary={result.primary}
               alternatives={result.alternatives}
+              otherRecipes={result.other_recipes}
             />
           )}
           {!loading && !result && (
@@ -95,18 +97,22 @@ export function HomeClient() {
               style={{ color: "var(--text-muted)", textAlign: "center" }}
             >
               <p style={{ margin: 0 }}>
-                スライダーと器具を選んで
+                スライダーで気分を選んで
                 <br />
                 「今日の一杯を見つける」を押してください
+              </p>
+              <p
+                style={{
+                  margin: "0.75rem 0 0",
+                  fontSize: "0.8125rem",
+                }}
+              >
+                豆・抽出器具・レシピをまとめて提案します
               </p>
             </div>
           )}
         </section>
       </div>
-
-      <p className="footer-note">
-        データ出典: 各チェーン公式サイト · 全160品目 · ゲスト利用（ログイン不要）
-      </p>
     </main>
   );
 }

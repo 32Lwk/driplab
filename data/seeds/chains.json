@@ -8,7 +8,7 @@
     },
     {
       "id": "maruyama",
-      "name_ja": "丸山コーヒー",
+      "name_ja": "丸山珈琲",
       "name_en": "Maruyama Coffee",
       "website": "https://www.maruyamacoffee.com/ec/"
     },
@@ -29,6 +29,36 @@
       "name_ja": "カルディ",
       "name_en": "KALDI COFFEE FARM",
       "website": "https://www.kaldi.co.jp/"
+    },
+    {
+      "id": "ucc",
+      "name_ja": "UCC",
+      "name_en": "UCC Ueshima Coffee",
+      "website": "https://store.ucc.co.jp/"
+    },
+    {
+      "id": "hoshino",
+      "name_ja": "星乃珈琲",
+      "name_en": "Hoshino Coffee",
+      "website": "https://hoshinocoffee.com/"
+    },
+    {
+      "id": "ogawa",
+      "name_ja": "小川珈琲",
+      "name_en": "Ogawa Coffee",
+      "website": "https://oc-shop.co.jp/"
+    },
+    {
+      "id": "sarutahiko",
+      "name_ja": "猿田彦珈琲",
+      "name_en": "Sarutahiko Coffee",
+      "website": "https://sarutahiko.jp/"
+    },
+    {
+      "id": "bluebottle",
+      "name_ja": "ブルーボトルコーヒー",
+      "name_en": "Blue Bottle Coffee",
+      "website": "https://store.bluebottlecoffee.jp/"
     }
   ]
 }

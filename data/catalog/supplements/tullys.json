@@ -1,0 +1,110 @@
+{
+  "chain_id": "tullys",
+  "beans": [
+    {
+      "product_id": "gTCJ-beans-260318-0001",
+      "taste_notes": "ナッツのような香ばしさと、バランスの取れた甘みと酸味。",
+      "processing": "不明"
+    },
+    {
+      "product_id": "gTCJ-beans-260415-0003",
+      "taste_notes": "すっきりとした苦みの中に、心地よいコクと自然な甘みが広がる。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "menu-espresso_classico",
+      "taste_notes": "甘く華やかな香りと、リッチで深みのあるコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "menu-26_ethiopia_sidamo_g1",
+      "taste_notes": "花のような上品な香りと、柑橘系の爽やかな風味が調和した味わい。",
+      "processing": "ウォッシュド（水洗）"
+    },
+    {
+      "product_id": "menu-ethiopia_uraga",
+      "taste_notes": "ラズベリーやピーチのような爽やかさと、鮮やかなフルーティ感。",
+      "processing": "ナチュラル（自然乾燥）"
+    },
+    {
+      "product_id": "menu-cafe_au_lait_monire",
+      "taste_notes": "甘みとまろやかな風味、ほのかなコクがバランスよく調和。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "gTCJ-beans-25080113",
+      "taste_notes": "シトラスや紅茶を思わせる香りと、はちみつやカラメルのような甘み。",
+      "processing": "スイートウォッシュド"
+    },
+    {
+      "product_id": "menu-26cresent_moon",
+      "taste_notes": "ダークチョコレートのような濃厚さと、スモーキーな甘みが広がる。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "gTCJ-beans-25080103",
+      "taste_notes": "フローラルなアロマと、チョコレート・カラメルを思わせる明るい甘み。",
+      "processing": "スイートウォッシュド"
+    },
+    {
+      "product_id": "menu-26mandeheling_g1",
+      "taste_notes": "力強いコクと、ダークチョコレートのような重厚で深い余韻。",
+      "processing": "半水洗式"
+    },
+    {
+      "product_id": "gTCJ-beans-260805-0001",
+      "taste_notes": "フルーティな酸味と、カラメルやチョコレートのような甘い余韻。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0002",
+      "taste_notes": "軽やかな風味に、まろやかな甘みとほんのりとした心地よい酸味。",
+      "processing": "ナチュラル（自然乾燥）"
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0003",
+      "taste_notes": "華やかな香りと、完熟チェリーを思わせるやさしい甘みと上品な酸味。",
+      "processing": "不明"
+    },
+    {
+      "product_id": "menu-26tls_masters_note",
+      "taste_notes": "華やかな香りとフルーティ感、チョコレートのような豊かなコクが重なる。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "gTCJ-beans-25080118",
+      "taste_notes": "チョコレートやカラメルの香りに、カシューナッツのような風味と甘み。",
+      "processing": "マウンテンウォーター製法"
+    },
+    {
+      "product_id": "menu-house_blend",
+      "taste_notes": "すっきりとした酸味と、ほどよいコクが調和したバランスの良い風味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "menu-piccolo_bambino",
+      "taste_notes": "キャラメルのような香ばしい風味と、軽やかでマイルドな甘み。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "menu-french_roast",
+      "taste_notes": "リッチでスモーキーな香りと、深煎りならではの力強いコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "menu-blackthree",
+      "taste_notes": "心地よいアロマと、カラメルのような甘い余韻、深みのあるコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "menu-26honduras_erandique",
+      "taste_notes": "シトラスのような爽やかなフレーバーと、澄んだ風味が特徴。",
+      "processing": "不明"
+    },
+    {
+      "product_id": "menu-mocha_java",
+      "taste_notes": "華やかなアロマと、ワインを思わせる複雑なフルーティな風味。",
+      "processing": "ブレンド（複数精製）"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "chain_id": "starbucks",
+  "generated_at": "2026-08-08T18:53:17.836315+09:00",
+  "count": 32,
+  "ok": 32,
+  "failed": 0,
+  "beans": [
+    {
+      "product_id": "4524785492462",
+      "name": "スターバックス ライトノート ブレンド®",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492462",
+      "episode": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。軽やかで親しみやすい味わい。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492462",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_11.jpg",
+      "image_local": "data/images/starbucks/4524785492462.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492479",
+      "name": "ブレックファースト ブレンド",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492479",
+      "episode": "ブラウンシュガーやオレンジを思わせる風味とすっきりとした後味、マイルドな味わいのコーヒーです。一日の始まりにふさわしい、いきいきとしたコーヒーです。朝にぴったりなさわやかな味わい。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492479",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492479/4524785492479_11.jpg",
+      "image_local": "data/images/starbucks/4524785492479.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492479/4524785492479_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492479/4524785492479_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492479/4524785492479_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492486",
+      "name": "サイレン ブレンド®",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492486",
+      "episode": "フローラルやシトラスを思わせる風味、チョコレートの口あたりが特徴の、さわやかな味わいのコーヒー。スターバックスを象徴するサイレンの名をもつこのコーヒーは、コーヒー産業に携わるすべての女性に敬意を込めてブレンドしました。フローラルな香りとほどよいコク。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492486",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492486/4524785492486_11.jpg",
+      "image_local": "data/images/starbucks/4524785492486.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492486/4524785492486_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492486/4524785492486_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492486/4524785492486_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492493",
+      "name": "ケニア",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492493",
+      "episode": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。ケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。フルーティで鮮やかな味わい。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492493",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_11.jpg",
+      "image_local": "data/images/starbucks/4524785492493.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492509",
+      "name": "パイクプレイス® ロースト",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492509",
+      "episode": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。毎日でも楽しみたくなるコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492509",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_11.jpg",
+      "image_local": "data/images/starbucks/4524785492509.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492523",
+      "name": "グアテマラ アンティグア",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492523",
+      "episode": "ココアパウダーややわらかなスパイスの上品な香りが特徴の、洗練された味わいのコーヒーです。火山に囲まれたグアテマラ アンティグア地方の農園は、すばらしいコーヒーを栽培する生産地としてよく知られています。ココアを思わせる上品な味わい。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492523",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492523/4524785492523_11.jpg",
+      "image_local": "data/images/starbucks/4524785492523.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492523/4524785492523_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492523/4524785492523_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492523/4524785492523_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492547",
+      "name": "ハウス ブレンド",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492547",
+      "episode": "トフィーやココアを思わせる風味にほのかなローストの甘み、バランスのとれた味わい深いコーヒー。創業当時よりお届けしてきた私たちの原点と呼べるコーヒーです。創業当初よりお届けしてきたおもてなしの心あふれるブレンド。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492547",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492547/4524785492547_11.jpg",
+      "image_local": "data/images/starbucks/4524785492547.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492547/4524785492547_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492547/4524785492547_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492547/4524785492547_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492561",
+      "name": "ディカフェ ハウス ブレンド",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492561",
+      "episode": "トフィーやココアを思わせる風味にほのかなローストの甘み、バランスのとれた味わい深いコーヒー。創業当時よりお届けしてきた私たちの原点と呼べるコーヒーです。創業当初よりお届けしてきたおもてなしの心あふれるブレンドをカフェインレスコーヒーで。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492561",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492561/4524785492561_11.jpg",
+      "image_local": "data/images/starbucks/4524785492561.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492561/4524785492561_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492561/4524785492561_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492561/4524785492561_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492578",
+      "name": "コロンビア",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492578",
+      "episode": "みずみずしい酸味やほのかなハーブの風味、ナッツを思わせる後味が印象的なコーヒー。多くの火山が存在する、アンデス山脈の高地で栽培されたコーヒーです。ナッツを思わせる香ばしい味わい。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492578",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492578/4524785492578_11.jpg",
+      "image_local": "data/images/starbucks/4524785492578.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492578/4524785492578_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492578/4524785492578_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492578/4524785492578_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785379572",
+      "name": "TOKYO ロースト",
+      "buy_url": "https://menu.starbucks.co.jp/4524785379572",
+      "episode": "なめらかで深みのあるスマトラ産コーヒーにラテンアメリカ産コーヒーをブレンド。シナモンや、タラゴンを思わせるハーブの風味をもつ、まろやかで心温まるコーヒーです。スターバックス リザーブ® ロースタリー 東京でロースターが心をこめて焙煎したコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785379572",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785379572/4524785379572_11.jpg",
+      "image_local": "data/images/starbucks/4524785379572.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785379572/4524785379572_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785379572/4524785379572_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785379572/4524785379572_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492592",
+      "name": "スマトラ",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492592",
+      "episode": "豊かなハーブや大地を思わせる風味、しっかりとしたコクが特徴の忘れがたい印象のコーヒー。自然豊かなインドネシアのスマトラ島で栽培されたこのコーヒーは創業当初から多くのお客様に愛され続けています。大地を思わせる風味としっかりとしたコク。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492592",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492592/4524785492592_11.jpg",
+      "image_local": "data/images/starbucks/4524785492592.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492592/4524785492592_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492592/4524785492592_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492592/4524785492592_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492608",
+      "name": "コモド ドラゴン ブレンド®",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492608",
+      "episode": "フレッシュハーブやスパイスを思わせる風味が重なり合う、バターのようななめらかさが特徴のコーヒー。アジア/太平洋地域の多様な生産地のコーヒーをブレンドした、力強い味わいです。ハーブの風味とスパイシーな余韻。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492608",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492608/4524785492608_11.jpg",
+      "image_local": "data/images/starbucks/4524785492608.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492608/4524785492608_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492608/4524785492608_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492608/4524785492608_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492615",
+      "name": "カフェ ベロナ®",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492615",
+      "episode": "ダークココアやカラメルシュガーを思わせる豊かな味わいのコーヒー。チョコレートと相性ぴったりです。人々を魅了するその味わいから、真実の愛のストーリーで知られる街の名前が付けられたロマンスあふれるコーヒーです。ダークココアのような口あたり。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492615",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492615/4524785492615_11.jpg",
+      "image_local": "data/images/starbucks/4524785492615.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492615/4524785492615_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492615/4524785492615_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492615/4524785492615_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492639",
+      "name": "エスプレッソ ロースト",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492639",
+      "episode": "濃厚なモラセスやキャラメルのような甘みと風味が特徴のコーヒー。すべてのエスプレッソドリンクのベースとして世界中でお出ししている味わいは、他の抽出方法でもお楽しみいただけます。ミルクとの相性ぴったりの豊かな風味。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492639",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492639/4524785492639_11.jpg",
+      "image_local": "data/images/starbucks/4524785492639.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492639/4524785492639_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492639/4524785492639_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492639/4524785492639_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785515079",
+      "name": "イタリアン ロースト",
+      "buy_url": "https://menu.starbucks.co.jp/4524785515079",
+      "episode": "トーストしたマシュマロやダークココアを思わせる風味、ローストの甘みと力強さを感じるコーヒー。南イタリアの伝統的な焙煎方法にインスパイアされた深みのある味わいで、クリームや砂糖と相性ぴったりです。ローストの甘みと力強い風味。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785515079",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785515079/4524785515079_11.jpg",
+      "image_local": "data/images/starbucks/4524785515079.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785515079/4524785515079_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785515079/4524785515079_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785515079/4524785515079_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785492653",
+      "name": "フレンチ ロースト",
+      "buy_url": "https://menu.starbucks.co.jp/4524785492653",
+      "episode": "ダークローストによる甘くスモーキーな香りとカラメルを思わせる風味をもつ、力強い味わいのコーヒー。高温でのローストに耐えられるコーヒー豆を選りすぐり、ぎりぎりまでローストしたスターバックスで最も深煎りのコーヒーです。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492653",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492653/4524785492653_11.jpg",
+      "image_local": "data/images/starbucks/4524785492653.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492653/4524785492653_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492653/4524785492653_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492653/4524785492653_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785647589",
+      "name": "JAPAN'S 30TH ANNIVERSARY スマトラ マサ デパン Daisuke Kondo",
+      "buy_url": "https://menu.starbucks.co.jp/4524785647589",
+      "episode": "みずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。アーティストDaisuke Kondoが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。日本でのスターバックス創業30周年を記念したコーヒー。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785647589",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647589/4524785647589_11.jpg",
+      "image_local": "data/images/starbucks/4524785647589.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647589/4524785647589_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647589/4524785647589_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647589/4524785647589_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785647596",
+      "name": "JAPAN'S 30TH ANNIVERSARY スマトラ マサ デパン Shogo Ota",
+      "buy_url": "https://menu.starbucks.co.jp/4524785647596",
+      "episode": "みずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。アーティストShogo Otaが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。日本でのスターバックス創業30周年を記念したコーヒー。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785647596",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647596/4524785647596_11.jpg",
+      "image_local": "data/images/starbucks/4524785647596.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647596/4524785647596_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647596/4524785647596_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647596/4524785647596_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785647602",
+      "name": "JAPAN'S 30TH ANNIVERSARY スマトラ マサ デパン nico ito",
+      "buy_url": "https://menu.starbucks.co.jp/4524785647602",
+      "episode": "みずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。アーティストnico itoが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。日本でのスターバックス創業30周年を記念したコーヒー。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785647602",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647602/4524785647602_11.jpg",
+      "image_local": "data/images/starbucks/4524785647602.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647602/4524785647602_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647602/4524785647602_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647602/4524785647602_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785557536",
+      "name": "スターバックス® カティ カティ ブレンド",
+      "buy_url": "https://menu.starbucks.co.jp/4524785557536",
+      "episode": "フローラルな香りと赤いベリーやピンクグレープフルーツを思わせる風味が、みずみずしい口あたりにより引き立てられる、甘みをともなう華やかなコーヒーです。東アフリカ産コーヒーの表情豊かな魅力を存分にお楽しみいただけます。夏のコーヒータイムを彩る、華やかな味わいのコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785557536",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557536/4524785557536_11.jpg",
+      "image_local": "data/images/starbucks/4524785557536.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557536/4524785557536_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557536/4524785557536_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557536/4524785557536_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785598683",
+      "name": "スターバックス® アイスコーヒー ブレンド",
+      "buy_url": "https://menu.starbucks.co.jp/4524785598683",
+      "episode": "ブラウンシュガーやミルクチョコレートを思わせる香ばしさや甘み、後味のすっきりさが心地よいバランスのとれた味わいのコーヒーです。どのような飲み方でもお楽しみいただける、アイスコーヒーのためのブレンドです。アイスコーヒーにぴったりな夏の定番。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785598683",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785598683/4524785598683_11.jpg",
+      "image_local": "data/images/starbucks/4524785598683.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785598683/4524785598683_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785598683/4524785598683_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785598683/4524785598683_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785647824",
+      "name": "ウガンダ マウント エルゴン",
+      "buy_url": "https://menu.starbucks.co.jp/4524785647824",
+      "episode": "ストーンフルーツやバニラビーンズを思わせる甘みをおびた風味、なめらかな口あたりとほのかなスパイスのような余韻を感じられるコーヒーです。ウガンダとケニアの国境にそびえる火山・エルゴン山の斜面で、生産者たちが情熱をもって栽培したコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785647824",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647824/4524785647824_11.jpg",
+      "image_local": "data/images/starbucks/4524785647824.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647824/4524785647824_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647824/4524785647824_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647824/4524785647824_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647824/4524785647824_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785643383",
+      "name": "ルワンダ アバクンダカワ",
+      "buy_url": "https://menu.starbucks.co.jp/4524785643383",
+      "episode": "ドライアプリコットや糸飴を思わせる甘みに松の実のような香ばしさと繊細なフローラルさが重なる味わいのコーヒーです。「コーヒーを愛する人たち」という名前をもち、女性たちが中心となって活動しているルワンダの協同組合から届けられたコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785643383",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785643383/4524785643383_11.jpg",
+      "image_local": "data/images/starbucks/4524785643383.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785643383/4524785643383_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785643383/4524785643383_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785643383/4524785643383_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785643383/4524785643383_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785637047",
+      "name": "コロンビア フィンカ ポトシ ブラック ハニー",
+      "buy_url": "https://menu.starbucks.co.jp/4524785637047",
+      "episode": "甘みをおびたマルベリーのような風味と、なめらかなホワイトチョコレートを思わせる余韻が長く続く、複雑で豊かな味わいのコーヒーです。希少なブルボン シドラ種の豆を革新的な方法で加工した豊かな味わいのコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785637047",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637047/4524785637047_11.jpg",
+      "image_local": "data/images/starbucks/4524785637047.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637047/4524785637047_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637047/4524785637047_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637047/4524785637047_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637047/4524785637047_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785637054",
+      "name": "サンドライド ブラジル ファゼンダ サン ジョアン",
+      "buy_url": "https://menu.starbucks.co.jp/4524785637054",
+      "episode": "ヘーゼルナッツチョコレートやアプリコットを思わせる味わいと、清涼感のあるハーブのような風味がほのかに感じられるコーヒーです。100年以上の長い歴史をもちながらも、栽培管理に新しい技術を積極的に採用して生産に取り組む農園から届いたコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785637054",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637054/4524785637054_11.jpg",
+      "image_local": "data/images/starbucks/4524785637054.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637054/4524785637054_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637054/4524785637054_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637054/4524785637054_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637054/4524785637054_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785629387",
+      "name": "ナチュラル エチオピア チェレレクツ",
+      "buy_url": "https://menu.starbucks.co.jp/4524785629387",
+      "episode": "バニラのような香りとココアバターを思わせるなめらかな口あたりに、マンゴスチンのようなトロピカルな風味が広がる、甘みのある味わいのコーヒー。コーヒー発祥の国エチオピアで、コーヒーの伝統を守る生産者たちから届いた乾燥式のコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785629387",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629387/4524785629387_11.jpg",
+      "image_local": "data/images/starbucks/4524785629387.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629387/4524785629387_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629387/4524785629387_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629387/4524785629387_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629387/4524785629387_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785629394",
+      "name": "ニカラグア ブエノスアイレス マラゴジッペ",
+      "buy_url": "https://menu.starbucks.co.jp/4524785629394",
+      "episode": "メイヤーレモンやハイビスカスティーを思わせる鮮やかな味わい、デメララシロップのような甘みを感じさせながら、繊細なフローラルさが余韻まで続くコーヒーです。驚くほど大きなコーヒー豆が特徴のマラゴジッペ種のコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785629394",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629394/4524785629394_11.jpg",
+      "image_local": "data/images/starbucks/4524785629394.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629394/4524785629394_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629394/4524785629394_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629394/4524785629394_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629394/4524785629394_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785478190",
+      "name": "プリンチ® ブレンド",
+      "buy_url": "https://menu.starbucks.co.jp/4524785478190",
+      "episode": "キャラメルを思わせる甘みと豊かなコク、深みのあるダークチョコレートの風味が特徴のコーヒーです。Princi® フードをより楽しむための特別なブレンド。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785478190",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478190/4524785478190_11.jpg",
+      "image_local": "data/images/starbucks/4524785478190.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478190/4524785478190_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478190/4524785478190_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478190/4524785478190_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478190/4524785478190_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785553880",
+      "name": "マイクロブレンド™ No.21",
+      "buy_url": "https://menu.starbucks.co.jp/4524785553880",
+      "episode": "キャンディードシトラスを思わせる風味が、ダークチョコレートのような味わいをまとったコーヒーです。最高のエスプレッソコーヒーを目指すために、ラテンアメリカとアフリカというふたつの産地のコーヒーをブレンドした、バランスのとれた味わいのコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785553880",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553880/4524785553880_11.jpg",
+      "image_local": "data/images/starbucks/4524785553880.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553880/4524785553880_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553880/4524785553880_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553880/4524785553880_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553880/4524785553880_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785553873",
+      "name": "マイクロブレンド™ No.10",
+      "buy_url": "https://menu.starbucks.co.jp/4524785553873",
+      "episode": "チョコレートやキャラメル、コーラを思わせる甘みのある味わいなど、様々な表情をのぞかせるコーヒーです。最高のコールドブリューの味わいを目指して、ラテンアメリカとアフリカのコーヒーをスターバックスの技術の粋を集めてブレンドしたコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785553873",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553873/4524785553873_11.jpg",
+      "image_local": "data/images/starbucks/4524785553873.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553873/4524785553873_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553873/4524785553873_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553873/4524785553873_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553873/4524785553873_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785478183",
+      "name": "ディカフェ コスタリカ ハシエンダ アルサシア®",
+      "buy_url": "https://menu.starbucks.co.jp/4524785478183",
+      "episode": "スターバックスの自社農園である、コスタリカのハシエンダ アルサシア農園で栽培されたコーヒーです。シトラスとミルクチョコレートの風味、はじけるような酸味が特徴のカフェインレスコーヒー。 コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785478183",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478183/4524785478183_11.jpg",
+      "image_local": "data/images/starbucks/4524785478183.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478183/4524785478183_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478183/4524785478183_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478183/4524785478183_2.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478183/4524785478183_10.jpg"
+      ]
+    },
+    {
+      "product_id": "4524785557826",
+      "name": "STARBUCKS RESERVE® コーヒーセレクション",
+      "buy_url": "https://menu.starbucks.co.jp/4524785557826",
+      "episode": "チョコレートとの相性ぴったり、エスプレッソ用に開発された深い味わいのNo.21と、アイスコーヒーにもおすすめ、コールドブリュー用に開発された表情豊かな味わいのNo.10をセットにしました。スターバックスの長年の経験を活かし、各生産地の個性豊かなコーヒーを最適な割合でブレンドしています。どちらもブリュードコーヒーでもその特徴をご堪能いただけます。内容 スターバックス リザーブ® マイクロブレンド No.10 1袋（Whole Bean 250g） スターバックス リザーブ® マイクロブレンド No.21 1袋（Whole Bean 250g） スターバックス リザーブのコーヒーの詰め合わせ。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785557826",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557826/4524785557826_11.jpg",
+      "image_local": "data/images/starbucks/4524785557826.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557826/4524785557826_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557826/4524785557826_1.jpg"
+      ]
+    }
+  ]
+}

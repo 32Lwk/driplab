@@ -1,0 +1,104 @@
+{
+  "version": "0.1.0",
+  "chain_id": "hoshino",
+  "scraped_at": "2026-08-08T21:20:45+0900",
+  "source": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345",
+  "beans": [
+    {
+      "id": "hoshino-blend-500g",
+      "chain_id": "hoshino",
+      "name": "星乃珈琲・珈琲豆【星乃ブレンド】（500g）",
+      "description": "星乃珈琲が店舗で提供しているメインとなるコーヒー豆です。 賞味期限は未開封で焙煎より10ヶ月です。商品は窒素充填されており、袋にはガス抜き弁が付いてますので、開封するまでは出来る限りの酸化防止をしております シティロースト。深みがあって余韻のある香りと、コクがあり酸味と甘味のバランスがとれた味わい。",
+      "roast_level": "medium",
+      "roast_label_ja": "シティロースト（中煎）",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "コク",
+        "酸味",
+        "甘み",
+        "香ばしさ"
+      ],
+      "acidity": 55,
+      "body": 58,
+      "bitterness": 52,
+      "sweetness": 72,
+      "caffeine": "medium",
+      "price_jpy": 2500,
+      "weight_g": 500,
+      "buy_url": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34500100",
+      "product_id": "34500100",
+      "source": "scraped",
+      "available": true,
+      "image_url": "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/34500100.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34500100.jpg"
+    },
+    {
+      "id": "hoshino-ice-blend-400g",
+      "chain_id": "hoshino",
+      "name": "星乃珈琲・珈琲豆【アイスブレンド】（400g）",
+      "description": "星乃珈琲が店舗で提供しているコーヒー豆です。アイスコーヒー用に深炒りで仕上げています。ホットコーヒー同様にドリップして氷を入れて急冷するだけで美味しいアイスコーヒーができます",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り（深炒り）",
+      "taste_label_ja": "コク・深煎り",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "アイス向き",
+        "苦味"
+      ],
+      "acidity": 40,
+      "body": 68,
+      "bitterness": 70,
+      "sweetness": 48,
+      "caffeine": "medium",
+      "price_jpy": 2000,
+      "weight_g": 400,
+      "buy_url": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34501100",
+      "product_id": "34501100",
+      "source": "scraped",
+      "available": true,
+      "image_url": "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/34501100.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34501100.jpg"
+    },
+    {
+      "id": "hoshino-hikoboshi-blend-100g",
+      "chain_id": "hoshino",
+      "name": "彦星ブレンド（豆）100g",
+      "description": "程よい苦味を味わいたい方への重厚なブレンド。香ばしさとコクが特徴で、酸味は控えめ。店舗レジにて100g単位で購入可能（オンライン豆販売なし）。",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "重厚・苦味",
+      "origin": [
+        "グアテマラ",
+        "コロンビア",
+        "ブラジル",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "香ばしさ",
+        "コク",
+        "苦味"
+      ],
+      "acidity": 35,
+      "body": 72,
+      "bitterness": 75,
+      "sweetness": 45,
+      "caffeine": "medium",
+      "price_jpy": 500,
+      "weight_g": 100,
+      "buy_url": "https://hoshinocoffee.com/shop.html",
+      "product_id": "hikoboshi-store",
+      "source": "store_menu",
+      "available": true,
+      "image_url": "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/hikoboshi-store.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/hikoboshi-store.jpg"
+    }
+  ]
+}

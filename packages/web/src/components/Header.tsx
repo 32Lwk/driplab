@@ -1,45 +1,48 @@
+"use client";
+
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { CoffeeIcon } from "./CoffeeIcon";
 
+const NAV_ITEMS = [
+  { href: "/", label: "今日の一杯" },
+  { href: "/beans", label: "豆一覧" },
+  { href: "/learn", label: "コーヒーを知る" },
+  { href: "/methods", label: "淹れ方" },
+] as const;
+
 export function Header() {
+  const pathname = usePathname();
+
   return (
-    <header
-      style={{
-        borderBottom: "1px solid var(--border)",
-        background: "var(--bg-elevated)",
-        padding: "1rem",
-      }}
-    >
-      <div
-        style={{
-          maxWidth: 1080,
-          margin: "0 auto",
-          display: "flex",
-          alignItems: "center",
-          gap: "0.75rem",
-        }}
-      >
-        <CoffeeIcon size={36} />
-        <div>
-          <h1
-            style={{
-              margin: 0,
-              fontSize: "1.25rem",
-              fontWeight: 700,
-              lineHeight: 1.2,
-            }}
-          >
-            DripLab
-          </h1>
-          <p
-            style={{
-              margin: 0,
-              fontSize: "0.8125rem",
-              color: "var(--text-muted)",
-            }}
-          >
-            気分で選ぶ、今日の一杯
-          </p>
-        </div>
+    <header className="site-header">
+      <div className="site-header-inner">
+        <Link href="/" className="site-brand">
+          <CoffeeIcon size={36} />
+          <div>
+            <span className="site-title">DripLab</span>
+            <span className="site-tagline">気分で選ぶ、今日の一杯</span>
+          </div>
+        </Link>
+
+        <nav className="site-nav" aria-label="メインメニュー">
+          {NAV_ITEMS.map(({ href, label }) => {
+            const active =
+              href === "/"
+                ? pathname === "/"
+                : pathname.startsWith(href);
+            return (
+              <Link
+                key={href}
+                href={href}
+                className={`nav-link${active ? " nav-link-active" : ""}`}
+                aria-current={active ? "page" : undefined}
+              >
+                {label}
+              </Link>
+            );
+          })}
+        </nav>
       </div>
     </header>
   );

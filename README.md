@@ -11,6 +11,11 @@
 - ドトールコーヒー
 - タリーズコーヒー
 - カルディ
+- UCC
+- 星乃珈琲
+- 小川珈琲
+- 猿田彦珈琲
+- ブルーボトルコーヒー
 
 ## 開発
 
@@ -33,8 +38,8 @@ npm run build -w @driplab/web
 driplab/
 ├── packages/
 │   ├── web/          # Next.js 15（UI + API Routes）
-│   └── recommender/  # レコメンドエンジン（160品目）
-├── data/catalog/     # beans.json（160品目）
+│   └── recommender/  # レコメンドエンジン（321品目）
+├── data/catalog/     # beans.json（321品目）
 ├── scrapers/         # チェーン別スクレイパー
 ├── infra/cloud-run/  # Cloud Run Dockerfile
 └── docs/
@@ -44,12 +49,13 @@ driplab/
 
 | ファイル | 内容 |
 |----------|------|
-| `data/catalog/beans.json` | 全チェーン統合（160品目） |
+| `data/catalog/beans.json` | 全チェーン統合（321品目） |
 | `data/catalog/mvp_beans.json` | シード15品目 |
 | `data/catalog/image_manifest.json` | R2 アップロード manifest |
 | `data/images/{chain}/` | 商品画像（R2 CDN に sync） |
 
-再生成: `py -3 -S scripts/merge_catalog.py`  
+再生成: `py -3 -S scripts/merge_catalog.py`（画像ダウンロード・`public/beans/` 同期まで自動）  
+画像のみ確認: `py -3 -S scripts/ensure_bean_images.py --strict`  
 R2 アップロード: `py -3 -S scripts/upload_images_r2.py`
 
 ## 技術スタック
@@ -58,7 +64,7 @@ R2 アップロード: `py -3 -S scripts/upload_images_r2.py`
 - API: Next.js API Routes（`/api/recommend`）
 - ホスティング: Cloud Run + Cloudflare Worker プロキシ
 - 画像 CDN: Cloudflare R2（`assets.coffee.yutok.dev`）
-- データ: JSON（160品目）
+- データ: JSON（321品目）
 
 ## 目標
 

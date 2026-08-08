@@ -1,14 +1,14 @@
 {
   "version": "0.1.0",
   "chain_id": "kaldi",
-  "scraped_at": "2026-08-08T15:56:20+09:00",
+  "scraped_at": "2026-08-08T22:04:17+09:00",
   "source": "https://www.kaldi.co.jp/ec/Facet?category_0=11010100000",
   "beans": [
     {
       "id": "kaldi-mild-kaldi-200g",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】マイルドカルディ/200g",
-      "description": "カルディコーヒーファームの看板ブレンド。持続する余韻。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。 バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくのもおすすめです。",
+      "description": "カルディコーヒーファームの看板ブレンド。持続する余韻。こだわりの価格。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。 バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくの",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
       "taste_label_ja": "やわらかな甘み",
@@ -32,14 +32,13 @@
       "image_url": "https://www.kaldi.co.jp/ec/img/050/4515996019050_M_1m.jpg",
       "image_local": "data/images/kaldi/4515996019050.jpg",
       "source": "scraped",
-      "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019050.jpg"
+      "available": true
     },
     {
       "id": "kaldi-mocha-blend-200g",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】モカブレンド/200g",
-      "description": "モカの甘く芳醇な香り。エチオピア産モカの甘く華やかな香りが特徴のブレンドです。赤い果実のような芳醇な風味をお楽しみください。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommen",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
       "taste_label_ja": "爽やかな酸味",
@@ -49,8 +48,7 @@
         "ブレンド"
       ],
       "flavor_tags": [
-        "甘み",
-        "芳醇"
+        "バランス"
       ],
       "acidity": 72,
       "body": 50,
@@ -64,14 +62,13 @@
       "image_url": "https://www.kaldi.co.jp/ec/img/052/4515996015052_M_1m.jpg",
       "image_local": "data/images/kaldi/4515996015052.jpg",
       "source": "scraped",
-      "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015052.jpg"
+      "available": true
     },
     {
       "id": "kaldi-kilimanjaro-200g",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】キリマンジャロ/200g",
-      "description": "甘酸っぱい香りとキレのある酸味。アフリカ最高峰のキリマンジャロ山で有名なタンザニアのコーヒーです。甘酸っぱい果実を思わせる、キレの良い酸味が特徴です。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommen",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
       "taste_label_ja": "爽やかな酸味",
@@ -79,8 +76,7 @@
         "タンザニア"
       ],
       "flavor_tags": [
-        "甘み",
-        "酸味"
+        "バランス"
       ],
       "acidity": 72,
       "body": 50,
@@ -94,8 +90,7 @@
       "image_url": "https://www.kaldi.co.jp/ec/img/120/4515996015120_M_1m.jpg",
       "image_local": "data/images/kaldi/4515996015120.jpg",
       "source": "scraped",
-      "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015120.jpg"
+      "available": true
     }
   ]
 }

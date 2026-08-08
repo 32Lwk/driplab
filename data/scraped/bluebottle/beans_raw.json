@@ -1,0 +1,848 @@
+{
+  "version": "0.1.0",
+  "chain_id": "bluebottle",
+  "source": "https://store.bluebottlecoffee.jp",
+  "scraped_at": "2026-08-08T10:52:50+09:00",
+  "count": 17,
+  "skipped": [
+    {
+      "handle": "s048",
+      "name": "【オンライン限定】お試しブレンドセレクション",
+      "reason": "multi-pack set"
+    },
+    {
+      "handle": "c255",
+      "name": "エスプレッソ クラフトインスタントコーヒー 5本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "c241",
+      "name": "ブライト クラフトインスタントコーヒー 5本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s341",
+      "name": "【オンライン限定】エスプレッソ クラフトインスタントコーヒー 5本セット 封筒型",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s342",
+      "name": "【オンライン限定】エスプレッソ クラフトインスタントコーヒー 10本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s343",
+      "name": "エスプレッソ クラフトインスタントコーヒー 15本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s344",
+      "name": "【オンライン限定】エスプレッソ クラフトインスタントコーヒー 50本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s358",
+      "name": "【オンライン限定】ブライト クラフトインスタントコーヒー 5本セット 封筒型",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s359",
+      "name": "【オンライン限定】ブライト クラフトインスタントコーヒー 10本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s360",
+      "name": "ブライト クラフトインスタントコーヒー 15本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s361",
+      "name": "【オンライン限定】ブライト クラフトインスタントコーヒー 50本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "c225",
+      "name": "クラフトインスタントコーヒーブレンド ノラ 5本セット",
+      "reason": "インスタントコーヒー"
+    },
+    {
+      "handle": "s242",
+      "name": "【オンライン限定】ブレンドセレクション ( 2種 )",
+      "reason": "multi-pack set"
+    },
+    {
+      "handle": "s006",
+      "name": "【オンライン限定】ブレンドセレクション（3種）",
+      "reason": "multi-pack set"
+    },
+    {
+      "handle": "s074",
+      "name": "【オンライン限定】お試しシングルオリジンセレクション",
+      "reason": "multi-pack set"
+    }
+  ],
+  "scraping_notes": [
+    "Official EC: https://store.bluebottlecoffee.jp (Shopify). Corporate site bluebottlecoffee.jp links here for online bean sales.",
+    "Catalog fetched via Shopify JSON API: /collections/coffee/products.json?limit=250 (29 products total in coffee collection).",
+    "Whole-bean filter: product_type === 'コーヒー豆'. Excluded 11 instant-coffee SKUs and 4 multi-pack selection sets.",
+    "All whole beans sold as whole bean only; store explicitly states no grinding service (挽き売りなし).",
+    "Standard blends are 200g @ ¥1,950–2,550. Seasonal/single-origin offer 100g (¥1,484) and 200g (¥2,800) variants on same product page.",
+    "Roast labels use Blue Bottle terminology: バランス (medium) and ボールド (dark). Some SKUs omit explicit roast label; inferred from description (e.g. 東京喫茶=深煎り, Bright/Bold from product name).",
+    "Single-origin roster rotates seasonally; as of 2026-08-08: Sumatra Kerinci, Honduras Santa Bárbara, Rwanda Nyamasheke.",
+    "アウトドアブレンド (c154) was SOLD OUT at scrape time.",
+    "Product IDs are Shopify handles (e.g. c001); variant suffix added for multi-weight SO (-100g / -200g)."
+  ],
+  "beans": [
+    {
+      "id": "bluebottle-outdoor-blend-200g",
+      "product_id": "c154",
+      "shopify_product_id": 6865394696240,
+      "shopify_variant_id": 40127485149232,
+      "chain_id": "bluebottle",
+      "name": "アウトドアブレンド",
+      "description": "「アウトドアでのコーヒー体験をさらに特別なものにするコーヒーを作りたい」 その想いからアウトドア ブレンドは誕生しました。 大自然の中で育つ農作物であるコーヒーの、その産地ならではの個性が楽しめることはもちろん、 アウトドアシーンならではの変動要素の中でも抽出しやすさも考慮されたこのブレンドは、 登山やピクニックなど幅広いアウトドアでのコーヒー体験をより美味しく、特別なものにしてくれます。 やや深めに焙煎したエチオピア産とコロンビア産のコーヒー豆をベースにより浅めに焙煎したエチオピア産のコーヒーをアクセントとして加えています。深みとコクのあるキャラメルのような甘みを引き出し、華やかさを添えたバランスの良いブレンドです。 淹れたては、キャラメルやココアのようなフレーバーが感じられ、温度が下がるにつれてアクセントとなる明るい華やかなフレーバーが感じられ、より複雑な味わいへと変化していきます。 自然のゆったりとした時間の中で、 最後の一滴までお楽しみください。 ハンドドリップやフレンチプレスなどブラックコーヒーとしてはもちろん、エアロプレスやモカポットなどでエスプレッソにして、ミルクと合わせるのもおすすめです。 ラベルのイラストは、ロサンゼルス在住の作家カツヲ・デザインのアートディレクター半田淳也さんのディレクションのもと、山の稜線とコーヒーが抽出される様子が表現されています。",
+      "roast": "ボールド",
+      "roast_label_ja": "ボールド",
+      "roast_level": "dark",
+      "taste_label_ja": "コク・ダーク",
+      "body_label": "ミディアム",
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "エチオピア",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ミルクチョコレート",
+        "ピーチコンポート",
+        "トーストされたマシュマロ"
+      ],
+      "acidity": 38,
+      "body": 70,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2400,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c154",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/products/outdoor_blend.jpg?v=1747292866",
+      "image_local": "data/images/bluebottle/c154.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c154.jpg",
+      "source": "scraped",
+      "available": false,
+      "tags": [
+        "750",
+        "label2:_ブレンド",
+        "label2:_展開店舗限定",
+        "コーヒー豆",
+        "展開"
+      ]
+    },
+    {
+      "id": "bluebottle-giant-steps-200g",
+      "product_id": "c002",
+      "shopify_product_id": 4510525784112,
+      "shopify_variant_id": 31908727291952,
+      "chain_id": "bluebottle",
+      "name": "ジャイアント・ステップス",
+      "description": "ハードボイルドさ漂う、ブルーボトルコーヒーの中で最も力強いコーヒーブレンドです。深めの焙煎から生まれる、このたくましいブレンドは、フレンチプレスやハンドドリップで美味しさを発揮します。 しっかりとしたボディとコクのあるブレンド。濃厚でチョコレートのような味わいはミルクとの相性も抜群。",
+      "roast": "ボールド",
+      "roast_label_ja": "ボールド",
+      "roast_level": "dark",
+      "taste_label_ja": "コク・ダーク",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "ペルー",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ココア",
+        "トーストされたマシュマロ",
+        "グラハムクラッカー"
+      ],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c002",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c002___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c002.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_ブレンド",
+        "spo-default",
+        "spo-disabled"
+      ]
+    },
+    {
+      "id": "bluebottle-sumatra-kerinci-100g",
+      "product_id": "c229670-100g",
+      "shopify_product_id": 8020771405872,
+      "shopify_variant_id": 43384489672752,
+      "chain_id": "bluebottle",
+      "name": "スマトラ・クリンチ・ソロク ラジョ・ウェットハル 100g",
+      "description": "アジア屈指の高品質なコーヒー産地スマトラ島クリンチ地方からお届け クラシックな味わいの奥深い魅力を引き出したスマトラ産シングルオリジンコーヒー。 明るい酸味とシロップのようなフルボディ、スパイスを思わせる豊かな風味が心地よく重なります。 難易度が高いとされる伝統的な「ウェットハル精製」に細心の注意を払うことで、スマトラ産ならではのアーシーで複雑な風味を引き出しつつ、驚くほどクリーンな味わいを実現。 「人々と地球のためのコーヒーを」と掲げ、環境のサステナビリティに注力する生産者の情熱が詰まった特別な一杯をご堪能ください。 ※100gは通常デザインのラベルでお届けします。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "複雑・ボディ感",
+      "body_label": "フル",
+      "acidity_label": "明るい、複雑",
+      "processing": "ウェットハル",
+      "coffee_type": "シングルオリジン",
+      "origin": [
+        "西スマトラ"
+      ],
+      "flavor_tags": [
+        "ダークチョコレート",
+        "クローブ",
+        "チェリー"
+      ],
+      "acidity": 70,
+      "body": 65,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1484,
+      "weight_g": 100,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c229670",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c229668__-__01.webp?v=1784106583",
+      "image_local": "data/images/bluebottle/c229670-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229670-100g.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_new",
+        "label2:_シングルオリジン",
+        "コーヒー豆",
+        "シングルオリジン"
+      ]
+    },
+    {
+      "id": "bluebottle-sumatra-kerinci-200g",
+      "product_id": "c229670-200g",
+      "shopify_product_id": 8020771405872,
+      "shopify_variant_id": 43384489705520,
+      "chain_id": "bluebottle",
+      "name": "スマトラ・クリンチ・ソロク ラジョ・ウェットハル 200g",
+      "description": "アジア屈指の高品質なコーヒー産地スマトラ島クリンチ地方からお届け クラシックな味わいの奥深い魅力を引き出したスマトラ産シングルオリジンコーヒー。 明るい酸味とシロップのようなフルボディ、スパイスを思わせる豊かな風味が心地よく重なります。 難易度が高いとされる伝統的な「ウェットハル精製」に細心の注意を払うことで、スマトラ産ならではのアーシーで複雑な風味を引き出しつつ、驚くほどクリーンな味わいを実現。 「人々と地球のためのコーヒーを」と掲げ、環境のサステナビリティに注力する生産者の情熱が詰まった特別な一杯をご堪能ください。 ※100gは通常デザインのラベルでお届けします。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "複雑・ボディ感",
+      "body_label": "フル",
+      "acidity_label": "明るい、複雑",
+      "processing": "ウェットハル",
+      "coffee_type": "シングルオリジン",
+      "origin": [
+        "西スマトラ"
+      ],
+      "flavor_tags": [
+        "ダークチョコレート",
+        "クローブ",
+        "チェリー"
+      ],
+      "acidity": 70,
+      "body": 65,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2800,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c229670",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c229668__-__01.webp?v=1784106583",
+      "image_local": "data/images/bluebottle/c229670-200g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229670-200g.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_new",
+        "label2:_シングルオリジン",
+        "コーヒー豆",
+        "シングルオリジン"
+      ]
+    },
+    {
+      "id": "bluebottle-three-africas-200g",
+      "product_id": "c003",
+      "shopify_product_id": 4510526537776,
+      "shopify_variant_id": 31908733452336,
+      "chain_id": "bluebottle",
+      "name": "スリー・アフリカズ",
+      "description": "スリーアフリカズはアフリカの3種類のコーヒー豆のブレンドでチョコレートのようなアロマが特徴です。好みが分かれそうなシングルオリジンのコーヒーとは異なり、このブレンドが持つ程よいボディと複雑さ、クリーンな後味はたくさんの方が飲みやすいと感じてくれるはずです。 ベリーのような甘みと爽やかなシトラス、チョコレートのような風味が複雑に重なりあったすっきりとした後味のコーヒーブレンドです。 コールドブリューでも美味しく召し上がれます。",
+      "roast": "バランス",
+      "roast_label_ja": "バランス",
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "エチオピア",
+        "ルワンダ"
+      ],
+      "flavor_tags": [
+        "ゴールデンレーズン",
+        "ワイニーブルーベリー",
+        "レモンゼスト"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c003",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c003___03new.webp?v=1780280568",
+      "image_local": "data/images/bluebottle/c003.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c003.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_ブレンド"
+      ]
+    },
+    {
+      "id": "bluebottle-night-light-decaf-200g",
+      "product_id": "c076",
+      "shopify_product_id": 4616676278320,
+      "shopify_variant_id": 32245056077872,
+      "chain_id": "bluebottle",
+      "name": "ナイトライト・ディカフェ",
+      "description": "滑らかでありながら、しっかりとした味わい 深煎りでクリーミー、マイルドで、麦のような甘さを最大限に引き出しています。 ミルクとの相性も良く、どんな淹れ方でもおいしく楽しむことができるカフェインレスコーヒーです。 このコーヒーは化学薬品を使用しない「マウンテン ウォーター製法」で精製しています。 豆に与える負荷が少なく、より一貫性がある仕上がりと新鮮な味わいが期待できる精製方法です。 1日のはじまりから心やすらぐひとときまで、充実したコーヒータイムをお過ごしください。",
+      "roast": "ボールド",
+      "roast_label_ja": "ボールド",
+      "roast_level": "dark",
+      "taste_label_ja": "カフェインレス",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "クリームブリュレ",
+        "バニラ",
+        "キーライム"
+      ],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 48,
+      "caffeine": "low",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c076",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c076__-__03new.webp?v=1780280568",
+      "image_local": "data/images/bluebottle/c076.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c076.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "spo-default",
+        "spo-disabled",
+        "ディカフェ"
+      ]
+    },
+    {
+      "id": "bluebottle-human-made-past-200g",
+      "product_id": "c115",
+      "shopify_product_id": 6648356667440,
+      "shopify_variant_id": 39622613631024,
+      "chain_id": "bluebottle",
+      "name": "ブルーボトルコーヒー × ヒューマンメイド パスト ブレンド",
+      "description": "過去と未来の融合をコンセプトとするHUMAN MADEとコラボレートしたブレンドコーヒー。 コーヒー発祥の地であり、長い歴史を持つエチオピア産のコーヒー豆を使用しています。 ローストレベルを変えた2種類をブレンドすることで、深めにローストしたコーヒーのブラックベリーやメープルのような甘みと、 軽めにローストしたコーヒーのフルーティでハイビスカスのような香りが合わさり、酸味がマイルドでリッチなテイストに仕上がりました。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "バランス",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "ハイビスカス",
+        "コンコードグレープ",
+        "メープルシロップ"
+      ],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 2400,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c115",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c115__-x-_-_-__01new.webp?v=1771220476",
+      "image_local": "data/images/bluebottle/c115.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c115.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "label2:_ブレンド",
+        "label2:_展開店舗限定"
+      ]
+    },
+    {
+      "id": "bluebottle-human-made-future-200g",
+      "product_id": "c107",
+      "shopify_product_id": 6566233145392,
+      "shopify_variant_id": 39443456786480,
+      "chain_id": "bluebottle",
+      "name": "ブルーボトルコーヒー × ヒューマンメイド フューチャー ブレンド",
+      "description": "過去と未来の融合をコンセプトとするHUMAN MADEとコラボレートしたブレンドコーヒー。 ベリーのようなフローラルなフレーバーを持つコーヒー豆をベースに、 キャラメルやココアの風味をほのかに持つコーヒー豆をブレンドし、重くなりすぎない深みと奥行きを与えています。 甘みが多くバランスが取れているので親しみやすく、記憶に残るユニークな味に仕上がっています。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "エチオピア",
+        "メキシコ"
+      ],
+      "flavor_tags": [
+        "ジャスミン",
+        "ブルーベリー",
+        "キャラメル"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2400,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c107",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c107__-x-_-_-__01new.webp?v=1771220365",
+      "image_local": "data/images/bluebottle/c107.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c107.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "label2:_ブレンド",
+        "label2:_展開店舗限定"
+      ]
+    },
+    {
+      "id": "bluebottle-bright-blend-200g",
+      "product_id": "c080",
+      "shopify_product_id": 4649472262192,
+      "shopify_variant_id": 32342694592560,
+      "chain_id": "bluebottle",
+      "name": "ブルーボトルコーヒー ブライト ブレンド",
+      "description": "ブライト ブレンドは、東アフリカのコーヒー豆をベースとした、フルーティーで爽やかな酸味のあるブレンドコーヒー。ライトローストによって、コーヒーの自然な輝きを保ち、元気に一日をスタートしたいときや、午後の休憩時に最適なコーヒーです。非常にバランスのとれたコーヒーのため、牛乳との相性も良く、ホットでもアイスでもお楽しみいただけます。 ※コーヒー豆はオーガニック認証を受けたものを使用しています。",
+      "roast": "バランス",
+      "roast_label_ja": "バランス",
+      "roast_level": "medium",
+      "taste_label_ja": "バランス",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "メキシコ",
+        "エチオピア"
+      ],
+      "flavor_tags": [],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 1950,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c080",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c080__-_-__03new.webp?v=1780280568",
+      "image_local": "data/images/bluebottle/c080.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c080.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "label2:_ブレンド",
+        "label2:_展開店舗限定",
+        "spo-default",
+        "spo-disabled"
+      ]
+    },
+    {
+      "id": "bluebottle-bold-blend-200g",
+      "product_id": "c079",
+      "shopify_product_id": 4649471737904,
+      "shopify_variant_id": 32342692757552,
+      "chain_id": "bluebottle",
+      "name": "ブルーボトルコーヒー ボールド ブレンド",
+      "description": "ボールド ブレンドは、リッチで心地よいブレンドです。ダークローストによって、コーヒーに自然に存在するココアやキャラメルのようなフレーバーを引き出しています。日差しが爽やかな朝や、雨が降り続ける昼下がりでさえも最適なコーヒーです。 バランスの良いボールド ブレンドは、アイスでもホットでもそのフレーバーをお楽しみいただけます。 ※コーヒー豆はオーガニック認証を受けたものを使用しています。",
+      "roast": "ボールド",
+      "roast_label_ja": "ボールド",
+      "roast_level": "dark",
+      "taste_label_ja": "コク・ダーク",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "メキシコ",
+        "コロンビア"
+      ],
+      "flavor_tags": [],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 48,
+      "caffeine": "medium",
+      "price_jpy": 1950,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c079",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c079__-_-__03new.webp?v=1780280568",
+      "image_local": "data/images/bluebottle/c079.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c079.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "label2:_ブレンド",
+        "label2:_展開店舗限定"
+      ]
+    },
+    {
+      "id": "bluebottle-hayes-valley-espresso-200g",
+      "product_id": "c004",
+      "shopify_product_id": 4510528995376,
+      "shopify_variant_id": 31908743413808,
+      "chain_id": "bluebottle",
+      "name": "ヘイズ・バレー・エスプレッソ",
+      "description": "2005年、サンフランシスコ市内のヘイズバレー キオスク店オープンを機に生み出されたエスプレッソブレンドです。 ブルーボトルコーヒーの商品の中でも、最もダークなエスプレッソと言えるでしょう。 ショットで飲むと、ずっしりした重さ、濃厚な赤茶色のクレマだけでなく、シルキーさを感じられます。ミルクを加えると、お砂糖入りのココアのような甘みが感じられ、わずか90mlのマキアートにも360mlのラテの中にもその存在を強く感じられます。ドリップで淹れても丸みのあるダークチョコレートのような甘みを感じられるブレンドです。 ダークチョコレートのようなコクとクリーミーな口あたり、ブラウンシュガーを思わせるエスプレッソブレンドはミルクとの相性抜群。",
+      "roast": "ボールド",
+      "roast_label_ja": "ボールド",
+      "roast_level": "dark",
+      "taste_label_ja": "コク・ダーク",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "コロンビア",
+        "ペルー",
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "ベーキングチョコレート",
+        "オレンジゼスト",
+        "ブラウンシュガー"
+      ],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c004",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c004___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c004.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_ブレンド",
+        "spo-default",
+        "spo-disabled"
+      ]
+    },
+    {
+      "id": "bluebottle-bella-donovan-200g",
+      "product_id": "c001",
+      "shopify_product_id": 4510585356336,
+      "shopify_variant_id": 31908988878896,
+      "chain_id": "bluebottle",
+      "name": "ベラ・ドノヴァン",
+      "description": "ベリーの繊細さと仄かなスモーキーさの絶妙なバランスを持った、ブルーボトルコーヒーで最も人気のドリップコーヒーといえば、ベラ・ドノヴァン。 絶妙なバランスは、モカとジャバのスタンダードなブレンドを私たちの好みにアレンジして作られています。 少し浅めの焙煎度合ですが、掛け合わせることで深みを生み出します。上品すぎず、主張しすぎることなく洗練された味は、最高級のコーヒーにも匹敵する程です。",
+      "roast": "バランス",
+      "roast_label_ja": "バランス",
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "エチオピア",
+        "ペルー",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ラズベリー",
+        "チョコレート",
+        "モラセス"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c001",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c001___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c001.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_ブレンド"
+      ]
+    },
+    {
+      "id": "bluebottle-honduras-santa-barbara-100g",
+      "product_id": "c229156-100g",
+      "shopify_product_id": 7974952566832,
+      "shopify_variant_id": 43050549739568,
+      "chain_id": "bluebottle",
+      "name": "ホンジュラス・サンタバーバラ・ベネフィシオ サン ビセンテ・ウォッシュド 100g",
+      "description": "ラテンアメリカの中でも人気のコーヒー産地「サンタバーバラ」 伝統的なウォッシュド精製を施したホンジュラス産シングルオリジンコーヒー。 このコーヒーはキャラメルとブラウンシュガーを思わせる甘さと、みずみずしいシトラスのような酸味が特徴です。 サンタバーバラは標高が高く、ホンジュラスのほかの地域と比べて気温が低くて霧っぽい気候のため、チェリーがゆっくりと成長することで甘みと複雑さをもったコーヒーを生み出しています。 明るい甘さと風味をしっかりと感じられるサンタバーバラらしいクリーンな一杯をお楽しみください。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": "ミディアム",
+      "acidity_label": "明るい",
+      "processing": "ウォッシュド",
+      "coffee_type": "シングルオリジン",
+      "origin": [
+        "ホンジュラス サンタ・バルバラ県"
+      ],
+      "flavor_tags": [
+        "キャラメル",
+        "プラム",
+        "グレープフルーツ"
+      ],
+      "acidity": 62,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1484,
+      "weight_g": 100,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c229156",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c000___03new_2acd5cce-b0dd-4c25-84cc-fdb172642e2b.webp?v=1774505390",
+      "image_local": "data/images/bluebottle/c229156-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229156-100g.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_シングルオリジン"
+      ]
+    },
+    {
+      "id": "bluebottle-honduras-santa-barbara-200g",
+      "product_id": "c229156-200g",
+      "shopify_product_id": 7974952566832,
+      "shopify_variant_id": 43050549772336,
+      "chain_id": "bluebottle",
+      "name": "ホンジュラス・サンタバーバラ・ベネフィシオ サン ビセンテ・ウォッシュド 200g",
+      "description": "ラテンアメリカの中でも人気のコーヒー産地「サンタバーバラ」 伝統的なウォッシュド精製を施したホンジュラス産シングルオリジンコーヒー。 このコーヒーはキャラメルとブラウンシュガーを思わせる甘さと、みずみずしいシトラスのような酸味が特徴です。 サンタバーバラは標高が高く、ホンジュラスのほかの地域と比べて気温が低くて霧っぽい気候のため、チェリーがゆっくりと成長することで甘みと複雑さをもったコーヒーを生み出しています。 明るい甘さと風味をしっかりと感じられるサンタバーバラらしいクリーンな一杯をお楽しみください。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": "ミディアム",
+      "acidity_label": "明るい",
+      "processing": "ウォッシュド",
+      "coffee_type": "シングルオリジン",
+      "origin": [
+        "ホンジュラス サンタ・バルバラ県"
+      ],
+      "flavor_tags": [
+        "キャラメル",
+        "プラム",
+        "グレープフルーツ"
+      ],
+      "acidity": 62,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2800,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c229156",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c000___03new_2acd5cce-b0dd-4c25-84cc-fdb172642e2b.webp?v=1774505390",
+      "image_local": "data/images/bluebottle/c229156-200g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229156-200g.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_シングルオリジン"
+      ]
+    },
+    {
+      "id": "bluebottle-rwanda-nyamasheke-100g",
+      "product_id": "c219484-100g",
+      "shopify_product_id": 7931545583664,
+      "shopify_variant_id": 42874889568304,
+      "chain_id": "bluebottle",
+      "name": "ルワンダ・ニャマシェケ・ニャブメラ・ナチュラル 100g",
+      "description": "中々出会うことのできない希少性が高いルワンダ産ナチュラルコーヒ 赤く熟した果実やさっぱりしたシトラスの香りに、ジャムのような甘さと密度が高く明るいシロップのようなボディを持つルワンダ産シングルオリジンコーヒー。 多くのルワンダ産コーヒーと同様にゴールデンレーズンを思い出させ､バラとドライストロベリーのアロマは、そのフローラルさと複雑さをもってコーヒーをより際立たせています。 ルワンダ西部のニャマシェケ郡に位置し、地域最大規模のナーサリーを設立した経歴を持つ若い農家によって運営されているProvidence。 希望に満ちた未来を地域社会へ示して元気づける、熱意ある若き生産者によって成長し続けているルワンダの農園からお届けいたします。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": "ミディアム",
+      "acidity_label": "明るい、複雑",
+      "processing": "ナチュラル",
+      "coffee_type": "シングルオリジン",
+      "origin": [
+        "ルワンダ"
+      ],
+      "flavor_tags": [
+        "ドライストロベリー",
+        "ゴールデンレーズン",
+        "ローズ"
+      ],
+      "acidity": 78,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 1484,
+      "weight_g": 100,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c219484",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c000___03new_8fd80739-e737-444c-b0f9-edb4be2048e3.webp?v=1774576350",
+      "image_local": "data/images/bluebottle/c219484-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c219484-100g.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "label2:_シングルオリジン",
+        "コーヒー豆",
+        "シングルオリジン"
+      ]
+    },
+    {
+      "id": "bluebottle-rwanda-nyamasheke-200g",
+      "product_id": "c219484-200g",
+      "shopify_product_id": 7931545583664,
+      "shopify_variant_id": 42874889535536,
+      "chain_id": "bluebottle",
+      "name": "ルワンダ・ニャマシェケ・ニャブメラ・ナチュラル 200g",
+      "description": "中々出会うことのできない希少性が高いルワンダ産ナチュラルコーヒ 赤く熟した果実やさっぱりしたシトラスの香りに、ジャムのような甘さと密度が高く明るいシロップのようなボディを持つルワンダ産シングルオリジンコーヒー。 多くのルワンダ産コーヒーと同様にゴールデンレーズンを思い出させ､バラとドライストロベリーのアロマは、そのフローラルさと複雑さをもってコーヒーをより際立たせています。 ルワンダ西部のニャマシェケ郡に位置し、地域最大規模のナーサリーを設立した経歴を持つ若い農家によって運営されているProvidence。 希望に満ちた未来を地域社会へ示して元気づける、熱意ある若き生産者によって成長し続けているルワンダの農園からお届けいたします。",
+      "roast": null,
+      "roast_label_ja": null,
+      "roast_level": "medium",
+      "taste_label_ja": "フルーティ",
+      "body_label": "ミディアム",
+      "acidity_label": "明るい、複雑",
+      "processing": "ナチュラル",
+      "coffee_type": "シングルオリジン",
+      "origin": [
+        "ルワンダ"
+      ],
+      "flavor_tags": [
+        "ドライストロベリー",
+        "ゴールデンレーズン",
+        "ローズ"
+      ],
+      "acidity": 78,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 2800,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c219484",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c000___03new_8fd80739-e737-444c-b0f9-edb4be2048e3.webp?v=1774576350",
+      "image_local": "data/images/bluebottle/c219484-200g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c219484-200g.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "label2:_シングルオリジン",
+        "コーヒー豆",
+        "シングルオリジン"
+      ]
+    },
+    {
+      "id": "bluebottle-tokyo-kissaten-200g",
+      "product_id": "c225205",
+      "shopify_product_id": 7897206915120,
+      "shopify_variant_id": 42776986812464,
+      "chain_id": "bluebottle",
+      "name": "東京喫茶ブレンド",
+      "description": "これまでにない深煎りコーヒー 日本の喫茶店が提供するスモーキーな深煎りコーヒーから着想を得て生まれた東京喫茶ブレンド。季節限定で販売していたコーヒーが、いつでもお楽しみいただける定番ブレンドに加わりました。 深煎りコーヒーは低品質なコーヒー豆の風味を隠すものとされてきましたが、その固定概念を覆すような高品質なコーヒーに仕上がり、ほろ苦い濃厚さと折り重なった複雑さが特徴です。 スペシャルティコーヒーの常識を覆すような一杯をお楽しみいただけます。",
+      "roast": "ボールド",
+      "roast_label_ja": "ボールド",
+      "roast_level": "dark",
+      "taste_label_ja": "深煎り・スモーキー",
+      "body_label": null,
+      "acidity_label": null,
+      "processing": null,
+      "coffee_type": "ブレンド",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ほろ苦いココア",
+        "トーストされたマシュマロ",
+        "バニラ"
+      ],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2550,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c225205",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c225205___01new_68dc464b-1322-46f4-9e91-3f388b27d419.webp?v=1770972494",
+      "image_local": "data/images/bluebottle/c225205.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c225205.jpg",
+      "source": "scraped",
+      "available": true,
+      "tags": [
+        "750",
+        "eGift対応",
+        "label2:_ブレンド"
+      ]
+    }
+  ]
+}

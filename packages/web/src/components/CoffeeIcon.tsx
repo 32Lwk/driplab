@@ -9,26 +9,21 @@ export function CoffeeIcon({ size = 32 }: { size?: number }) {
       aria-hidden
     >
       <path
-        d="M6 12h16c1.1 0 2 .9 2 2v2c0 3.3-2.7 6-6 6H10c-3.3 0-6-2.7-6-6v-2c0-1.1.9-2 2-2z"
+        d="M9 11h13.5c.8 0 1.5.7 1.5 1.5v8.5c0 2.2-1.8 4-4 4h-8.5c-2.2 0-4-1.8-4-4v-8.5c0-.8.7-1.5 1.5-1.5z"
         fill="#8D6E63"
       />
       <path
-        d="M24 14h2c1.1 0 2 .9 2 2v1c0 2.2-1.8 4-4 4h-1"
-        stroke="#5D4037"
+        d="M23.5 13.5c2.8 0 4.2 1.8 4.2 3.8s-1.4 3.8-4.2 3.8"
+        stroke="#8D6E63"
         strokeWidth="2"
         strokeLinecap="round"
       />
       <path
-        d="M10 24c0 2 2 3 6 3s6-1 6-3"
+        d="M10 13.5h11.5"
         stroke="#5D4037"
-        strokeWidth="2"
+        strokeWidth="1"
         strokeLinecap="round"
-      />
-      <path
-        d="M12 8c1-2 3-3 4-3s3 1 4 3"
-        stroke="#BCAAA4"
-        strokeWidth="1.5"
-        strokeLinecap="round"
+        opacity="0.45"
       />
     </svg>
   );

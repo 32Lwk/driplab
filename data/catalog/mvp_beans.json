@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-08-08T17:07:04.766445+09:00",
-  "count": 15,
+  "generated_at": "2026-08-08T22:21:34.942328+09:00",
+  "count": 30,
   "beans": [
     {
       "id": "doutor-mild-blend-500g",
@@ -31,7 +31,15 @@
       "image_local": "data/images/doutor/19.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/19.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/19.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0312184510_604b3826d4e07.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0312185156_604b39bc50d67.jpg"
+      ],
+      "episode": "ハイロースト（中深煎）で、バランスの味わい。ドトールコーヒーショップの定番ブレンド。「香り高く、甘みのあるコーヒー」を追求し、バランスのとれた味わいに仕上げた逸品です。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/19",
+      "taste_notes": "香り高く、甘みのあるバランスのとれた味わい。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "doutor-golden-mocha-500g",
@@ -64,7 +72,16 @@
       "image_local": "data/images/doutor/21.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/21.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/21.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315091112_604ea620259a3.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315091115_604ea623c2f74.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315091119_604ea62726632.jpg"
+      ],
+      "episode": "ミディアムロースト（中煎）で、まろやかの味わい。モカの豊かな風味を活かした、奥行きのある味わい。熟したベリーのような凝縮された甘酸っぱさとローストナッツのような香ばしさが特長です。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/21",
+      "taste_notes": "熟したベリーのような甘酸っぱさとローストナッツのような香ばしさ。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "doutor-kilimanjaro-200g",
@@ -96,13 +113,21 @@
       "image_local": "data/images/doutor/29.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/29.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/29.jpg",
+      "extra_images": [
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092308_604ea8ec231e0.jpg",
+        "https://onlineshop.doutor.co.jp/html/upload/save_image/0315092311_604ea8ef8d56f.jpg"
+      ],
+      "episode": "ミディアムロースト（中煎）で、すっきり キレの味わい。レモングラスのようなすっきりとした香りに、シトラスを感じる爽やかな酸味、キレのあるのどごしを楽しんでいただけます。",
+      "episode_source": "https://onlineshop.doutor.co.jp/products/detail/29",
+      "taste_notes": "レモングラスのようなすっきりとした香りと、シトラスを感じる爽やかな酸味。",
+      "processing": "ウォッシュド"
     },
     {
       "id": "starbucks-light-note-blend-250g",
       "chain_id": "starbucks",
       "name": "スターバックス ライトノート ブレンド®",
-      "description": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。\n創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。",
+      "description": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。 創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。",
       "roast_level": "light",
       "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
       "taste_label_ja": "軽やかで親しみやすい味わい",
@@ -127,13 +152,22 @@
       "image_local": "data/images/starbucks/4524785492462.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492462.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492462.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_10.jpg"
+      ],
+      "episode": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。軽やかで親しみやすい味わい。コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492462",
+      "taste_notes": "ミルクチョコレート、モルトのような風味。穏やかで軽やかな味わい",
+      "processing": "水洗式"
     },
     {
       "id": "starbucks-pike-place-roast-250g",
       "chain_id": "starbucks",
       "name": "パイクプレイス® ロースト",
-      "description": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。\n1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。",
+      "description": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。 1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。",
       "roast_level": "medium",
       "roast_label_ja": "ミディアム ロースト（豊かな風味）",
       "taste_label_ja": "毎日でも楽しみたくなるコーヒー",
@@ -159,13 +193,22 @@
       "image_local": "data/images/starbucks/4524785492509.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492509.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492509.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_10.jpg"
+      ],
+      "episode": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。毎日でも楽しみたくなるコーヒー。コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492509",
+      "taste_notes": "ココア、プラリネのような風味。なめらかでバランスのとれた味わい",
+      "processing": "水洗式"
     },
     {
       "id": "starbucks-kenya-250g",
       "chain_id": "starbucks",
       "name": "ケニア",
-      "description": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。\nケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。",
+      "description": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。 ケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。",
       "roast_level": "medium",
       "roast_label_ja": "ミディアム ロースト（豊かな風味）",
       "taste_label_ja": "フルーティで鮮やかな味わい",
@@ -191,7 +234,16 @@
       "image_local": "data/images/starbucks/4524785492493.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492493.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492493.jpg",
+      "extra_images": [
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_1_m.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_1.jpg",
+        "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_10.jpg"
+      ],
+      "episode": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。ケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。フルーティで鮮やかな味わい。コーヒーが生産地から皆さんのもとへたどり着くまでの、情熱と愛情でつながれたコーヒーの旅をご紹介します。",
+      "episode_source": "https://menu.starbucks.co.jp/4524785492493",
+      "taste_notes": "グレープフルーツ、ブラックカラントのような風味。ジューシーで鮮やか",
+      "processing": "水洗式"
     },
     {
       "id": "maruyama-blend-100g",
@@ -220,7 +272,16 @@
       "image_local": "data/images/maruyama/24.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/24.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/24.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0926171525_5d8c739d80fd6.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0926171516_5d8c7394e9300.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0926171521_5d8c73992107d.jpg"
+      ],
+      "episode": "初めて丸山珈琲をご利用いただく方に、まずお試しいただきたい当社の定番ブレンドです。創業当時から時代に合わせて味わいを少しずつ進化させながら、香ばしい香りとすっきりとした後味は変えずにつくり続けています。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/24",
+      "taste_notes": "ダークチョコレートのような風味。味わい深いコク。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "maruyama-mocha-akane-100g",
@@ -231,7 +292,8 @@
       "roast_label_ja": "中煎り",
       "taste_label_ja": "花の香りと柑橘類の爽やかな風味。",
       "origin": [
-        "モカ"
+        "エルサルバドル",
+        "エチオピア"
       ],
       "flavor_tags": [
         "花の香りと柑橘類の爽やかな風味。"
@@ -249,7 +311,16 @@
       "image_local": "data/images/maruyama/26.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/26.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/26.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1007153445_6703810571b81.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152330_692a91621c6d5.jpg",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/1129152332_692a91644b1e1.jpg"
+      ],
+      "episode": "モカコーヒーがお好きな方におすすめの人気の定番ブレンド。丸山珈琲創業の地である軽井沢では、長く寒さの厳しい冬が終わり、最初に花をつけるのがすみれの花です。コーヒーはアカネ科の植物ということで、すみれの中でも「茜すみれ」と名付けました。",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/26",
+      "taste_notes": "花の香りと柑橘類の爽やかな風味。モカらしい華やかな酸味。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "maruyama-samanbaia-geisha-80g",
@@ -281,7 +352,21 @@
       "image_local": "data/images/maruyama/3087.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3087.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3087.jpg",
+      "extra_images": [
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153645_6a54877d173c8.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a54877574404.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a548775b68a9.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153637_6a548776003ff.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153638_6a54877625c7f.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877c79da5.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877c9bcde.JPG",
+        "https://www.maruyamacoffee.com/ec/upload/save_image/0713153644_6a54877cdb033.JPG"
+      ],
+      "episode": "ジャスミンを思わせる香りの中、飲み進めるにつれてアプリコットやオレンジのような酸味と優しい甘さが広がり、滑らかな口当たりが後味の甘さとともに長く続きます。香りと味わいが複雑に絡みあう、滑らかな口当たりと甘さが絶妙なバランスを作り出すコーヒーです。＜ブラジル サマンバイア＞",
+      "episode_source": "https://www.maruyamacoffee.com/ec/products/detail/3087",
+      "taste_notes": "ジャスミン、アプリコット、オレンジ、ミント。なめらかな口当たり。",
+      "processing": "ナチュラル"
     },
     {
       "id": "tullys-ハウスブレンド",
@@ -315,7 +400,11 @@
       "purchase_channel": "store",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/menu-house_blend.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/menu-house_blend.jpg",
+      "episode": "ほどよいボディとすっきりとした酸味、スムースな飲み口が特徴です。バランスがよく飲みやすい、タリーズコーヒーの定番の味わいです。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "taste_notes": "すっきりとした酸味と、ほどよいコクが調和したバランスの良い風味。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "tullys-タリーズ-アニバーサリーブレンド-200g-豆",
@@ -354,7 +443,11 @@
       "purchase_channel": "ec",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260805-0001.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260805-0001.jpg",
+      "episode": "タリーズが厳選した4つの産地のコーヒー豆をブレンドした、特別なブレンド。フルーティで心地よい酸味となめらかな口あたりに、カラメルやチョコレートのような甘い余韻が広がります。フルーティーで明るい酸味と滑らかな口当たり、カラメルやチョコレートのような甘さの余韻が感じられる、タリーズ創業を記念した特別なコーヒー豆です。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/blend/26_anniversary_blend.html",
+      "taste_notes": "フルーティな酸味と、カラメルやチョコレートのような甘い余韻。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "tullys-キリマンジャロ-kibo-タリメ-スイートウォッシュド-200g-豆",
@@ -387,13 +480,17 @@
       "purchase_channel": "ec",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-25080113.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-25080113.jpg",
+      "episode": "シトラスや紅茶を感じさせる華やかな香りのコーヒーです。なめらかな口あたりで飲みやすく、まるではちみつやカラメルのような豊かな甘みが広がります。華やかでシトラス・紅茶を感じさせるフレグランス、まるではちみつやカラメルのような豊かな甘みとジューシーさを感じます。なめらかで丸みのある口あたりと、心地よい甘みが特徴です。",
+      "episode_source": "https://www.tullys.co.jp/menu/beans/varietal/kilimanjaro_kibosw.html",
+      "taste_notes": "シトラスや紅茶を思わせる香りと、はちみつやカラメルのような甘み。",
+      "processing": "スイートウォッシュド"
     },
     {
       "id": "kaldi-mild-kaldi-200g",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】マイルドカルディ/200g",
-      "description": "カルディコーヒーファームの看板ブレンド。持続する余韻。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。 バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくのもおすすめです。",
+      "description": "カルディコーヒーファームの看板ブレンド。持続する余韻。こだわりの価格。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。 バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくの",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
       "taste_label_ja": "やわらかな甘み",
@@ -418,13 +515,22 @@
       "image_local": "data/images/kaldi/4515996019050.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019050.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019050.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/050/4515996019050_S_1_1m.jpg",
+        "https://www.kaldi.co.jp/ec/img/050/4515996019050_S_10_3m.jpg",
+        "https://www.kaldi.co.jp/ec/img/050/4515996019050_S_9_2m.jpg"
+      ],
+      "episode": "カルディコーヒーファームの看板ブレンド。こだわりの価格。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。",
+      "episode_source": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019050",
+      "taste_notes": "やさしい甘さ。長く続く甘い余韻。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "kaldi-mocha-blend-200g",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】モカブレンド/200g",
-      "description": "モカの甘く芳醇な香り。エチオピア産モカの甘く華やかな香りが特徴のブレンドです。赤い果実のような芳醇な風味をお楽しみください。",
+      "description": ".item_recommen",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
       "taste_label_ja": "爽やかな酸味",
@@ -434,8 +540,7 @@
         "ブレンド"
       ],
       "flavor_tags": [
-        "甘み",
-        "芳醇"
+        "バランス"
       ],
       "acidity": 72,
       "body": 50,
@@ -450,13 +555,21 @@
       "image_local": "data/images/kaldi/4515996015052.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015052.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015052.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/052/4515996015052_S_9_3m.jpg",
+        "https://www.kaldi.co.jp/ec/img/052/4515996015052_S_10_3m.jpg"
+      ],
+      "episode": "モカの甘く芳醇な香り。エチオピア産モカの甘く華やかな香りが特徴のブレンドです。赤い果実のような芳醇な風味をお楽しみください。中煎りで焙煎された ブレンド コロンビア、エチオピア他産 のコーヒーです。テイストバランスは爽やかな酸味。",
+      "episode_source": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015052",
+      "taste_notes": "甘く華やかな香り。赤い果実のような芳醇な風味。",
+      "processing": "ブレンド（複数精製）"
     },
     {
       "id": "kaldi-kilimanjaro-200g",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】キリマンジャロ/200g",
-      "description": "甘酸っぱい香りとキレのある酸味。アフリカ最高峰のキリマンジャロ山で有名なタンザニアのコーヒーです。甘酸っぱい果実を思わせる、キレの良い酸味が特徴です。",
+      "description": ".item_recommen",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
       "taste_label_ja": "爽やかな酸味",
@@ -464,8 +577,7 @@
         "タンザニア"
       ],
       "flavor_tags": [
-        "甘み",
-        "酸味"
+        "バランス"
       ],
       "acidity": 72,
       "body": 50,
@@ -480,7 +592,600 @@
       "image_local": "data/images/kaldi/4515996015120.jpg",
       "source": "scraped",
       "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015120.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015120.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/120/4515996015120_S_9_2m.jpg",
+        "https://www.kaldi.co.jp/ec/img/120/4515996015120_S_10_3m.jpg"
+      ],
+      "episode": "甘酸っぱい香りとキレのある酸味。アフリカ最高峰のキリマンジャロ山で有名なタンザニアのコーヒーです。甘酸っぱい果実を思わせる、キレの良い酸味が特徴です。中煎りで焙煎された ストレート タンザニア産 のコーヒーです。テイストバランスは爽やかな酸味。",
+      "episode_source": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015120",
+      "taste_notes": "甘酸っぱい果実を思わせる香り。キレの良い酸味。",
+      "processing": "ウォッシュド（水洗）"
+    },
+    {
+      "id": "ucc-上島珈琲店ブレンド-250g",
+      "chain_id": "ucc",
+      "name": "【直営店限定】上島珈琲店ブレンド 250g（豆）",
+      "description": "上島珈琲店の創業から変わらぬ美味しさへの飽くなきこだわり、熱い想いを詰め込んで。 ミルクチョコレートやローストナッツのような香りと甘い余韻が心地良い、バランスの取れた味わい。 芳醇な香りと心地よいコクが特徴のコーヒーです。 ◆≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。 ◆「サステナブルなコーヒー調達の基準を満たすコーヒー豆」を使用 おいしいコーヒーは、豊かで美しい地球、そしてすこやかな労働環境があってこそ。 上島珈琲店は「地球環境と生産者」も大切にし、UCCグループのサステナブルなコーヒー調達（※）の基準を満たすコーヒー豆を使用して、コーヒーをお届けします。 ※より良い地球環境、より良い生産者の生活に繋がるよう、サステナブルに調達されたコーヒー豆を50%以上使用しています。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "コロンビア",
+        "ブラジル他",
+        "他"
+      ],
+      "flavor_tags": [
+        "チョコ",
+        "ナッツ",
+        "甘み",
+        "香ばしさ",
+        "コク"
+      ],
+      "acidity": 65,
+      "body": 65,
+      "bitterness": 45,
+      "sweetness": 74,
+      "caffeine": "medium",
+      "price_jpy": 1650,
+      "weight_g": 250,
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600000.html",
+      "product_id": "UCT0600000",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/B0007_02.jpg",
+      "source": "scraped",
+      "available": true,
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/ueshima_bean_250g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/noshi_all.jpg"
+      ],
+      "episode": "上島珈琲店の創業から変わらぬ美味しさへの飽くなきこだわり、熱い想いを詰め込んで。芳醇な香りと心地よいコクが特徴のコーヒーです。◆≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。◆「サステナブルなコーヒー調達の基準を満たすコーヒー豆」を使用 おいしいコーヒーは、豊かで美しい地球、そしてすこやかな労働環境があってこそ。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600000.html",
+      "taste_notes": "ミルクチョコレートやローストナッツのような香りと甘い余韻が心地良い、バランスの取れた味わい。"
+    },
+    {
+      "id": "ucc-ucc-珈琲探究-炒り豆-モカブレンド-140g",
+      "chain_id": "ucc",
+      "name": "UCC 珈琲探究 炒り豆 モカブレンド 140g （豆）",
+      "description": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。 ◆華やかでフルーティーな味わいとあまい香り。 ◆コーヒー鑑定士監修。 ◆アラビカ100％使用。 ◆サステナブルに調達されたコーヒー豆を50％以上使用。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "華やか",
+      "origin": [
+        "エチオピア",
+        "ブラジル他",
+        "他"
+      ],
+      "flavor_tags": [
+        "フルーティ",
+        "香ばしさ"
+      ],
+      "acidity": 65,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 62,
+      "caffeine": "medium",
+      "price_jpy": 873,
+      "weight_g": 140,
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_17/TAN0600003.html",
+      "product_id": "TAN0600003",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tan0600003.jpg",
+      "source": "scraped",
+      "available": true,
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tankyu_mocha_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/lineup_tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tankyu_sustainable_mark.jpg"
+      ],
+      "episode": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。華やかでフルーティーな味わいとあまい香り。コーヒー鑑定士監修。アラビカ100％使用。UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_17/TAN0600003.html",
+      "taste_notes": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。"
+    },
+    {
+      "id": "ucc-ucc-ゴールドスペシャル-炒り豆-スぺシャルブレンド-230g",
+      "chain_id": "ucc",
+      "name": "UCC ゴールドスペシャル 炒り豆 スぺシャルブレンド 230g（豆）",
+      "description": "「UCC」の技術力と惜しみない手間ひまにより、コーヒーの奥深さが味わえる本格コーヒー。 ◆甘い香りと風味豊かなコク ◆豆の個性を最大限引き出す「単品焙煎」 ◆環境に配慮したパッケージを使用。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "コク",
+      "origin": [
+        "ブラジル",
+        "ベトナム"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ",
+        "コク"
+      ],
+      "acidity": 65,
+      "body": 65,
+      "bitterness": 45,
+      "sweetness": 74,
+      "caffeine": "medium",
+      "price_jpy": 1035,
+      "weight_g": 230,
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_2/GSP0600001.html",
+      "product_id": "GSP0600001",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/gsp0600001.jpg",
+      "source": "scraped",
+      "available": true,
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/goldspecial_about_2025aw_3.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/goldspecial_about_2025aw_4.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/goldspecial_ecofriendly_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/lineup_gsp_2025aw.jpg"
+      ],
+      "episode": "「UCC」の技術力と惜しみない手間ひまにより、コーヒーの奥深さが味わえる本格コーヒー。甘い香りと風味豊かなコク。環境に配慮したパッケージを使用。UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_2/GSP0600001.html",
+      "taste_notes": "甘い香りと風味豊かなコク。"
+    },
+    {
+      "id": "hoshino-blend-500g",
+      "chain_id": "hoshino",
+      "name": "星乃珈琲・珈琲豆【星乃ブレンド】（500g）",
+      "description": "星乃珈琲が店舗で提供しているメインとなるコーヒー豆です。 賞味期限は未開封で焙煎より10ヶ月です。商品は窒素充填されており、袋にはガス抜き弁が付いてますので、開封するまでは出来る限りの酸化防止をしております シティロースト。深みがあって余韻のある香りと、コクがあり酸味と甘味のバランスがとれた味わい。",
+      "roast_level": "medium",
+      "roast_label_ja": "シティロースト（中煎）",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "コク",
+        "酸味",
+        "甘み",
+        "香ばしさ"
+      ],
+      "acidity": 55,
+      "body": 58,
+      "bitterness": 52,
+      "sweetness": 72,
+      "caffeine": "medium",
+      "price_jpy": 2500,
+      "weight_g": 500,
+      "buy_url": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34500100",
+      "product_id": "34500100",
+      "source": "scraped",
+      "available": true,
+      "image_url": "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/34500100.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34500100.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-01.jpg?size=l&w=ODAw&t=20210323152730",
+        "https://anshindo.itembox.cloud/product/179/000000017974/000000017974-02.jpg?size=l&w=ODAw&t=20231225173329",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_creditcard.svg?t=20260807131121"
+      ],
+      "episode": "星乃珈琲が店舗で提供しているメインとなるコーヒー豆です。賞味期限は未開封で焙煎より10ヶ月です。商品は窒素充填されており、袋にはガス抜き弁が付いてますので、開封するまでは出来る限りの酸化防止をしております コーヒースペシャリストの菅野眞博が世界中から選び抜いた豆を使用。焙煎からブレンドまで長年培った技術をもとに直火焙煎にこだわりました。挽きたての豆をハンドドリップで丁寧に淹れた、プレミアムコーヒーです。",
+      "episode_source": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34500100",
+      "taste_notes": "深みがあって余韻のある香りと、コクがあり酸味と甘味のバランスがとれた味わい。"
+    },
+    {
+      "id": "hoshino-ice-blend-400g",
+      "chain_id": "hoshino",
+      "name": "星乃珈琲・珈琲豆【アイスブレンド】（400g）",
+      "description": "星乃珈琲が店舗で提供しているコーヒー豆です。アイスコーヒー用に深炒りで仕上げています。ホットコーヒー同様にドリップして氷を入れて急冷するだけで美味しいアイスコーヒーができます",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り（深炒り）",
+      "taste_label_ja": "コク・深煎り",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "アイス向き",
+        "苦味"
+      ],
+      "acidity": 40,
+      "body": 68,
+      "bitterness": 70,
+      "sweetness": 48,
+      "caffeine": "medium",
+      "price_jpy": 2000,
+      "weight_g": 400,
+      "buy_url": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34501100",
+      "product_id": "34501100",
+      "source": "scraped",
+      "available": true,
+      "image_url": "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/34501100.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34501100.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-01.jpg?size=l&w=ODAw&t=20260203133845",
+        "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-02.jpg?size=l&w=ODAw&t=20260203133845",
+        "https://anshindo.itembox.cloud/product/217/000000021765/000000021765-03.jpg?size=l&w=ODAw&t=20260203133846",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121"
+      ],
+      "episode": "星乃珈琲が店舗で提供しているコーヒー豆です。アイスコーヒー用に深炒りで仕上げています。ホットコーヒー同様にドリップして氷を入れて急冷するだけで美味しいアイスコーヒーができます コーヒースペシャリストの菅野眞博が世界中から選び抜いた豆を使用。焙煎からブレンドまで長年培った技術をもとに直火焙煎にこだわりました。挽きたての豆をハンドドリップで丁寧に淹れた、プレミアムコーヒーです。",
+      "episode_source": "https://anshindo-d.com/c/shop_category/shop_drink/shop_drink_coffee/345/34501100",
+      "taste_notes": "アイス向き、苦味。"
+    },
+    {
+      "id": "hoshino-hikoboshi-blend-100g",
+      "chain_id": "hoshino",
+      "name": "彦星ブレンド（豆）100g",
+      "description": "程よい苦味を味わいたい方への重厚なブレンド。香ばしさとコクが特徴で、酸味は控えめ。店舗レジにて100g単位で購入可能（オンライン豆販売なし）。",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "重厚・苦味",
+      "origin": [
+        "グアテマラ",
+        "コロンビア",
+        "ブラジル",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "香ばしさ",
+        "コク",
+        "苦味"
+      ],
+      "acidity": 35,
+      "body": 72,
+      "bitterness": 75,
+      "sweetness": 45,
+      "caffeine": "medium",
+      "price_jpy": 500,
+      "weight_g": 100,
+      "buy_url": "https://hoshinocoffee.com/shop.html",
+      "product_id": "hikoboshi-store",
+      "source": "store_menu",
+      "available": true,
+      "image_url": "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-01.jpg?size=l&w=800",
+      "image_local": "data/images/hoshino/hikoboshi-store.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/hikoboshi-store.jpg",
+      "extra_images": [
+        "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-01.jpg?size=l&w=ODAw&t=20231123085506",
+        "https://anshindo.itembox.cloud/product/206/000000020695/000000020695-02.jpg?size=l&w=ODAw&t=20231123085443",
+        "https://anshindo.itembox.cloud/item/images/parts/img_payall_footer.png?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_freeshipping.svg?t=20260807131121",
+        "https://anshindo.itembox.cloud/item/images/parts/svg/footer/ico_creditcard.svg?t=20260807131121"
+      ],
+      "episode": "程よい苦味を味わいたい方への重厚なブレンド。香ばしさとコクが特徴で、酸味は控えめ。店舗レジにて100g単位で購入可能（オンライン豆販売なし）。星乃珈琲店は1963年創業の老舗喫茶店ブランド。シティローストを基調に、香りとコクのバランスを大切にした一杯を提供しています。",
+      "episode_source": "https://hoshinocoffee.com/shop.html",
+      "taste_notes": "香ばしさとコクが特徴で、酸味は控えめ。"
+    },
+    {
+      "id": "ogawa-r-ocpremium-b-140g",
+      "chain_id": "ogawa",
+      "name": "小川プレミアムブレンド（豆）140g R025",
+      "description": "やわらかく芳醇な味わい。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "まろやか",
+      "origin": [
+        "ブラジル",
+        "メキシコ",
+        "コロンビア",
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "acidity": 60,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1144,
+      "weight_g": 140,
+      "buy_url": "https://oc-shop.co.jp/products/r-ocpremium-b",
+      "product_id": 10049817215287,
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/premiumblend-rcb1.png?v=1767836144",
+      "image_local": "data/images/ogawa/10049817215287.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049817215287.jpg",
+      "extra_images": [
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/coffeebeans-img.jpg?v=1773361877",
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/handdrip-img.jpg?v=1760083290"
+      ],
+      "episode": "1952年の創業から今日まで磨き上げ、受け継がれてきた専門店の味わいを継承。小川珈琲は1920年創業。産地との直接取引と焙煎技術で、コーヒーの持つ個性を丁寧に引き出しています。",
+      "episode_source": "https://oc-shop.co.jp/products/r-ocpremium-b",
+      "taste_notes": "1952年の創業から今日まで磨き上げ、受け継がれてきた専門店の味わいを継承。コーヒー生産地と本物の味わいを追究し独自の基準を満たした専用豆「ARK」を、豆の個性を最大限に生かしたアフターミックス製法でつくりあげた「小川珈琲店シリーズ」。味わいコメント やわらかく芳醇な味わい。香り：◆◆◆ 酸味：◆◆◆ コク：◆◆◆ 名前を見ただけじゃ、どんな味わいかよくわからない。そんな方にも安心して選んでいただくための味わいポジショニングマップ。小川珈琲が「ご家庭でもおいしいコーヒーをもっと楽しんでいただきたい」からスタートした、小川珈琲店の味わい傾向が一目でわかるこの図で、お気に入りの商品を探してみてください。ARKは独自の基準を満たした…"
+    },
+    {
+      "id": "ogawa-No-932-150g",
+      "chain_id": "ogawa",
+      "name": "オーガニック エチオピア イルガチェフェ モカ（豆）150g No.932",
+      "description": "赤ワインのような甘い香りとレッドグレープのような酸味、オランジェットのような甘さを活かした味わいに仕上げました。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "フルーティ",
+      "origin": [
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "コク",
+        "モカ",
+        "オーガニック",
+        "フェアトレード"
+      ],
+      "acidity": 60,
+      "body": 80,
+      "bitterness": 80,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1500,
+      "weight_g": 150,
+      "buy_url": "https://oc-shop.co.jp/products/932",
+      "product_id": 8445506126135,
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/f68c6293dfcfcc7f5b5610f26ca7201a.jpg?v=1713837377",
+      "image_local": "data/images/ogawa/8445506126135.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506126135.jpg",
+      "extra_images": [
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/1_3b6901eb-3b57-4c75-8b40-91a44aa7a95b.jpg?v=1713837377",
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/2_2eb2d2e6-1736-4e0e-96c1-491d491fe3b4.jpg?v=1713837377"
+      ],
+      "episode": "【味わいコメント】 赤ワインのような甘い香りとレッドグレープのような酸味、オランジェットのような甘さを活かした味わいに仕上げました。小川珈琲は1920年創業。産地との直接取引と焙煎技術で、コーヒーの持つ個性を丁寧に引き出しています。",
+      "episode_source": "https://oc-shop.co.jp/products/932",
+      "taste_notes": "【味わいコメント】 赤ワインのような甘い香りとレッドグレープのような酸味、オランジェットのような甘さを活かした味わいに仕上げました。香り：◆◆◆◆◆苦味：◆◆◆◆酸味：◆◆◆コク：◆◆◆◆"
+    },
+    {
+      "id": "ogawa-No-959-150g",
+      "chain_id": "ogawa",
+      "name": "ブラジル ベレーダ（豆）150g No.959",
+      "description": "シナモンのようなやさしい香りとココナッツのような甘さ、メイプルシロップのような口あたりを活かした味わいに仕上げました。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "まろやか",
+      "origin": [
+        "ブラジル"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ",
+        "コク",
+        "スパイス",
+        "ナッツ"
+      ],
+      "acidity": 60,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1275,
+      "weight_g": 150,
+      "buy_url": "https://oc-shop.co.jp/products/959",
+      "product_id": 8445513564471,
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/ae268249727b4aaa410aeeeacf50b54f.jpg?v=1713838114",
+      "image_local": "data/images/ogawa/8445513564471.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445513564471.jpg",
+      "extra_images": [
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/1_62d06a59-3cc1-478f-8be1-9e23cb70d154.jpg?v=1713838114",
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/2_31f3bfa1-e5f0-407e-8f41-c930fc068230.jpg?v=1713838114",
+        "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/5_eee6b452-5de7-4d57-b03a-d037f2b9fd19.jpg?v=1713838114"
+      ],
+      "episode": "【味わいコメント】 シナモンのようなやさしい香りとココナッツのような甘さ、メイプルシロップのような口あたりを活かした味わいに仕上げました。小川珈琲は1920年創業。産地との直接取引と焙煎技術で、コーヒーの持つ個性を丁寧に引き出しています。",
+      "episode_source": "https://oc-shop.co.jp/products/959",
+      "taste_notes": "【味わいコメント】 シナモンのようなやさしい香りとココナッツのような甘さ、メイプルシロップのような口あたりを活かした味わいに仕上げました。香り：◆◆◆◆苦味：◆◆◆酸味：◆◆◆コク：◆◆◆ ■誠実な品質と味わい コーヒーの実を収穫後果肉を除去せずにそのまま乾燥させ、その後果肉とパーチメントを一度に除去する方法です。果肉をつけたまま、乾燥させることでコーヒー豆に風味を移すことが特徴です。"
+    },
+    {
+      "id": "sarutahiko-8-11より順次発送-浅煎り-ホンジュラス-la-orquidea-pacas-",
+      "chain_id": "sarutahiko",
+      "name": "<8/11より順次発送>【浅煎り】ホンジュラス／La Orquidea Pacas Anaerobic Washed",
+      "description": "COEに複数回入賞するラ・サルサで有名なベンハミン氏が手掛ける、ラ・オルキデアのパカス品種アナエロビックウォッシュトプロセスのロットです。 サンタ・バルバラは雲霧林の冷涼なテロワールが特徴で、ホンジュラスの中でも特に高品質なコーヒーに定評があります。 パカス種の持つシトラス系の明るさにプロセスの影響でダークチェリーや糖蜜の風味が加わり、程よい口当たりの印象と爽やかな後味が魅力のコーヒーです。 フルーティーな甘みのあるコーヒーが好きな方に",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ホンジュラス"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "シトラス",
+        "フルーティ",
+        "キレ"
+      ],
+      "acidity": 78,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1380,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-hon20260807-mame",
+      "product_id": "m-hon20260807-mame",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260804_T___ec.jpg?v=1786092144",
+      "image_local": "data/images/sarutahiko/m-hon20260807-mame.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hon20260807-mame.jpg",
+      "extra_images": [
+        "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260804_T___top.jpg?v=1786092117"
+      ],
+      "episode": "・熱いときのフレーバー DARK CHERRY ORANGE MOLASSES ・冷めたときのフレーバー 糖蜜の甘い余韻が引き立ちます 農園情報・プロセス 【生産国】ホンジュラス共和国 【地域】サンタ・バルバラ エル・セドラル 【農園】ラ・オルキデア 【標高】1,540～1,580m 【品種】パカス 【生産処理】アナエロビックウォッシュト 農園について いて 2021年のCOEで5位に入賞(猿田彦珈琲が落札)、2022＆2024年のCOEで優勝を果たした、ベンハミン氏の手掛ける農園です。猿田彦珈琲は恵比寿発のスペシャルティコーヒー。産地の個性と焙煎の妙を活かした、丁寧な一杯を届けています。",
+      "episode_source": "https://sarutahiko.jp/products/m-hon20260807-mame",
+      "taste_notes": "・熱いときのフレーバー DARK CHERRY ORANGE MOLASSES ・冷めたときのフレーバー 糖蜜の甘い余韻が引き立ちます 農園情報・プロセス 【生産国】ホンジュラス共和国 【地域】サンタ・バルバラ エル・セドラル 【農園】ラ・オルキデア 【標高】1,540～1,580m 【品種】パカス 【生産処理】アナエロビックウォッシュト 農園について いて 2021年のCOEで5位に入賞(猿田彦珈琲が落札)、2022＆2024年のCOEで優勝を果たした、ベンハミン氏の手掛ける農園です。猿田彦珈琲とは2021年入賞ロットの落札以来お付き合いが続いています。ベンハミン氏は代々コーヒーにかかわってきた家系で、祖父はコーヒー農家…"
+    },
+    {
+      "id": "sarutahiko-8-12より順次発送-浅煎り-コロンビア-pe-as-blancas-geish",
+      "chain_id": "sarutahiko",
+      "name": "<8/12より順次発送>【浅煎り】コロンビア／Peñas Blancas Geisha Washed",
+      "description": "ペニャス・ブランカスはラス・フローレス農園のヨハン氏が立ち上げた、小規模生産者の多いアセベド地域のコーヒー生産処理場です。 特殊プロセスのマイクロロットに特化することで、アセベド地域のコーヒーの品質向上と発展に寄与しています。 今回ご紹介するのはゲイシャ品種のロットで、”フローラルシンフォニー”と名付けられた、好気性発酵と嫌気性発酵を組み合わせたウォッシュトプロセスで生産処理されています。 ラベンダーやミントを思わせる特殊プロセスによる",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "シトラス",
+      "origin": [
+        "エチオピア",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "シトラス",
+        "フルーティ",
+        "フローラル",
+        "香ばしさ"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2980,
+      "weight_g": 50,
+      "buy_url": "https://sarutahiko.jp/products/m-col20260711",
+      "product_id": "m-col20260711",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_S___EC.jpg?v=1784261767",
+      "image_local": "data/images/sarutahiko/m-col20260711.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-col20260711.jpg",
+      "extra_images": [
+        "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_colombia_top.jpg?v=1784261745"
+      ],
+      "episode": "・熱いときのフレーバー DARJEELING TEA LAVENDER HONEY LEMON ・冷めたときのフレーバー ミント入りのフルーツティーを思わせます ・ミルクと合わせたとき キャラメルミルクティーのようです、ぜひお試しください 農園情報・プロセス 【生産国】コロンビア 【地域】ウィラ県 アセベド 【生産処理場】ペニャス・ブランカス 【標高】1,650～1,800m 【品種】ゲイシャ 【生産処理】ウォッシュト 【ロット名】フローラルシンフォニー 農園について ペニャス・ブランカスはラス・フローレス農園のヨハン氏が立ち上げた、アセベド地域の小規模生産者のチェリーを買い取りプロセシングする生産処理場の名前です。猿田彦…",
+      "episode_source": "https://sarutahiko.jp/products/m-col20260711",
+      "taste_notes": "・熱いときのフレーバー DARJEELING TEA LAVENDER HONEY LEMON ・冷めたときのフレーバー ミント入りのフルーツティーを思わせます ・ミルクと合わせたとき キャラメルミルクティーのようです、ぜひお試しください 農園情報・プロセス 【生産国】コロンビア 【地域】ウィラ県 アセベド 【生産処理場】ペニャス・ブランカス 【標高】1,650～1,800m 【品種】ゲイシャ 【生産処理】ウォッシュト 【ロット名】フローラルシンフォニー 農園について ペニャス・ブランカスはラス・フローレス農園のヨハン氏が立ち上げた、アセベド地域の小規模生産者のチェリーを買い取りプロセシングする生産処理場の名前です。小規模…"
+    },
+    {
+      "id": "sarutahiko-オンラインショップ限定-巣ごもりブレンド-500g",
+      "chain_id": "sarutahiko",
+      "name": "【オンラインショップ限定】巣ごもりブレンド(500g)",
+      "description": "日常の中で、何度でも自然に手に取りたくなる。毎日のコーヒーとして飲み続けやすいバランスを大切にした深煎りブレンドです。 味わい チョコレートのコクと、ドライフルーツの凝縮された甘みが重なります。 冷めると、チョコレートとドライフルーツの一体感が増し、満足感がありながらも軽やかな後味が印象的です。 ストーリー 『毎日触れる美味しさ』をテーマにしたブレンドです。 一日に何回も飲みたくなるバランス。 毎日飲んでも疲れないバランス。",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "チョコ",
+        "フルーティ",
+        "コク"
+      ],
+      "acidity": 40,
+      "body": 83,
+      "bitterness": 80,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 3000,
+      "weight_g": 500,
+      "buy_url": "https://sarutahiko.jp/products/m-su500",
+      "product_id": "m-su500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/newlogo.jpg?v=1736947510",
+      "image_local": "data/images/sarutahiko/m-su500.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-su500.jpg",
+      "extra_images": [
+        "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/0401_EC_ad751809-7b67-47bc-8d63-2d3d486d505e.jpg?v=1770710248"
+      ],
+      "episode": "日常の中で、何度でも自然に手に取りたくなる。毎日のコーヒーとして飲み続けやすいバランスを大切にした深煎りブレンドです。味わい チョコレートのコクと、ドライフルーツの凝縮された甘みが重なります。冷めると、チョコレートとドライフルーツの一体感が増し、満足感がありながらも軽やかな後味が印象的です。",
+      "episode_source": "https://sarutahiko.jp/products/m-su500",
+      "taste_notes": "チョコレートのコクと、ドライフルーツの凝縮された甘みが重なります。冷めると、チョコレートとドライフルーツの一体感が増し、満足感がありながらも軽やかな後味が印象的です。"
+    },
+    {
+      "id": "bluebottle-giant-steps-200g",
+      "chain_id": "bluebottle",
+      "name": "ジャイアント・ステップス",
+      "description": "ハードボイルドさ漂う、ブルーボトルコーヒーの中で最も力強いコーヒーブレンドです。深めの焙煎から生まれる、このたくましいブレンドは、フレンチプレスやハンドドリップで美味しさを発揮します。 しっかりとしたボディとコクのあるブレンド。濃厚でチョコレートのような味わいはミルクとの相性も抜群。",
+      "roast_level": "dark",
+      "roast_label_ja": "ボールド",
+      "taste_label_ja": "コク・ダーク",
+      "origin": [
+        "ペルー",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ココア",
+        "トーストされたマシュマロ",
+        "グラハムクラッカー"
+      ],
+      "acidity": 38,
+      "body": 68,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c002",
+      "product_id": "c002",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c002___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c002.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c002.jpg",
+      "episode": "ハードボイルドさ漂う、ブルーボトルコーヒーの中で最も力強いコーヒーブレンドです。深めの焙煎から生まれる、このたくましいブレンドは、フレンチプレスやハンドドリップで美味しさを発揮します。しっかりとしたボディとコクのあるブレンド。濃厚でチョコレートのような味わいはミルクとの相性も抜群。",
+      "episode_source": "https://store.bluebottlecoffee.jp/products/c002"
+    },
+    {
+      "id": "bluebottle-three-africas-200g",
+      "chain_id": "bluebottle",
+      "name": "スリー・アフリカズ",
+      "description": "スリーアフリカズはアフリカの3種類のコーヒー豆のブレンドでチョコレートのようなアロマが特徴です。好みが分かれそうなシングルオリジンのコーヒーとは異なり、このブレンドが持つ程よいボディと複雑さ、クリーンな後味はたくさんの方が飲みやすいと感じてくれるはずです。 ベリーのような甘みと爽やかなシトラス、チョコレートのような風味が複雑に重なりあったすっきりとした後味のコーヒーブレンドです。 コールドブリューでも美味しく召し上がれます。",
+      "roast_level": "medium",
+      "roast_label_ja": "バランス",
+      "taste_label_ja": "フルーティ",
+      "origin": [
+        "エチオピア",
+        "ルワンダ"
+      ],
+      "flavor_tags": [
+        "ゴールデンレーズン",
+        "ワイニーブルーベリー",
+        "レモンゼスト"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 55,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c003",
+      "product_id": "c003",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c003___03new.webp?v=1780280568",
+      "image_local": "data/images/bluebottle/c003.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c003.jpg",
+      "episode": "スリーアフリカズはアフリカの3種類のコーヒー豆のブレンドでチョコレートのようなアロマが特徴です。好みが分かれそうなシングルオリジンのコーヒーとは異なり、このブレンドが持つ程よいボディと複雑さ、クリーンな後味はたくさんの方が飲みやすいと感じてくれるはずです。ベリーのような甘みと爽やかなシトラス、チョコレートのような風味が複雑に重なりあったすっきりとした後味のコーヒーブレンドです。コールドブリューでも美味しく召し上がれます。",
+      "episode_source": "https://store.bluebottlecoffee.jp/products/c003"
+    },
+    {
+      "id": "bluebottle-bella-donovan-200g",
+      "chain_id": "bluebottle",
+      "name": "ベラ・ドノヴァン",
+      "description": "ベリーの繊細さと仄かなスモーキーさの絶妙なバランスを持った、ブルーボトルコーヒーで最も人気のドリップコーヒーといえば、ベラ・ドノヴァン。 絶妙なバランスは、モカとジャバのスタンダードなブレンドを私たちの好みにアレンジして作られています。 少し浅めの焙煎度合ですが、掛け合わせることで深みを生み出します。上品すぎず、主張しすぎることなく洗練された味は、最高級のコーヒーにも匹敵する程です。",
+      "roast_level": "medium",
+      "roast_label_ja": "バランス",
+      "taste_label_ja": "フルーティ",
+      "origin": [
+        "エチオピア",
+        "ペルー",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "ラズベリー",
+        "チョコレート",
+        "モラセス"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2150,
+      "weight_g": 200,
+      "buy_url": "https://store.bluebottlecoffee.jp/products/c001",
+      "product_id": "c001",
+      "image_url": "https://cdn.shopify.com/s/files/1/0288/0549/6880/files/c001___03new.webp?v=1780280569",
+      "image_local": "data/images/bluebottle/c001.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c001.jpg",
+      "episode": "ベリーの繊細さと仄かなスモーキーさの絶妙なバランスを持った、ブルーボトルコーヒーで最も人気のドリップコーヒーといえば、ベラ・ドノヴァン。絶妙なバランスは、モカとジャバのスタンダードなブレンドを私たちの好みにアレンジして作られています。少し浅めの焙煎度合ですが、掛け合わせることで深みを生み出します。上品すぎず、主張しすぎることなく洗練された味は、最高級のコーヒーにも匹敵する程です。",
+      "episode_source": "https://store.bluebottlecoffee.jp/products/c001"
     }
   ]
 }

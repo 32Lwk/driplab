@@ -1,0 +1,106 @@
+{
+  "version": "0.1.0",
+  "chain_id": "ogawa",
+  "scraped_at": "2026-08-08T10:52:59+09:00",
+  "source": "https://oc-shop.co.jp",
+  "beans": [
+    {
+      "id": "ogawa-r-ocpremium-b-140g",
+      "chain_id": "ogawa",
+      "name": "小川プレミアムブレンド（豆）140g R025",
+      "description": "やわらかく芳醇な味わい。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "まろやか",
+      "origin": [
+        "ブラジル",
+        "メキシコ",
+        "コロンビア",
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "acidity": 60,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1144,
+      "weight_g": 140,
+      "buy_url": "https://oc-shop.co.jp/products/r-ocpremium-b",
+      "product_id": 10049817215287,
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/premiumblend-rcb1.png?v=1767836144",
+      "image_local": "data/images/ogawa/10049817215287.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049817215287.jpg"
+    },
+    {
+      "id": "ogawa-No-932-150g",
+      "chain_id": "ogawa",
+      "name": "オーガニック エチオピア イルガチェフェ モカ（豆）150g No.932",
+      "description": "赤ワインのような甘い香りとレッドグレープのような酸味、オランジェットのような甘さを活かした味わいに仕上げました。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "フルーティ",
+      "origin": [
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "コク",
+        "モカ",
+        "オーガニック",
+        "フェアトレード"
+      ],
+      "acidity": 60,
+      "body": 80,
+      "bitterness": 80,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1500,
+      "weight_g": 150,
+      "buy_url": "https://oc-shop.co.jp/products/932",
+      "product_id": 8445506126135,
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/f68c6293dfcfcc7f5b5610f26ca7201a.jpg?v=1713837377",
+      "image_local": "data/images/ogawa/8445506126135.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506126135.jpg"
+    },
+    {
+      "id": "ogawa-No-959-150g",
+      "chain_id": "ogawa",
+      "name": "ブラジル ベレーダ（豆）150g No.959",
+      "description": "シナモンのようなやさしい香りとココナッツのような甘さ、メイプルシロップのような口あたりを活かした味わいに仕上げました。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "まろやか",
+      "origin": [
+        "ブラジル"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ",
+        "コク",
+        "スパイス",
+        "ナッツ"
+      ],
+      "acidity": 60,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1275,
+      "weight_g": 150,
+      "buy_url": "https://oc-shop.co.jp/products/959",
+      "product_id": 8445513564471,
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/ae268249727b4aaa410aeeeacf50b54f.jpg?v=1713838114",
+      "image_local": "data/images/ogawa/8445513564471.jpg",
+      "source": "scraped",
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445513564471.jpg"
+    }
+  ]
+}

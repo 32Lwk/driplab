@@ -1,0 +1,722 @@
+{
+  "chain_id": "ucc",
+  "generated_at": "2026-08-08T22:10:42.184995+09:00",
+  "count": 54,
+  "ok": 54,
+  "failed": 0,
+  "beans": [
+    {
+      "product_id": "PRE0600008",
+      "name": "UCC GOLD SPECIAL PREMIUM 炒り豆 ディープカカオ 140g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_36/PRE0600008.html",
+      "episode": "UCC GOLD SPECIAL PREMIUMは、コク・苦み・酸味だけでは語りきれない、特別な香りと味わいが楽しめるプレミアムブランドです。◆UCC独自のブレンド技術と、豆の個性を活かした焙煎技術で、コク・苦味・酸味だけでは語りきれない特別な味わいを実現。◆ブレンド技術：UCC独自のブレンドシミュレーションによる味覚設計。◆焙煎技術：豆の個性を最大限引き出す「単品焙煎」。◆サステナブルに調達されたコーヒー豆を50％以上使用。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_36/PRE0600008.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600008/pre0600008.jpg",
+      "image_local": "data/images/ucc/PRE0600008.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600008/gspp_about_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600008/gspp_deepcacao_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600008/renewal_gspp-deepcacao-beans_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600008/lineup_gspp_2025aw.jpg"
+      ]
+    },
+    {
+      "product_id": "PRE0600006",
+      "name": "UCC GOLD SPECIAL PREMIUM 炒り豆 ベリーフルーティ 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_36/PRE0600006.html",
+      "episode": "UCC GOLD SPECIAL PREMIUMは、コク・苦み・酸味だけでは語りきれない、特別な香りと味わいが楽しめるプレミアムブランドです。◆UCC独自のブレンド技術と、豆の個性を活かした焙煎技術で、コク・苦味・酸味だけでは語りきれない特別な味わいを実現。◆ブレンド技術：UCC独自のブレンドシミュレーションによる味覚設計。◆焙煎技術：豆の個性を最大限引き出す「単品焙煎」。◆サステナブルに調達されたコーヒー豆を50％以上使用。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_36/PRE0600006.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600006/pre0600006.jpg",
+      "image_local": "data/images/ucc/PRE0600006.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600006/gspp_about_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600006/gspp_berryfruity_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600006/renewal_gspp-fruitywave-beans_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600006/lineup_gspp_2025aw.jpg"
+      ]
+    },
+    {
+      "product_id": "PRE0600007",
+      "name": "UCC GOLD SPECIAL PREMIUM 炒り豆 ローステッドナッツ 140g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_36/PRE0600007.html",
+      "episode": "UCC GOLD SPECIAL PREMIUMは、コク・苦み・酸味だけでは語りきれない、特別な香りと味わいが楽しめるプレミアムブランドです。◆UCC独自のブレンド技術と、豆の個性を活かした焙煎技術で、コク・苦味・酸味だけでは語りきれない特別な味わいを実現。◆ブレンド技術：UCC独自のブレンドシミュレーションによる味覚設計。◆焙煎技術：豆の個性を最大限引き出す「単品焙煎」。◆サステナブルに調達されたコーヒー豆を50％以上使用。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_36/PRE0600007.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600007/pre0600007.jpg",
+      "image_local": "data/images/ucc/PRE0600007.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600007/gspp_about_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600007/gspp_roastednuts_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600007/renewal_gspp-roastednuts-beans_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600007/lineup_gspp_2025aw.jpg"
+      ]
+    },
+    {
+      "product_id": "GSP0600001",
+      "name": "UCC ゴールドスペシャル 炒り豆 スぺシャルブレンド 230g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_2/GSP0600001.html",
+      "episode": "「UCC」の技術力と惜しみない手間ひまにより、コーヒーの奥深さが味わえる本格コーヒー。甘い香りと風味豊かなコク。環境に配慮したパッケージを使用。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_2/GSP0600001.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/gsp0600001.jpg",
+      "image_local": "data/images/ucc/GSP0600001.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/goldspecial_about_2025aw_3.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/goldspecial_about_2025aw_4.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/goldspecial_ecofriendly_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600001/lineup_gsp_2025aw.jpg"
+      ]
+    },
+    {
+      "product_id": "GSP0600002",
+      "name": "UCC ゴールドスペシャル 炒り豆 リッチブレンド 230g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_2/GSP0600002.html",
+      "episode": "「UCC」の技術力と惜しみない手間ひまにより、コーヒーの奥深さが味わえる本格コーヒー。優雅な香りと深みのある味わい。環境に配慮したパッケージを使用。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_2/GSP0600002.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600002/gsp0600002.jpg",
+      "image_local": "data/images/ucc/GSP0600002.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600002/goldspecial_about_2025aw_3.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600002/goldspecial_about_2025aw_4.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600002/goldspecial_ecofriendly_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/GSP0600002/lineup_gsp_2025aw.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC3332500",
+      "name": "UCC デカフェ ブラジル100% AP200g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC3332500.html",
+      "episode": ".block-item-detail-description-block .block-item-list-main-decafecoffee { background-image: url(/client_info/UCC/view/userweb/brand/decafecoffee/images/category_bg_01_sp.jpg); padding: 20px 0; width: 100vw; margin: 0 0 0 -16px; } } .block-item-detail-description-block .block-item-list-main-decafecoffee-product { width: 100%; margin: 0 auto 40px; } } .block-item-detail-description-block .block-item-list-main-decafecoffee-because { margin: 0 16px; } } .block-item-detail-description-block .block-item-list-main-decafecoffee-because section { border: 2px solid #7e4a38; border-radius: 30px; background-color: #fff; position: relative; padding: 40px 8px 30px; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because section .block-item-list-main-decafecoffee-because__title { position: absolute; width: 50%; top: -20px; left: 25%; max-width: 400px; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because section .block-item-list-main-decafecoffee-because__title img { display: block; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because .block-item-list-main-decafecoffee-because__topic { margin: 0 auto; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because .block-item-list-main-decafecoffee-because__topic:nth-of-type(n+2) { margin: 20px auto 0; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because .block-item-list-main-decafecoffee-because__topic img { display: block; max-width: 100%; margin: 0 auto; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because .block-item-list-main-decafecoffee-because__topic:nth-last-of-type(1)::after { background-image: url(/client_info/UCC/view/userweb/brand/decafecoffee/images/category_icon_01_sp.png); left: 40%; content: \"\"; display: block; width: 20%; height: 90px; position: absolute; border: 0; bottom: -70px; margin: auto; background-size: 100%; background-repeat: no-repeat; max-width: 100px; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because__conclusion { max-width: 100%; margin: 30px auto 0; padding: 0 10px; } .block-item-detail-description-block .block-item-list-main-decafecoffee-because__conclusion img { display: block; max-width: 100%; margin: 0 auto; } ミルクとコーヒーの甘さを楽しめるドリンクを提供可能です。\"> ミルクとコーヒーの甘さを楽しめるドリンクを提供可能です。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC3332500.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC3332500/ucc3332500.jpg",
+      "image_local": "data/images/ucc/UCC3332500.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "TAN0600004",
+      "name": "UCC 珈琲探究 炒り豆 コロンビアブレンド 140g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_17/TAN0600004.html",
+      "episode": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。やわらかな甘みと豊かなコク、芳ばしい香り。コーヒー鑑定士監修。アラビカ100％使用。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_17/TAN0600004.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600004/tan0600004.jpg",
+      "image_local": "data/images/ucc/TAN0600004.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600004/tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600004/tankyu_colombia_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600004/lineup_tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600004/tankyu_sustainable_mark.jpg"
+      ]
+    },
+    {
+      "product_id": "TAN0600002",
+      "name": "UCC 珈琲探究 炒り豆 ブルーマウンテンブレンド 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_17/TAN0600002.html",
+      "episode": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。調和のとれたまろやかな味わい。コーヒー鑑定士監修。アラビカ100％使用。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_17/TAN0600002.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600002/tan0600002.jpg",
+      "image_local": "data/images/ucc/TAN0600002.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600002/tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600002/tankyu_bluemountain_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600002/lineup_tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600002/tankyu_sustainable_mark.jpg"
+      ]
+    },
+    {
+      "product_id": "TAN0600005",
+      "name": "UCC 珈琲探究 炒り豆 マンデリンブレンド 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_17/TAN0600005.html",
+      "episode": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。濃厚な苦みと深いコク、芳醇な香り。コーヒー鑑定士監修。アラビカ100％使用。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_17/TAN0600005.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600005/tan0600005.jpg",
+      "image_local": "data/images/ucc/TAN0600005.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600005/tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600005/tankyu_mandheling_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600005/lineup_tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600005/tankyu_sustainable_mark.jpg"
+      ]
+    },
+    {
+      "product_id": "TAN0600003",
+      "name": "UCC 珈琲探究 炒り豆 モカブレンド 140g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_17/TAN0600003.html",
+      "episode": "産地ごとの特長を、「おいしさ」として最大限引き出した個性豊かな味わい。華やかでフルーティーな味わいとあまい香り。コーヒー鑑定士監修。アラビカ100％使用。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_17/TAN0600003.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tan0600003.jpg",
+      "image_local": "data/images/ucc/TAN0600003.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tankyu_mocha_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/lineup_tankyu_2025aw.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/TAN0600003/tankyu_sustainable_mark.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600015",
+      "name": "【9/14まで35%OFF】＜業務用＞UCC グランゼ ストロングアイスコーヒー 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_42/UCC0600015.html",
+      "episode": "【グランゼ（GRANZE）シリーズ】 UCC 業務用コーヒーのロングセラー製品。幅広いニーズに応えることができる“おいしさ”のラインナップです。酸味を抑え、しっかりとした苦みと濃厚感を持つアイスコーヒーブレンド。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_42/UCC0600015.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600015/ucc3011910.jpg",
+      "image_local": "data/images/ucc/UCC0600015.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600015/UCC0600015_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600009",
+      "name": "【9/14まで35%OFF】＜業務用＞UCC 極味 プレミアムアイスコーヒー 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600009.html",
+      "episode": "【カフェマイスター 極味（きわみあじ）シリーズ】 香ばしく濃厚、雑味なし！高品質のコーヒー豆を使用し、濃厚でありながら雑味のない味わいを実現。香り立ち、うまみを極めたコーヒーです。アラビカ種コーヒー豆100%のアイスコーヒーブレンド。はなやかな香りとさわやかな飲み心地、すっきりとした味わいが特長。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600009.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600009/ucc3112050.jpg",
+      "image_local": "data/images/ucc/UCC0600009.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600009/UCC0600009_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600001",
+      "name": "【完売御礼】＜数量限定＞UCC 水素焙煎コーヒー 炒り豆 エチオピア G1 イルガチェフェ地方産 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_40/UCC0600001.html",
+      "episode": "2025年4月、UCCは世界で初めて大型水素焙煎機で水素焙煎コーヒーの量産を開始しました。(※) 生豆を炒ることで、酸味や苦味などコーヒー特有の風味を引き出すプロセスである「焙煎」。UCC は、新たに“水素焙煎”の技術を開発しました。水素焙煎が引き出すのは、今までにないコーヒーの新しいおいしさ。焙煎時にCO2を排出せず、脱炭素にも貢献します。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_40/UCC0600001.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/ucc3334740.jpg",
+      "image_local": "data/images/ucc/UCC0600001.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/hydrogen_roasting_leaflet.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/hydrogen_roasting_pop.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/hydrogen_roasting_about.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/hydrogen_roasting_carbonneutral.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/hydrogen_roasting_taste.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/cottonbag_tag.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600001/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "PRE0600010",
+      "name": "【期間限定】 UCC GOLD SPECIAL PREMIUM 炒り豆 柑橘 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_36/PRE0600010.html",
+      "episode": "UCC GOLD SPECIAL PREMIUMは、コク・苦み・酸味だけでは語りきれない、特別な香りと味わいが楽しめるプレミアムブランドです。◆UCC独自のブレンド技術と、豆の個性を活かした焙煎技術で、コク・苦味・酸味だけでは語れない、特別な味わいを実現。◆ブレンド技術：UCC独自のブレンドシミュレーションによる味覚設計。◆焙煎技術：豆の個性を最大限引き出す「単品焙煎」。◆サステナブルに調達されたコーヒー豆を50％以上使用。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_36/PRE0600010.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600010/pre0600010.jpg",
+      "image_local": "data/images/ucc/PRE0600010.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600010/pre0600010_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600010/GSPP_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/PRE0600010/lineup_gspp_2026ss.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600007",
+      "name": "【直営店限定】上島珈琲店 Black Amber Drop 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600007.html",
+      "episode": "ネルから滴る濃厚な一滴一滴が織りなす個性の協演。ストーンフルーツやシェリー酒のようなアロマティックな香り。滑らかな口当たりで、時間が経過してもその風味が失われることなく、それどころか甘みさえ増してくるような最後の一滴までおいしいと感じられるコーヒー。≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600007.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600007/uct0600007.jpg",
+      "image_local": "data/images/ucc/UCT0600007.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600007/black-amber-drop-200g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600007/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600007/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600007/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600007/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600006",
+      "name": "【直営店限定】上島珈琲店 Bow-tie’s pour 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600006.html",
+      "episode": "蝶ネクタイをつけた無口なマスターが一心不乱にドリップに集中している姿と鼻先をくすぐるコーヒーの香り。カカオ・バニラ・シナモンの甘い香り。クリーミーな口当りと黒糖のような甘さが長く続く。程よい酸みとほのかな苦み、クリーミーな口当たりと心地よく甘い余韻を楽しんでいただきたいザ・コーヒーです。≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600006.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600006/uct0600006.jpg",
+      "image_local": "data/images/ucc/UCT0600006.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600006/bow-tie-s-pour-200g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600006/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600006/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600006/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600006/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600010",
+      "name": "【直営店限定】上島珈琲店 Chill lil ice 200g（豆）アイス用",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600010.html",
+      "episode": "苦味とコクのアイスコーヒーの正反対。ちょっとの氷で十分美味しい、新しい時代のアイスコーヒー。チェリーやベリーのように甘酸っぱい果実の風味、トロリとした蜂蜜のような甘さがやさしく喉をうるおす新感覚のアイスコーヒーです。≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600010.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600010/uct0600010.jpg",
+      "image_local": "data/images/ucc/UCT0600010.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600010/chill-lil-ice-200g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600010/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600010/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600010/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600010/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600009",
+      "name": "【直営店限定】上島珈琲店 Foot Print of TADAO 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600009.html",
+      "episode": "創業者 上島忠雄の足跡をたどるように、世界各地で出会ったコーヒーをブレンド。スモーキーな香りとダークチョコのような力強い味わい。焦がしキャラメルのような余韻。創業者 上島忠雄が自ら足を運んだ国々のオリジンをブレンド。その当時よく飲まれていた深炒りの味覚へオマージュしながら、それぞれの個性が見えるようにつくり上げた味わいです。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600009.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600009/uct0600009.jpg",
+      "image_local": "data/images/ucc/UCT0600009.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600009/foot-print-of-tadao-200g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600009/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600009/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600009/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600009/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600008",
+      "name": "【直営店限定】上島珈琲店 Night Owl Dream 200g（豆）カフェインレス",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600008.html",
+      "episode": "夜遅くまで起きている人（Night Owl）も少しは気を遣うもの。そんな人でも飲みたい深炒りカフェインレス。スパイシーでスモーキーな香りと焦がしキャラメルを感じさせる濃厚で深みのある味わい。香り豊かなコーヒーを飲みたいけれど遅い時間に飲むのは少々気が引ける・・・ そんな人に飲んでほしい濃厚深炒りカフェインレス。夢見心地のコーヒー体験を、あなたに。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600008.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600008/uct0600008.jpg",
+      "image_local": "data/images/ucc/UCT0600008.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600008/night-owl-dream-200g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600008/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600008/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600008/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600008/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600011",
+      "name": "【直営店限定】上島珈琲店 Sleepy Head 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600011.html",
+      "episode": "眠い目をこすりながら、まだ半分夢見心地な気分の時、優しくもパッと気分を切り替えられる一杯。スイートオレンジのような軽やかな酸味、滑らかな口当りとカラメルのような甘い後味。爽やかな朝のスタートをそっと後押ししてくれるコーヒー。≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600011.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600011/uct0600011.jpg",
+      "image_local": "data/images/ucc/UCT0600011.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600011/sleepy-head-200g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600011/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600011/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600011/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600011/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600000",
+      "name": "【直営店限定】上島珈琲店ブレンド 250g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600000.html",
+      "episode": "上島珈琲店の創業から変わらぬ美味しさへの飽くなきこだわり、熱い想いを詰め込んで。ミルクチョコレートやローストナッツのような香りと甘い余韻が心地良い、バランスの取れた味わい。芳醇な香りと心地よいコクが特徴のコーヒーです。≪おいしさの秘密≫アロマフリージング製法 焙煎直後の炒り豆をマイナス2℃の冷気で急速冷却することで、コーヒーの大切な香りを封じ込めるUCC独自の製法です。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600000.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/B0007_02.jpg",
+      "image_local": "data/images/ucc/UCT0600000.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/ueshima_bean_250g.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/tagimagez_cotton.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600000/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "HLS0600002",
+      "name": "ヒルス バリアラビカ100％ 110g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_23/HLS0600002.html",
+      "episode": "豆にこだわり、ワンランク上の優雅なコーヒータイムを愉しむ、私。神々の島、インドネシアバリ島産アラビカ豆100％。パイナップルのようなさわやかな酸味と甘い香りが特徴。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_23/HLS0600002.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/HLS0600002/hls8029870_01.jpg",
+      "image_local": "data/images/ucc/HLS0600002.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "HLS0600001",
+      "name": "ヒルス マラゴジッペ100％ 110g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_23/HLS0600001.html",
+      "episode": "豆にこだわり、ワンランク上の優雅なコーヒータイムを愉しむ、私。希少なニカラグア産マラゴジッペ種の大粒豆ジャイアントビーンズ100％。長期熟成されたワインやメープルのような風味。ドライフルーツのような芳醇なコクや甘い香りが特徴。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_23/HLS0600001.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/HLS0600001/hls8029860_01.jpg",
+      "image_local": "data/images/ucc/HLS0600001.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "SAI3301002",
+      "name": "フェアトレードキリマンジャロコーヒー 180g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_33/SAI3301002.html",
+      "episode": "タンザニアのFLO認証生産者組合と公正な価格契約をしたフェアトレードコーヒー豆原料を100％使用したレギュラーコーヒー。奥深い香りと冴える苦味が特長です。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_33/SAI3301002.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/SAI3301002/SAI3301002_01.jpg",
+      "image_local": "data/images/ucc/SAI3301002.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "SAI3301006",
+      "name": "フェアトレードニカラグアコーヒー 180g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_33/SAI3301006.html",
+      "episode": "ニカラグア・マドリス県の契約生産者組合の小農家の方たちが、非常に豊かな土壌でじっくり育てたコーヒー豆を100％使用したレギュラーコーヒー。酸味と甘みがあいまった、まろやかなコクとショコラの香りが特長です。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_33/SAI3301006.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/SAI3301006/SAI3301006_01.jpg",
+      "image_local": "data/images/ucc/SAI3301006.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "SAI3301004",
+      "name": "フェアトレードメキシココーヒー 180g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_33/SAI3301004.html",
+      "episode": "メキシコ・チアパス高地の契約生産者協同組合とのフェアトレード（公正取引）したコーヒー豆を100％原料としたレギュラーコーヒー。柑橘系のフルーティーな香りとやわらかな甘みが特長です。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_33/SAI3301004.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/SAI3301004/SAI3301004_01.jpg",
+      "image_local": "data/images/ucc/SAI3301004.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "UCT0600002",
+      "name": "上島珈琲店 炒り豆 Messenger from Far East 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600002.html",
+      "episode": "大人のための上質なコーヒー専門店「上島珈琲店」の味わいを、ご家庭でも。コーヒーの産地からシーンを辿る、ストーリーを楽しむラインアップ。アラビカ豆100％。ストーリーを表現する、オリジナル書下ろしのデザイン。リッチなコクと、なめらかな後口。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600002.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600002/241003_02377_2.jpg",
+      "image_local": "data/images/ucc/UCT0600002.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600002/uct3517180.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600002/UCT1202007_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600002/mikaku_ueshima.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600004",
+      "name": "上島珈琲店 炒り豆 Pool N Bloom 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600004.html",
+      "episode": "大人のための上質なコーヒー専門店「上島珈琲店」の味わいを、ご家庭でも。コーヒーの産地からシーンを辿る、ストーリーを楽しむラインアップ。アラビカ豆100％。ストーリーを表現する、オリジナル書下ろしのデザイン。華やかな香りと、フルーティな味わい。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600004.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600004/241003_02381_2.jpg",
+      "image_local": "data/images/ucc/UCT0600004.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600004/uct3517200.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600004/UCT1202008_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600004/mikaku_ueshima.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600005",
+      "name": "上島珈琲店 炒り豆 Time to Bed 140g （豆）カフェインレス",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600005.html",
+      "episode": "大人のための上質なコーヒー専門店「上島珈琲店」の味わいを、ご家庭でも。コーヒーの産地からシーンを辿る、ストーリーを楽しむラインアップ。アラビカ豆100％。ストーリーを表現する、オリジナル書下ろしのデザイン。やわらかな甘みと、マイルドな味わい。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600005.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600005/241003_02375_2.jpg",
+      "image_local": "data/images/ucc/UCT0600005.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600005/uct3517210.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600005/UCT1202006_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600005/mikaku_ueshima.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600003",
+      "name": "上島珈琲店 炒り豆 W cracking Deep 140g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600003.html",
+      "episode": "大人のための上質なコーヒー専門店「上島珈琲店」の味わいを、ご家庭でも。コーヒーの産地からシーンを辿る、ストーリーを楽しむラインアップ。アラビカ豆100％。ストーリーを表現する、オリジナル書下ろしのデザイン。深炒りの苦みと、濃厚な後口。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600003.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600003/241003_02379_2.jpg",
+      "image_local": "data/images/ucc/UCT0600003.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600003/uct3517190.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600003/UCT1202005_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600003/mikaku_ueshima.jpg"
+      ]
+    },
+    {
+      "product_id": "UCT0600001",
+      "name": "上島珈琲店 炒り豆 上島珈琲店ブレンド 150g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_10/UCT0600001.html",
+      "episode": "大人のための上質なコーヒー専門店「上島珈琲店」の味わいを、ご家庭でも。コーヒーの産地からシーンを辿る、ストーリーを楽しむラインアップ。アラビカ豆100％。ストーリーを表現する、オリジナル書下ろしのデザイン。香ばしく豊かな香りと、心地よい甘い余韻。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_10/UCT0600001.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600001/241003_02372_2.jpg",
+      "image_local": "data/images/ucc/UCT0600001.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600001/uct3517170.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600001/UCT1202004_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCT0600001/temp_img_1723183373896_LAEAvAobTJ.jpg"
+      ]
+    },
+    {
+      "product_id": "SHI0600001",
+      "name": "進和 伊予の炭焼珈琲「媛の薫」150g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_34/SHI0600001.html",
+      "episode": "愛媛県産の炭を使って丹念に焙煎。独特な香ばしい香りと深いコクをお楽しみいただけます。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_34/SHI0600001.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/SHI0600001/SHI3101007_01.jpg",
+      "image_local": "data/images/ucc/SHI0600001.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "UCC0600016",
+      "name": "＜業務用＞U.COFFEE 石釜オリジナルブレンド 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_43/UCC0600016.html",
+      "episode": "【石釜珈琲シリーズ】 焙煎にこだわったコーヒー。石釜焙煎だからできた、さわやかな味わいと豊かな香りをぜひ一度お楽しみください。甘味・苦み・酸味、香味などが複雑に絡み合った、バランスと奥深さのある味わい。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_43/UCC0600016.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600016/ucc3318580.jpg",
+      "image_local": "data/images/ucc/UCC0600016.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600016/UCC0600016_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM3151680",
+      "name": "＜業務用＞UCC MOUNTAIN MIST エチオピア・モカ ワイルド・ベレテ・ゲラ 200g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM3151680.html",
+      "episode": "国際協力機構（JICA）が実施するプロジェクトの支援を通じて、現地住民により設立された森林管理組合（WaBuB/ワブブ）が、レインフォレスト・アライアンスの認証を取得し、 アラビカ種の起源であるエチオピアの森林で自然のままに育ったコーヒー。現地で、収穫後のコーヒー豆の品質向上を目的に「品質改善プロジェクト」をUCCとJICAが実施。ワインのような芳醇な香りとオレンジのようなジューシーな甘みを感じる酸味が特長。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM3151680.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151680/umm3151680_1.jpg",
+      "image_local": "data/images/ucc/UMM3151680.jpg",
+      "extra_images": []
+    },
+    {
+      "product_id": "UMM3230510",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ガテマラ サンタクララ農園ゲイシャ 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM3230510.html",
+      "episode": "フレーバー：スイートオレンジ、パパイヤや洋梨のようなフルーツの香り アシディティ：スイートオレンジ、ピーチ、グリーンアップルのようなやさしい酸味 アフターテイスト：イエローピーチのような長く続く甘さ 各産地の農園、地域指定、高グレード品というだけではなく、コーヒー鑑定士、Ｑグレーダーによるカッピングにより特に点数の高いものだけをセレクト。グァテマラのアカテナンゴ地区のUCCの契約農園であるサンタ・クララ農園で、収穫されたゲイシャ品種です。アカテナンゴ山とフエゴ山という２つの火山の西側斜面に広がる契約農園では、標高1,800mの冷涼な気候と水はけのよい火山灰土壌のもとで、ゲイシャ品種のコーヒーが育てられています。その味わいは、フルーツのようなフレーバー、やさしい酸味、長く続く甘みが特長です。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM3230510.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3230510/UMM3230510.jpg",
+      "image_local": "data/images/ucc/UMM3230510.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3230510/umm3230510.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM0600005",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ケニア キウンユウェットミル カリタティ農協組合 200g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM0600005.html",
+      "episode": "農園や地域を指定したコーヒーの中から、UCCグループのQアラビカグレーダーのカッピングにより特に点数の高いものだけをセレクト。肥沃な火山性土壌と昼夜の寒暖差に恵まれた、高品質コーヒー生産に最適な環境のケニア山麓南部、キリンヤガ県で育てられたコーヒー。カリタティ農協組合の共同精選所であるキウンユ ウェットミルでは、収穫されたチェリーを速やかに精選し、豆のポテンシャルを最大限に引き出します。ウォッシュド精製後、アフリカンベッドで丁寧に天日乾燥することで、カシスを思わせる芳醇な香りと、明るく鮮やかな酸味をあわせ持つコーヒーに仕上がりました。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM0600005.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600005/umm0600005_01.jpg",
+      "image_local": "data/images/ucc/UMM0600005.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600005/umm0600005_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600005/cottonbag_tag.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600005/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600005/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600005/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM3151340",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ナチュラルハーフカフェイン ローリナ 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM3151340.html",
+      "episode": "フレーバー：レーズン、ローストナッツ、ミルクチョコのような香り アシディティ：スイートオレンジのような甘く明るい酸味 アフターテイスト：糖蜜のような長く続く甘さ 各産地の農園、地域指定、高グレード品というだけではなく、コーヒー鑑定士、Ｑグレーダーによるカッピングにより特に点数の高いものだけをセレクト。私たちは、高品質でカフェインの少ないコーヒーを探し出す旅に出ました。2008年9月ついに発見されたコーヒーは一般的なアラビカ種の約半分のカフェイン量で、人工的にカフェインを低減したコーヒーとは異なりコーヒー本来の華やかで気品ある香りと、プルーンのような甘味と酸味が特長です。Laurina のカフェイン：0.6% 一般的なアラビカ種のカフェイン：1.2～1.4％（UCC調べ）。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM3151340.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151340/UMM3151340.jpg",
+      "image_local": "data/images/ucc/UMM3151340.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151340/umm3151340.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM0600004",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ニカラグア ラ・ラグーナ農園 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM0600004.html",
+      "episode": "各産地の農園、地域指定、高グレード品というだけではなく、コーヒー鑑定士、Ｑグレーダーによるカッピングにより特に点数の高いものだけをセレクト。ニカラグア北部、ホンジュラスとの国境に接するヌエバ・セゴビア県オコタル地区で育てられたコーヒー。コーヒー栽培に適した気候と肥沃な土壌のもと、完熟したチェリーのみを手摘みし、丁寧に精製。華やかな香りと柑橘系の明るい酸味、そして心地よく続く甘さが感じられる。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM0600004.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600004/umm0600004.jpg",
+      "image_local": "data/images/ucc/UMM0600004.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600004/umm0600004_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600004/cottonbag_tag.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600004/gift_sticker_01.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600004/gift_sticker_02.jpg",
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM0600004/noshi_all.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM2701015",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ハワイコナ 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM2701015.html",
+      "episode": "華やかでトロピカルなフレーバーと、柑橘系の心地よい酸味が楽しめるコーヒー。■ハワイコナコーヒーの魅力 ハワイコナコーヒーとは、“ハワイ島の西側のコナ地区で栽培されるアラビカ種のコーヒー”のことです。現在ハワイ島以外にも、マウイ島、オアフ島、カウアイ島などでコーヒー栽培が行われていますが、コナ地区で生産されるコナコーヒーが最高品質とされ、世界的にも有名です。火山灰の影響を受けているコナ地区は肥沃な土壌で、コーヒーの木に必要な栄養分がすべて蓄えられています。標高は250～800m程度と他の生産地と比べて決して高くはありませんが、火山性の土壌、昼と夜の寒暖差など、コーヒー栽培には理想的な条件が揃っています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM2701015.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM2701015/UMM2701015_01.jpg",
+      "image_local": "data/images/ucc/UMM2701015.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM2701015/UMM2701015_01 (1).jpg"
+      ]
+    },
+    {
+      "product_id": "UMM3233480",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ブルーマウンテンNo.1 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM3233480.html",
+      "episode": "希少なブルーマウンテンNo1の上品な風味と柔らかな口当たりを実現しています。ブルーマウンテンNo.1は、ジャマイカ東側にある、ブルーマウンテン山脈内のごく限られた地域で栽培されたコーヒーのことで あり、その中で最高等級のコーヒーを指します。香り、酸味、苦味、コクの全てにバランスが取れた味わいのコーヒーです。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM3233480.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3233480/UMM3233480_01.jpg",
+      "image_local": "data/images/ucc/UMM3233480.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3233480/umm3233480_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM3151970",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ホンジュラス WOMEN'S COFFEE 200g （豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM3151970.html",
+      "episode": "各産地の農園、地域指定、高グレード品というだけではなく、コーヒー鑑定士、Ｑグレーダーによるカッピングにより特に点数の高いものだけをセレクト。ホンジュラス西部のオコテペケにあるBeneficio San Marcos組合に所属する女性生産者により栽培されているコーヒー。丁寧に手摘みされたコーヒーは、ライムのようなフレッシュですっきりした酸味とバターのようなコクを合わせ持っている。コーヒー生産に携わる女性の雇用や社会活動をサポートするNPO法人“IWCA(International Women’s Coffee Alliance)”ロゴをパッケージに貼付しており、売上の１％を“IWCA”に寄付。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM3151970.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151970/UMM3151970.jpg",
+      "image_local": "data/images/ucc/UMM3151970.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151970/umm3151970.jpg"
+      ]
+    },
+    {
+      "product_id": "UMM3151370",
+      "name": "＜業務用＞UCC MOUNTAIN MIST ルワンダ フイエマウンテン 200g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_12/UMM3151370.html",
+      "episode": "フレーバー：青リンゴやマスカット、パイナップル、黒糖、キャラメルのような香り アシディティ：リンゴ酸のような甘苦い酸味 アフターテイスト：黒糖のような甘い余韻 各産地の農園、地域指定、高グレード品というだけではなく、コーヒー鑑定士、Ｑグレーダーによるカッピングにより特に点数の高いものだけをセレクト。国際協力機構（JICA）が取り組む村おこしプロジェクトにて選ばれた一品。標高1,900～2,400mの気温差の大きい生産エリアでは、日照の長さ、土壌の質を十分に理解した生産者が、細やかな工夫と努力を行っています。それこそが、このコーヒーの最大の特長である、他にはない様々なフルーツの風味を感じるテロワールを生み出しています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_12/UMM3151370.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151370/UMM3151370.jpg",
+      "image_local": "data/images/ucc/UMM3151370.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UMM3151370/umm3151370.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600006",
+      "name": "＜業務用＞UCC カフェネイチャー レインフォレスト・アライアンス認証農園産コーヒー アイスコーヒー 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600006.html",
+      "episode": "【Café Nature (カフェネイチャー)シリーズ】 コーヒーが栽培されるのは多様な動植物が生息し、健全な生態系が保たれている大自然。その環境を保護し、人々の生活を守ることでできあがる高品質で安全・安心なコーヒーです。しっかりとしたコーヒー感とすっきりした苦味のアイスコーヒーブレンド。レインフォレスト・アライアンス 動植物や森林の保護、農園で働く人々の権利推進や暮らしの向上といった、より持続可能な農業のための厳しい基準を遵守するレインフォレスト・アライアンス認証農園で栽培されたコーヒー。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600006.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600006/ucc3333440.jpg",
+      "image_local": "data/images/ucc/UCC0600006.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600006/UCC0600006_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600004",
+      "name": "＜業務用＞UCC カフェネイチャー レインフォレスト・アライアンス認証農園産コーヒー シティロースト 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600004.html",
+      "episode": "【Café Nature (カフェネイチャー)シリーズ】 コーヒーが栽培されるのは多様な動植物が生息し、健全な生態系が保たれている大自然。その環境を保護し、人々の生活を守ることでできあがる高品質で安全・安心なコーヒーです。やわらかな酸味と甘み、穏やかな苦味のバランスがとれた味わい。レインフォレスト・アライアンス 動植物や森林の保護、農園で働く人々の権利推進や暮らしの向上といった、より持続可能な農業のための厳しい基準を遵守するレインフォレスト・アライアンス認証農園で栽培されたコーヒー。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600004.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600004/ucc3333400.jpg",
+      "image_local": "data/images/ucc/UCC0600004.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600004/UCC0600004_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600005",
+      "name": "＜業務用＞UCC カフェネイチャー レインフォレスト・アライアンス認証農園産コーヒー ダークロースト 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600005.html",
+      "episode": "【Café Nature (カフェネイチャー)シリーズ】 コーヒーが栽培されるのは多様な動植物が生息し、健全な生態系が保たれている大自然。その環境を保護し、人々の生活を守ることでできあがる高品質で安全・安心なコーヒーです。ダークローストで仕上げた深いコクが特長。レインフォレスト・アライアンス 動植物や森林の保護、農園で働く人々の権利推進や暮らしの向上といった、より持続可能な農業のための厳しい基準を遵守するレインフォレスト・アライアンス認証農園で栽培されたコーヒー。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600005.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600005/ucc3333420.jpg",
+      "image_local": "data/images/ucc/UCC0600005.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600005/UCC0600005_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600002",
+      "name": "＜業務用＞UCC カフェネイチャー 有機栽培珈琲 レインフォレスト・アライアンス認証 シティロースト 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600002.html",
+      "episode": "【Café Nature (カフェネイチャー)シリーズ】 コーヒーが栽培されるのは多様な動植物が生息し、健全な生態系が保たれている大自然。その環境を保護し、人々の生活を守ることでできあがる高品質で安全・安心なコーヒーです。酸味を抑えたバランスの取れた味わい。有機栽培珈琲 堆肥による土作りを3年以上行った農園で農薬や化学肥料を使わず栽培して育てたコーヒー生豆のこと。収穫後も燻蒸材、農薬等の化学的合成品の使用等による影響がなかったものを指します。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600002.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600002/ucc3333010.jpg",
+      "image_local": "data/images/ucc/UCC0600002.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600002/UCC0600002_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600003",
+      "name": "＜業務用＞UCC カフェネイチャー 有機栽培珈琲 レインフォレスト・アライアンス認証 ダークロースト 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600003.html",
+      "episode": "【Café Nature (カフェネイチャー)シリーズ】 コーヒーが栽培されるのは多様な動植物が生息し、健全な生態系が保たれている大自然。その環境を保護し、人々の生活を守ることでできあがる高品質で安全・安心なコーヒーです。じっくり焙煎された深みのあるコクと苦味が特長。有機栽培珈琲 堆肥による土作りを3年以上行った農園で農薬や化学肥料を使わず栽培して育てたコーヒー生豆のこと。収穫後も燻蒸材、農薬等の化学的合成品の使用等による影響がなかったものを指します。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600003.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600003/ucc3333030.jpg",
+      "image_local": "data/images/ucc/UCC0600003.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600003/UCC0600003_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600010",
+      "name": "＜業務用＞UCC カフェマイスター 国産備長炭 炭焼珈琲豆 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600010.html",
+      "episode": "【カフェマイスター 炭焼シリーズ】 国産備長炭を使用し丁寧に焙煎した炭焼珈琲。深い味わいと炭焼ならではの香りが魅力です。国産備長炭を使用し丁寧に焙煎しながら、炭焼独特の香りとコクを最大限に引き出しました。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600010.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600010/ucc3030220.jpg",
+      "image_local": "data/images/ucc/UCC0600010.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600010/UCC0600010_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600014",
+      "name": "＜業務用＞UCC グランゼ ストロング 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_42/UCC0600014.html",
+      "episode": "【グランゼ（GRANZE）シリーズ】 UCC 業務用コーヒーのロングセラー製品。幅広いニーズに応えることができる“おいしさ”のラインナップです。しっかりとした苦みとコク、香ばしい香りが口いっぱいに広がる味わい。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_42/UCC0600014.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600014/ucc3012050.jpg",
+      "image_local": "data/images/ucc/UCC0600014.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600014/UCC0600014_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600012",
+      "name": "＜業務用＞UCC グランゼ マイルド 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_42/UCC0600012.html",
+      "episode": "【グランゼ（GRANZE）シリーズ】 UCC 業務用コーヒーのロングセラー製品。幅広いニーズに応えることができる“おいしさ”のラインナップです。酸味のなかに、ほのかな苦みを感じるマイルドな風味が特長。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_42/UCC0600012.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600012/ucc3012030.jpg",
+      "image_local": "data/images/ucc/UCC0600012.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600012/UCC0600012_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600013",
+      "name": "＜業務用＞UCC グランゼ リッチ 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_42/UCC0600013.html",
+      "episode": "【グランゼ（GRANZE）シリーズ】 UCC 業務用コーヒーのロングセラー製品。幅広いニーズに応えることができる“おいしさ”のラインナップです。酸味を抑えた心地よい苦みが特長。満足度の高い芳醇な味わい。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_42/UCC0600013.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600013/ucc3012040.jpg",
+      "image_local": "data/images/ucc/UCC0600013.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600013/UCC0600013_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600007",
+      "name": "＜業務用＞UCC 極味 まろやか仕立て 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600007.html",
+      "episode": "【カフェマイスター 極味（きわみあじ）シリーズ】 香ばしく濃厚、雑味なし！高品質のコーヒー豆を使用し、濃厚でありながら雑味のない味わいを実現。香り立ち、うまみを極めたコーヒーです。グァテマラのまろやかな飲み口とともにコクを感じるブレンド。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600007.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600007/ucc3104790.jpg",
+      "image_local": "data/images/ucc/UCC0600007.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600007/UCC0600007_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600008",
+      "name": "＜業務用＞UCC 極味 深いコク仕立て 500g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600008.html",
+      "episode": "【カフェマイスター 極味（きわみあじ）シリーズ】 香ばしく濃厚、雑味なし！高品質のコーヒー豆を使用し、濃厚でありながら雑味のない味わいを実現。香り立ち、うまみを極めたコーヒーです。コロンビアの豊かなボディが主役。ただ苦いだけでなく、しっかりとしたコクと上品な後味が広がるブレンド。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600008.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600008/ucc3104800.jpg",
+      "image_local": "data/images/ucc/UCC0600008.jpg",
+      "extra_images": [
+        "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600008/UCC0600008_02.jpg"
+      ]
+    },
+    {
+      "product_id": "UCC0600011",
+      "name": "＜業務用＞UCC 炭焼ロイヤルヨーロピアンブレンド 缶700g（豆）",
+      "buy_url": "https://store.ucc.co.jp/category/BRAND_27/UCC0600011.html",
+      "episode": "【ロングセラー シリーズ】 国産備長炭を使用し丁寧に焙煎した炭焼珈琲。深い味わいと炭焼ならではの香りが魅力です。厳選された大粒のコーヒー豆を使用。炭焼ならではの深いコクと豊かな味わいが特長。見た目もおしゃれな樽型缶入りです。 UCC上島珈琲は1925年の創業以来、ブレンド技術と焙煎技術で一杯のコーヒーの価値を高め続けています。",
+      "episode_source": "https://store.ucc.co.jp/category/BRAND_27/UCC0600011.html",
+      "image_url": "https://store.ucc.co.jp/client_info/UCC/itemimage/UCC0600011/ucc3029060.jpg",
+      "image_local": "data/images/ucc/UCC0600011.jpg",
+      "extra_images": []
+    }
+  ]
+}

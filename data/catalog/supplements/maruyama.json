@@ -1,0 +1,260 @@
+{
+  "chain_id": "maruyama",
+  "beans": [
+    {
+      "product_id": 24,
+      "taste_notes": "ダークチョコレートのような風味。味わい深いコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 26,
+      "taste_notes": "花の香りと柑橘類の爽やかな風味。モカらしい華やかな酸味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 52,
+      "taste_notes": "すっきりとした爽やかさに加え、チョコレートのような風味やコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 79,
+      "taste_notes": "ダークチョコレート、ダークチェリーの風味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 80,
+      "taste_notes": "ダークチョコレート、ビターキャラメルの風味。奥行きのある味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 84,
+      "taste_notes": "オレンジ、チョコレート、ほのかにフローラルな風味。爽やかな味わいと深みのある余韻。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 85,
+      "taste_notes": "ダークチョコレート、オレンジピールの風味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 86,
+      "taste_notes": "ミルクチョコ、オレンジ、キャラメルの風味。爽やかさと心地良い舌触り。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 97,
+      "taste_notes": "ビターチョコ、キャラメルの風味。スパイシーな後味と重厚感。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 201,
+      "taste_notes": "チョコレートやナッツを彷彿とさせる風味。滑らかな質感と後味に甘さが続く。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1049,
+      "taste_notes": "ダークチョコレート、アーモンドの風味。クリーミーな質感。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1131,
+      "taste_notes": "オレンジ、ハチミツの風味。爽やかな後味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1169,
+      "taste_notes": "チェリー、ミルクチョコレートの風味。バランスの良い味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1935,
+      "taste_notes": "ローストナッツの風味、バランスの良い味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1936,
+      "taste_notes": "花の様な香り、軽やかな口当たり。透明感のある味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1937,
+      "taste_notes": "ダークチョコレートの深いコク、豊かな香り。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 1986,
+      "taste_notes": "オレンジ、カシューナッツのような風味。軽やかで爽やかな味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2018,
+      "taste_notes": "ダークチョコレート、スイートスパイスの風味。クリーミーな質感。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 2146,
+      "taste_notes": "オレンジ、ナッツの風味。やさしい甘さとなめらかな口あたり。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2226,
+      "taste_notes": "パッションフルーツ、イエローピーチ、ブラックティー。シロップのような口当たり。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2227,
+      "taste_notes": "ダークチョコレート、オレンジピール、すっきりとした苦み。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2228,
+      "taste_notes": "アップル、アーモンド、爽やかな味わい。なめらかな口当たり。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2249,
+      "taste_notes": "ビターキャラメル、ヘーゼルナッツの風味。クリーミーな質感。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2287,
+      "taste_notes": "トロピカルフルーツのような風味。甘い後口。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2309,
+      "taste_notes": "ダークチョコレート、ハーブの風味。すっきりとした後味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2311,
+      "taste_notes": "アーモンド、オランジェット、ベリーの風味。上品な味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2371,
+      "taste_notes": "ダークチョコレート、マカダミアナッツ。深煎りならではのコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2420,
+      "taste_notes": "ダークチェリー、ビターキャラメルの風味。なめらかな口当たり。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2500,
+      "taste_notes": "ミルクチョコレート、アーモンドプラリネの風味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2620,
+      "taste_notes": "ダークチョコレート、アプリコット。ほろ苦さと優しい酸味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 2747,
+      "taste_notes": "ミルクキャラメル、オレンジ。やさしい果実味とまろやかな口当たり。",
+      "processing": "不明"
+    },
+    {
+      "product_id": 2982,
+      "taste_notes": "アップル、イエローピーチ、レモングラス、はちみつ。香水のような香り。",
+      "processing": "ハニー"
+    },
+    {
+      "product_id": 3012,
+      "taste_notes": "チョコレートのような風味とコク、ほのかに感じる甘み。",
+      "processing": "不明"
+    },
+    {
+      "product_id": 3030,
+      "taste_notes": "ダークチョコレートのような風味。味わい深いコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3031,
+      "taste_notes": "オレンジ、ハチミツの風味。爽やかな後味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3032,
+      "taste_notes": "花の香りと柑橘類の爽やかな風味。モカらしい華やかな酸味。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3033,
+      "taste_notes": "すっきりとした爽やかさに加え、チョコレートのような風味やコク。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3034,
+      "taste_notes": "花の様な香り、軽やかな口当たり。透明感のある味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3035,
+      "taste_notes": "ローストナッツの風味、バランスの良い味わい。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3036,
+      "taste_notes": "ダークチョコレートの深いコク、豊かな香り。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3062,
+      "taste_notes": "オレンジやチェリーを思わせる明るい酸味。ヌガーのようなやさしい甘さ。なめらかな口当たり。",
+      "processing": "ナチュラル"
+    },
+    {
+      "product_id": 3067,
+      "taste_notes": "ビターキャラメル、オレンジピール、なめらかな口当たり。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": 3073,
+      "taste_notes": "ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ。花々を思わせるエレガントな後味。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 3074,
+      "taste_notes": "イエローピーチ、ジャスミン、トロピカルフルーツ、洋梨。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 3075,
+      "taste_notes": "アプリコット、チェリー、メープルシロップ。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 3087,
+      "taste_notes": "ジャスミン、アプリコット、オレンジ、ミント。なめらかな口当たり。",
+      "processing": "ナチュラル"
+    },
+    {
+      "product_id": 3088,
+      "taste_notes": "オレンジ、ストーンフルーツ、ブラックティー。ナッツのような香ばしい甘さ。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 3089,
+      "taste_notes": "ダークチョコレート、ドライフィグ。滑らかな口当たり。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 3095,
+      "taste_notes": "ダークチョコレート、レーズン。ほろ苦さと奥深い甘さ。",
+      "processing": "ウォッシュド"
+    },
+    {
+      "product_id": 3096,
+      "taste_notes": "ラズベリー、ピーチ、はちみつ。ジューシーな味わい。",
+      "processing": "ナチュラル"
+    },
+    {
+      "product_id": 3110,
+      "taste_notes": "ジャスミン、ライチ、シャインマスカット、青りんご、はちみつ。花々を思わせるエレガントな後味。",
+      "processing": "ウォッシュド"
+    }
+  ]
+}

@@ -33,7 +33,18 @@ from r2_utils import (  # noqa: E402
 )
 
 JST = timezone(timedelta(hours=9))
-SCRAPED_CHAINS = ["doutor", "starbucks", "maruyama", "tullys", "kaldi"]
+SCRAPED_CHAINS = [
+    "doutor",
+    "starbucks",
+    "maruyama",
+    "tullys",
+    "kaldi",
+    "ucc",
+    "hoshino",
+    "ogawa",
+    "sarutahiko",
+    "bluebottle",
+]
 CATALOG_PATH = ROOT / "data" / "catalog" / "beans.json"
 MANIFEST_PATH = ROOT / "data" / "catalog" / "image_manifest.json"
 

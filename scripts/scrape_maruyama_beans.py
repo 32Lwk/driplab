@@ -38,6 +38,12 @@ MVP_SEED_IDS = {
     3087: "maruyama-samanbaia-geisha-80g",
 }
 
+ORIGIN_COUNTRIES = (
+    "エルサルバドル", "エチオピア", "ケニア", "コロンビア", "グアテマラ", "ブラジル",
+    "ホンジュラス", "コスタリカ", "インドネシア", "パナマ", "ルワンダ", "ブルンジ",
+    "タンザニア", "ニカラグア", "ペルー", "ボリビア", "イエメン", "ハワイ", "メキシコ", "ウガンダ",
+)
+
 
 def fetch(url: str) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -127,23 +133,57 @@ def parse_description(og: str) -> str | None:
     return desc or None
 
 
-def parse_origin(name: str, og: str) -> str | None:
+def parse_blend_origins(html: str) -> list[str] | None:
+    m = re.search(r'class="productDetailExplain"[^>]*>(.*?)</div>', html, re.DOTALL)
+    if not m:
+        return None
+    text = re.sub(r"<[^>]+>", " ", m.group(1))
+    text = re.sub(r"\s+", " ", unescape(text)).strip()
+    if "ブレンド配合" not in text:
+        return None
+    found = [country for country in ORIGIN_COUNTRIES if country in text]
+    if "他" in text and found:
+        found.append("他")
+    return found or None
+
+
+def parse_origin(name: str, og: str, html: str | None = None) -> str | list[str] | None:
+    if html:
+        blend = parse_blend_origins(html)
+        if blend:
+            return blend
+
     m = re.search(r"＜([^＞>]+)＞", og or "")
     if m:
         return m.group(1).strip()
-    for pat in (
+    origin_name_pattern = (
         r"(エチオピア|ケニア|コロンビア|グアテマラ|ブラジル|ホンジュラス|コスタリカ|エルサルバドル|"
         r"インドネシア|パナマ|ルワンダ|ブルンジ|タンザニア|ニカラグア|ペルー|ボリビア|イエメン|"
-        r"ハワイ|メキシコ|ウガンダ|スマトラ|モカ|キリマンジャロ|ゲイシャ|アグロタケシ|軽井沢|名古屋|日本)"
-    ):
-        m2 = re.search(pat, name)
-        if m2:
-            return m2.group(1)
+        r"ハワイ|メキシコ|ウガンダ|スマトラ|モカ|キリマンジャロ|ゲイシャ|アグロタケシ|軽井沢|名古屋)"
+    )
+    m2 = re.search(origin_name_pattern, name)
+    if m2:
+        return m2.group(1)
     if "ブレンド" in name:
         return "ブレンド"
     if "カフェインレス" in name:
         return "カフェインレス"
     return None
+
+
+def parse_gallery_images(html: str) -> list[str]:
+    urls: list[str] = []
+    gallery = re.search(r"productDetailInfoGallery.*?</ul>", html, re.DOTALL)
+    if not gallery:
+        return urls
+    for m in re.finditer(
+        r"background-image:\s*url\(['\"]?([^'\"]+)['\"]?\)",
+        gallery.group(0),
+    ):
+        url = abs_url(m.group(1))
+        if url not in urls:
+            urls.append(url)
+    return urls
 
 
 def parse_roast(name: str) -> str | None:
@@ -181,6 +221,8 @@ def abs_url(src: str) -> str:
         return src
     if src.startswith("//"):
         return "https:" + src
+    if src.startswith("/ec/"):
+        return "https://www.maruyamacoffee.com" + src
     return BASE.rstrip("/") + src
 
 
@@ -238,8 +280,10 @@ def parse_product_detail(pid: str, html: str | None = None) -> dict | None:
     if m4:
         og = unescape(m4.group(1))
 
-    image_url = parse_product_image(html)
+    gallery_images = parse_gallery_images(html)
+    image_url = gallery_images[0] if gallery_images else parse_product_image(html)
     image_local = download_product_image(image_url, pid) if image_url else None
+    extra_images = [u for u in gallery_images[1:] if u != image_url] or None
 
     return {
         "product_id": int(pid),
@@ -250,13 +294,14 @@ def parse_product_detail(pid: str, html: str | None = None) -> dict | None:
         "roast": parse_roast(name),
         "description": parse_description(og),
         "flavor_notes": parse_flavor_notes(og),
-        "origin": parse_origin(name, og),
+        "origin": parse_origin(name, og, html),
         "buy_url": url,
         "has_bean_option": has_bean_option(html, categories),
         "available": bean_in_stock(html, categories),
         "og_description": og,
         "image_url": image_url,
         "image_local": image_local,
+        "extra_images": extra_images,
     }
 
 
@@ -284,7 +329,8 @@ def enrich_existing_bean(bean: dict, html: str) -> tuple[dict, int]:
     enriched["available"] = bean_in_stock(html, categories)
     enriched["has_bean_option"] = has_bean_option(html, categories)
 
-    image_url = parse_product_image(html)
+    gallery_images = parse_gallery_images(html)
+    image_url = gallery_images[0] if gallery_images else parse_product_image(html)
     if image_url:
         enriched["image_url"] = image_url
         if not bean.get("image_local"):
@@ -295,6 +341,20 @@ def enrich_existing_bean(bean: dict, html: str) -> tuple[dict, int]:
         elif bean.get("image_url") != image_url:
             enriched["image_url"] = image_url
             fixes += 1
+
+    extra = [u for u in gallery_images[1:] if u != image_url]
+    if extra:
+        if enriched.get("extra_images") != extra:
+            enriched["extra_images"] = extra
+            fixes += 1
+    elif enriched.get("extra_images"):
+        del enriched["extra_images"]
+        fixes += 1
+
+    origin = parse_origin(bean.get("name", ""), bean.get("og_description", ""), html)
+    if origin and origin != bean.get("origin"):
+        enriched["origin"] = origin
+        fixes += 1
 
     return enriched, fixes
 
@@ -361,7 +421,11 @@ def build_seed_entry(raw: dict) -> dict:
     desc = re.split(r"▼|苦味[：:]", desc)[0].strip()[:220]
 
     product_id = raw["product_id"]
-    origin = raw.get("origin") or "ブレンド"
+    origin_raw = raw.get("origin") or "ブレンド"
+    if isinstance(origin_raw, list):
+        origin = origin_raw
+    else:
+        origin = [origin_raw]
     scores = score_from_og(og)
 
     return {
@@ -372,7 +436,7 @@ def build_seed_entry(raw: dict) -> dict:
         "roast_level": map_roast_level(raw.get("roast")),
         "roast_label_ja": raw.get("roast") or "中煎り",
         "taste_label_ja": flavor_tags[0] if flavor_tags else "バランス",
-        "origin": [origin] if isinstance(origin, str) else origin,
+        "origin": origin,
         "flavor_tags": flavor_tags,
         **scores,
         "caffeine": "decaf" if "カフェインレス" in raw.get("name", "") else "medium",

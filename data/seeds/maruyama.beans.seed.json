@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "chain_id": "maruyama",
-  "scraped_at": "2026-08-08T15:55:03+09:00",
+  "scraped_at": "2026-08-08T22:21:34+09:00",
   "source": "https://www.maruyamacoffee.com/ec",
   "beans": [
     {
@@ -30,8 +30,7 @@
       "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0820143311_5f3e0b177adf7.jpg",
       "image_local": "data/images/maruyama/24.jpg",
       "source": "scraped",
-      "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/24.jpg"
+      "available": true
     },
     {
       "id": "maruyama-mocha-akane-100g",
@@ -42,7 +41,8 @@
       "roast_label_ja": "中煎り",
       "taste_label_ja": "花の香りと柑橘類の爽やかな風味。",
       "origin": [
-        "モカ"
+        "エルサルバドル",
+        "エチオピア"
       ],
       "flavor_tags": [
         "花の香りと柑橘類の爽やかな風味。"
@@ -59,8 +59,7 @@
       "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927145058_5d8da342201d6.jpg",
       "image_local": "data/images/maruyama/26.jpg",
       "source": "scraped",
-      "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/26.jpg"
+      "available": true
     },
     {
       "id": "maruyama-samanbaia-geisha-80g",
@@ -91,8 +90,7 @@
       "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152403_6a548483d0cd3.jpg",
       "image_local": "data/images/maruyama/3087.jpg",
       "source": "scraped",
-      "available": true,
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3087.jpg"
+      "available": true
     }
   ]
 }

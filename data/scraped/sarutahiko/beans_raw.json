@@ -1,0 +1,510 @@
+{
+  "version": "0.1.0",
+  "chain_id": "sarutahiko",
+  "scraped_at": "2026-08-08T19:50:09+09:00",
+  "source": "https://sarutahiko.jp/collections/coffeebeans-groundcoffee",
+  "count": 16,
+  "beans": [
+    {
+      "id": "sarutahiko-8-11より順次発送-浅煎り-ホンジュラス-la-orquidea-pacas-",
+      "chain_id": "sarutahiko",
+      "name": "<8/11より順次発送>【浅煎り】ホンジュラス／La Orquidea Pacas Anaerobic Washed",
+      "description": "COEに複数回入賞するラ・サルサで有名なベンハミン氏が手掛ける、ラ・オルキデアのパカス品種アナエロビックウォッシュトプロセスのロットです。 サンタ・バルバラは雲霧林の冷涼なテロワールが特徴で、ホンジュラスの中でも特に高品質なコーヒーに定評があります。 パカス種の持つシトラス系の明るさにプロセスの影響でダークチェリーや糖蜜の風味が加わり、程よい口当たりの印象と爽やかな後味が魅力のコーヒーです。 フルーティーな甘みのあるコーヒーが好きな方に",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ホンジュラス"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "シトラス",
+        "フルーティ",
+        "キレ"
+      ],
+      "acidity": 78,
+      "body": 60,
+      "bitterness": 60,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1380,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-hon20260807-mame",
+      "product_id": "m-hon20260807-mame",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260804_T___ec.jpg?v=1786092144",
+      "image_local": "data/images/sarutahiko/m-hon20260807-mame.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-8-12より順次発送-浅煎り-コロンビア-pe-as-blancas-geish",
+      "chain_id": "sarutahiko",
+      "name": "<8/12より順次発送>【浅煎り】コロンビア／Peñas Blancas Geisha Washed",
+      "description": "ペニャス・ブランカスはラス・フローレス農園のヨハン氏が立ち上げた、小規模生産者の多いアセベド地域のコーヒー生産処理場です。 特殊プロセスのマイクロロットに特化することで、アセベド地域のコーヒーの品質向上と発展に寄与しています。 今回ご紹介するのはゲイシャ品種のロットで、”フローラルシンフォニー”と名付けられた、好気性発酵と嫌気性発酵を組み合わせたウォッシュトプロセスで生産処理されています。 ラベンダーやミントを思わせる特殊プロセスによる",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "シトラス",
+      "origin": [
+        "エチオピア",
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "シトラス",
+        "フルーティ",
+        "フローラル",
+        "香ばしさ"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2980,
+      "weight_g": 50,
+      "buy_url": "https://sarutahiko.jp/products/m-col20260711",
+      "product_id": "m-col20260711",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_S___EC.jpg?v=1784261767",
+      "image_local": "data/images/sarutahiko/m-col20260711.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-オンラインショップ限定-巣ごもりブレンド-500g",
+      "chain_id": "sarutahiko",
+      "name": "【オンラインショップ限定】巣ごもりブレンド(500g)",
+      "description": "日常の中で、何度でも自然に手に取りたくなる。毎日のコーヒーとして飲み続けやすいバランスを大切にした深煎りブレンドです。 味わい チョコレートのコクと、ドライフルーツの凝縮された甘みが重なります。 冷めると、チョコレートとドライフルーツの一体感が増し、満足感がありながらも軽やかな後味が印象的です。 ストーリー 『毎日触れる美味しさ』をテーマにしたブレンドです。 一日に何回も飲みたくなるバランス。 毎日飲んでも疲れないバランス。",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "チョコ",
+        "フルーティ",
+        "コク"
+      ],
+      "acidity": 40,
+      "body": 83,
+      "bitterness": 80,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 3000,
+      "weight_g": 500,
+      "buy_url": "https://sarutahiko.jp/products/m-su500",
+      "product_id": "m-su500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/newlogo.jpg?v=1736947510",
+      "image_local": "data/images/sarutahiko/m-su500.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-中深煎り-サンフレッチェ広島-猿田彦珈琲",
+      "chain_id": "sarutahiko",
+      "name": "【中深煎り】サンフレッチェ広島×猿田彦珈琲",
+      "description": "2025シーズンのJリーグ開幕日である2月14日にオープンした『猿田彦珈琲 エディオンピースウイング広島』のオープンを記念して、 期間限定で【サンフレッチェ広島×猿田彦珈琲 ドリップバッグ】をオンラインショップにて販売いたします！ 味わい 熱いうちはブルーベリーの果実感、キャラメルの甘さとバニラの香りが重なります。 冷めると、グレープやベリーのフルーティーな甘さと、芳醇に広がるバニラの余韻をお楽しみいただけます。 ストーリー エディオン",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "中深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "ベリー",
+        "フルーティ",
+        "香ばしさ",
+        "キレ"
+      ],
+      "acidity": 68,
+      "body": 81,
+      "bitterness": 74,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1150,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-hiroshima",
+      "product_id": "m-hiroshima",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/2025.02.04.sarutahiko1791.jpg?v=1739327824",
+      "image_local": "data/images/sarutahiko/m-hiroshima.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-中深煎り-恵比寿シティ",
+      "chain_id": "sarutahiko",
+      "name": "【中深煎り】恵比寿シティ",
+      "description": "東京・恵比寿の洗練された街並みと、大人のおおらかさを表現した「恵比寿シティ」。 創業当初のブレンドをリニューアルして生まれました。 「今の恵比寿にとって心地よいシティロースト（中深煎り）とは何か」 を考え抜き、都会的でありながら気負わず楽しめる、バランスの取れた味わいに仕上げています。 味わい キャラメルの甘さと、ワインを思わせる芳醇な風味が重なります。 冷めると、こっくりとした濃厚なキャラメルが深みと甘さを増し、ミディアムボディのワイ",
+      "roast_level": "light",
+      "roast_label_ja": "中深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "フローラル",
+        "香ばしさ",
+        "コク",
+        "バレル"
+      ],
+      "acidity": 60,
+      "body": 75,
+      "bitterness": 60,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1000,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-ec",
+      "product_id": "m-ec",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/100g_sizeUPver_fda7989a-e916-4167-a888-0e1a238de626.jpg?v=1770701136",
+      "image_local": "data/images/sarutahiko/m-ec.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-中深煎り-花火ブレンド",
+      "chain_id": "sarutahiko",
+      "name": "【中深煎り】花火ブレンド",
+      "description": "ブレンドコンセプト 賑やかな夏の高揚と、ふと訪れる静けさ。ゆったりと過ぎていく夜。儚くも美しいその一瞬を、記憶とともに包み込むブレンドです。 味わい ・熱いとき DARK CHERRY BLOOD ORANGE BROWN SUGAR ・冷めたとき 黒糖のような甘みと、エキゾチックな香りが心地よく伸びる後味を楽しめます。 焙煎や配合のこだわり 花火の持つ高揚感と静けさのコントラスト、その余韻まで含めた夏の記憶をコーヒーで表現しました。 ",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "中深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "エチオピア",
+        "ケニア/タンザニア",
+        "グアテマラ",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "シトラス",
+        "フルーティ",
+        "フローラル",
+        "キレ"
+      ],
+      "acidity": 68,
+      "body": 66,
+      "bitterness": 74,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1200,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-hana2026",
+      "product_id": "m-hana2026",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/2026.07.17.sarutahiko2005.jpg?v=1784968756",
+      "image_local": "data/images/sarutahiko/m-hana2026.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-中煎り-tokyo-til-infinity",
+      "chain_id": "sarutahiko",
+      "name": "【中煎り】TOKYO ’til Infinity",
+      "description": "猿田彦珈琲の中煎りブレンド「TOKYO ’til Infinity」が、新しいフレーバーで新登場いたしました！今しか味わえない旬のフレーバーをぜひお楽しみください。 味わい ４種類の異なる豆から引き出される、ドライフルーツとチョコレートの上質な甘さとなめらかさを感じる中煎りのブレンド。 淹れたてから温度が下がるにつれて、レーズンやドライクランベリーのようなドライフルーツの心地良い甘さをお楽しみいただけます。 美味しい召上がり方 猿田彦珈",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "チョコ",
+        "ベリー",
+        "フルーティ"
+      ],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1200,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-t-spring2026",
+      "product_id": "m-t-spring2026",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/260304tokyo_til_2026.jpg?v=1772608794",
+      "image_local": "data/images/sarutahiko/m-t-spring2026.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-浅煎り-ケニア-marua-aa",
+      "chain_id": "sarutahiko",
+      "name": "【浅煎り】ケニア／Marua AA",
+      "description": "ケニア ニエリのマルアステーションで生産処理されたコーヒーをご紹介します。 スペシャルティコーヒーの黎明期よりテロワール(土壌や気候)と品種の相性がいいことが知られる、ケニア山周辺地域のコーヒーの魅力がよく表れたロットです。 ニエリの土地とSL品種の組み合わせに特有の、ブラックベリー(カシス)を思わせる風味、 ジューシーなブラッドオレンジを思わせる爽やかさが魅力で、温度が下がってくるとフルーティーな印象の中に黒糖を思わせる甘みを感じられ",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ケニア/タンザニア"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "ベリー",
+        "シトラス",
+        "フルーティ",
+        "キレ"
+      ],
+      "acidity": 78,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1680,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-ken260717",
+      "product_id": "m-ken260717",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715___ec.jpg?v=1784364830",
+      "image_local": "data/images/sarutahiko/m-ken260717.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-浅煎り-バレルエイジドブラジル-monte-alegre-anaerobic-w",
+      "chain_id": "sarutahiko",
+      "name": "【浅煎り】バレルエイジドブラジル∕ Monte Alegre Anaerobic with Yeast",
+      "description": "バレルエイジドとは コーヒー生豆をウイスキー樽(バレル)に一定期間貯蔵して寝かせ(エイジド)、ウイスキーの香りをつけたコーヒーのことです。 猿田彦珈琲では独自に検証を重ね、ウイスキーの香りと相性のいいコーヒーを厳選して使用することで、通常のフレーバーコーヒー(香料で着香したコーヒー)とは一味違う衝撃的な味覚体験のできるコーヒーの開発に成功しました。 味わい ・熱いときのフレーバー WHISKY MANDARIN ORANGE MOLT",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "バレル",
+      "origin": [
+        "ブラジル"
+      ],
+      "flavor_tags": [
+        "バレル"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1580,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-balbra20260723",
+      "product_id": "m-balbra20260723",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/260723_bf2d6401-40b1-475a-bd37-0c60ca62ffc2.jpg?v=1785392144",
+      "image_local": "data/images/sarutahiko/m-balbra20260723.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-浅煎り-パナマ-janson-los-alpes-geisha-washed-l",
+      "chain_id": "sarutahiko",
+      "name": "【浅煎り】パナマ／Janson Los Alpes Geisha Washed Lot770",
+      "description": "高度な品質管理によるロットづくりが魅力の、ジャンソン農園最高峰ロス・アルプス区画のゲイシャ品種、ウォッシュトプロセスのコーヒーです。 ゲイシャ品種のジャスミンを思わせるフローラルな風味が持続し、冷めるにつれて甘みが増すため、まるでフラワーシロップのような風味を楽しんでいただけます。 ピーチ、ベルガモット、後味には印象的なペッパーを思わせるスパイスの香りも感じられ、ウォッシュトプロセスならではのゲイシャのフレーバーが堪能できる非常に素晴ら",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "エチオピア",
+        "パナマ"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "フローラル",
+        "スパイス"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 3080,
+      "weight_g": 50,
+      "buy_url": "https://sarutahiko.jp/products/m-pan260717",
+      "product_id": "m-pan260717",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_panama_ec.jpg?v=1784269892",
+      "image_local": "data/images/sarutahiko/m-pan260717.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-浅煎り-ブラジル-boa-vista-catuai-pulped-natural",
+      "chain_id": "sarutahiko",
+      "name": "【浅煎り】ブラジル／Boa Vista Catuai Pulped Natural 2025COE#2",
+      "description": "2025 ブラジル カップ・オブ・エクセレンスのウォッシュト＋ハニー部門で2位に入賞したコーヒーをご紹介します。 標高1,250mの恵まれたテロワールによる明るい爽やかさが温度にかかわらず一貫して楽しめる、素晴らしいコーヒーです。 マンダリンオレンジやチェリーを思わせる爽やかさの魅力に加えてとても甘い印象があり、キャラメルやアーモンド、糖蜜を思わせます。 爽やかで甘いコーヒーがお好みの方に特におすすめです。 ぜひこの機会にお試しください",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブラジル"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "ナッツ",
+        "シトラス",
+        "フルーティ",
+        "香ばしさ"
+      ],
+      "acidity": 78,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 2080,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-braboa260530",
+      "product_id": "m-braboa260530",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260602_A___top.jpg?v=1780367166",
+      "image_local": "data/images/sarutahiko/m-braboa260530.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-浅煎り-ブラジル-um-yellow-bourbon-anaerobic-nat",
+      "chain_id": "sarutahiko",
+      "name": "【浅煎り】ブラジル／Um Yellow Bourbon Anaerobic Natural",
+      "description": "2023ワールドバリスタチャンピオン ボラム氏の生家、ウム農園のイエローブルボン種、アナエロビックナチュラルプロセスのコーヒーです。 明るいネーブルオレンジのキャラクターと、キャラメルや黒糖を思わせる心地よく豊かな甘みが魅力のロットです。 程よい飲みごたえと余韻が心地よく、ほっと一息つきたいときにおすすめです、ぜひお試しください。 味わい ・熱いときのフレーバー NAVEL ORANGE CARAMEL BROWN SUGAR ・冷め",
+      "roast_level": "light",
+      "roast_label_ja": "浅煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブラジル"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "シトラス",
+        "香ばしさ"
+      ],
+      "acidity": 60,
+      "body": 50,
+      "bitterness": 42,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1580,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-braum260529",
+      "product_id": "m-braum260529",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260602_T.jpg?v=1780367166",
+      "image_local": "data/images/sarutahiko/m-braum260529.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-深煎り-ディカフェ-エチオピア-bombe-natural",
+      "chain_id": "sarutahiko",
+      "name": "【深煎り】ディカフェ エチオピア／Bombe Natural",
+      "description": "エチオピアの国際品評会（Cup of Excellence）で1位の受賞経験のあるエチオピア シダマ州 ベンサの生産者、ニグセゲメダ氏の管理するボンベ・ウォッシングステーションのコーヒーを、スイスウォーター社でカフェインレス処理しました。 綺麗で心地よい滑らかさは、カフェイン除去率99%を達成のカフェインレス処理をしても健在です。 ディカフェとは思えない美味しさを是非お楽しみください。 味わい 熱いうちはダークチョコレートの心地良い苦味",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "チョコ",
+      "origin": [
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "チョコ",
+        "ベリー",
+        "苦味"
+      ],
+      "acidity": 50,
+      "body": 66,
+      "bitterness": 74,
+      "sweetness": 65,
+      "caffeine": "low",
+      "price_jpy": 980,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-de-251228",
+      "product_id": "m-de-251228",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/2026_ad2c9335-9051-4904-a814-be57d764b9c3.jpg?v=1770701065",
+      "image_local": "data/images/sarutahiko/m-de-251228.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-深煎り-バレルエイジド-グアテマラ-san-cristobal-natural",
+      "chain_id": "sarutahiko",
+      "name": "【深煎り】バレルエイジド   グアテマラ／San Cristobal Natural",
+      "description": "バレルエイジドとは コーヒー生豆をウイスキー樽(バレル)に一定期間貯蔵して寝かせ(エイジド)、ウイスキーの香りをつけたコーヒーのことです。 猿田彦珈琲では独自に検証を重ね、ウイスキーの香りと相性のいいコーヒーを厳選して使用することで、通常のフレーバーコーヒー(香料で着香したコーヒー)とは一味違う衝撃的な味覚体験のできるコーヒーの開発に成功しました。 味わい ・熱いときのフレーバー DARK CHOCOLATE DARK CHERRY ",
+      "roast_level": "dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "チョコ",
+      "origin": [
+        "ブラジル",
+        "グアテマラ"
+      ],
+      "flavor_tags": [
+        "チョコ",
+        "バレル"
+      ],
+      "acidity": 40,
+      "body": 83,
+      "bitterness": 80,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1580,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-balgua20260723",
+      "product_id": "m-balgua20260723",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/260723___graph.png?v=1784803042",
+      "image_local": "data/images/sarutahiko/m-balgua20260723.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-深煎り-大吉ブレンド",
+      "chain_id": "sarutahiko",
+      "name": "【深煎り】大吉ブレンド",
+      "description": "猿田彦珈琲の創業当時から愛され続けている定番ブレンド。 大吉ブレンドは、深煎りのコーヒーらしさを心地よく感じられる「ちょうどよさ」を追求した定番の味わいです。 同じ深煎りコーヒーの猿田彦フレンチに比べてしっかりめの後味で、コーヒーらしいコーヒーがお好きな方に特におすすめです。 味わい ダークチョコレートの心地良い苦味と、クルミの香ばしさが重なります。 冷めると、クルミやアーモンドなど、香ばしくまろやかなナッツの印象が強くなり、心地良い重",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "チョコ",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "チョコ",
+        "ナッツ",
+        "香ばしさ",
+        "コク",
+        "苦味"
+      ],
+      "acidity": 50,
+      "body": 81,
+      "bitterness": 74,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 980,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-d",
+      "product_id": "m-d",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/100g__UPver.jpg?v=1772097503",
+      "image_local": "data/images/sarutahiko/m-d.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "sarutahiko-深煎り-猿田彦フレンチ",
+      "chain_id": "sarutahiko",
+      "name": "【深煎り】猿田彦フレンチ",
+      "description": "猿田彦珈琲が理想の深煎りブレンドを追求した看板ブレンド。 日常の中に煌めきや遊び心を加えた特別感あふれるコーヒーです。 深煎りならではのコクやつややかな質感だけでなく、スペシャルティコーヒーだからこそ表現できる「甘み」や「フルーティさ」を存分にお楽しみいただけます。 味わい ピノ・ノワールを思わせる風味と、生チョコレートのような滑らかな質感が重なります。 冷めると、リッチでフルボディな赤ワインの印象がより際立ち、舌上に残る甘さが香ばしく",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "深煎り",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "チョコ",
+        "フルーティ",
+        "香ばしさ",
+        "コク"
+      ],
+      "acidity": 68,
+      "body": 81,
+      "bitterness": 74,
+      "sweetness": 65,
+      "caffeine": "high",
+      "price_jpy": 1080,
+      "weight_g": 100,
+      "buy_url": "https://sarutahiko.jp/products/m-stf",
+      "product_id": "m-stf",
+      "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/100g_sizeUPver.jpg?v=1770701172",
+      "image_local": "data/images/sarutahiko/m-stf.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}
