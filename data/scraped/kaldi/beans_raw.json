@@ -1,12 +1,10 @@
 {
   "chain_id": "kaldi",
   "source": "https://www.kaldi.co.jp/ec/Facet?category_0=11010100000",
-  "scraped_at": "2026-08-08T15:56:20+09:00",
+  "scraped_at": "2026-08-08T15:36:00+09:00",
   "count": 44,
   "skipped_ids": [
-    "2600000003711",
-    "4515996931062",
-    "4515996937026"
+    "2600000003711"
   ],
   "beans": [
     {
@@ -21,12 +19,10 @@
       "coffee_type": null,
       "taste_balance": null,
       "body_label": null,
-      "description": "「カップ・オブ・エクセレンス2025」コーヒー生産国で2025年に収穫されたコーヒー豆の中から最も優れたコーヒー豆を決める品評会で選ばれた最高水準のコーヒー豆2種セット。国際品評会「カップ・オブ・エクセレンス」で選ばれたコーヒーをオンラインストア限定で事前予約販売いたします。 コーヒー豆はご注文を受けてから焙煎し、発送いたします。カルディコーヒーファームが単独落札した、ここでしか飲めない特別なコーヒーです。 生産者のこだわりや味わいが書かれたカードを読みながら、最高水準の味わいをじっくりとお楽しみください。。■カップ・オブ・エクセレンス（COE）とは。ご案内",
+      "description": "@charset \"utf-8\"; .recommend_main{ max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title{ font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle{ font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr{ border-bottom: 2px solid #004098; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title{ font-size: 12px; font-weight: bold; color: #004098; } .recommend_contents_middletitle{ font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1{ width: 49%; height: 33%; } .recommend_contents_image3_2{ width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3{ width: 49%; height: 33%; margin-left: 1%; } .coffeekigu_contents { width: 100%; max-width: 1200px; margin: auto; font-size: larger; } .coffeekigu_contents img { width: 100%; } .coffeekigu_text_center { text-align: center; } .coffeekigu_text_left { text-align: left; } .coffeekigu_flexbox { display: flex; } .coffeekigu_box1 { width: 50%; margin: auto; } .coffeekigu_box2 { width: 50%; margin: auto .5rem; } .coffeekigu_flexbox .coffeekigu_box1 img { width: 520px; } .coffeekigu_flexbox .coffeekigu_box2 img { width: 520px; } @media screen and (max-width: 767px) { .coffeekigu_flexbox { display: block; } .coffeekigu_flexbox .coffeekigu_box1 { width: 100%; margin: 0 auto; } .coffeekigu_flexbox .coffeekigu_box2 { width: 100%; margin: 0 auto; } .coffeekigu_flexbox .coffeekigu_box1 img { width: 100%; } .coffeekigu_flexbox .coffeekigu_box2 img { width: 100%; } } 「カップ・オブ・エクセレンス2025」コーヒー生産国で2025年に収穫されたコーヒー豆の中から最も優れたコーヒー豆を決める品評会で選ばれた最高水準のコーヒー豆2種セット --> 国際品評会「カップ・オブ・エクセレンス」で選ばれたコーヒーをオンラインストア限定で事前予約販売いたします。 コーヒー豆はご注文を受けてから焙煎し、発送いたします。カルディコーヒーファームが単独落札した、ここでしか飲めない特別なコーヒーです。 生産者のこだわりや味わいが書かれたカードを読みながら、最高水準の味わいをじっくりとお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/coegift-02605",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/605/coegift-02605_M_1m.jpg",
-      "image_local": "data/images/kaldi/coegift-02605.jpg"
+      "available": true
     },
     {
       "product_id": "4515996019074",
@@ -40,12 +36,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "バランス",
-      "description": "深煎りコーヒー 人気No.1！。アイスでもホットでもしっかりとした飲みごたえを楽しめるブレンドです。濃厚な苦味とブラジル本来の甘さが楽しめます。",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .recommend_main { max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title { font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle { font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr { border-bottom: 2px solid #004098; } .column_2 { display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title { font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle { font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1 { width: 49%; height: 33%; } .recommend_contents_image3_2 { width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3 { width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ #topic_contents_ver01{ margin-bottom: 100px; width: 100%; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .topic_contents_image2_1{ width: 49%; height: 49%; } .topic_contents_image2_2{ width: 49%; height: 49%; margin-left: 2%; } 深煎りコーヒー 人気No.1！アイスでもホットでもしっかりとした飲みごたえを楽しめるブレンドです。濃厚な苦味とブラジル本来の甘さが楽しめます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019074",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/074/4515996019074_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996019074.jpg"
+      "available": true
     },
     {
       "product_id": "4515996019388",
@@ -59,12 +53,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "飲みごたえ",
-      "description": "華やかな香りとジューシーな味わい。華やかな香りのアフリカ産コーヒーのみを使用した中深煎りのブレンド。チョコレートやオレンジのような風味とジューシーな味わいをお楽しみください。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 華やかな香りとジューシーな味わい 華やかな香りのアフリカ産コーヒーのみを使用した中深煎りのブレンド。チョコレートやオレンジのような風味とジューシーな味わいをお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019388",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/388/4515996019388_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996019388.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015106",
@@ -78,12 +70,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "軽やか",
-      "description": "すっきりライトで飲みやすい。たくさん飲んでも飲み飽きない、やさしい味わいのブレンド。やわらかな甘さと軽い口あたりが特徴です。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ すっきりライトで飲みやすい たくさん飲んでも飲み飽きない、やさしい味わいのブレンド。やわらかな甘さと軽い口あたりが特徴です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015106",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/106/4515996015106_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015106.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015380",
@@ -97,12 +87,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "苦味を追求したフルボディ。エスプレッソやアイスコーヒーに適した強い苦味とフルボディな味わいです。 ガツンとくる苦味は目が覚めるようなインパクト！どっしりとした満足感のある飲みごたえで苦味好きは必見です。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 苦味を追求したフルボディ エスプレッソやアイスコーヒーに適した強い苦味とフルボディな味わいです。 ガツンとくる苦味は目が覚めるようなインパクト！どっしりとした満足感のある飲みごたえで苦味好きは必見です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015380",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/ale/4515996015380sale_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996015380.jpg"
+      "available": true
     },
     {
       "product_id": "4515996019401",
@@ -116,12 +104,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "軽やか",
-      "description": "女性生産者の自立への懸け橋",
+      "description": "女性生産者の自立への懸け橋 グアテマラの女性たちの手によって育てられたウーマンズハンドコーヒーを配合した深煎りのブレンド。やわらかな苦味と甘さ、すっきりとした後味が特徴です。 【農協の取り組み】 アソバグリ農協では、コーヒーの品質向上のための設備投資や農業指導、生産者が直面する経済的な問題の解決にむけ取組んでいます。理事会の半数は女性で構成され、若い生産者には基礎教育の機会を提供。女性生産者には、女性自身やその家族、未亡人の収入向上を目指して支援を行っています。 ウーマンズハンドについて 女性の自立支援、社会的地位の向上、経済的環境の改善を趣旨として2010年につくられた認証です。 コーヒー豆の価格には経済環境改善を支援するため、プレミアムが付与され、販売による収益の一部は奨学金制度や生活環境改善など、女性たちの自立への懸け橋になるよう還元されています。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019401",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/401/4515996019401_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996019401.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015090",
@@ -135,12 +121,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "苦味とキレに秘めた芳醇なアロマ。強いボディと長く続く芳醇なアロマが特徴のブレンドです。あらゆる器具で味・香りが引き立ちます。カフェオレにもおすすめ！",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 苦味とキレに秘めた芳醇なアロマ 強いボディと長く続く芳醇なアロマが特徴のブレンドです。あらゆる器具で味・香りが引き立ちます。カフェオレにもおすすめ！",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015090",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/090/4515996015090_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015090.jpg"
+      "available": true
     },
     {
       "product_id": "4515996017261",
@@ -154,12 +138,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "【オンラインストア限定】濃厚なアロマとふくよかな甘さ",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 【オンラインストア限定】濃厚なアロマとふくよかな甘さ",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996017261",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/261/4515996017261_M_3m.jpg",
-      "image_local": "data/images/kaldi/4515996017261.jpg"
+      "available": true
     },
     {
       "product_id": "4515996008795",
@@ -173,12 +155,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "軽やか",
-      "description": "【オンラインストア限定】アールグレイのような華やかさ",
+      "description": "@charset \"utf-8\"; .recommend_main{ max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title{ font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle{ font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr{ border-bottom: 2px solid #004098; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title{ font-size: 12px; font-weight: bold; color: #004098; } .recommend_contents_middletitle{ font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1{ width: 49%; height: 33%; } .recommend_contents_image3_2{ width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3{ width: 49%; height: 33%; margin-left: 1%; } .coffeekigu_contents { width: 100%; max-width: 1200px; margin: auto; font-size: larger; } .coffeekigu_contents img { width: 100%; } .coffeekigu_text_center { text-align: center; } .coffeekigu_text_left { text-align: left; } .coffeekigu_flexbox { display: flex; margin-bottom: 10px; } .coffeekigu_box1 { width: 50%; margin: auto; } .coffeekigu_box2 { width: 50%; margin: auto .5rem; } .coffeekigu_flexbox .coffeekigu_box1 img { width: 520px; } .coffeekigu_flexbox .coffeekigu_box2 img { width: 520px; } @media screen and (max-width: 767px) { .coffeekigu_flexbox { display: block; } .coffeekigu_flexbox .coffeekigu_box1 { width: 100%; margin: 0 auto; } .coffeekigu_flexbox .coffeekigu_box2 { width: 100%; margin: 0 auto; } .coffeekigu_flexbox .coffeekigu_box1 img { width: 100%; } .coffeekigu_flexbox .coffeekigu_box2 img { width: 100%; } } 【オンラインストア限定】アールグレイのような華やかさ",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996008795",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/795/4515996008795_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996008795.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015014",
@@ -192,12 +172,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "軽やか",
-      "description": "【オンラインストア限定】なめらかな飲み心地 爽やかな朝の香り",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 【オンラインストア限定】なめらかな飲み心地 爽やかな朝の香り",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015014",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/014/4515996015014_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996015014.jpg"
+      "available": true
     },
     {
       "product_id": "4515996008399",
@@ -211,12 +189,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "飲みごたえ",
-      "description": "【オンラインストア限定】カウカの高地が育んだ、注目の品種「シドラ」",
+      "description": "@charset \"utf-8\"; .recommend_main{ max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title{ font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle{ font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr{ border-bottom: 2px solid #004098; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title{ font-size: 12px; font-weight: bold; color: #004098; } .recommend_contents_middletitle{ font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1{ width: 49%; height: 33%; } .recommend_contents_image3_2{ width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3{ width: 49%; height: 33%; margin-left: 1%; } .coffeekigu_contents { width: 100%; max-width: 1200px; margin: auto; font-size: larger; } .coffeekigu_contents img { width: 100%; } .coffeekigu_text_center { text-align: center; } .coffeekigu_text_left { text-align: left; } .coffeekigu_flexbox { display: flex; margin-bottom: 10px; } .coffeekigu_box1 { width: 50%; margin: auto; } .coffeekigu_box2 { width: 50%; margin: auto .5rem; } .coffeekigu_flexbox .coffeekigu_box1 img { width: 520px; } .coffeekigu_flexbox .coffeekigu_box2 img { width: 520px; } @media screen and (max-width: 767px) { .coffeekigu_flexbox { display: block; } .coffeekigu_flexbox .coffeekigu_box1 { width: 100%; margin: 0 auto; } .coffeekigu_flexbox .coffeekigu_box2 { width: 100%; margin: 0 auto; } .coffeekigu_flexbox .coffeekigu_box1 img { width: 100%; } .coffeekigu_flexbox .coffeekigu_box2 img { width: 100%; } } 【オンラインストア限定】カウカの高地が育んだ、注目の品種「シドラ」",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996008399",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/399/4515996008399_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996008399.jpg"
+      "available": true
     },
     {
       "product_id": "4515996013775",
@@ -230,12 +206,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "【オンラインストア限定】きめ細かくなめらかな口あたりと心地よい苦味",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 【オンラインストア限定】きめ細かくなめらかな口あたりと心地よい苦味",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996013775",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/775/4515996013775_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996013775.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015953",
@@ -249,12 +223,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "バランス",
-      "description": "ジャスミンを思わせるフローラルなアロマ。ジャスミンを思わせるアロマと、洋梨や白桃のような風味が特徴です。華やかで香り高い味わいをお楽しみください。 オンラインストアのみでのお取り扱いとなっております。是非この機会にお楽しみ頂きたい貴重で特別なコーヒーです。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ ジャスミンを思わせるフローラルなアロマ ジャスミンを思わせるアロマと、洋梨や白桃のような風味が特徴です。華やかで香り高い味わいをお楽しみください。 オンラインストアのみでのお取り扱いとなっております。是非この機会にお楽しみ頂きたい貴重で特別なコーヒーです。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015953",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/953/4515996015953_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996015953.jpg"
+      "available": true
     },
     {
       "product_id": "4515996017155",
@@ -268,12 +240,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "樹齢100年の贈り物。「百年樹珈琲」はその名のとおり、樹齢100年を超えたコーヒーの樹からコーヒーチェリーを収穫しています。凝縮した果実の甘さと、リンゴやほのかにナッツを思わせる風味が特徴です。 オンラインストアのみでのお取り扱いとなっております。是非この機会にお楽しみ頂きたい貴重で特別なコーヒーです。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 樹齢100年の贈り物 「百年樹珈琲」はその名のとおり、樹齢100年を超えたコーヒーの樹からコーヒーチェリーを収穫しています。凝縮した果実の甘さと、リンゴやほのかにナッツを思わせる風味が特徴です。 オンラインストアのみでのお取り扱いとなっております。是非この機会にお楽しみ頂きたい貴重で特別なコーヒーです。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996017155",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/155/4515996017155_M_4m.jpg",
-      "image_local": "data/images/kaldi/4515996017155.jpg"
+      "available": true
     },
     {
       "product_id": "4515996011399",
@@ -287,12 +257,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "テイストにこだわった、デカフェの新定番！。水を使用してカフェインをカットした、有機栽培のデカフェです。すっきりとしたやさしい口あたりとビターキャラメルを思わせる甘さをお楽しみください。カフェイン摂取を控えているお客様にもコーヒーらしい味わいを楽しんでいただけるよう、カフェインを除いても豆本来の味わいや甘さを感じられるように仕上げました。",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ テイストにこだわった、デカフェの新定番！ 水を使用してカフェインをカットした、有機栽培のデカフェです。すっきりとしたやさしい口あたりとビターキャラメルを思わせる甘さをお楽しみください。カフェイン摂取を控えているお客様にもコーヒーらしい味わいを楽しんでいただけるよう、カフェインを除いても豆本来の味わいや甘さを感じられるように仕上げました。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996011399",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/399/4515996011399_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996011399.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016677",
@@ -306,12 +274,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "軽やか",
-      "description": "黄色い実をつける「カナリオ種」の豊かな香り。黄色い実をつけるブラジルの品種「カナリオ」。豊かな香りと甘さが楽しめる、バランスの良いコーヒーです。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 黄色い実をつける「カナリオ種」の豊かな香り 黄色い実をつけるブラジルの品種「カナリオ」。豊かな香りと甘さが楽しめる、バランスの良いコーヒーです。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016677",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/677/4515996016677_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996016677.jpg"
+      "available": true
     },
     {
       "product_id": "4515996017445",
@@ -325,12 +291,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "飲みごたえ",
-      "description": "まろやかな口あたりとすっきりとした後味。やや深煎りに仕上げたやさしい苦味でカフェオレはもちろんブラックでもおすすめです。まろやかな口あたりとすっきりとした後味が楽しめます。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ まろやかな口あたりとすっきりとした後味 やや深煎りに仕上げたやさしい苦味でカフェオレはもちろんブラックでもおすすめです。まろやかな口あたりとすっきりとした後味が楽しめます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996017445",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/445/4515996017445_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996017445.jpg"
+      "available": true
     },
     {
       "product_id": "4515996008634",
@@ -344,12 +308,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "果実の甘さが重なる、芳醇な深煎り\t",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .main{ font-size: 14px; } .recommend_main { max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title { font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle { font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr { border-bottom: 2px solid #004098; } .column_2 { display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title { font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle { font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1 { width: 49%; height: 33%; } .recommend_contents_image3_2 { width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3 { width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ #topic_contents_ver01{ margin-bottom: 100px; width: 100%; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .topic_contents_image2_1{ width: 49%; height: 49%; } .topic_contents_image2_2{ width: 49%; height: 49%; margin-left: 2%; } /* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 果実の甘さが重なる、芳醇な深煎り ベリーやカシスを思わせる果実の香り、程よい苦味と洋酒を思わせる芳醇な余韻。アイスコーヒーでも香りと甘さが広がります。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996008634",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/ale/4515996008634sale_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996008634.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015120",
@@ -363,12 +325,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "バランス",
-      "description": "甘酸っぱい香りとキレのある酸味。アフリカ最高峰のキリマンジャロ山で有名なタンザニアのコーヒーです。甘酸っぱい果実を思わせる、キレの良い酸味が特徴です。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 甘酸っぱい香りとキレのある酸味 アフリカ最高峰のキリマンジャロ山で有名なタンザニアのコーヒーです。甘酸っぱい果実を思わせる、キレの良い酸味が特徴です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015120",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/120/4515996015120_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015120.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015175",
@@ -382,12 +342,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "軽やか",
-      "description": "やわらかな酸味と甘さ 肥沃な火山灰土壌と厳しい寒暖差によって育まれた、やわらかな酸味と甘さ。中米が誇る名産地グアテマラの豊かな風味をお楽しみください。",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .main{ font-size: 14px; } .recommend_main { max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title { font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle { font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr { border-bottom: 2px solid #004098; } .column_2 { display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title { font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle { font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1 { width: 49%; height: 33%; } .recommend_contents_image3_2 { width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3 { width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ #topic_contents_ver01{ margin-bottom: 100px; width: 100%; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .topic_contents_image2_1{ width: 49%; height: 49%; } .topic_contents_image2_2{ width: 49%; height: 49%; margin-left: 2%; } /* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ やわらかな酸味と甘さ 肥沃な火山灰土壌と厳しい寒暖差によって育まれた、やわらかな酸味と甘さ。中米が誇る名産地グアテマラの豊かな風味をお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015175",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/175/4515996015175_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015175.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016868",
@@ -401,12 +359,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "ベリーのような風味と濃厚な甘さ。ナチュラルとウォッシュド、異なる生産処理で仕上げたグアテマラ同士をブレンド。ベリーのような風味と濃厚な甘さが特徴です。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ ベリーのような風味と濃厚な甘さ ナチュラルとウォッシュド、異なる生産処理で仕上げたグアテマラ同士をブレンド。ベリーのような風味と濃厚な甘さが特徴です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016868",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/868/4515996016868_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996016868.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015434",
@@ -420,12 +376,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "飲みごたえ",
-      "description": "みずみずしい果実感。鮮やかな酸味とまろやかな甘さが特徴です。ケニアならではの、みずみずしい果実感をお楽しみください。 ケニア産のコーヒーには、アフリカのコーヒーならではの味わいの濃さと複雑さがあります。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ みずみずしい果実感 鮮やかな酸味とまろやかな甘さが特徴です。ケニアならではの、みずみずしい果実感をお楽しみください。 ケニア産のコーヒーには、アフリカのコーヒーならではの味わいの濃さと複雑さがあります。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015434",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/434/4515996015434_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015434.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015144",
@@ -439,12 +393,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "飲みごたえ",
-      "description": "明るい酸味としっかりとしたボディ",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 明るい酸味としっかりとしたボディ 標高の高さや気候といったコーヒー生産に適した条件に恵まれているコロンビア。甘い香りと明るい酸味、しっかりとしたボディが特徴です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015144",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/144/4515996015144_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015144.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016776",
@@ -458,12 +410,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "軽やか",
-      "description": "スマトラ島の注目産地、鮮やかなハーブの香り。ハーブを思わせる鮮やかな香り、しっかりとしたボディが特徴です。シトラスピールやスパイスのような香りが複雑に折り重なる、エキゾチックな味わいをお楽しみください。",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .main{ font-size: 14px; } .recommend_main { max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title { font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle { font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr { border-bottom: 2px solid #004098; } .column_2 { display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title { font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle { font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1 { width: 49%; height: 33%; } .recommend_contents_image3_2 { width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3 { width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ #topic_contents_ver01{ margin-bottom: 100px; width: 100%; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .topic_contents_image2_1{ width: 49%; height: 49%; } .topic_contents_image2_2{ width: 49%; height: 49%; margin-left: 2%; } 優雅で華やかな香りが広がるエチオピアのコーヒー レモンティーやピーチのような華やかでフルーティな味わいが特徴の中煎りのコーヒーです。上品で軽やかな酸味と甘さのバランスが絶妙で、すっきりとした口あたりが楽しめます。 ホットとアイスで味わいが変化することも特徴であるイルガチェフェ。 暑い時期にぴったりなアイスコーヒーでいれると、酸味がやわらかくなり、甘みのある味わいが楽しめます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016776",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/776/4515996016776_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996016776.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016929",
@@ -477,12 +427,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "キリッとした苦味！夏にピッタリの深煎りブレンド。キリッとした苦味とクリアな味わいが楽しめる、夏にピッタリの深煎りブレンド。程よいボディとなめらかな口あたりは、アイスコーヒーにもおすすめです。",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ キリッとした苦味！夏にピッタリの深煎りブレンド キリッとした苦味とクリアな味わいが楽しめる、夏にピッタリの深煎りブレンド。程よいボディとなめらかな口あたりは、アイスコーヒーにもおすすめです。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016929",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/929/4515996016929_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996016929.jpg"
+      "available": true
     },
     {
       "product_id": "4515996012280",
@@ -496,12 +444,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "軽やか",
-      "description": "甘く爽やか！夏季限定の中煎りブレンド",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .main{ font-size: 14px; } .recommend_main { max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title { font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle { font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr { border-bottom: 2px solid #004098; } .column_2 { display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title { font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle { font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1 { width: 49%; height: 33%; } .recommend_contents_image3_2 { width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3 { width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ #topic_contents_ver01{ margin-bottom: 100px; width: 100%; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .topic_contents_image2_1{ width: 49%; height: 49%; } .topic_contents_image2_2{ width: 49%; height: 49%; margin-left: 2%; } /* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 甘く爽やか！夏限定の中煎りブレンド しっかりとした甘さと爽やかな風味が楽しめる、夏限定の中煎りブレンド。香り豊かな味わいはアイスコーヒーやミルクを使ったアレンジにもおすすめです。 いれ方は急冷がおすすめ！甘さと爽やかな風味が引き立ちます。ミルクを入れたら甘さ際立つカフェオレに！",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996012280",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/280/4515996012280_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996012280.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015045",
@@ -515,12 +461,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "飲みごたえ",
-      "description": "しっかりとした飲みごたえのバランスタイプ。しっかりとした飲みごたえと、酸味と苦味を持ち味とした深みのあるブレンドです。。スペシャルブレンドについて。スペシャルブレンドは、当店人気No.1の「マイルドカルディ」の味わいを基準に苦味や複雑さを加えて、深みのあるリッチ感を楽しめるコーヒーです。 マイルドカルディとブレンドのメインで使用している豆は似ていますが、インドネシア産の豆を加えることで、その力強さを生かした、飲み応えのある仕上がりとなっています。 ブラックで飲むと、しっかりとしたコクを感じつつもすっきりとした後味があり、ミルクや砂糖を合わせると、程よい苦味と、ミルク感を楽しめます。一味違ったコクのあるコーヒーとしてもおすすめです。",
+      "description": "しっかりとした飲みごたえのバランスタイプ しっかりとした飲みごたえと、酸味と苦味を持ち味とした深みのあるブレンドです。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015045",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/045/4515996015045_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015045.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015212",
@@ -534,12 +478,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "飲みごたえ",
-      "description": "完熟ブルボン種を日陰干し。ふくよかな甘さ。上質ななめらかさとボディまるでチョコレートのような凝縮した甘み。 ブラジルの国鳥「ツッカーノ（TUCANO)」の名前を冠するこのコーヒー。ブラジルの生産者のこだわりが詰まった味わいがお楽しみいただけます。 ※ツッカーノは和名で「オオハシ」と呼ばれる熱帯雨林に生息する鳥です。。愛され続けている”ブルボン種”。古くから伝わるコーヒー豆の品種の一つとされる「ブルボン種」。生まれ続ける数ある改良品種に比べて病虫害に弱く、収穫量も少ない品種ですが、それでも長く愛され続けているのには理由があります。 それは、けっして”派手”ではないけれど、甘くソフトな香りとふくよかさがじっくりと沁み入るような味わいとなり、”毎日飲みたい”と思わせてくれるから。ぜひ、あなたの毎日の一杯に。。ひと手間をかけた日陰干し。赤く熟した実だけを丁寧に手で摘み取った後、乾燥工程にて、一般的なパティオと呼ばれる乾燥場でなく、直射日光を避けた日陰のもと中空に吊られたネットにひろげ時間をかけてじっくりと乾かしています。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 完熟ブルボン種を日陰干し。ふくよかな甘さ 上質ななめらかさとボディまるでチョコレートのような凝縮した甘み。 ブラジルの国鳥「ツッカーノ（TUCANO)」の名前を冠するこのコーヒー。ブラジルの生産者のこだわりが詰まった味わいがお楽しみいただけます。 ※ツッカーノは和名で「オオハシ」と呼ばれる熱帯雨林に生息する鳥です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015212",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/212/4515996015212_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015212.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015281",
@@ -553,12 +495,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "バランス",
-      "description": "躍動的に広がる色彩豊かで鮮やかな酸味。ハワイ島コナ地区産のストレートコーヒー。目覚ましいほど爽やかで甘酸っぱく、それでいて豊かなコクを併せ持ちます。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 躍動的に広がる色彩豊かで鮮やかな酸味 ハワイ島コナ地区産のストレートコーヒー。目覚ましいほど爽やかで甘酸っぱく、それでいて豊かなコクを併せ持ちます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015281",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/281/4515996015281_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015281.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016578",
@@ -572,12 +512,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "飲みごたえ",
-      "description": "環境と鳥にやさしい、爽やかな味わい。コロンビア産のバードフレンドリー(R)認証コーヒーです。オレンジのような爽やかな酸味と甘さをお楽しみください。 ※限定デザイン袋はなくなり次第スペシャルブレンド等と同じ通常パッケージでのお届けとなります。-->。環境と鳥にやさしい。渡り鳥が休息する森で生まれたバードフレンドリー（R）コーヒー渡り鳥の生息地となる木々を守るため、環境に配慮して栽培されています。収益の一部はこの活動の為に還元されています。",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 環境と鳥にやさしい、爽やかな味わい コロンビア産のバードフレンドリー(R)認証コーヒーです。オレンジのような爽やかな酸味と甘さをお楽しみください。 ※限定デザイン袋はなくなり次第スペシャルブレンド等と同じ通常パッケージでのお届けとなります。-->",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016578",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/578/4515996016578_M_3m.jpg",
-      "image_local": "data/images/kaldi/4515996016578.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015168",
@@ -591,12 +529,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "やさしい甘さとなめらかな口あたり 世界一のコーヒー大国ブラジル。ローストナッツやチョコレートのような風味とやさしい甘さ、なめらかな口あたりをお楽しみください。",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .main{ font-size: 14px; } .recommend_main { max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title { font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle { font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr { border-bottom: 2px solid #004098; } .column_2 { display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title { font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle { font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1 { width: 49%; height: 33%; } .recommend_contents_image3_2 { width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3 { width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ #topic_contents_ver01{ margin-bottom: 100px; width: 100%; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .topic_contents_image2_1{ width: 49%; height: 49%; } .topic_contents_image2_2{ width: 49%; height: 49%; margin-left: 2%; } /* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ やさしい甘さとなめらかな口あたり 世界一のコーヒー大国ブラジル。ローストナッツやチョコレートのような風味とやさしい甘さ、なめらかな口あたりをお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015168",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/168/4515996015168_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015168.jpg"
+      "available": true
     },
     {
       "product_id": "4515996019159",
@@ -610,12 +546,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "こだわりの産地、甘い余韻の深煎り。良質な産地として名高い、カルモデミナス地区。深煎りで仕上げ、チョコレートのような甘い余韻を引き出しました。",
+      "description": "/* 焙煎珈琲レコメンド */ .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ こだわりの産地、甘い余韻の深煎り 良質な産地として名高い、カルモデミナス地区。深煎りで仕上げ、チョコレートのような甘い余韻を引き出しました。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019159",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/159/4515996019159_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996019159.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015298",
@@ -629,12 +563,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "「No.1」全ての味わいが調和。言わずと知れた「ブルマン」。その味わいをそのままにお楽しみ頂けます。絶妙なバランスが贅沢なひと時を演出してくれます。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 「No.1」全ての味わいが調和 言わずと知れた「ブルマン」。その味わいをそのままにお楽しみ頂けます。絶妙なバランスが贅沢なひと時を演出してくれます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015298",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/298/4515996015298_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015298.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015038",
@@ -648,12 +580,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "「ブルーマウンテン」の堂々たる品格。ブルーマウンテンをブレンドした堂々たる味わい。香りと甘さ、苦味と酸味が織りなすバランスは秀逸です。",
+      "description": "/* おすすめテンプレ */ @charset \"utf-8\"; .recommend_main{ max-width: 700px; margin: 0 auto; color: #555555; } .recommend_top_title{ font-size: 18pt; font-weight: bold; color: #004098; } .recommend_contents_maintitle{ font-size: 16pt; font-weight: bold; color: #004098; } .topic_hr{ border-bottom: 2px solid #004098; } .column_2{ display: flex; margin-bottom: 20px; margin-top: 20px; } .recommend_contents_title{ font-size: 10pt; font-weight: bold; color: #004098; } .recommend_contents_middletitle{ font-size: 10.5pt; font-weight: bold; } .recommend_contents_image3_1{ width: 49%; height: 33%; } .recommend_contents_image3_2{ width: 49%; height: 33%; margin-left: 1%; } .recommend_contents_image3_3{ width: 49%; height: 33%; margin-left: 1%; } /* おすすめテンプレ */ /* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 「ブルーマウンテン」の堂々たる品格 ブルーマウンテンをブレンドした堂々たる味わい。香りと甘さ、苦味と酸味が織りなすバランスは秀逸です。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015038",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/038/4515996015038_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015038.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016554",
@@ -667,12 +597,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "飲みごたえ",
-      "description": "上質を求めた、こだわりの逸品。中南米産の有機栽培コーヒー生豆のみを使用したブレンド。それぞれの産地の個性を活かしながら、バランスの良い味わいに仕上げました。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 上質を求めた、こだわりの逸品 中南米産の有機栽培コーヒー生豆のみを使用したブレンド。それぞれの産地の個性を活かしながら、バランスの良い味わいに仕上げました。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016554",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/554/4515996016554_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996016554.jpg"
+      "available": true
     },
     {
       "product_id": "4515996019050",
@@ -686,12 +614,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "カルディコーヒーファームの看板ブレンド。持続する余韻。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。 バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくのもおすすめです。 やわらかい甘さが特徴のブラジル豆をベースに、品質管理者が日々カッピングを重ねながらコロンビアなどのコーヒー豆を繊細にブレンド。オープン当時と変わらない味わいを保ち続けています。。こだわりの価格。毎日気軽にコーヒーを飲んでいただくために【1杯当たり約58円（10g使用の場合）】とお求めやすさにもこだわりました。消費量の多いオフィスでもたっぷりお飲みいただけます。ペーパーフィルター、お豆のままなど、お使いの器具に合わせた状態・挽き方でお届けいたします。おすすめの挽き具合は抽出方法によって異なります。ご利用の抽出方法に併せてお選びください。 新型コロナウイル",
+      "description": "カルディコーヒーファームの看板ブレンド",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019050",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/050/4515996019050_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996019050.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015137",
@@ -705,12 +631,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "野性的な香りと力強いボディ。インドネシアの肥沃な土壌、スマトラ島産。野性的で力強いボディに、引き締まった酸味が深みを与えてくれます。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 野性的な香りと力強いボディ インドネシアの肥沃な土壌、スマトラ島産。野性的で力強いボディに、引き締まった酸味が深みを与えてくれます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015137",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/137/4515996015137_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015137.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015205",
@@ -724,12 +648,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "力強い苦味とボディ。野性味あふれる香りと強いボディ。深煎りにすることで更に個性を引き出しました。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 力強い苦味とボディ 野性味あふれる香りと強いボディ。深煎りにすることで更に個性を引き出しました。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015205",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/205/4515996015205_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015205.jpg"
+      "available": true
     },
     {
       "product_id": "4515996016783",
@@ -743,12 +665,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "華やかな香りとクリアな苦味。華やかな香りとクリアな苦味が特徴です。エチオピア産ウォッシュドの上品な味わいをお楽しみください。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 華やかな香りとクリアな苦味 華やかな香りとクリアな苦味が特徴です。エチオピア産ウォッシュドの上品な味わいをお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016783",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/783/4515996016783_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996016783.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015052",
@@ -762,12 +682,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "爽やかな酸味",
       "body_label": "飲みごたえ",
-      "description": "モカの甘く芳醇な香り。エチオピア産モカの甘く華やかな香りが特徴のブレンドです。赤い果実のような芳醇な風味をお楽しみください。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ モカの甘く芳醇な香り エチオピア産モカの甘く華やかな香りが特徴のブレンドです。赤い果実のような芳醇な風味をお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015052",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/052/4515996015052_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015052.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015151",
@@ -781,12 +699,10 @@
       "coffee_type": "ストレート",
       "taste_balance": "爽やかな酸味",
       "body_label": "飲みごたえ",
-      "description": "ワインのような芳醇な香り。やわらかい甘味とコク。「貴婦人」にも例えられる上品で豊かな香り。赤ワインにも似たその風味とコクは、根強いファンを唸らせます。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ ワインのような芳醇な香り。やわらかい甘味とコク 「貴婦人」にも例えられる上品で豊かな香り。赤ワインにも似たその風味とコクは、根強いファンを唸らせます。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015151",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/151/4515996015151_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015151.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015076",
@@ -800,12 +716,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "バランス",
-      "description": "目覚めの一杯にオススメ、キレの良い苦味。目覚めの一杯におすすめの飲みやすいブレンドです。カフェオレにもおすすめ！",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 目覚めの一杯にオススメ、キレの良い苦味 目覚めの一杯におすすめの飲みやすいブレンドです。カフェオレにもおすすめ！",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015076",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/076/4515996015076_M_2m.jpg",
-      "image_local": "data/images/kaldi/4515996015076.jpg"
+      "available": true
     },
     {
       "product_id": "4515996015083",
@@ -819,12 +733,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "強い香りと苦み",
       "body_label": "飲みごたえ",
-      "description": "重厚感のある苦味と奥深い味わい。重厚感のある強い苦味が特徴のブレンド。奥深い味わいと長く続く余韻をお楽しみください。",
+      "description": "/* 焙煎珈琲レコメンド */ @media(min-width:801px){ .item_recommend { display:flex; } } .item_recommend { margin: auto; text-align: center; width: 100%; } .item_recommend_left { display: inline-block; padding: 3px; } .item_recommend_right { display: inline-block; padding: 3px; } /* 焙煎珈琲レコメンド */ 重厚感のある苦味と奥深い味わい 重厚感のある強い苦味が特徴のブレンド。奥深い味わいと長く続く余韻をお楽しみください。",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015083",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/083/4515996015083_M_1m.jpg",
-      "image_local": "data/images/kaldi/4515996015083.jpg"
+      "available": true
     },
     {
       "product_id": "freecfmildkld",
@@ -838,12 +750,10 @@
       "coffee_type": "ブレンド",
       "taste_balance": "やわらかな甘み",
       "body_label": "バランス",
-      "description": "当店の看板コーヒー「マイルドカルディ200g」を3袋、合計600g分、をオンラインストア数量限定で＜送料無料＞でお届けします。",
+      "description": "いまだけ送料無料！『マイルドカルディ200g×3個セット』",
       "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/freecfmildkld",
       "grind_options_include_bean": true,
-      "available": true,
-      "image_url": "https://www.kaldi.co.jp/ec/img/kld/freecfmildkld_M_1m.jpg",
-      "image_local": "data/images/kaldi/freecfmildkld.jpg"
+      "available": true
     }
   ]
 }

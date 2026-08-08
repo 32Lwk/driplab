@@ -42,9 +42,11 @@ interface BeanProduct {
   buy_url: string;
   image_url?: string;
   image_local?: string;          // repo-relative path e.g. data/images/starbucks/xxx.jpg
+  image_cdn_url?: string;        // R2 CDN e.g. https://assets.coffee.yutok.dev/beans/...
   purchase_channel?: "ec" | "store" | "both";
   availability?: ("ec" | "store")[];
   menu_url?: string;             // tullys.co.jp product page when store-only
+  source: "seed" | "scraped";
   scraped_at?: string;           // ISO8601
   available: boolean;            // 入手可否（MVP は true 固定可）
 }

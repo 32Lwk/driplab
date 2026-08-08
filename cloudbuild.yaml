@@ -7,9 +7,10 @@ substitutions:
 
 steps:
   - name: gcr.io/cloud-builders/docker
-    dir: infra/cloud-run
     args:
       - build
+      - -f
+      - infra/cloud-run/Dockerfile
       - -t
       - ${_AR_HOSTNAME}/${PROJECT_ID}/${_AR_REPOSITORY}/${_SERVICE_NAME}:${COMMIT_SHA}
       - -t

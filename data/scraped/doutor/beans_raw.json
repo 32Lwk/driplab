@@ -9,7 +9,8 @@
     "content": "焙煎度  　ハイロースト（中深煎）`n\r\n  味わい  　バランス`n\r\nドトールコーヒーショップの定番ブレンド。「香り高く、甘みのあるコーヒー」を追求し、バランスのとれた味わいに仕上げた逸品です。`n\r\n国内自社工場で焙煎したてのコーヒー豆を、ご注文いただいてから製造してお届けします。`n\r\nオンラインショップ限定の大容量、保存しやすいスタンディングジッパー袋入りです。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 500g",
     "weight_g": 500,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301112758_65e13d2e3769f.jpg",
-    "image_local": "data/images/doutor/19.jpg"
+    "image_local": "data/images/doutor/19.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/19.jpg"
   },
   {
     "product_id": 20,
@@ -21,7 +22,8 @@
     "content": "焙煎度  　ハイロースト（中深煎）`n\r\n  味わい  　すっきり`n\r\n黒糖のようなまろやかな甘さとカラメルのような香ばしいコク、上品な甘さがお楽しみいただけます。`n\r\n国内自社工場で焙煎したてのコーヒー豆を、ご注文いただいてから製造してお届けします。`n\r\nオンラインショップ限定の大容量、保存しやすいスタンディングジッパー袋入りです。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 500g",
     "weight_g": 500,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301114332_65e140d49e3a2.jpg",
-    "image_local": "data/images/doutor/20.jpg"
+    "image_local": "data/images/doutor/20.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/20.jpg"
   },
   {
     "product_id": 21,
@@ -33,7 +35,8 @@
     "content": "焙煎度  　ミディアムロースト（中煎）`n\r\n  味わい  　まろやか`n\r\nモカの豊かな風味を活かした、奥行きのある味わい。熟したベリーのような凝縮された甘酸っぱさとローストナッツのような香ばしさが特長です。`n\r\n国内自社工場で焙煎したてのコーヒー豆を、ご注文いただいてから製造してお届けします。`n\r\nオンラインショップ限定の大容量、保存しやすいスタンディングジッパー袋入りです。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 500g",
     "weight_g": 500,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301113035_65e13dcb0db3e.jpg",
-    "image_local": "data/images/doutor/21.jpg"
+    "image_local": "data/images/doutor/21.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/21.jpg"
   },
   {
     "product_id": 22,
@@ -45,7 +48,8 @@
     "content": "焙煎度  　フレンチロースト（極深煎）`n\r\n  味わい  　コク`n\r\n  アイスコーヒーにもおすすめ  `n\r\n香ばしいカラメルのようなコクと、ビターチョコレートのような深みのある甘さ、スッキリとした口あたりが絶妙に絡み合います。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g`n\r\n`n",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090023_6334e0172b0fc.jpg",
-    "image_local": "data/images/doutor/22.jpg"
+    "image_local": "data/images/doutor/22.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/22.jpg"
   },
   {
     "product_id": 26,
@@ -57,7 +61,8 @@
     "content": "焙煎度  　シティロースト（深煎）`n\r\n  味わい  　バランス　コク`n\r\n  アイスコーヒーにもおすすめ  `n\r\nチョコクッキーのようななめらかで香ばしい香りと、ココアのようなコクが感じられます。苦味のきいたヨーロッパタイプの味わいです。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g`n\r\n`n",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090001_6334e001624ba.jpg",
-    "image_local": "data/images/doutor/26.jpg"
+    "image_local": "data/images/doutor/26.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/26.jpg"
   },
   {
     "product_id": 27,
@@ -69,7 +74,8 @@
     "content": "焙煎度  　ミディアムロースト（中煎）`n\r\n  味わい  　すっきり　バランス`n\r\nブルーマウンテンをメインにブレンドした上品で調和のとれたコーヒー。焼き栗のような香ばしさと、ホワイトチョコのようなすっきりとした甘さが特長です。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090109_6334e0457331b.jpg",
-    "image_local": "data/images/doutor/27.jpg"
+    "image_local": "data/images/doutor/27.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/27.jpg"
   },
   {
     "product_id": 29,
@@ -81,7 +87,8 @@
     "content": "焙煎度  　ミディアムロースト（中煎）`n\r\n  味わい  　すっきり　キレ`n\r\nレモングラスのようなすっきりとした香りに、シトラスを感じる爽やかな酸味、キレのあるのどごしを楽しんでいただけます。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090247_6334e0a75e4b1.jpg",
-    "image_local": "data/images/doutor/29.jpg"
+    "image_local": "data/images/doutor/29.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/29.jpg"
   },
   {
     "product_id": 30,
@@ -93,7 +100,8 @@
     "content": "焙煎度  　ミディアムロースト（中煎）`n\r\n  味わい  　まろやか`n\r\nストロベリーやクランベリーのような風味とスパイスを感じる香り、フルーティー感のあるまろやかな味わいです。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090325_6334e0cd8f89c.jpg",
-    "image_local": "data/images/doutor/30.jpg"
+    "image_local": "data/images/doutor/30.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/30.jpg"
   },
   {
     "product_id": 32,
@@ -105,7 +113,8 @@
     "content": "焙煎度  　ミディアムロースト（中煎）`n\r\n  味わい  　まろやか　コク`n\r\n野性味あふれる豊かな味わい、ドライフルーツのような凝縮した甘味と、レーズンのような優しい酸味のある個性的な風味が特長です。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090211_6334e08362ff2.jpg",
-    "image_local": "data/images/doutor/32.jpg"
+    "image_local": "data/images/doutor/32.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/32.jpg"
   },
   {
     "product_id": 236,
@@ -117,7 +126,8 @@
     "content": "焙煎度  　シティロースト（深煎）`n\r\n  味わい  　まろやか`n\r\n時間を気にせず楽しめるコーヒー`n\r\nカフェインが気になる方でもおいしくお飲みいただける、やさしい味わいのカフェインレスコーヒーです。`n\r\nカフェインを94％カットしたコロンビア産コーヒーを100％使用しています。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n`n\r\n＜容量＞200g",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0725082432_6882c0b0ae65b.jpg",
-    "image_local": "data/images/doutor/236.jpg"
+    "image_local": "data/images/doutor/236.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/236.jpg"
   },
   {
     "product_id": 243,
@@ -129,7 +139,8 @@
     "content": "焙煎度 　シティロースト（深煎）`n\r\n  味わい 　バランス・すっきり`n\r\n  アイスコーヒーにもおすすめ  `n\r\n深煎りならではのコクがありながら、オレンジのような爽やかさを感じられる、すっきりした後口が特長のコーヒーです。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g`n\r\n`n\r\n`n",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0722110403_687ef193e9699.jpg",
-    "image_local": "data/images/doutor/243.jpg"
+    "image_local": "data/images/doutor/243.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/243.jpg"
   },
   {
     "product_id": 244,
@@ -141,6 +152,7 @@
     "content": "焙煎度 　シティロースト（深煎）`n\r\n  味わい 　バランス・コク`n\r\n  アイスコーヒーにもおすすめ  `n\r\nイチジクやリンゴのドライフルーツを思わせる風味と、ダークチョコレートのような甘い香り。ソフトでバランスの取れた味わいをお楽しみいただけます。`n\r\n※鮮度と風味を保つために豆は挽かずにお届けいたします。`n\r\n＜容量＞ 200g`n\r\n`n",
     "weight_g": 200,
     "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0722110446_687ef1bedceec.jpg",
-    "image_local": "data/images/doutor/244.jpg"
+    "image_local": "data/images/doutor/244.jpg",
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/244.jpg"
   }
 ]

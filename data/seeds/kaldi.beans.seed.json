@@ -32,7 +32,8 @@
       "image_url": "https://www.kaldi.co.jp/ec/img/050/4515996019050_M_1m.jpg",
       "image_local": "data/images/kaldi/4515996019050.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019050.jpg"
     },
     {
       "id": "kaldi-mocha-blend-200g",
@@ -63,7 +64,8 @@
       "image_url": "https://www.kaldi.co.jp/ec/img/052/4515996015052_M_1m.jpg",
       "image_local": "data/images/kaldi/4515996015052.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015052.jpg"
     },
     {
       "id": "kaldi-kilimanjaro-200g",
@@ -92,7 +94,8 @@
       "image_url": "https://www.kaldi.co.jp/ec/img/120/4515996015120_M_1m.jpg",
       "image_local": "data/images/kaldi/4515996015120.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015120.jpg"
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "bucket": "driplab-assets",
+  "key_prefix": "beans",
+  "public_base_url": "https://assets.coffee.yutok.dev",
+  "location": "APAC",
+  "cloudflare_account_id": "2a1ac0678cd0b207ca4fa5681a9a0690",
+  "s3_endpoint": "https://2a1ac0678cd0b207ca4fa5681a9a0690.r2.cloudflarestorage.com"
+}

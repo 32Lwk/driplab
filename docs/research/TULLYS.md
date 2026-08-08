@@ -1,8 +1,8 @@
 # タリーズコーヒー データ調査レポート
 
-調査日: 2026-08-08（更新: 店舗メニュー統合）  
+調査日: 2026-08-08  
 調査者: DripLab プロジェクト  
-結論: **EC 単体では 8 品目だが、店舗メニュー統合で 22 品目に拡張済み。画像取得済み。**
+結論: **21 品目の豆カタログを構築済み（EC 8 + 店舗限定 13）。スクレイピング実施可能。**
 
 ---
 
@@ -10,27 +10,53 @@
 
 | 観点 | 結果 |
 |------|------|
-| 公式 EC の豆（ホール） | **8 品目**（伊藤園 EC の全 SKU 中、ホール豆のみ） |
-| 店舗メニュー豆（200g/150g） | **21 品目**（blend + varietal） |
-| **統合カタログ** | **22 品目**（EC 8 + 店舗のみ 14、7 品目は EC/店舗両方） |
-| 品目が少ない原因 | **スクレイパー不具合ではなく、伊藤園 EC の品揃えが限定的** |
-| 味わい・焙煎度 | テイスティングワード（英語）が EC 一部 / 店舗は og:description |
-| 購入 URL | EC 品目は Ito En URL、店舗のみは menu ページ URL |
-| 商品画像 | `data/images/tullys/` に 21 件ダウンロード済み |
-| スクレイピング | `robots.txt` 上 **許可** |
+| 公式 EC の豆（ホール） | **8 品目**（バライエタル 5 + ブレンド 2 + デカフェ 1） |
+| 店舗メニュー豆（ホール） | **21 品目**（バライエタル 10 + ブレンド 11） |
+| マージ後カタログ | **21 品目**（重複統合後） |
+| 味わい・焙煎度の構造化 | テイスティングワード（EC）+ 店舗 taste_column + 説明文キーワード |
+| 購入 URL | EC 8 件は伊藤園 EC、店舗限定 13 件は店舗メニュー URL |
+| 商品画像 | 全 21 件 `data/images/tullys/` にダウンロード済み |
+| スクレイピング | `robots.txt` 上 **許可**（Disallow なし） |
 
-**DripLab 方針（更新）**
+**DripLab 方針（2026-08-08 更新）**
 
-- **EC データ**: `beans_ec.json` ← `scrapers/tullys/scrape_beans.py`
-- **店舗メニュー**: `beans_store_menu.json` ← `scrapers/tullys/scrape_store_menu.py`
-- **統合**: `beans_raw.json` ← `scrapers/tullys/merge_catalog.py`
-- MVP seed: **ハウスブレンド / アニバーサリーブレンド / キリマンジャロ**（店舗定番を含む）
+- データソース: 伊藤園 EC + 店舗メニュー + 楽天公式店（参考）
+- MVP seed: **3 品目**（ハウスブレンド / アニバーサリーブレンド / キリマンジャロ）
+- フル catalog: 21 品目 `data/scraped/tullys/beans_raw.json`
 
 ---
 
-## 2. データソース
+## 2. 根本原因（Root Cause）
 
-### 2.1 公式オンラインストア（主データ源）
+**Ito En EC（`shop.itoen.jp/tullyscoffee`）はホール豆 SKU が約 8 件のみ。**
+
+店舗メニュー（`tullys.co.jp/menu/beans/`）には EC にない定番豆が多数存在する:
+
+| 店舗のみ（EC 未販売） | 例 |
+|----------------------|-----|
+| 定番ブレンド | ハウスブレンド、モカジャバ、フレンチロースト、エスプレッソクラシコ |
+| 季節・限定ストレート | ホンジュラス 森のエランディケ、エチオピア シダモ G1 |
+| その他 | クレセントムーン、マスターズノート、ブラック スリー 等 |
+
+**なぜ EC が少ないか**
+
+- 伊藤園運営 EC は「オンライン向け限定 SKU」中心。定番店舗豆の多くは EC 非掲載
+- ハウスブレンド等は EC では **400g 粉のみ**（ホール豆なし）
+- 楽天公式店もホール豆は EC 品目とほぼ重複。店舗定番のホール豆は **400g 粉** のみ販売
+
+**DripLab 対応（Expansion Strategy）**
+
+1. **伊藤園 EC** — ホール豆 8 件を正規データ源（`purchase_channel: "ec"`, buy_url → Ito En）
+2. **店舗メニュー** — EC にない 13 件を追加（`purchase_channel: "store"`, buy_url → menu detail URL）
+3. **楽天** — 200g ホール豆が見つかれば buy_url を上書き（現状 EC 品目と重複のみ）
+4. **名前正規化でマージ** — 「タリーズ ブラジル バウ」と「【限定パッケージ】タリーズ ブラジル バウ」を統合
+5. **画像** — EC og:image 優先、なければ店舗メニュー画像を `data/images/tullys/` に保存
+
+---
+
+## 3. データソース
+
+### 3.1 公式オンラインストア（主データ源 — EC 8 件）
 
 | 項目 | 内容 |
 |------|------|
@@ -39,165 +65,123 @@
 | 運営 | 伊藤園（ITOEN GROUP ONLINE MALL 内タリーズブランド） |
 | 豆カテゴリ | `/shop/tullyscoffee/c/ctc01/` およびサブカテゴリ |
 | コーヒー豆（ホール） | **8 件**（EC 全 42 SKU 中） |
-| 副次 EC | 楽天公式店（https://www.rakuten.co.jp/tullyscoffee-official/）— 今回は伊藤園 EC を正とする |
 
-### 2.2 公式サイト（補助）
+### 3.2 店舗メニュー（拡張データ源 — 21 件）
 
 | URL | 用途 |
 |-----|------|
-| https://www.tullys.co.jp/menu/beans/ | 店舗メニュー豆一覧（価格なし・購入 URL なし） |
-| https://shop.tullys.co.jp/ | 店舗検索（EC ではない） |
+| https://www.tullys.co.jp/menu/beans/ | 豆一覧（バライエタル 10 + ブレンド 11） |
+| `/menu/beans/varietal/*.html` | ストレート詳細（説明文・原産地・価格・味わいレベル） |
+| `/menu/beans/blend/*.html` | ブレンド詳細 |
 
-店舗メニューには EC にない「ハウスブレンド」「モカジャバ」「エスプレッソクラシコ」等がある。**2026-08-08 より店舗メニューを補助カタログとして統合**（`purchase_channel: store`, `availability: ["store"]`）。
+店舗詳細ページから取得するフィールド:
 
-### 品目不足の根本原因
+| フィールド | セレクタ |
+|------------|----------|
+| 商品名 | `span.title-text` |
+| 説明文 | `.common__description` または `meta[name=description]` |
+| 原産地 | `.price_list` 内「原産地」行 |
+| 価格・容量 | `.price_list` 内「200g」「150g」行 |
+| 味わいレベル | `.taste_column` の `level_N`（すっきり感 / ボディ） |
+| 画像 | `.thumbnail__pic_image img` |
 
-| 要因 | 詳細 |
-|------|------|
-| EC 運営 | 伊藤園モールはホール豆 **8 SKU のみ**（粉・ZIPS・ギフト中心） |
-| 店舗定番 | ハウスブレンド 200g 豆は **店舗 ¥1,470**（2026/7/28 改定）だが EC 未掲載 |
-| 楽天公式店 | 豆はアイスブレンド等少数。EC より品揃え少 |
-| スクレイパー | カテゴリ 11 URL を巡回済み。**フィルタで落としているわけではない** |
+### 3.3 楽天公式店（副次 — 参考）
 
-**対応**: EC 8 品目を正（購入可能 URL）とし、店舗メニュー 21 品目でレコメンド幅を拡張。重複 7 品目は `availability: ["ec","store"]` でマージ。
-
-### 2.3 robots.txt
-
-**www.tullys.co.jp**
-
-```
-User-Agent: Googlebot
-Sitemap: https://www.tullys.co.jp/sitemap.xml
-```
-
-- 一般 User-agent 向け Disallow なし（Googlebot のみ明記）
-- sitemap はニュース・店舗情報中心（EC 商品 URL なし）
-
-**shop.itoen.jp**
-
-```
-User-agent: *
-Sitemap: https://shop.itoen.jp/cms/sitemap/www/Sitemap_0_Index.xml
-```
-
-- **Disallow なし** → 商品ページ取得可
-- レート制限: 1 req/sec 以上の間隔を推奨
+| URL | 結果 |
+|-----|------|
+| https://www.rakuten.co.jp/tullyscoffee-official/ | ホール豆は EC 品目と重複。店舗定番は 400g 粉のみ |
+| `beans_0004` | ハウスブレンド **400g 粉**（ホール豆ではない） |
+| `beans_0007` | デカフェ 200g 豆（EC と同一） |
 
 ---
 
-## 3. 取得可能な豆一覧（8 品目）
+## 4. 取得済み豆一覧（21 品目）
 
-### 3.1 バライエタル / ストレート（5 品目）
+### 4.1 EC 購入可（8 件 — `purchase_channel: "ec"`）
 
-| product_id | 商品名 | 容量 | 価格(税込) | 産地 | テイスティングワード | 購入 URL |
-|------------|--------|------|------------|------|---------------------|----------|
-| gTCJ-beans-260318-0001 | 【限定】タリーズ ブラジル バウ | 200g | ¥1,755 | ブラジル セラード | — | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/) |
-| gTCJ-beans-260318-0002 | タリーズ ブラジル バウ イエローブルボン | 200g | ¥1,535 | ブラジル セラード | — | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0002/) |
-| gTCJ-beans-260318-0003 | タリーズ ブラジル ファゼンダ バレ ド クリスタル | 200g | ¥1,845 | ブラジル ジアマンチーナ | — | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0003/) |
-| gTCJ-beans-25080113 | キリマンジャロ KIBO タリメ スイートウォッシュド | 200g | ¥1,755 | タンザニア タリメ | — | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/) |
-| gTCJ-beans-25080103 | コスタリカ ラ ミニータ ウェットミル スイートウォッシュド | 200g | ¥1,755 | コスタリカ タラス | Clean, Smooth, Bright | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080103/) |
+| product_id | 商品名 | 容量 | 価格(税込) |
+|------------|--------|------|------------|
+| gTCJ-beans-260318-0001 | 【限定】タリーズ ブラジル バウ | 200g | ¥1,755 |
+| gTCJ-beans-260318-0002 | タリーズ ブラジル バウ イエローブルボン | 200g | ¥1,535 |
+| gTCJ-beans-260318-0003 | タリーズ ブラジル ファゼンダ バレ ド クリスタル | 200g | ¥1,845 |
+| gTCJ-beans-25080113 | キリマンジャロ KIBO タリメ スイートウォッシュド | 200g | ¥1,755 |
+| gTCJ-beans-25080103 | コスタリカ ラ ミニータ ウェットミル スイートウォッシュド | 200g | ¥1,755 |
+| gTCJ-beans-260805-0001 | タリーズ アニバーサリーブレンド | 200g | ¥1,800 |
+| gTCJ-beans-260415-0003 | アイスコーヒーブレンド | 200g | ¥1,690 |
+| gTCJ-beans-25080118 | デカフェ ブラジル IP農園 | 200g | ¥1,810 |
 
-### 3.2 ブレンド（2 品目）
+### 4.2 店舗購入のみ（13 件 — `purchase_channel: "store"`）
 
-| product_id | 商品名 | 容量 | 価格(税込) | 産地 | テイスティングワード | 購入 URL |
-|------------|--------|------|------------|------|---------------------|----------|
-| gTCJ-beans-260805-0001 | タリーズ アニバーサリーブレンド | 200g | ¥1,800 | ブラジル・タンザニア・ペルー・インドネシア | Bright, Caramel, Complex | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/) |
-| gTCJ-beans-260415-0003 | アイスコーヒーブレンド | 200g | ¥1,690 | ブラジル・グァテマラ・他 | — | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260415-0003/) |
-
-### 3.3 デカフェ（1 品目）
-
-| product_id | 商品名 | 容量 | 価格(税込) | 産地 | テイスティングワード | 購入 URL |
-|------------|--------|------|------------|------|---------------------|----------|
-| gTCJ-beans-25080118 | デカフェ ブラジル IP農園 | 200g | ¥1,810 | ブラジル カルモ デ ミナス | Caramel, Sweet, Soft | [detail](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080118/) |
-
----
-
-## 4. EC に含まれないが店舗メニューにある豆（参考）
-
-`https://www.tullys.co.jp/menu/beans/` に掲載、EC 未販売の例:
-
-- ハウスブレンド（EC には **400g 粉のみ** ¥3,060）
-- モカジャバ / フレンチロースト / エスプレッソクラシコ
-- エチオピア シダモ / スマトラ マンデリン / エチオピアモカ ウラガ
-- ホンジュラス 森のエランディケ（季節限定）
-
-**対応**: 深煎り・エスプレッソ系需要は EC「アイスコーヒーブレンド」「アニバーサリーブレンド」に加え、店舗データ「エスプレッソクラシコ」「フレンチロースト」「モカジャバ」でカバー。
-
----
-
-## 4b. 統合カタログ（22 品目）
-
-| 区分 | 件数 | 備考 |
-|------|------|------|
-| EC のみ | 1 | 限定パッケージ等 |
-| EC + 店舗 | 7 | 名称正規化でマージ |
-| 店舗のみ | 14 | ハウスブレンド、エスプレッソクラシコ等 |
-
-取得ファイル:
-
-- `data/scraped/tullys/beans_ec.json`（8 件）
-- `data/scraped/tullys/beans_store_menu.json`（21 件）
-- `data/scraped/tullys/beans_raw.json`（22 件・統合）
-- `data/images/tullys/`（商品画像）
+| product_id | 商品名 | 容量 | 店舗価格(税込) |
+|------------|--------|------|----------------|
+| menu-house_blend | **ハウスブレンド** | 200g | ¥1,470 |
+| menu-mocha_java | モカジャバ | 200g | ¥1,580 |
+| menu-french_roast | フレンチロースト | 200g | ¥1,580 |
+| menu-espresso_classico | エスプレッソクラシコ | 200g | ¥1,580 |
+| menu-blackthree | ブラック スリー | 200g | ¥1,580 |
+| menu-piccolo_bambino | ピッコロバンビーノ | 200g | ¥1,470 |
+| menu-cafe_au_lait_monire | カフェオレ モナーレ | 200g | ¥1,470 |
+| menu-26cresent_moon | クレセントムーン | 200g | — |
+| menu-26tls_masters_note | タリーズコーヒーマスターズノート | 200g | — |
+| menu-26honduras_erandique | ホンジュラス 森のエランディケ | 200g | — |
+| menu-26_ethiopia_sidamo_g1 | エチオピア シダモ G1 シャキッソウォッシュド | 150g | ¥1,870 |
+| menu-26mandeheling_g1 | スマトラ マンデリン G1 リントンニフタ | 150g | ¥1,870 |
+| menu-ethiopia_uraga | エチオピアモカ G1 ウラガ ナチュラル | 200g | — |
 
 ---
 
 ## 5. 商品ページのデータ構造（スクレイピング用）
 
-### 5.1 HTML セレクタ
+### 5.1 伊藤園 EC
 
 | フィールド | セレクタ / ソース |
 |------------|-------------------|
 | 商品名 | `meta[property="og:title"]` → `: タリーズ` を除去 |
 | 価格 | `block-goods-price` 内 `N,NNN 円` |
-| 豆/粉判定 | 仕様 `<table>` の `名称` 行（`レギュラーコーヒー（豆）`） |
+| 豆/粉判定 | 仕様 `<table>` の `名称` 行 |
 | 産地 | 仕様表 `生豆生産国名` |
 | フレーバー | 仕様表 `テイスティングワード`（英語カンマ区切り） |
-| 容量 | 仕様表 `内容量` または商品名内 `200g` |
-| 購入 URL | `/shop/tullyscoffee/g/{product_id}/` |
+| 画像 | `meta[property="og:image"]` |
 
-### 5.2 フィルタリングルール
+### 5.2 マージルール
 
-EC カテゴリ `ctc01` には豆以外も混在（42 SKU）:
-
-| 除外条件 | 例 |
-|----------|-----|
-| 名称が `（粉）` | ハウスブレンド 400g（粉） |
-| シングルサーブ / ZIPS | ドリップバッグ系 |
-| ギフト / セット | 複数商品セット |
-| ティー | &TEA 商品 |
+```
+1. 店舗メニュー 21 件をベースに収集
+2. normalize_key(name) で EC 8 件をオーバーレイ（buy_url, price, tasting words 優先）
+3. 説明文は EC comment > 店舗 common__description > 商品名
+4. flavor_tags = EC tasting words + 店舗 taste_column + 説明文キーワード
+5. 画像ダウンロード → image_url + image_local を全件に付与
+```
 
 ---
 
 ## 6. スクレイピング実装
 
-### 6.1 推奨フロー
+### 6.1 フロー
 
 ```
-1. GET /shop/tullyscoffee/c/ctc01/ + サブカテゴリ（計 11 URL）
-2. /shop/tullyscoffee/g/ リンクを重複排除
-3. 各商品ページで 名称=レギュラーコーヒー（豆） を確認
-4. 正規化 → data/scraped/tullys/beans_raw.json
+1. GET Ito En EC カテゴリ 11 URL → ホール豆 8 件
+2. GET tullys.co.jp/menu/beans/ → 詳細 21 件
+3. GET 楽天カテゴリ（参考）→ 200g ホール豆のみ
+4. normalize_key でマージ → beans_raw.json
+5. 画像ダウンロード → data/images/tullys/{product_id}.jpg
+6. MVP seed 3 件生成（ハウスブレンド含む）
 ```
 
-### 6.2 注意事項
+### 6.2 実行
 
-| 項目 | 対策 |
-|------|------|
-| レート制限 | 1 req / 1 sec（実装済み） |
-| EC 運営主体 | 伊藤園。価格・在庫は Ito En 基準 |
-| 名称フィールドの不整合 | 一部商品で `名称` が `（粉）` と誤記 → 商品名の `（豆）` で補正 |
-| テイスティングワード | 全品目にはない（3/8 品目のみ） |
-| 法務表示 | 「出典: タリーズ公式オンラインストア（伊藤園）（取得日）」 |
+```bash
+python scrapers/tullys/scrape_beans.py
+```
 
-### 6.3 取得済み raw データ
+### 6.3 取得済みファイル
 
-- `data/scraped/tullys/beans_raw.json`（**22 件**、2026-08-08 統合）
-- `data/seeds/tullys.beans.seed.json`（MVP 3 件: ハウスブレンド / アニバーサリーブレンド / キリマンジャロ）
-- スクレイパー:
-  - `scrapers/tullys/scrape_beans.py`（伊藤園 EC）
-  - `scrapers/tullys/scrape_store_menu.py`（店舗メニュー）
-  - `scrapers/tullys/merge_catalog.py`（統合）
+| ファイル | 内容 |
+|----------|------|
+| `data/scraped/tullys/beans_raw.json` | 21 件（2026-08-08 取得） |
+| `data/seeds/tullys.beans.seed.json` | MVP 3 件（ハウスブレンド / アニバーサリーブレンド / キリマンジャロ） |
+| `data/images/tullys/*.jpg` | 商品画像 21 件 |
+| `scrapers/tullys/scrape_beans.py` | 統合スクレイパー |
 
 ---
 
@@ -205,9 +189,9 @@ EC カテゴリ `ctc01` には豆以外も混在（42 SKU）:
 
 | # | 商品 | 選定理由 |
 |---|------|----------|
-| 1 | **ハウスブレンド 200g** | 店舗定番。バランス型・すっきり酸味 |
-| 2 | **タリーズ アニバーサリーブレンド 200g** | 季節定番。Bright / Caramel / Complex |
-| 3 | **キリマンジャロ KIBO タリメ 200g** | 単一産地・EC/店舗両方で購入可 |
+| 1 | **ハウスブレンド** | 店舗定番 No.1。EC 未販売だが DripLab カタログで代表格として必須 |
+| 2 | **タリーズ アニバーサリーブレンド 200g** | EC 購入可。4 国ブレンド、Bright / Caramel / Complex |
+| 3 | **キリマンジャロ KIBO タリメ 200g** | EC 購入可。Africa ストレート代表 |
 
 ---
 
@@ -215,27 +199,27 @@ EC カテゴリ `ctc01` には豆以外も混在（42 SKU）:
 
 | 強み | 内容 |
 |------|------|
-| 産地情報 | 農園・地区レベルまで詳細 |
-| テイスティングワード | 英語だが一貫した語彙（Bright, Caramel 等） |
-| 価格帯 | ¥1,535〜1,845（200g 統一） |
+| 店舗メニュー詳細 | 原産地・価格・味わいレベル・説明文が充実 |
+| 産地情報 | 農園・地区レベルまで詳細（EC 品目） |
+| テイスティングワード | 英語語彙（Bright, Caramel 等） |
 
 | 弱み | 内容 |
 |------|------|
-| EC 品目数 | 伊藤園 EC は 8 品目のみ（**店舗統合で 22 品目に補完**） |
-| 焙煎度ラベル | ドトールのような日本語焙煎度表記なし |
-| 購入導線 | 店舗のみ 14 品目は EC URL なし（menu URL） |
+| EC 品目数 | ホール豆 8 件のみ（ドトール 12 品目より少ない） |
+| 店舗定番の EC 欠如 | ハウスブレンド等はオンライン購入不可 |
 | 二重 EC | 伊藤園 EC + 楽天。更新同期に注意 |
+| 焙煎度ラベル | ドトールのような日本語焙煎度表記なし |
 
 ---
 
 ## 9. 次のアクション
 
 - [x] EC 調査完了
-- [x] 8 品目 EC raw JSON 取得
-- [x] 店舗メニュー 21 品目 + 統合 22 品目
-- [x] 商品画像ダウンロード
-- [x] MVP seed 3 品目更新（ハウスブレンド含む）
-- [ ] 定期バッチ（EC + store + merge）
+- [x] 店舗メニュー 21 件調査完了
+- [x] 21 品目 raw JSON + 画像取得
+- [x] MVP seed 3 品目（ハウスブレンド含む）
+- [x] 統合スクレイパー `scrapers/tullys/scrape_beans.py`
+- [ ] 定期バッチに組込
 - [ ] テイスティングワード → acidity/body スコア辞書を共通化
 
 ---

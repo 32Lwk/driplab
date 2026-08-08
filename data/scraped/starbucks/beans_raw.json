@@ -26,7 +26,8 @@
     "bitterness": 25,
     "sweetness": 65,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492462.jpg"
   },
   {
     "product_id": "4524785492479",
@@ -57,7 +58,8 @@
     "bitterness": 45,
     "sweetness": 45,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492479.jpg"
   },
   {
     "product_id": "4524785492486",
@@ -86,7 +88,8 @@
     "bitterness": 45,
     "sweetness": 60,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492486.jpg"
   },
   {
     "product_id": "4524785492493",
@@ -116,7 +119,8 @@
     "bitterness": 45,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492493.jpg"
   },
   {
     "product_id": "4524785492509",
@@ -146,7 +150,8 @@
     "bitterness": 45,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492509.jpg"
   },
   {
     "product_id": "4524785492523",
@@ -177,7 +182,8 @@
     "bitterness": 45,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492523.jpg"
   },
   {
     "product_id": "4524785492547",
@@ -207,7 +213,8 @@
     "bitterness": 45,
     "sweetness": 60,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492547.jpg"
   },
   {
     "product_id": "4524785492561",
@@ -237,7 +244,8 @@
     "bitterness": 45,
     "sweetness": 60,
     "caffeine": "decaf",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492561.jpg"
   },
   {
     "product_id": "4524785492578",
@@ -266,7 +274,8 @@
     "bitterness": 45,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492578.jpg"
   },
   {
     "product_id": "4524785379572",
@@ -297,7 +306,8 @@
     "bitterness": 45,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785379572.jpg"
   },
   {
     "product_id": "4524785492592",
@@ -329,7 +339,8 @@
     "bitterness": 65,
     "sweetness": 40,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492592.jpg"
   },
   {
     "product_id": "4524785492608",
@@ -361,7 +372,8 @@
     "bitterness": 65,
     "sweetness": 40,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492608.jpg"
   },
   {
     "product_id": "4524785492615",
@@ -391,7 +403,8 @@
     "bitterness": 65,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492615.jpg"
   },
   {
     "product_id": "4524785492639",
@@ -422,7 +435,8 @@
     "bitterness": 65,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492639.jpg"
   },
   {
     "product_id": "4524785515079",
@@ -452,7 +466,8 @@
     "bitterness": 65,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785515079.jpg"
   },
   {
     "product_id": "4524785492653",
@@ -482,7 +497,8 @@
     "bitterness": 65,
     "sweetness": 50,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492653.jpg"
   },
   {
     "product_id": "4524785647589",
@@ -513,7 +529,8 @@
     "bitterness": 25,
     "sweetness": 65,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785647589.jpg"
   },
   {
     "product_id": "4524785647596",
@@ -544,7 +561,8 @@
     "bitterness": 25,
     "sweetness": 65,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785647596.jpg"
   },
   {
     "product_id": "4524785647602",
@@ -575,7 +593,8 @@
     "bitterness": 25,
     "sweetness": 65,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785647602.jpg"
   },
   {
     "product_id": "4524785557536",
@@ -604,7 +623,8 @@
     "bitterness": 25,
     "sweetness": 65,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785557536.jpg"
   },
   {
     "product_id": "4524785598683",
@@ -634,7 +654,8 @@
     "bitterness": 45,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785598683.jpg"
   },
   {
     "product_id": "4524785647824",
@@ -662,7 +683,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785647824.jpg"
   },
   {
     "product_id": "4524785643383",
@@ -690,7 +712,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785643383.jpg"
   },
   {
     "product_id": "4524785637047",
@@ -718,7 +741,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785637047.jpg"
   },
   {
     "product_id": "4524785637054",
@@ -747,7 +771,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785637054.jpg"
   },
   {
     "product_id": "4524785629387",
@@ -775,7 +800,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785629387.jpg"
   },
   {
     "product_id": "4524785629394",
@@ -803,7 +829,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785629394.jpg"
   },
   {
     "product_id": "4524785478190",
@@ -833,7 +860,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785478190.jpg"
   },
   {
     "product_id": "4524785553880",
@@ -863,7 +891,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785553880.jpg"
   },
   {
     "product_id": "4524785553873",
@@ -893,7 +922,8 @@
     "bitterness": 55,
     "sweetness": 55,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785553873.jpg"
   },
   {
     "product_id": "4524785478183",
@@ -921,7 +951,8 @@
     "bitterness": 55,
     "sweetness": 45,
     "caffeine": "decaf",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785478183.jpg"
   },
   {
     "product_id": "4524785557826",
@@ -946,6 +977,7 @@
     "bitterness": 45,
     "sweetness": 60,
     "caffeine": "medium",
-    "available": true
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785557826.jpg"
   }
 ]

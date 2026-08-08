@@ -32,7 +32,8 @@
       "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_11.jpg",
       "image_local": "data/images/starbucks/4524785492462.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492462.jpg"
     },
     {
       "id": "starbucks-pike-place-roast-250g",
@@ -63,7 +64,8 @@
       "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_11.jpg",
       "image_local": "data/images/starbucks/4524785492509.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492509.jpg"
     },
     {
       "id": "starbucks-kenya-250g",
@@ -94,7 +96,8 @@
       "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_11.jpg",
       "image_local": "data/images/starbucks/4524785492493.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785492493.jpg"
     }
   ]
 }

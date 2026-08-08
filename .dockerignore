@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+data/scraped
+data/images
+*.log
+.wrangler
+.cursor

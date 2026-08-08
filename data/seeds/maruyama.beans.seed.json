@@ -30,7 +30,8 @@
       "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0820143311_5f3e0b177adf7.jpg",
       "image_local": "data/images/maruyama/24.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/24.jpg"
     },
     {
       "id": "maruyama-mocha-akane-100g",
@@ -58,7 +59,8 @@
       "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927145058_5d8da342201d6.jpg",
       "image_local": "data/images/maruyama/26.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/26.jpg"
     },
     {
       "id": "maruyama-samanbaia-geisha-80g",
@@ -89,7 +91,8 @@
       "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152403_6a548483d0cd3.jpg",
       "image_local": "data/images/maruyama/3087.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/3087.jpg"
     }
   ]
 }

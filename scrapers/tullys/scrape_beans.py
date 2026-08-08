@@ -391,7 +391,7 @@ def parse_rakuten_product(url: str, html: str) -> dict | None:
         return None
 
     is_ground = bool(re.search(r"（粉）|粉\s*[\d]|400g.*粉|コーヒー粉|挽", title))
-    is_bean = bool(re.search(r"（豆）|200g.*豆|\s豆\s|コーヒー豆", title))
+    is_bean = bool(re.search(r"（豆）|200g.*豆|コーヒー\s*豆|\s豆\s*$|レギュラー.*豆", title))
     is_zips = "ジップス" in title or "ZIPS" in title.upper() or "ドリップ" in title
     is_gift = "ギフト" in title and not is_bean
 
@@ -444,13 +444,19 @@ def merge_records(store: dict, ec: dict | None, rakuten: dict | None) -> dict:
     base = dict(store)
     if ec:
         for key in (
-            "product_id", "name", "price_jpy", "weight_g", "product_type",
+            "product_id", "price_jpy", "weight_g", "product_type",
             "origin_countries", "tasting_words_en", "description", "buy_url",
             "purchase_channel", "source", "image_url",
         ):
             val = ec.get(key)
             if val:
                 base[key] = val
+        ec_name = ec.get("name", "")
+        store_name = store.get("name", "")
+        if "【" in ec_name and store_name and "【" not in store_name:
+            base["name"] = store_name
+        elif ec_name:
+            base["name"] = ec_name
         base["flavor_tags"] = merge_flavor_tags(
             ec.get("flavor_tags", []),
             store.get("flavor_tags", []),

@@ -41,5 +41,8 @@ npm-debug.log*
 # GCP
 .gcloud/
 
+# Wrangler local cache
+.wrangler/
+
 # Cursor
 .cursor/

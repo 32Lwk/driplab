@@ -1,25 +1,24 @@
 # DripLab 全チェーン コーヒー豆カタログ
 
 生成日: 2026-08-08
-**合計: 155 品目**
-
+**合計: 160 品目**
 
 ## ドトール（12 品目）
 
 | # | 商品名 | 容量 | 価格 | 焙煎 | 購入URL |
 |---|--------|------|------|------|---------|
-| 1 | マイルドブレンド コーヒー　（豆）500g | -g | ¥2,781 | - | [link](https://onlineshop.doutor.co.jp/products/detail/19) |
-| 2 | ロイヤルクリスタルブレンド コーヒー　（豆）500g | -g | ¥3,230 | - | [link](https://onlineshop.doutor.co.jp/products/detail/20) |
-| 3 | ゴールデンモカブレンド コーヒー　（豆）500g | -g | ¥2,850 | - | [link](https://onlineshop.doutor.co.jp/products/detail/21) |
-| 4 | ハワイコナブレンド コーヒー（豆）200g | -g | ¥3,380 | - | [link](https://onlineshop.doutor.co.jp/products/detail/22) |
-| 5 | カフェヨーロピアン コーヒー（豆）200g | -g | ¥1,130 | - | [link](https://onlineshop.doutor.co.jp/products/detail/26) |
-| 6 | ブルーマウンテンブレンド コーヒー （豆）200ｇ | -g | ¥3,380 | - | [link](https://onlineshop.doutor.co.jp/products/detail/27) |
-| 7 | キリマンジャロ　（豆）200g | -g | ¥1,200 | - | [link](https://onlineshop.doutor.co.jp/products/detail/29) |
-| 8 | モカ　（豆）200g | -g | ¥1,200 | - | [link](https://onlineshop.doutor.co.jp/products/detail/30) |
-| 9 | マンデリン　（豆）200g | -g | ¥1,290 | - | [link](https://onlineshop.doutor.co.jp/products/detail/32) |
-| 10 | カフェインレス（豆）200g | -g | ¥1,420 | - | [link](https://onlineshop.doutor.co.jp/products/detail/236) |
-| 11 | ケニア　（豆）200g | -g | ¥1,290 | - | [link](https://onlineshop.doutor.co.jp/products/detail/243) |
-| 12 | グアテマラ　（豆）200g | -g | ¥1,260 | - | [link](https://onlineshop.doutor.co.jp/products/detail/244) |
+| 1 | マイルドブレンド コーヒー　（豆）500g | 500g | ¥2,781 | - | [link](https://onlineshop.doutor.co.jp/products/detail/19) |
+| 2 | ロイヤルクリスタルブレンド コーヒー　（豆）500g | 500g | ¥3,230 | - | [link](https://onlineshop.doutor.co.jp/products/detail/20) |
+| 3 | ゴールデンモカブレンド コーヒー　（豆）500g | 500g | ¥2,850 | - | [link](https://onlineshop.doutor.co.jp/products/detail/21) |
+| 4 | ハワイコナブレンド コーヒー（豆）200g | 200g | ¥3,380 | - | [link](https://onlineshop.doutor.co.jp/products/detail/22) |
+| 5 | カフェヨーロピアン コーヒー（豆）200g | 200g | ¥1,130 | - | [link](https://onlineshop.doutor.co.jp/products/detail/26) |
+| 6 | ブルーマウンテンブレンド コーヒー （豆）200ｇ | 200g | ¥3,380 | - | [link](https://onlineshop.doutor.co.jp/products/detail/27) |
+| 7 | キリマンジャロ　（豆）200g | 200g | ¥1,200 | - | [link](https://onlineshop.doutor.co.jp/products/detail/29) |
+| 8 | モカ　（豆）200g | 200g | ¥1,200 | - | [link](https://onlineshop.doutor.co.jp/products/detail/30) |
+| 9 | マンデリン　（豆）200g | 200g | ¥1,290 | - | [link](https://onlineshop.doutor.co.jp/products/detail/32) |
+| 10 | カフェインレス（豆）200g | 200g | ¥1,420 | - | [link](https://onlineshop.doutor.co.jp/products/detail/236) |
+| 11 | ケニア　（豆）200g | 200g | ¥1,290 | - | [link](https://onlineshop.doutor.co.jp/products/detail/243) |
+| 12 | グアテマラ　（豆）200g | 200g | ¥1,260 | - | [link](https://onlineshop.doutor.co.jp/products/detail/244) |
 
 ## スターバックス（32 品目）
 
@@ -56,84 +55,89 @@
 | 29 | マイクロブレンド™ No.21 | 250g | ¥2,690 | STARBUCKS RESERVE® | [link](https://menu.starbucks.co.jp/4524785553880) |
 | 30 | マイクロブレンド™ No.10 | 250g | ¥2,690 | STARBUCKS RESERVE® | [link](https://menu.starbucks.co.jp/4524785553873) |
 | 31 | ディカフェ コスタリカ ハシエンダ アルサシア® | 250g | ¥2,980 | STARBUCKS RESERVE® | [link](https://menu.starbucks.co.jp/4524785478183) |
-| 32 | STARBUCKS RESERVE® コーヒーセレクション | -g | ¥5,767 | medium | [link](https://menu.starbucks.co.jp/4524785557826) |
+| 32 | STARBUCKS RESERVE® コーヒーセレクション | 500g | ¥5,767 | medium | [link](https://menu.starbucks.co.jp/4524785557826) |
 
-## 丸山コーヒー（59 品目）
+## 丸山コーヒー（51 品目）
 
 | # | 商品名 | 容量 | 価格 | 焙煎 | 購入URL |
 |---|--------|------|------|------|---------|
-| 1 | 丸山珈琲のブレンド | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/24) |
-| 2 | モカブレンド 茜すみれ | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/26) |
-| 3 | アイス用ブレンド | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/52) |
-| 4 | 尾山台オリジナルブレンド【尾山台店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/79) |
-| 5 | 西麻布ブレンド【西麻布店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/80) |
-| 6 | リゾナーレオリジナルマイルドブレンド【リゾナーレ八ヶ岳店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/84) |
-| 7 | 八ヶ岳ブレンド〜満天の星空〜【リゾナーレ八ヶ岳店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/85) |
-| 8 | 小諸ブレンド【小諸店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/86) |
-| 9 | 丸山珈琲のブレンド・クラシック1991【軽井沢本店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/97) |
-| 10 | エスプレッソブレンド 中深煎り | -g | - | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/201) |
+| 1 | 丸山珈琲のブレンド | 100g | ¥810 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/24) |
+| 2 | モカブレンド 茜すみれ | 100g | ¥810 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/26) |
+| 3 | アイス用ブレンド | 100g | ¥810 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/52) |
+| 4 | 尾山台オリジナルブレンド【尾山台店・通信販売限定】 | 100g | ¥810 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/79) |
+| 5 | 西麻布ブレンド【西麻布店・通信販売限定】 | 100g | ¥810 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/80) |
+| 6 | リゾナーレオリジナルマイルドブレンド【リゾナーレ八ヶ岳店・通信販売限定】 | 100g | ¥810 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/84) |
+| 7 | 八ヶ岳ブレンド〜満天の星空〜【リゾナーレ八ヶ岳店・通信販売限定】 | 100g | ¥810 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/85) |
+| 8 | 小諸ブレンド【小諸店・通信販売限定】 | 100g | ¥810 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/86) |
+| 9 | 丸山珈琲のブレンド・クラシック1991【軽井沢本店・通信販売限定】 | 100g | ¥900 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/97) |
+| 10 | エスプレッソブレンド 中深煎り | 100g | ¥810 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/201) |
 | 11 | 【大容量】マルケンの恩返し 特選ブレンド 400g | 400g | ¥3,220 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/1049) |
-| 12 | さわやかブレンド | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/1131) |
+| 12 | さわやかブレンド | 100g | ¥810 | 浅煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1131) |
 | 13 | 【大容量】マルケンの恩返し 特選ブレンド 中深煎り 400g | 400g | ¥3,220 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1169) |
-| 14 | アルトシエロ 中深煎り | -g | ¥1,552 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1935) |
-| 15 | アルトシエロ 中煎り | -g | ¥1,552 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1936) |
-| 16 | アルトシエロ 深煎り | -g | ¥1,552 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1937) |
-| 17 | アメリカン・ブレンド 浅煎り | -g | ¥1,796 | 浅煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1986) |
-| 18 | フェアトレードコーヒー ニカラグア 深煎り | -g | - | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2018) |
-| 19 | ハルニレテラスブレンド【ハルニレテラス店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2146) |
-| 20 | 夏のスペシャルブレンド | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2226) |
-| 21 | ヴェルデ | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2227) |
-| 22 | ウッドノート | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2228) |
-| 23 | 日本橋ブレンド【日本橋店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2249) |
-| 24 | フルーティーブレンド | -g | ¥1,296 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2287) |
-| 25 | 立川ブレンド【立川店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2309) |
-| 26 | 自由が丘ブレンド【自由が丘店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2311) |
+| 14 | アルトシエロ 中深煎り | 200g | ¥1,552 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1935) |
+| 15 | アルトシエロ 中煎り | 200g | ¥1,552 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1936) |
+| 16 | アルトシエロ 深煎り | 200g | ¥1,552 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1937) |
+| 17 | アメリカン・ブレンド 浅煎り | 200g | ¥1,796 | 浅煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/1986) |
+| 18 | フェアトレードコーヒー ニカラグア 深煎り | 100g | ¥755 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2018) |
+| 19 | ハルニレテラスブレンド【ハルニレテラス店・通信販売限定】 | 100g | ¥810 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2146) |
+| 20 | 夏のスペシャルブレンド | 100g | ¥915 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2226) |
+| 21 | ヴェルデ | 100g | ¥818 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2227) |
+| 22 | ウッドノート | 100g | ¥818 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2228) |
+| 23 | 日本橋ブレンド【日本橋店・通信販売限定】 | 100g | ¥843 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2249) |
+| 24 | フルーティーブレンド | 100g | ¥1,296 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2287) |
+| 25 | 立川ブレンド【立川店・通信販売限定】 | 100g | ¥843 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2309) |
+| 26 | 自由が丘ブレンド【自由が丘店・通信販売限定】 | 100g | ¥843 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2311) |
 | 27 | 【オンラインストア限定/大容量】軽井沢ブレンド 深煎り 400g | 400g | ¥3,072 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2371) |
-| 28 | 北千住ブレンド【北千住マルイ店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2420) |
-| 29 | 渋谷ブレンド【エキュートエディション渋谷店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2500) |
-| 30 | モダンブレンド【軽井沢バイパス店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2620) |
-| 31 | カフェインレスコーヒー 中煎り | -g | - | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2747) |
-| 32 | 【大容量】アルトシエロ中深煎り 400g 2袋 | 400g | ¥6,208 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2954) |
-| 33 | 【大容量】アルトシエロ深煎り400g 2袋 | 400g | ¥6,208 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2955) |
-| 34 | 【大容量】アルトシエロ中煎り400g 2袋 | 400g | ¥6,208 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2957) |
-| 35 | 【大容量】さわやかブレンド 400g 2袋 | 400g | ¥6,480 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2961) |
-| 36 | サンタ・テレサ2000 ゲイシャ 中煎り | -g | ¥2,000 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2982) |
-| 37 | カフェインレス 丸山珈琲のブレンド | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3012) |
-| 38 | 【大容量】丸山珈琲のブレンド 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3030) |
-| 39 | 【大容量】さわやかブレンド 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3031) |
-| 40 | 【大容量】モカブレンド 茜すみれ 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3032) |
-| 41 | 【大容量】アイス用ブレンド 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3033) |
-| 42 | 【大容量】アルトシエロ 中煎り 400g | 400g | ¥3,104 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3034) |
-| 43 | 【大容量】アルトシエロ 中深煎り 400g | 400g | ¥3,104 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3035) |
-| 44 | 【大容量】アルトシエロ 深煎り 400g | 400g | ¥3,104 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3036) |
-| 45 | 【大容量】さわやかブレンド 400g 3袋 | 400g | ¥9,720 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3038) |
-| 46 | 【大容量】アルトシエロ中深煎り 400g 3袋 | 400g | ¥9,312 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3041) |
-| 47 | 【大容量】アルトシエロ中煎り 400g 3袋 | 400g | ¥9,312 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3042) |
-| 48 | 【大容量】アルトシエロ深煎り 400g 3袋 | 400g | ¥9,312 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3043) |
-| 49 | サマンバイア 中煎り | -g | ¥1,037 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3062) |
-| 50 | 名古屋ブレンド【名古屋栄店・通信販売限定】 | -g | - | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3067) |
-| 51 | アグロタケシ ゲイシャ 40g | 40g | ¥3,811 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3073) |
-| 52 | アグロタケシ ゲイシャブレンド | -g | ¥2,780 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3074) |
-| 53 | アグロタケシ ブレンド | -g | ¥1,935 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3075) |
-| 54 | サマンバイア ゲイシャ 中煎り | -g | ¥2,000 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3087) |
-| 55 | ハナン 中煎り | -g | ¥907 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3088) |
-| 56 | ドン・カルロス 深煎り | -g | ¥907 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3089) |
-| 57 | サンタ・イサベル 深煎り | -g | ¥907 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3095) |
-| 58 | セロ・アルト SL28 中煎り | -g | ¥1,574 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3096) |
-| 59 | アグロタケシ ゲイシャ 80g【オンラインストア限定】 | 80g | ¥7,500 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3110) |
+| 28 | 北千住ブレンド【北千住マルイ店・通信販売限定】 | 100g | ¥855 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2420) |
+| 29 | 渋谷ブレンド【エキュートエディション渋谷店・通信販売限定】 | 100g | ¥843 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/2500) |
+| 30 | モダンブレンド【軽井沢バイパス店・通信販売限定】 | 100g | ¥843 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2620) |
+| 31 | カフェインレスコーヒー 中煎り | 100g | ¥890 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2747) |
+| 32 | サンタ・テレサ2000 ゲイシャ 中煎り | 80g | ¥2,000 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/2982) |
+| 33 | カフェインレス 丸山珈琲のブレンド | 100g | ¥915 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3012) |
+| 34 | 【大容量】丸山珈琲のブレンド 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3030) |
+| 35 | 【大容量】さわやかブレンド 400g | 400g | ¥3,240 | 浅煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3031) |
+| 36 | 【大容量】モカブレンド 茜すみれ 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3032) |
+| 37 | 【大容量】アイス用ブレンド 400g | 400g | ¥3,240 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3033) |
+| 38 | 【大容量】アルトシエロ 中煎り 400g | 400g | ¥3,104 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3034) |
+| 39 | 【大容量】アルトシエロ 中深煎り 400g | 400g | ¥3,104 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3035) |
+| 40 | 【大容量】アルトシエロ 深煎り 400g | 400g | ¥3,104 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3036) |
+| 41 | サマンバイア 中煎り | 100g | ¥1,037 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3062) |
+| 42 | 名古屋ブレンド【名古屋栄店・通信販売限定】 | 100g | ¥843 | 中深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3067) |
+| 43 | アグロタケシ ゲイシャ 40g | 40g | ¥3,811 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3073) |
+| 44 | アグロタケシ ゲイシャブレンド | 80g | ¥2,780 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3074) |
+| 45 | アグロタケシ ブレンド | 80g | ¥1,935 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3075) |
+| 46 | サマンバイア ゲイシャ 中煎り | 80g | ¥2,000 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3087) |
+| 47 | ハナン 中煎り | 100g | ¥907 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3088) |
+| 48 | ドン・カルロス 深煎り | 100g | ¥907 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3089) |
+| 49 | サンタ・イサベル 深煎り | 100g | ¥907 | 深煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3095) |
+| 50 | セロ・アルト SL28 中煎り | 100g | ¥1,574 | 中煎り | [link](https://www.maruyamacoffee.com/ec/products/detail/3096) |
+| 51 | アグロタケシ ゲイシャ 80g【オンラインストア限定】 | 80g | ¥7,500 | - | [link](https://www.maruyamacoffee.com/ec/products/detail/3110) |
 
-## タリーズ（8 品目）
+## タリーズ（21 品目）
 
 | # | 商品名 | 容量 | 価格 | 焙煎 | 購入URL |
 |---|--------|------|------|------|---------|
 | 1 | 【限定パッケージ】タリーズ ブラジル バウ 200g（豆） | 200g | ¥1,755 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/) |
 | 2 | アイスコーヒーブレンド 200g（豆） | 200g | ¥1,690 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260415-0003/) |
-| 3 | キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆） | 200g | ¥1,755 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/) |
-| 4 | コスタリカ ラ ミニータ ウェットミル スイートウォッシュド 200g（豆） | 200g | ¥1,755 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080103/) |
-| 5 | タリーズ アニバーサリーブレンド 200g 豆 | 200g | ¥1,800 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/) |
-| 6 | タリーズ ブラジル バウ イエローブルボン 200g（豆） | 200g | ¥1,535 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0002/) |
-| 7 | タリーズ ブラジル ファゼンダ バレ ド クリスタル 200g（豆） | 200g | ¥1,845 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0003/) |
-| 8 | デカフェ ブラジル IP農園 200g （豆） | 200g | ¥1,810 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080118/) |
+| 3 | エスプレッソクラシコ | 200g | ¥1,580 | - | [link](https://www.tullys.co.jp/menu/beans/blend/espresso_classico.html) |
+| 4 | エチオピア シダモG1 シャキッソウォッシュド 150g | 150g | ¥1,870 | - | [link](https://www.tullys.co.jp/menu/beans/varietal/26_ethiopia_sidamo_g1.html) |
+| 5 | エチオピアモカ G1 ウラガ ナチュラル | 200g | ¥1,690 | - | [link](https://www.tullys.co.jp/menu/beans/varietal/ethiopia_uraga.html) |
+| 6 | カフェオレ モナーレ | 200g | ¥1,640 | - | [link](https://www.tullys.co.jp/menu/beans/blend/cafe_au_lait_monire.html) |
+| 7 | キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆） | 200g | ¥1,755 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/) |
+| 8 | クレセントムーン | 200g | ¥1,680 | - | [link](https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html) |
+| 9 | コスタリカ ラ ミニータ ウェットミル スイートウォッシュド 200g（豆） | 200g | ¥1,755 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080103/) |
+| 10 | スマトラ マンデリン G1 リントンニフタ 150g | 150g | ¥1,870 | - | [link](https://www.tullys.co.jp/menu/beans/varietal/26mandeheling_g1.html) |
+| 11 | タリーズ アニバーサリーブレンド 200g 豆 | 200g | ¥1,800 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/) |
+| 12 | タリーズ ブラジル バウ イエローブルボン 200g（豆） | 200g | ¥1,535 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0002/) |
+| 13 | タリーズ ブラジル ファゼンダ バレ ド クリスタル 200g（豆） | 200g | ¥1,845 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0003/) |
+| 14 | タリーズコーヒーマスターズノート | 150g | ¥1,680 | - | [link](https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html) |
+| 15 | デカフェ ブラジル IP農園 200g （豆） | 200g | ¥1,810 | - | [link](https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080118/) |
+| 16 | ハウスブレンド | 200g | ¥1,470 | - | [link](https://www.tullys.co.jp/menu/beans/blend/house_blend.html) |
+| 17 | ピッコロバンビーノ | 200g | ¥1,470 | - | [link](https://www.tullys.co.jp/menu/beans/blend/piccolo_bambino.html) |
+| 18 | フレンチロースト | 200g | ¥1,470 | - | [link](https://www.tullys.co.jp/menu/beans/blend/french_roast.html) |
+| 19 | ブラック スリー | 200g | ¥1,580 | - | [link](https://www.tullys.co.jp/menu/beans/blend/blackthree.html) |
+| 20 | ホンジュラス 森のエランディケ | 150g | ¥1,680 | - | [link](https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html) |
+| 21 | モカジャバ | 200g | ¥1,580 | - | [link](https://www.tullys.co.jp/menu/beans/blend/mocha_java.html) |
 
 ## カルディ（44 品目）
 

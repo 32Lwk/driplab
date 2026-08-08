@@ -31,7 +31,8 @@
       "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301112758_65e13d2e3769f.jpg",
       "image_local": "data/images/doutor/19.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/19.jpg"
     },
     {
       "id": "doutor-golden-mocha-500g",
@@ -63,7 +64,8 @@
       "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301113035_65e13dcb0db3e.jpg",
       "image_local": "data/images/doutor/21.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/21.jpg"
     },
     {
       "id": "doutor-kilimanjaro-200g",
@@ -94,7 +96,8 @@
       "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090247_6334e0a75e4b1.jpg",
       "image_local": "data/images/doutor/29.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/29.jpg"
     }
   ]
 }

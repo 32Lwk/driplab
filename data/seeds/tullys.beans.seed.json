@@ -1,11 +1,8 @@
 {
   "version": "0.1.0",
   "chain_id": "tullys",
-  "scraped_at": "2026-08-08T15:52:46+09:00",
-  "source": [
-    "https://shop.itoen.jp/tullyscoffee/index.html",
-    "https://www.tullys.co.jp/menu/beans/"
-  ],
+  "scraped_at": "2026-08-08T16:00:22+09:00",
+  "source": "https://shop.itoen.jp/tullyscoffee/index.html + https://www.tullys.co.jp/menu/beans/ + https://www.rakuten.co.jp/tullyscoffee-official/",
   "beans": [
     {
       "id": "tullys-ハウスブレンド",
@@ -17,15 +14,15 @@
       "taste_label_ja": "すっきり・コク",
       "origin": [
         "コロンビア",
-        "グァテマラ 他"
+        "グァテマラ　他"
       ],
       "flavor_tags": [
         "すっきり",
         "コク",
         "まろやか",
-        "バランス"
+        "明るい"
       ],
-      "acidity": 65,
+      "acidity": 80,
       "body": 60,
       "bitterness": 58,
       "sweetness": 60,
@@ -34,45 +31,51 @@
       "weight_g": 200,
       "buy_url": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
       "image_url": "https://www.tullys.co.jp/menu/uploads/house_blend_181212.jpg",
-      "image_local": "data/images/tullys/store-house_blend.jpg",
-      "product_id": "store-house_blend",
-      "availability": [
-        "store"
-      ],
+      "image_local": "data/images/tullys/menu-house_blend.jpg",
+      "product_id": "menu-house_blend",
+      "purchase_channel": "store",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/menu-house_blend.jpg"
     },
     {
       "id": "tullys-タリーズ-アニバーサリーブレンド-200g-豆",
       "chain_id": "tullys",
       "name": "タリーズ アニバーサリーブレンド 200g 豆",
-      "description": "タリーズ アニバーサリーブレンド 200g 豆",
+      "description": "タリーズが厳選した4つの産地のコーヒー豆をブレンドした、特別なブレンド。フルーティで心地よい酸味となめらかな口あたりに、カラメルやチョコレートのような甘い余韻が広がります。",
       "roast_level": "medium",
       "roast_label_ja": "",
-      "taste_label_ja": "",
+      "taste_label_ja": "すっきり・コク",
       "origin": [
         "ブラジル",
         "タンザニア",
         "ペルー",
         "インドネシア"
       ],
-      "flavor_tags": [],
-      "acidity": 50,
-      "body": 50,
-      "bitterness": 50,
-      "sweetness": 50,
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "甘み",
+        "カラメル",
+        "チョコ",
+        "フルーティ",
+        "明るい"
+      ],
+      "acidity": 80,
+      "body": 70,
+      "bitterness": 66,
+      "sweetness": 75,
       "caffeine": "medium",
       "price_jpy": 1800,
       "weight_g": 200,
       "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/",
-      "image_url": null,
-      "image_local": null,
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260805-0001.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260805-0001.jpg",
       "product_id": "gTCJ-beans-260805-0001",
-      "availability": [
-        "ec"
-      ],
+      "purchase_channel": "ec",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260805-0001.jpg"
     },
     {
       "id": "tullys-キリマンジャロ-kibo-タリメ-スイートウォッシュド-200g-豆",
@@ -81,28 +84,31 @@
       "description": "シトラスや紅茶を感じさせる華やかな香りのコーヒーです。なめらかな口あたりで飲みやすく、まるではちみつやカラメルのような豊かな甘みが広がります。",
       "roast_level": "medium",
       "roast_label_ja": "",
-      "taste_label_ja": "",
+      "taste_label_ja": "すっきり・コク",
       "origin": [
         "タンザニア マラ州 タリメエリア"
       ],
-      "flavor_tags": [],
-      "acidity": 50,
-      "body": 50,
-      "bitterness": 50,
-      "sweetness": 50,
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "甘み",
+        "カラメル"
+      ],
+      "acidity": 65,
+      "body": 60,
+      "bitterness": 58,
+      "sweetness": 70,
       "caffeine": "medium",
       "price_jpy": 1755,
       "weight_g": 200,
       "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/",
-      "image_url": "https://www.tullys.co.jp/menu/uploads/0454aace61fd0976c896cbbe6bf3b649dc943f16.jpg",
-      "image_local": "data/images/tullys/store-kilimanjaro_kibosw.jpg",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-25080113_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-25080113.jpg",
       "product_id": "gTCJ-beans-25080113",
-      "availability": [
-        "ec",
-        "store"
-      ],
+      "purchase_channel": "ec",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-25080113.jpg"
     }
   ]
 }
