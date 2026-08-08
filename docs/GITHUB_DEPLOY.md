@@ -37,19 +37,34 @@ gcloud builds triggers create github `
 
 ```
 git push origin main
-  → Cloud Build (cloudbuild.yaml)
+  → GitHub Actions (.github/workflows/deploy.yml)
+  → Cloud Build トリガー driplab-deploy-main
+  → cloudbuild.yaml
   → Artifact Registry
   → Cloud Run driplab
 ```
 
+GitHub Actions が Workload Identity Federation で GCP に認証し、Cloud Build トリガーを起動します。
+Cloud Build GitHub App の push Webhook だけではトリガーが動かない場合があるため、Actions を正としています。
+
 ## 3. 手動デプロイ（ローカル）
 
+Cloud Build トリガーを手動実行（推奨）:
+
 ```powershell
-gcloud run deploy driplab `
-  --source infra/cloud-run `
-  --region asia-northeast1 `
-  --project medicine-recommend `
-  --allow-unauthenticated
+gcloud builds triggers run driplab-deploy-main `
+  --branch=main `
+  --region=asia-northeast1 `
+  --project=medicine-recommend
+```
+
+またはリポジトリルートをコンテキストに Docker ビルド:
+
+```powershell
+gcloud builds submit . `
+  --config=cloudbuild.yaml `
+  --region=asia-northeast1 `
+  --project=medicine-recommend
 ```
 
 ## 4. coffee.yutok.dev について

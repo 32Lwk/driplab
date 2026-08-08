@@ -30,6 +30,7 @@ steps:
       - ${_SERVICE_NAME}
       - --image=${_AR_HOSTNAME}/${PROJECT_ID}/${_AR_REPOSITORY}/${_SERVICE_NAME}:${COMMIT_SHA}
       - --region=${_DEPLOY_REGION}
+      - --project=${PROJECT_ID}
       - --platform=managed
       - --allow-unauthenticated
       - --quiet
