@@ -15,7 +15,6 @@ permissions:
 env:
   PROJECT_ID: medicine-recommend
   REGION: asia-northeast1
-  TRIGGER_NAME: driplab-deploy-main
   WORKLOAD_IDENTITY_PROVIDER: projects/340042923793/locations/global/workloadIdentityPools/github-pool/providers/github-provider
   SERVICE_ACCOUNT: github-actions-deploy@medicine-recommend.iam.gserviceaccount.com
 
@@ -23,6 +22,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Authenticate to Google Cloud
         uses: google-github-actions/auth@v2
         with:
@@ -31,10 +33,12 @@ jobs:
 
       - name: Set up gcloud
         uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ env.PROJECT_ID }}
 
-      - name: Run Cloud Build deploy trigger
+      - name: Submit Cloud Build
         run: |
-          gcloud builds triggers run "${TRIGGER_NAME}" \
-            --branch=main \
+          gcloud builds submit . \
+            --config=cloudbuild.yaml \
             --region="${REGION}" \
             --project="${PROJECT_ID}"
