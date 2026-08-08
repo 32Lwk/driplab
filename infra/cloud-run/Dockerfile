@@ -30,4 +30,4 @@ COPY --from=builder --chown=nextjs:nodejs /app/packages/web/.next/static ./packa
 
 USER nextjs
 EXPOSE 8080
-CMD ["node", "packages/web/server.js"]
+CMD ["node", "server.js"]
