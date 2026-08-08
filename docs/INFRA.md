@@ -1,63 +1,74 @@
 # DripLab インフラ
 
-## 本番 URL
+## GCP の場所（よくある質問）
 
-| 用途 | URL |
+| 項目 | 値 |
 |------|-----|
-| カスタムドメイン | https://coffee.yutok.dev |
-| Cloud Run 直 URL | https://driplab-340042923793.asia-northeast1.run.app |
+| **GCP プロジェクト** | `medicine-recommend` |
+| **プロジェクト番号** | `340042923793` |
+| **リージョン** | `asia-northeast1`（東京） |
+| **Cloud Run サービス名** | `driplab` |
+| **コンソール** | https://console.cloud.google.com/run/detail/asia-northeast1/driplab?project=medicine-recommend |
 
-## 構成
+医薬品レコメンド（`medicine-recommend` サービス）と **同じ GCP プロジェクト・同じリージョン** 内の別サービスです。
 
-- **GCP プロジェクト**: `medicine-recommend`
-- **Cloud Run サービス**: `driplab`（`asia-northeast1`）
-- **DNS**: Cloudflare `coffee` CNAME → `ghs.googlehosted.com`（**プロキシ OFF**）
-- **状態ファイル**: `scripts/.driplab-infra.json`
+## URL
 
-## 初回セットアップ（済み 2026-08-08）
+| 用途 | URL | 状態 |
+|------|-----|------|
+| カスタムドメイン | https://coffee.yutok.dev | SSL 証明書発行待ち |
+| Cloud Run 直 URL | https://driplab-4jnmo2x4wa-an.a.run.app | 稼働中 |
 
-```powershell
-# 1. Cloud Run デプロイ
-gcloud run deploy driplab `
-  --source infra/cloud-run `
-  --region asia-northeast1 `
-  --project medicine-recommend `
-  --allow-unauthenticated
+## coffee.yutok.dev が開かない原因
 
-# 2. GCP ドメインマッピング
-gcloud beta run domain-mappings create `
-  --service driplab `
-  --domain coffee.yutok.dev `
-  --region asia-northeast1 `
-  --project medicine-recommend
+1. **DNS** — Cloudflare `coffee` CNAME → `ghs.googlehosted.com`（プロキシ OFF）✅ 設定済み
+2. **Cloud Run ドメインマッピング** — `coffee.yutok.dev` → サービス `driplab` ✅ 作成済み
+3. **SSL 証明書** — Google マネージド証明書が **`CertificatePending`**（発行中）
 
-# 3. Cloudflare DNS（API）
-$env:CLOUDFLARE_API_TOKEN = "<Zone.DNS.Edit for yutok.dev>"
-powershell -ExecutionPolicy Bypass -File scripts/setup-cloudflare-coffee-dns.ps1
-```
+`medicine.yutok.dev` も同じ構成で、ドメインマッピング作成から証明書発行まで **約 1 時間** かかっています。`coffee.yutok.dev` も同様に、DNS 設定後しばらく待つ必要があります。
 
-## 再デプロイ
+**重要**: Cloudflare プロキシ（オレンジ雲）を ON にすると Google 側の証明書発行が失敗します。必ず **DNS only（グレー雲）** にしてください。
 
 ```powershell
-gcloud run deploy driplab `
-  --source infra/cloud-run `
-  --region asia-northeast1 `
-  --project medicine-recommend `
-  --allow-unauthenticated
-```
-
-## 確認
-
-```powershell
-curl https://driplab-340042923793.asia-northeast1.run.app/health
-curl https://coffee.yutok.dev/health   # SSL 証明書発行後（数分〜数十分）
+# 証明書状態の確認
 gcloud beta run domain-mappings describe `
   --domain coffee.yutok.dev `
   --region asia-northeast1 `
   --project medicine-recommend
 ```
 
-## 注意
+`CertificateProvisioned: True` になれば https://coffee.yutok.dev/ が開きます。
 
-- Cloudflare プロキシ（オレンジ雲）は **OFF** 必須。ON にすると Cloud Run マネージド証明書が失敗します。
-- `medicine.yutok.dev` と同じ CNAME パターン（`ghs.googlehosted.com`）を使用しています。
+## GitHub デプロイ
+
+リポジトリ: https://github.com/32Lwk/driplab
+
+手順: [docs/GITHUB_DEPLOY.md](GITHUB_DEPLOY.md)
+
+`main` ブランチへの push → `cloudbuild.yaml` → Cloud Run `driplab` へ自動デプロイ（トリガー接続後）。
+
+## Cloudflare DNS 設定
+
+```powershell
+$env:CLOUDFLARE_API_TOKEN = "<Zone.DNS.Edit>"
+python scripts/setup-cloudflare-coffee-dns.py --mode google
+```
+
+| モード | CNAME 先 | プロキシ | 用途 |
+|--------|----------|----------|------|
+| `google`（推奨） | `ghs.googlehosted.com` | OFF | Google マネージド SSL |
+| `cloudflare` | `*.run.app` | ON | Worker + Host 上書きが必要（未使用） |
+
+## 手動デプロイ
+
+```powershell
+gcloud run deploy driplab `
+  --source infra/cloud-run `
+  --region asia-northeast1 `
+  --project medicine-recommend `
+  --allow-unauthenticated
+```
+
+## 状態ファイル
+
+`scripts/.driplab-infra.json` — ゾーン ID、DNS レコード ID、サービス URL 等

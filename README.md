@@ -20,14 +20,14 @@
 | [docs/SCRAPING.md](docs/SCRAPING.md) | スクレイピング方針 |
 | [docs/RECOMMENDATION.md](docs/RECOMMENDATION.md) | レコメンドロジック |
 | [docs/INFRA.md](docs/INFRA.md) | GCP / Cloudflare インフラ |
-| [docs/CATALOG.md](docs/CATALOG.md) | **全155品目** 一覧 |
+| [docs/CATALOG.md](docs/CATALOG.md) | **全160品目** 一覧 |
 | [docs/research/](docs/research/) | チェーン別調査レポート |
 
 ## データ
 
 | ファイル | 内容 |
 |----------|------|
-| `data/catalog/beans.json` | 全チェーン raw 統合（155品目） |
+| `data/catalog/beans.json` | 全チェーン raw 統合（160品目） |
 | `data/catalog/mvp_beans.json` | MVP レコメンド用（15品目） |
 | `data/scraped/{chain}/beans_raw.json` | チェーン別 raw |
 | `data/seeds/{chain}.beans.seed.json` | チェーン別 MVP seed（各3品目） |

@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
-"""Configure coffee.yutok.dev DNS in Cloudflare for Cloud Run custom domain."""
+"""Configure coffee.yutok.dev DNS in Cloudflare.
+
+Modes:
+  cloudflare  (default) CNAME -> Cloud Run URL, proxied ON (works immediately)
+  google      CNAME -> ghs.googlehosted.com, proxied OFF (Google managed cert)
+"""
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import subprocess
@@ -12,7 +18,8 @@ import urllib.request
 ZONE_NAME = "yutok.dev"
 HOSTNAME = "coffee.yutok.dev"
 RECORD_NAME = "coffee"
-CNAME_TARGET = "ghs.googlehosted.com"
+GOOGLE_CNAME = "ghs.googlehosted.com"
+DEFAULT_RUN_HOST = "driplab-4jnmo2x4wa-an.a.run.app"
 
 
 def api(method: str, url: str, token: str, payload: dict | None = None) -> dict:
@@ -62,73 +69,94 @@ def delete_record(token: str, zone_id: str, record_id: str) -> None:
         raise RuntimeError(f"delete failed: {deleted}")
 
 
-def upsert_cname(token: str, zone_id: str) -> dict:
-    records = list_records(token, zone_id)
-    desired = {
-        "type": "CNAME",
-        "name": RECORD_NAME,
-        "content": CNAME_TARGET,
-        "proxied": False,
-        "ttl": 1,
-        "comment": "DripLab -> Cloud Run custom domain (DNS only)",
-    }
-
-    for rec in records:
-        if rec.get("type") == "CNAME" and rec.get("content") == CNAME_TARGET and rec.get("proxied") is False:
-            print(f"OK: existing CNAME {HOSTNAME} -> {CNAME_TARGET} (DNS only)")
+def upsert(token: str, zone_id: str, content: str, proxied: bool, comment: str) -> dict:
+    for rec in list_records(token, zone_id):
+        if (
+            rec.get("type") == "CNAME"
+            and rec.get("content") == content
+            and rec.get("proxied") is proxied
+        ):
+            print(f"OK: existing CNAME {HOSTNAME} -> {content} (proxied={proxied})")
             return rec
         print(f"Deleting stale record: {rec.get('type')} {rec.get('name')} -> {rec.get('content')}")
         delete_record(token, zone_id, rec["id"])
 
-    print(f"Creating CNAME {HOSTNAME} -> {CNAME_TARGET} (proxied=false)")
+    print(f"Creating CNAME {HOSTNAME} -> {content} (proxied={proxied})")
     created = api(
         "POST",
         f"https://api.cloudflare.com/client/v4/zones/{zone_id}/dns_records",
         token,
-        desired,
+        {
+            "type": "CNAME",
+            "name": RECORD_NAME,
+            "content": content,
+            "proxied": proxied,
+            "ttl": 1,
+            "comment": comment,
+        },
     )
     if not created.get("success"):
         raise RuntimeError(f"create failed: {created}")
-    return created["result"][0]
+    result = created["result"]
+    return result[0] if isinstance(result, list) else result
 
 
-def verify_dns() -> bool:
+def verify_https() -> bool:
     proc = subprocess.run(
-        ["powershell", "-Command", f"Resolve-DnsName {HOSTNAME} -Type CNAME | Select-Object -First 1 -ExpandProperty NameHost"],
+        [
+            "curl",
+            "-sf",
+            f"https://{HOSTNAME}/health",
+        ],
         capture_output=True,
         text=True,
     )
-    if proc.returncode != 0:
-        return False
-    target = proc.stdout.strip()
-    print(f"DNS check: {HOSTNAME} CNAME -> {target or '(pending)'}")
-    return CNAME_TARGET in target
+    if proc.returncode == 0 and "ok" in proc.stdout:
+        print(f"OK https://{HOSTNAME}/health -> {proc.stdout.strip()}")
+        return True
+    print(f"WARN health check failed: {proc.stderr.strip() or proc.stdout.strip()}")
+    return False
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--mode",
+        choices=("cloudflare", "google"),
+        default="cloudflare",
+        help="cloudflare=proxied to run.app (immediate), google=ghs.googlehosted.com (managed cert)",
+    )
+    parser.add_argument("--run-host", default=os.environ.get("DRIPLAB_RUN_HOST", DEFAULT_RUN_HOST))
+    args = parser.parse_args()
+
     token = os.environ.get("CLOUDFLARE_API_TOKEN", "").strip()
     if not token:
-        print(
-            "ERROR: set CLOUDFLARE_API_TOKEN (Zone.DNS.Edit for yutok.dev)",
-            file=sys.stderr,
-        )
+        print("ERROR: set CLOUDFLARE_API_TOKEN", file=sys.stderr)
         return 1
 
     zone_id = get_zone_id(token)
     print(f"Zone: {ZONE_NAME} ({zone_id})")
 
-    record = upsert_cname(token, zone_id)
+    if args.mode == "google":
+        content = GOOGLE_CNAME
+        proxied = False
+        comment = "DripLab -> Cloud Run custom domain (Google managed cert)"
+    else:
+        content = args.run_host
+        proxied = True
+        comment = "DripLab -> Cloud Run via Cloudflare proxy (immediate HTTPS)"
+
+    record = upsert(token, zone_id, content, proxied, comment)
     print(f"Record ID: {record.get('id')}")
 
-    print("Waiting for DNS propagation...")
+    print("Waiting for DNS / edge propagation...")
     for attempt in range(1, 13):
-        if verify_dns():
-            print(f"OK: {HOSTNAME} resolves to {CNAME_TARGET}")
+        if verify_https():
             return 0
         print(f"  attempt {attempt}/12 ...")
         subprocess.run(["powershell", "-Command", "Start-Sleep -Seconds 5"], check=False)
 
-    print(f"WARN: DNS record created but propagation not confirmed yet.", file=sys.stderr)
+    print("WARN: DNS updated but HTTPS not confirmed yet.", file=sys.stderr)
     return 0
 
 
