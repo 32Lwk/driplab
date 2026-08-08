@@ -1,0 +1,100 @@
+{
+  "version": "0.1.0",
+  "chain_id": "doutor",
+  "scraped_at": "2026-08-08T15:52:53+09:00",
+  "source": "https://onlineshop.doutor.co.jp",
+  "beans": [
+    {
+      "id": "doutor-mild-blend-500g",
+      "chain_id": "doutor",
+      "name": "マイルドブレンド コーヒー（豆）500g",
+      "description": "ドトールコーヒーショップの定番ブレンド。「香り高く、甘みのあるコーヒー」を追求し、バランスのとれた味わいに仕上げた逸品。",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "ハイロースト（中深煎）",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ"
+      ],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2781,
+      "weight_g": 500,
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/19",
+      "product_id": 19,
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301112758_65e13d2e3769f.jpg",
+      "image_local": "data/images/doutor/19.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "doutor-golden-mocha-500g",
+      "chain_id": "doutor",
+      "name": "ゴールデンモカブレンド コーヒー（豆）500g",
+      "description": "モカの豊かな風味を活かした奥行きのある味わい。熟したベリーのような甘酸っぱさとローストナッツのような香ばしさが特長。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアムロースト（中煎）",
+      "taste_label_ja": "まろやか",
+      "origin": [
+        "エチオピア（モカ）",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ベリー",
+        "ナッツ",
+        "甘み",
+        "香ばしさ"
+      ],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 76,
+      "caffeine": "medium",
+      "price_jpy": 2850,
+      "weight_g": 500,
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/21",
+      "product_id": 21,
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301113035_65e13dcb0db3e.jpg",
+      "image_local": "data/images/doutor/21.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "doutor-kilimanjaro-200g",
+      "chain_id": "doutor",
+      "name": "キリマンジャロ（豆）200g",
+      "description": "レモングラスのようなすっきりとした香りに、シトラスを感じる爽やかな酸味、キレのあるのどごし。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアムロースト（中煎）",
+      "taste_label_ja": "すっきり・キレ",
+      "origin": [
+        "タンザニア"
+      ],
+      "flavor_tags": [
+        "シトラス",
+        "レモングラス",
+        "香ばしさ",
+        "キレ"
+      ],
+      "acidity": 80,
+      "body": 40,
+      "bitterness": 50,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1200,
+      "weight_g": 200,
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/29",
+      "product_id": 29,
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090247_6334e0a75e4b1.jpg",
+      "image_local": "data/images/doutor/29.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}

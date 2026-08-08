@@ -1,0 +1,108 @@
+{
+  "version": "0.1.0",
+  "chain_id": "tullys",
+  "scraped_at": "2026-08-08T15:52:46+09:00",
+  "source": [
+    "https://shop.itoen.jp/tullyscoffee/index.html",
+    "https://www.tullys.co.jp/menu/beans/"
+  ],
+  "beans": [
+    {
+      "id": "tullys-ハウスブレンド",
+      "chain_id": "tullys",
+      "name": "ハウスブレンド",
+      "description": "ほどよいボディとすっきりとした酸味、スムースな飲み口が特徴です。バランスがよく飲みやすい、タリーズコーヒーの定番の味わいです。",
+      "roast_level": "medium",
+      "roast_label_ja": "",
+      "taste_label_ja": "すっきり・コク",
+      "origin": [
+        "コロンビア",
+        "グァテマラ 他"
+      ],
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "まろやか",
+        "バランス"
+      ],
+      "acidity": 65,
+      "body": 60,
+      "bitterness": 58,
+      "sweetness": 60,
+      "caffeine": "medium",
+      "price_jpy": 1470,
+      "weight_g": 200,
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/house_blend_181212.jpg",
+      "image_local": "data/images/tullys/store-house_blend.jpg",
+      "product_id": "store-house_blend",
+      "availability": [
+        "store"
+      ],
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "tullys-タリーズ-アニバーサリーブレンド-200g-豆",
+      "chain_id": "tullys",
+      "name": "タリーズ アニバーサリーブレンド 200g 豆",
+      "description": "タリーズ アニバーサリーブレンド 200g 豆",
+      "roast_level": "medium",
+      "roast_label_ja": "",
+      "taste_label_ja": "",
+      "origin": [
+        "ブラジル",
+        "タンザニア",
+        "ペルー",
+        "インドネシア"
+      ],
+      "flavor_tags": [],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1800,
+      "weight_g": 200,
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/",
+      "image_url": null,
+      "image_local": null,
+      "product_id": "gTCJ-beans-260805-0001",
+      "availability": [
+        "ec"
+      ],
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "tullys-キリマンジャロ-kibo-タリメ-スイートウォッシュド-200g-豆",
+      "chain_id": "tullys",
+      "name": "キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆）",
+      "description": "シトラスや紅茶を感じさせる華やかな香りのコーヒーです。なめらかな口あたりで飲みやすく、まるではちみつやカラメルのような豊かな甘みが広がります。",
+      "roast_level": "medium",
+      "roast_label_ja": "",
+      "taste_label_ja": "",
+      "origin": [
+        "タンザニア マラ州 タリメエリア"
+      ],
+      "flavor_tags": [],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/0454aace61fd0976c896cbbe6bf3b649dc943f16.jpg",
+      "image_local": "data/images/tullys/store-kilimanjaro_kibosw.jpg",
+      "product_id": "gTCJ-beans-25080113",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}

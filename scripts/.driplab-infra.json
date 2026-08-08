@@ -1,0 +1,13 @@
+{
+  "project_id": "medicine-recommend",
+  "region": "asia-northeast1",
+  "service_name": "driplab",
+  "service_url": "https://driplab-340042923793.asia-northeast1.run.app",
+  "custom_domain": "coffee.yutok.dev",
+  "cname_target": "ghs.googlehosted.com",
+  "cloudflare_zone": "yutok.dev",
+  "cloudflare_zone_id": "054f6999172b4e0240ff2e8fb2cc6fd1",
+  "dns_record_id": "682e70cb7d2085257d378036eafddd7d",
+  "dns_proxied": false,
+  "configured_at": "2026-08-08"
+}

@@ -1,0 +1,100 @@
+{
+  "version": "0.1.0",
+  "chain_id": "starbucks",
+  "scraped_at": "2026-08-08T15:52:37+09:00",
+  "source": "https://menu.starbucks.co.jp",
+  "beans": [
+    {
+      "id": "starbucks-light-note-blend-250g",
+      "chain_id": "starbucks",
+      "name": "スターバックス ライトノート ブレンド®",
+      "description": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。\n創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。",
+      "roast_level": "light",
+      "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+      "taste_label_ja": "軽やかで親しみやすい味わい",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ミルクチョコレート",
+        "煎ったナッツ",
+        "軽めのコクとミルクチョコレートのような風味"
+      ],
+      "acidity": 50,
+      "body": 35,
+      "bitterness": 25,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1480,
+      "weight_g": 250,
+      "buy_url": "https://menu.starbucks.co.jp/4524785492462",
+      "product_id": "4524785492462",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_11.jpg",
+      "image_local": "data/images/starbucks/4524785492462.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "starbucks-pike-place-roast-250g",
+      "chain_id": "starbucks",
+      "name": "パイクプレイス® ロースト",
+      "description": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。\n1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+      "taste_label_ja": "毎日でも楽しみたくなるコーヒー",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ナッツ",
+        "チョコレート",
+        "シナモン",
+        "ほのかな香ばしさとなめらかな口あたり"
+      ],
+      "acidity": 50,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1480,
+      "weight_g": 250,
+      "buy_url": "https://menu.starbucks.co.jp/4524785492509",
+      "product_id": "4524785492509",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_11.jpg",
+      "image_local": "data/images/starbucks/4524785492509.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "starbucks-kenya-250g",
+      "chain_id": "starbucks",
+      "name": "ケニア",
+      "description": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。\nケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+      "taste_label_ja": "フルーティで鮮やかな味わい",
+      "origin": [
+        "シングルオリジン"
+      ],
+      "flavor_tags": [
+        "グレープフルーツ",
+        "ベリー類",
+        "カラント（スグリ）",
+        "グレープフルーツやブラックカラントを思わせる風味"
+      ],
+      "acidity": 80,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1740,
+      "weight_g": 250,
+      "buy_url": "https://menu.starbucks.co.jp/4524785492493",
+      "product_id": "4524785492493",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_11.jpg",
+      "image_local": "data/images/starbucks/4524785492493.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}

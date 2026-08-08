@@ -1,0 +1,6 @@
+=== doutor (12) ===
+Traceback (most recent call last):
+  File "C:\Users\yutok\Projects\driplab\scripts\print_catalog_summary.py", line 11, in <module>
+    print(f"  - {b['name']} | {b.get('weight_g')}g | \xa5{b.get('price_jpy')}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp932' codec can't encode character '\xa5' in position 36: illegal multibyte sequence

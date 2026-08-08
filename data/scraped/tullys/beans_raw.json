@@ -1,0 +1,624 @@
+{
+  "chain_id": "tullys",
+  "scraped_at": "2026-08-08T15:52:46+09:00",
+  "sources": [
+    "https://shop.itoen.jp/tullyscoffee/index.html",
+    "https://www.tullys.co.jp/menu/beans/"
+  ],
+  "source_note": "EC (Ito En) has ~8 whole-bean SKUs; store menu adds retail-only beans. Merged by normalized product name.",
+  "count": 22,
+  "ec_count": 8,
+  "store_only_count": 14,
+  "beans": [
+    {
+      "product_id": "gTCJ-beans-260318-0001",
+      "product_code": "",
+      "name": "【限定パッケージ】タリーズ ブラジル バウ 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 セラード パトス デ ミナス"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "バランス"
+      ],
+      "description": "豊かなアロマ、しっかりとしたボディと酸味がバランスよく調和し、後味に広がる甘みがお楽しみいただけます。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/tullys_brazil_bau.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/brazilbau_20260311.jpg",
+      "image_local": "data/images/tullys/store-tullys_brazil_bau.jpg"
+    },
+    {
+      "product_id": "gTCJ-beans-260415-0003",
+      "product_code": "",
+      "name": "アイスコーヒーブレンド 200g（豆）",
+      "price_jpy": 1690,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル",
+        "グァテマラ",
+        "他"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [
+        "すっきり",
+        "コク"
+      ],
+      "description": "すっきりとした苦みの中に心地よいコクと甘みが広がる、アイスコーヒーにおすすめのブレンドです。店内で提供している定番のアイスコーヒーと同じブレンドを、季節限定でご自宅でもお楽しみいただけます。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260415-0003/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26iced_coffee_brend.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/ICE%20COFFEE%20BLEND_01.jpg",
+      "image_local": "data/images/tullys/store-26iced_coffee_brend.jpg"
+    },
+    {
+      "product_id": "store-espresso_classico",
+      "name": "エスプレッソクラシコ",
+      "description": "リッチなボディと甘く華やかな香りが印象的です。そのままエスプレッソで楽しむのはもちろん、ラテやカプチーノのベースとしてもおすすめ。ミルクをたっぷりいれてお召し上がりください。",
+      "price_jpy": 1580,
+      "weight_g": 200,
+      "origin_countries": [
+        "グァテマラ",
+        "コスタリカ 他"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/espresso_classico.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/espresso_classico.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/espresso_classico_181102.jpg",
+      "image_local": "data/images/tullys/store-espresso_classico.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-26_ethiopia_sidamo_g1",
+      "name": "エチオピア シダモG1  シャキッソウォッシュド 150g",
+      "description": "花のように上品な香りと、柑橘系の爽やかな風味が調和したバランスの良い味わいが特徴です。約690軒の小規模生産者が一粒ずつ手摘みで収穫し、トップグレードの品質に仕上げました。",
+      "price_jpy": 1870,
+      "weight_g": 150,
+      "origin_countries": [
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "バランス"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/26_ethiopia_sidamo_g1.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26_ethiopia_sidamo_g1.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/ethiopia_sidamo_20260217.jpg",
+      "image_local": "data/images/tullys/store-26_ethiopia_sidamo_g1.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-ethiopia_uraga",
+      "name": "エチオピアモカ G1 ウラガ ナチュラル",
+      "description": "芳醇で鮮やかなモカフレーバーです。ラズベリーやピーチのような爽やかさがあり、すっきりとした飲み口とともに、ユニークな風味とフルーティ感が楽しめる味わいです。",
+      "price_jpy": 1690,
+      "weight_g": 200,
+      "origin_countries": [
+        "エチオピア オロミア州 シダモ グジ ウラガ地区"
+      ],
+      "flavor_tags": [
+        "すっきり"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/ethiopia_uraga.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/ethiopia_uraga.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/ethiopia_mocha_201112.jpg",
+      "image_local": "data/images/tullys/store-ethiopia_uraga.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-cafe_au_lait_monire",
+      "name": "カフェオレ モナーレ",
+      "description": "ミルクを入れてコーヒーをお召し上がりになる方へおすすめの豆です。ミルクとあわせて甘みやまろやかな風味を楽しむのも良いですし、そのままブラックで飲んでも美味しくお召し上がりいただけます。",
+      "price_jpy": 1640,
+      "weight_g": 200,
+      "origin_countries": [
+        "グァテマラ",
+        "コロンビア 他"
+      ],
+      "flavor_tags": [
+        "まろやか"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/cafe_au_lait_monire.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/cafe_au_lait_monire.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/cafeaulait_monire_181102.jpg",
+      "image_local": "data/images/tullys/store-cafe_au_lait_monire.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "gTCJ-beans-25080113",
+      "product_code": "",
+      "name": "キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "タンザニア マラ州 タリメエリア"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "シトラスや紅茶を感じさせる華やかな香りのコーヒーです。なめらかな口あたりで飲みやすく、まるではちみつやカラメルのような豊かな甘みが広がります。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/kilimanjaro_kibosw.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/0454aace61fd0976c896cbbe6bf3b649dc943f16.jpg",
+      "image_local": "data/images/tullys/store-kilimanjaro_kibosw.jpg"
+    },
+    {
+      "product_id": "store-26cresent_moon",
+      "name": "クレセントムーン",
+      "description": "夏を愉しむ季節限定オリジナルブレンド。深めの焙煎で仕上げることで生まれる、力強くなめらかなボディが特徴で、アイスコーヒーにもよく合います。ダークチョコレートのような濃厚さとコーヒーの甘みを感じる、スモーキーな味わいをどうぞお楽しみください。",
+      "price_jpy": 1680,
+      "weight_g": 200,
+      "origin_countries": [
+        "コロンビア",
+        "ペルー"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/cresent_moon.png",
+      "image_local": "data/images/tullys/store-26cresent_moon.png",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "gTCJ-beans-25080103",
+      "product_code": "",
+      "name": "コスタリカ ラ ミニータ ウェットミル スイートウォッシュド 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（粉）",
+      "origin_countries": [
+        "コスタリカ タラス ロス サントス"
+      ],
+      "tasting_words_en": [
+        "Clean",
+        "Smooth",
+        "Bright"
+      ],
+      "flavor_tags": [
+        "すっきり",
+        "まろやか",
+        "明るい"
+      ],
+      "description": "フローラルなアロマが際立つ、クリーンで飲みやすい味わい。なめらかな口あたりで、フルーティ感のある明るさと心地よさが続きます。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080103/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/costarica_laminita.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/78acc7dada337ce377ec004f3136134641c212a3.jpg",
+      "image_local": "data/images/tullys/store-costarica_laminita.jpg"
+    },
+    {
+      "product_id": "store-26mandeheling_g1",
+      "name": "スマトラ マンデリン G1 リントンニフタ 150g",
+      "description": "マンデリン最高等級のG1（グレード1）ならではの、力強いコクとダークチョコレートのような重厚感が特徴です。個性豊かな味わいと深い余韻を、まずはブラックでお楽しみください。",
+      "price_jpy": 1870,
+      "weight_g": 150,
+      "origin_countries": [
+        "インドネシア 北スマトラ リントンニフタ地区"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/26mandeheling_g1.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26mandeheling_g1.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/mandheling_g1_20251218.jpg",
+      "image_local": "data/images/tullys/store-26mandeheling_g1.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "gTCJ-beans-260805-0001",
+      "product_code": "",
+      "name": "タリーズ アニバーサリーブレンド 200g 豆",
+      "price_jpy": 1800,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル",
+        "タンザニア",
+        "ペルー",
+        "インドネシア"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "タリーズ アニバーサリーブレンド 200g 豆",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec"
+      ]
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0002",
+      "product_code": "",
+      "name": "タリーズ ブラジル バウ イエローブルボン 200g（豆）",
+      "price_jpy": 1535,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 セラード パトス デ ミナス"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [
+        "すっきり"
+      ],
+      "description": "黄色に熟するイエローブルボン種のみを使用し、完熟のタイミングを丁寧に見極め、太陽のもとでじっくりと天日乾燥させました。すっきり飲みやすいマイルドな味わいをお楽しみください。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0002/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26brazil_yellow_bourbon.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/brazilbau_yellowbourbon_20260311.jpg",
+      "image_local": "data/images/tullys/store-26brazil_yellow_bourbon.jpg"
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0003",
+      "product_code": "",
+      "name": "タリーズ ブラジル ファゼンダ バレ ド クリスタル 200g（豆）",
+      "price_jpy": 1845,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 ジアマンチーナ"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "寒暖差のある環境のもと、ゆっくりと成熟したコーヒーチェリーの華やかな香りと、完熟チェリーを思わせるやさしい甘みがお楽しみいただけます。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0003/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26brazil_vare_do_cristal.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/brazil_valedocristal_20260311.jpg",
+      "image_local": "data/images/tullys/store-26brazil_vare_do_cristal.jpg"
+    },
+    {
+      "product_id": "store-26_anniversary_blend",
+      "name": "タリーズアニバーサリーブレンド",
+      "description": "タリーズが厳選した4つの産地のコーヒー豆をブレンドした、特別なブレンド。フルーティで心地よい酸味となめらかな口あたりに、カラメルやチョコレートのような甘い余韻が広がります。",
+      "price_jpy": 1680,
+      "weight_g": 200,
+      "origin_countries": [
+        "ブラジル",
+        "タンザニア",
+        "ペルー",
+        "インドネシア"
+      ],
+      "flavor_tags": [
+        "すっきり"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26_anniversary_blend.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26_anniversary_blend.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/249cce330e9b7aba55326306c5880fc02d9476b8.jpg",
+      "image_local": "data/images/tullys/store-26_anniversary_blend.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-26tls_masters_note",
+      "name": "タリーズコーヒーマスターズノート",
+      "description": "コーヒーマスター*が商品開発に参加し、自信をもってお届けする、この夏アイスコーヒーにおすすめのブレンド。エチオピアを軸にした、華やかな香りとフルーティ感が特徴です。チョコレートのような豊かなコクが重なり合う、奥行のある味わいをお楽しみください。*コーヒーマスターとは、コーヒー全般に関する深い知識を持ち、豆ごとの個性や味わいを見極める、社内の厳しい試験に合格したコーヒーのスペシャリスト。現在、全国で約61名のコーヒーマスターが活躍しています。（2026年5月時点）",
+      "price_jpy": 1680,
+      "weight_g": 150,
+      "origin_countries": [
+        "エチオピア",
+        "ブラジル",
+        "ブルンジ"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/masters_notes_20260508.jpg",
+      "image_local": "data/images/tullys/store-26tls_masters_note.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "gTCJ-beans-25080118",
+      "product_code": "",
+      "name": "デカフェ ブラジル IP農園 200g （豆）",
+      "price_jpy": 1810,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（粉）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 カルモ デ ミナス地区"
+      ],
+      "tasting_words_en": [
+        "Caramel",
+        "Sweet",
+        "Soft"
+      ],
+      "flavor_tags": [
+        "カラメル",
+        "甘み",
+        "やわらか"
+      ],
+      "description": "マウンテンウォーター製法でカフェインを95％以上除去したブラジル産のデカフェです。チョコレートやカラメルを思わせる香りとクリーンでまろやかな口あたり、さらにカシューナッツのような風味と甘みがほのかに感じられます。一日の終わりや、くつろぎの時間に、甘い香りと優しい飲み心地のコーヒーで、一息つきませんか。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080118/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "purchase_channel": "ec",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/decafe_bra.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/DECAF_BRAZIL_240220.png",
+      "image_local": "data/images/tullys/store-decafe_bra.png"
+    },
+    {
+      "product_id": "store-house_blend",
+      "name": "ハウスブレンド",
+      "description": "ほどよいボディとすっきりとした酸味、スムースな飲み口が特徴です。バランスがよく飲みやすい、タリーズコーヒーの定番の味わいです。",
+      "price_jpy": 1470,
+      "weight_g": 200,
+      "origin_countries": [
+        "コロンビア",
+        "グァテマラ 他"
+      ],
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "まろやか",
+        "バランス"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/house_blend_181212.jpg",
+      "image_local": "data/images/tullys/store-house_blend.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-piccolo_bambino",
+      "name": "ピッコロバンビーノ",
+      "description": "すっきりとマイルドな口あたりで飲みやすいコーヒーです。後味には、キャラメルのような香ばしい風味が感じられます。朝のコーヒーにもぴったり！",
+      "price_jpy": 1470,
+      "weight_g": 200,
+      "origin_countries": [
+        "グァテマラ",
+        "パプアニューギニア 他"
+      ],
+      "flavor_tags": [
+        "すっきり"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/piccolo_bambino.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/piccolo_bambino.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/piccolo_bambino_181102.jpg",
+      "image_local": "data/images/tullys/store-piccolo_bambino.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-french_roast",
+      "name": "フレンチロースト",
+      "description": "タリーズの中で、最も深くローストされたコーヒー。リッチでスモーキーな香りが口いっぱいに広がります。アイスコーヒー用の豆としてもおすすめです。淹れる際に、コロンビアやグァテマラといった酸味のある豆を少量加えて抽出すると、フレンチローストのリッチな風味がより引き立ちます。",
+      "price_jpy": 1470,
+      "weight_g": 200,
+      "origin_countries": [
+        "グァテマラ",
+        "タンザニア"
+      ],
+      "flavor_tags": [
+        "すっきり"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/french_roast.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/french_roast.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/french_roast_181102.jpg",
+      "image_local": "data/images/tullys/store-french_roast.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-blackthree",
+      "name": "ブラック スリー",
+      "description": "心地よいアロマとなめらかな舌さわり、さらに深いボディとカラメルのような甘い余韻が印象的な味わい。ぜひ、ブラックでお召し上がりください。",
+      "price_jpy": 1580,
+      "weight_g": 200,
+      "origin_countries": [
+        "コロンビア",
+        "ペルー"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/blackthree.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/blackthree.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/black_181202.jpg",
+      "image_local": "data/images/tullys/store-blackthree.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-26honduras_erandique",
+      "name": "ホンジュラス 森のエランディケ",
+      "description": "標高1500mを超える、深い森に囲まれたエランディケ。豊かな森と豊富な水源の元、ゆっくりと育まれたコーヒーは、シトラスのような爽やかなフレーバーと、澄んだ飲み心地が特徴です。",
+      "price_jpy": 1680,
+      "weight_g": 150,
+      "origin_countries": [
+        "ホンジュラス レンピラ県 エランディケ"
+      ],
+      "flavor_tags": [],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/honduras_erandique_20260603.jpg",
+      "image_local": "data/images/tullys/store-26honduras_erandique.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    },
+    {
+      "product_id": "store-mocha_java",
+      "name": "モカジャバ",
+      "description": "エチオピアモカの華やかなアロマとワイニーな口あたりが特徴です。深いボディを感じながら、ゆっくりと味わいを楽しみましょう。タリーズの豆の中でも、特にユニークな風味を持つブレンドです。",
+      "price_jpy": 1580,
+      "weight_g": 200,
+      "origin_countries": [
+        "インドネシア",
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "コク"
+      ],
+      "tasting_words_en": [],
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/mocha_java.html",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/mocha_java.html",
+      "purchase_channel": "store",
+      "source": "https://www.tullys.co.jp/menu/beans/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/mocha_java_181102.jpg",
+      "image_local": "data/images/tullys/store-mocha_java.jpg",
+      "store_sliders": {
+        "すっきり感": "すっきり感",
+        "ボディ": "ボディ"
+      },
+      "availability": [
+        "store"
+      ]
+    }
+  ]
+}

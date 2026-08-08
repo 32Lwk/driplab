@@ -1,0 +1,951 @@
+[
+  {
+    "product_id": "4524785492462",
+    "name": "スターバックス ライトノート ブレンド®",
+    "price_jpy": 1480,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492462",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_11.jpg",
+    "image_local": "data/images/starbucks/4524785492462.jpg",
+    "og_description": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。\n創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。",
+    "content": "焙煎度: ブロンド ロースト（軽やかな風味）\n味わい: 軽やかで親しみやすい味わい\n酸味: MEDIUM\nコク: LIGHT\nキーワード: NOTES OF TOASTED MALT & MILK CHOCOLATE（軽めのコクとミルクチョコレートのような風味）\n相性のよいフレーバー: ミルクチョコレート, 煎ったナッツ\n加工方法: 水洗式\n内容量: 250g\nミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。\n創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。",
+    "category": "CORE COFFEE",
+    "roast_level": "light",
+    "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+    "taste_label_ja": "軽やかで親しみやすい味わい",
+    "flavor_tags": [
+      "ミルクチョコレート",
+      "煎ったナッツ",
+      "軽めのコクとミルクチョコレートのような風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 35,
+    "bitterness": 25,
+    "sweetness": 65,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492479",
+    "name": "ブレックファースト ブレンド",
+    "price_jpy": 1480,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492479",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492479/4524785492479_11.jpg",
+    "image_local": "data/images/starbucks/4524785492479.jpg",
+    "og_description": "ブラウンシュガーやオレンジを思わせる風味とすっきりとした後味、マイルドな味わいのコーヒーです。\n一日の始まりにふさわしい、いきいきとしたコーヒーです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: 朝にぴったりなさわやかな味わい\n酸味: HIGH\nコク: MEDIUM\nキーワード: NOTES OF BROWN SUGAR & SWEET ORANGE（一日の始まりにふさわしいシトラスを思わせる風味）\n相性のよいフレーバー: ナッツ, リンゴ, ブルーベリー, レモン\n加工方法: 水洗式\n内容量: 250g\nブラウンシュガーやオレンジを思わせる風味とすっきりとした後味、マイルドな味わいのコーヒーです。\n一日の始まりにふさわしい、いきいきとしたコーヒーです。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "朝にぴったりなさわやかな味わい",
+    "flavor_tags": [
+      "ナッツ",
+      "リンゴ",
+      "ブルーベリー",
+      "レモン",
+      "一日の始まりにふさわしいシトラスを思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 80,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 45,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492486",
+    "name": "サイレン ブレンド®",
+    "price_jpy": 1590,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492486",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492486/4524785492486_11.jpg",
+    "image_local": "data/images/starbucks/4524785492486.jpg",
+    "og_description": "フローラルやシトラスを思わせる風味、チョコレートの口あたりが特徴の、さわやかな味わいのコーヒー。\nスターバックスを象徴するサイレンの名をもつこのコーヒーは、コーヒー産業に携わるすべての女性に敬意を込めてブレンドしました。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: フローラルな香りとほどよいコク\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF JUICY CITRUS & CHOCOLATE（シトラスを感じる調和のとれた味わい）\n相性のよいフレーバー: キャンディードシトラス, チョコレート\n加工方法: 水洗式\n内容量: 250g\nフローラルやシトラスを思わせる風味、チョコレートの口あたりが特徴の、さわやかな味わいのコーヒー。\nスターバックスを象徴するサイレンの名をもつこのコーヒーは、コーヒー産業に携わるすべての女性に敬意を込めてブレンドしました。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "フローラルな香りとほどよいコク",
+    "flavor_tags": [
+      "キャンディードシトラス",
+      "チョコレート",
+      "シトラスを感じる調和のとれた味わい"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 60,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492493",
+    "name": "ケニア",
+    "price_jpy": 1740,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492493",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_11.jpg",
+    "image_local": "data/images/starbucks/4524785492493.jpg",
+    "og_description": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。\nケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: フルーティで鮮やかな味わい\n酸味: HIGH\nコク: MEDIUM\nキーワード: NOTES OF BLACK CURRANT & GRAPEFRUIT（グレープフルーツやブラックカラントを思わせる風味）\n相性のよいフレーバー: グレープフルーツ, ベリー類, カラント（スグリ）\n加工方法: 水洗式\n内容量: 250g\nジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。\nケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "フルーティで鮮やかな味わい",
+    "flavor_tags": [
+      "グレープフルーツ",
+      "ベリー類",
+      "カラント（スグリ）",
+      "グレープフルーツやブラックカラントを思わせる風味"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 80,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492509",
+    "name": "パイクプレイス® ロースト",
+    "price_jpy": 1480,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492509",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_11.jpg",
+    "image_local": "data/images/starbucks/4524785492509.jpg",
+    "og_description": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。\n1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: 毎日でも楽しみたくなるコーヒー\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF COCOA & RICH PRALINE（ほのかな香ばしさとなめらかな口あたり）\n相性のよいフレーバー: ナッツ, チョコレート, シナモン\n加工方法: 水洗式\n内容量: 250g\nココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。\n1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "毎日でも楽しみたくなるコーヒー",
+    "flavor_tags": [
+      "ナッツ",
+      "チョコレート",
+      "シナモン",
+      "ほのかな香ばしさとなめらかな口あたり"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492523",
+    "name": "グアテマラ アンティグア",
+    "price_jpy": 1740,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492523",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492523/4524785492523_11.jpg",
+    "image_local": "data/images/starbucks/4524785492523.jpg",
+    "og_description": "ココアパウダーややわらかなスパイスの上品な香りが特徴の、洗練された味わいのコーヒーです。\n火山に囲まれたグアテマラ アンティグア地方の農園は、すばらしいコーヒーを栽培する生産地としてよく知られています。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: ココアを思わせる上品な味わい\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF COCOA & BAKING SPICE（ココアやスパイスを思わせる洗練された風味）\n相性のよいフレーバー: チョコレート, ナッツ, キャラメル, リンゴ\n加工方法: 水洗式\n内容量: 250g\nココアパウダーややわらかなスパイスの上品な香りが特徴の、洗練された味わいのコーヒーです。\n火山に囲まれたグアテマラ アンティグア地方の農園は、すばらしいコーヒーを栽培する生産地としてよく知られています。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "ココアを思わせる上品な味わい",
+    "flavor_tags": [
+      "チョコレート",
+      "ナッツ",
+      "キャラメル",
+      "リンゴ",
+      "ココアやスパイスを思わせる洗練された風味"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492547",
+    "name": "ハウス ブレンド",
+    "price_jpy": 1480,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492547",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492547/4524785492547_11.jpg",
+    "image_local": "data/images/starbucks/4524785492547.jpg",
+    "og_description": "トフィーやココアを思わせる風味にほのかなローストの甘み、バランスのとれた味わい深いコーヒー。\n創業当時よりお届けしてきた私たちの原点と呼べるコーヒーです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: 創業当初よりお届けしてきたおもてなしの心あふれるブレンド\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF TOFFEE & DUSTED COCOA（ナッツやココアを思わせるバランスのとれた味わい）\n相性のよいフレーバー: ナッツ, リンゴ, ブルーベリー\n加工方法: 水洗式\n内容量: 250g\nトフィーやココアを思わせる風味にほのかなローストの甘み、バランスのとれた味わい深いコーヒー。\n創業当時よりお届けしてきた私たちの原点と呼べるコーヒーです。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "創業当初よりお届けしてきたおもてなしの心あふれるブレンド",
+    "flavor_tags": [
+      "ナッツ",
+      "リンゴ",
+      "ブルーベリー",
+      "ナッツやココアを思わせるバランスのとれた味わい"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 60,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492561",
+    "name": "ディカフェ ハウス ブレンド",
+    "price_jpy": 1590,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492561",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492561/4524785492561_11.jpg",
+    "image_local": "data/images/starbucks/4524785492561.jpg",
+    "og_description": "トフィーやココアを思わせる風味にほのかなローストの甘み、バランスのとれた味わい深いコーヒー。\n創業当時よりお届けしてきた私たちの原点と呼べるコーヒーです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: 創業当初よりお届けしてきたおもてなしの心あふれるブレンドをカフェインレスコーヒーで\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF TOFFEE & DUSTED COCOA（ナッツやココアを思わせるバランスのとれた味わい）\n相性のよいフレーバー: ナッツ, リンゴ, ブルーベリー\n加工方法: 水洗式\n内容量: 250g\nトフィーやココアを思わせる風味にほのかなローストの甘み、バランスのとれた味わい深いコーヒー。\n創業当時よりお届けしてきた私たちの原点と呼べるコーヒーです。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "創業当初よりお届けしてきたおもてなしの心あふれるブレンドをカフェインレスコーヒーで",
+    "flavor_tags": [
+      "ナッツ",
+      "リンゴ",
+      "ブルーベリー",
+      "ナッツやココアを思わせるバランスのとれた味わい"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 60,
+    "caffeine": "decaf",
+    "available": true
+  },
+  {
+    "product_id": "4524785492578",
+    "name": "コロンビア",
+    "price_jpy": 1740,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492578",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492578/4524785492578_11.jpg",
+    "image_local": "data/images/starbucks/4524785492578.jpg",
+    "og_description": "みずみずしい酸味やほのかなハーブの風味、ナッツを思わせる後味が印象的なコーヒー。\n多くの火山が存在する、アンデス山脈の高地で栽培されたコーヒーです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: ナッツを思わせる香ばしい味わい\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF TOASTED WALNUT & HERBS（クルミを思わせる香ばしさとハーブのような風味）\n相性のよいフレーバー: ミルクチョコレート, ピーカンナッツ\n加工方法: 水洗式\n内容量: 250g\nみずみずしい酸味やほのかなハーブの風味、ナッツを思わせる後味が印象的なコーヒー。\n多くの火山が存在する、アンデス山脈の高地で栽培されたコーヒーです。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "ナッツを思わせる香ばしい味わい",
+    "flavor_tags": [
+      "ミルクチョコレート",
+      "ピーカンナッツ",
+      "クルミを思わせる香ばしさとハーブのような風味"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785379572",
+    "name": "TOKYO ロースト",
+    "price_jpy": 1590,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785379572",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785379572/4524785379572_11.jpg",
+    "image_local": "data/images/starbucks/4524785379572.jpg",
+    "og_description": "なめらかで深みのあるスマトラ産コーヒーにラテンアメリカ産コーヒーをブレンド。シナモンや、タラゴンを思わせるハーブの風味をもつ、まろやかで心温まるコーヒーです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: スターバックス リザーブ® ロースタリー 東京でロースターが心をこめて焙煎したコーヒー\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF CINNAMON & TARRAGON （まろやかで心温まる味わい）\n相性のよいフレーバー: シナモン, レーズン, オートミール, チョコレート\n加工方法: 水洗式/半水洗式\n内容量: 250g\nなめらかで深みのあるスマトラ産コーヒーにラテンアメリカ産コーヒーをブレンド。シナモンや、タラゴンを思わせるハーブの風味をもつ、まろやかで心温まるコーヒーです。",
+    "category": "CORE COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "スターバックス リザーブ® ロースタリー 東京でロースターが心をこめて焙煎したコーヒー",
+    "flavor_tags": [
+      "シナモン",
+      "レーズン",
+      "オートミール",
+      "チョコレート",
+      "まろやかで心温まる味わい"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492592",
+    "name": "スマトラ",
+    "price_jpy": 1740,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492592",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492592/4524785492592_11.jpg",
+    "image_local": "data/images/starbucks/4524785492592.jpg",
+    "og_description": "豊かなハーブや大地を思わせる風味、しっかりとしたコクが特徴の忘れがたい印象のコーヒー。\n自然豊かなインドネシアのスマトラ島で栽培されたこのコーヒーは創業当初から多くのお客様に愛され続けています。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: 大地を思わせる風味としっかりとしたコク\n酸味: LOW\nコク: FULL\nキーワード: NOTES OF RICH HERBS & RUSTIC SPICE（大地を思わせる風味としっかりとしたコク）\n相性のよいフレーバー: シナモン, オートミール, メープル, バター、トフィー, チーズ\n加工方法: 半水洗式\n内容量: 250g\n豊かなハーブや大地を思わせる風味、しっかりとしたコクが特徴の忘れがたい印象のコーヒー。\n自然豊かなインドネシアのスマトラ島で栽培されたこのコーヒーは創業当初から多くのお客様に愛され続けています。",
+    "category": "CORE COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "大地を思わせる風味としっかりとしたコク",
+    "flavor_tags": [
+      "シナモン",
+      "オートミール",
+      "メープル",
+      "バター、トフィー",
+      "チーズ",
+      "大地を思わせる風味としっかりとしたコク"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 30,
+    "body": 75,
+    "bitterness": 65,
+    "sweetness": 40,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492608",
+    "name": "コモド ドラゴン ブレンド®",
+    "price_jpy": 1740,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492608",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492608/4524785492608_11.jpg",
+    "image_local": "data/images/starbucks/4524785492608.jpg",
+    "og_description": "フレッシュハーブやスパイスを思わせる風味が重なり合う、バターのようななめらかさが特徴のコーヒー。\nアジア/太平洋地域の多様な生産地のコーヒーをブレンドした、力強い味わいです。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: ハーブの風味とスパイシーな余韻\n酸味: LOW\nコク: FULL\nキーワード: NOTES OF FRESH HERBS & WARM SPICE（フレッシュなハーブの風味とスパイシーな余韻）\n相性のよいフレーバー: シナモン, メープル, バター, チーズ, ハーブ\n加工方法: 水洗式/半水洗式\n内容量: 250g\nフレッシュハーブやスパイスを思わせる風味が重なり合う、バターのようななめらかさが特徴のコーヒー。\nアジア/太平洋地域の多様な生産地のコーヒーをブレンドした、力強い味わいです。",
+    "category": "CORE COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "ハーブの風味とスパイシーな余韻",
+    "flavor_tags": [
+      "シナモン",
+      "メープル",
+      "バター",
+      "チーズ",
+      "ハーブ",
+      "フレッシュなハーブの風味とスパイシーな余韻"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 30,
+    "body": 75,
+    "bitterness": 65,
+    "sweetness": 40,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492615",
+    "name": "カフェ ベロナ®",
+    "price_jpy": 1590,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492615",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492615/4524785492615_11.jpg",
+    "image_local": "data/images/starbucks/4524785492615.jpg",
+    "og_description": "ダークココアやカラメルシュガーを思わせる豊かな味わいのコーヒー。チョコレートと相性ぴったりです。\n人々を魅了するその味わいから、真実の愛のストーリーで知られる街の名前が付けられたロマンスあふれるコーヒーです。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: ダークココアのような口あたり\n酸味: LOW\nコク: FULL\nキーワード: NOTES OF DARK COCOA & CARAMELIZED SUGAR（ダークココアのような風味とローストの甘みと深み）\n相性のよいフレーバー: ミルクチョコレート, ダークチョコレート, カラメル\n加工方法: 水洗式/半水洗式\n内容量: 250g\nダークココアやカラメルシュガーを思わせる豊かな味わいのコーヒー。チョコレートと相性ぴったりです。\n人々を魅了するその味わいから、真実の愛のストーリーで知られる街の名前が付けられたロマンスあふれるコーヒーです。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "ダークココアのような口あたり",
+    "flavor_tags": [
+      "ミルクチョコレート",
+      "ダークチョコレート",
+      "カラメル",
+      "ダークココアのような風味とローストの甘みと深み"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 30,
+    "body": 75,
+    "bitterness": 65,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492639",
+    "name": "エスプレッソ ロースト",
+    "price_jpy": 1590,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492639",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492639/4524785492639_11.jpg",
+    "image_local": "data/images/starbucks/4524785492639.jpg",
+    "og_description": "濃厚なモラセスやキャラメルのような甘みと風味が特徴のコーヒー。\t\nすべてのエスプレッソドリンクのベースとして世界中でお出ししている味わいは、他の抽出方法でもお楽しみいただけます。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: ミルクとの相性ぴったりの豊かな風味\n酸味: MEDIUM\nコク: FULL\nキーワード: NOTES OF RICH MOLASSES & CARAMEL（豊かな風味とキャラメルのような甘み）\n相性のよいフレーバー: キャラメル, チョコレート, スパイス, ナッツ\n加工方法: 水洗式/半水洗式\n内容量: 250g\n濃厚なモラセスやキャラメルのような甘みと風味が特徴のコーヒー。\t\nすべてのエスプレッソドリンクのベースとして世界中でお出ししている味わいは、他の抽出方法でもお楽しみいただけます。",
+    "category": "CORE COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "ミルクとの相性ぴったりの豊かな風味",
+    "flavor_tags": [
+      "キャラメル",
+      "チョコレート",
+      "スパイス",
+      "ナッツ",
+      "豊かな風味とキャラメルのような甘み"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 75,
+    "bitterness": 65,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785515079",
+    "name": "イタリアン ロースト",
+    "price_jpy": 1480,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785515079",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785515079/4524785515079_11.jpg",
+    "image_local": "data/images/starbucks/4524785515079.jpg",
+    "og_description": "トーストしたマシュマロやダークココアを思わせる風味、ローストの甘みと力強さを感じるコーヒー。\n南イタリアの伝統的な焙煎方法にインスパイアされた深みのある味わいで、クリームや砂糖と相性ぴったりです。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: ローストの甘みと力強い風味\n酸味: LOW\nコク: MEDIUM\nキーワード: NOTES OF DARK COCOA & TOASTED MARSHMALLOW（ロースト感のある甘みとカラメルのような風味）\n相性のよいフレーバー: ダークチョコレート, カラメル, スパイス\n加工方法: 水洗式/半水洗式\n内容量: 250g\nトーストしたマシュマロやダークココアを思わせる風味、ローストの甘みと力強さを感じるコーヒー。\n南イタリアの伝統的な焙煎方法にインスパイアされた深みのある味わいで、クリームや砂糖と相性ぴったりです。",
+    "category": "CORE COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "ローストの甘みと力強い風味",
+    "flavor_tags": [
+      "ダークチョコレート",
+      "カラメル",
+      "スパイス",
+      "ロースト感のある甘みとカラメルのような風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 30,
+    "body": 55,
+    "bitterness": 65,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785492653",
+    "name": "フレンチ ロースト",
+    "price_jpy": 1480,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785492653",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492653/4524785492653_11.jpg",
+    "image_local": "data/images/starbucks/4524785492653.jpg",
+    "og_description": "ダークローストによる甘くスモーキーな香りとカラメルを思わせる風味をもつ、力強い味わいのコーヒー。\t\n高温でのローストに耐えられるコーヒー豆を選りすぐり、ぎりぎりまでローストしたスターバックスで最も深煎りのコーヒーです。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: スターバックスで最も深煎りのコーヒー\n酸味: LOW\nコク: LIGHT\nキーワード: NOTES OF DARK CARAMEL & SWEET SMOKE（スモーキーさと個性的で力強い風味）\n相性のよいフレーバー: 煎ったナッツ, ローストした野菜, カラメル\n加工方法: 生産地域によって異なる\n内容量: 250g\nダークローストによる甘くスモーキーな香りとカラメルを思わせる風味をもつ、力強い味わいのコーヒー。\t\n高温でのローストに耐えられるコーヒー豆を選りすぐり、ぎりぎりまでローストしたスターバックスで最も深煎りのコーヒーです。",
+    "category": "CORE COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "スターバックスで最も深煎りのコーヒー",
+    "flavor_tags": [
+      "煎ったナッツ",
+      "ローストした野菜",
+      "カラメル",
+      "スモーキーさと個性的で力強い風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 30,
+    "body": 35,
+    "bitterness": 65,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785647589",
+    "name": "JAPAN'S 30TH ANNIVERSARY スマトラ マサ デパン Daisuke Kondo",
+    "price_jpy": 2580,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785647589",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647589/4524785647589_11.jpg",
+    "image_local": "data/images/starbucks/4524785647589.jpg",
+    "og_description": "みずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。\nアーティストDaisuke Kondoが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。",
+    "content": "焙煎度: ブロンド ロースト（軽やかな風味）\n味わい: 日本でのスターバックス創業30周年を記念したコーヒー\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF JUICY WATERMELON & SENCHA（スイカや煎茶を思わせる風味）\n相性のよいフレーバー: トロピカルフルーツ, ハーブ, バニラ, ベリー\n加工方法: 水洗式/乾燥式\n内容量: 250g\nみずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。\nアーティストDaisuke Kondoが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "light",
+    "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+    "taste_label_ja": "日本でのスターバックス創業30周年を記念したコーヒー",
+    "flavor_tags": [
+      "トロピカルフルーツ",
+      "ハーブ",
+      "バニラ",
+      "ベリー",
+      "スイカや煎茶を思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 25,
+    "sweetness": 65,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785647596",
+    "name": "JAPAN'S 30TH ANNIVERSARY スマトラ マサ デパン Shogo Ota",
+    "price_jpy": 2580,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785647596",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647596/4524785647596_11.jpg",
+    "image_local": "data/images/starbucks/4524785647596.jpg",
+    "og_description": "みずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。\nアーティストShogo Otaが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。",
+    "content": "焙煎度: ブロンド ロースト（軽やかな風味）\n味わい: 日本でのスターバックス創業30周年を記念したコーヒー\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF JUICY WATERMELON & SENCHA（スイカや煎茶を思わせる風味）\n相性のよいフレーバー: トロピカルフルーツ, ハーブ, バニラ, ベリー\n加工方法: 水洗式/乾燥式\n内容量: 250g\nみずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。\nアーティストShogo Otaが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "light",
+    "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+    "taste_label_ja": "日本でのスターバックス創業30周年を記念したコーヒー",
+    "flavor_tags": [
+      "トロピカルフルーツ",
+      "ハーブ",
+      "バニラ",
+      "ベリー",
+      "スイカや煎茶を思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 25,
+    "sweetness": 65,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785647602",
+    "name": "JAPAN'S 30TH ANNIVERSARY スマトラ マサ デパン nico ito",
+    "price_jpy": 2580,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785647602",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647602/4524785647602_11.jpg",
+    "image_local": "data/images/starbucks/4524785647602.jpg",
+    "og_description": "みずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。\nアーティストnico itoが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。",
+    "content": "焙煎度: ブロンド ロースト（軽やかな風味）\n味わい: 日本でのスターバックス創業30周年を記念したコーヒー\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF JUICY WATERMELON & SENCHA（スイカや煎茶を思わせる風味）\n相性のよいフレーバー: トロピカルフルーツ, ハーブ, バニラ, ベリー\n加工方法: 水洗式/乾燥式\n内容量: 250g\nみずみずしくトロピカルなフルーティーさに、煎茶を思わせるUMAMIが重なり、甘みのある後味が続くコーヒーです。日本でのスターバックス創業30周年を迎えるにあたり、「未来」と「共創」をテーマにこのコーヒーは生まれました。\nアーティストnico itoが「スマトラ マサ デパン」から受けたインスピレーションや創業30周年への想いを表現したカードとクリップが付属しています。カードはステッカーとしても楽しめる仕様です。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "light",
+    "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+    "taste_label_ja": "日本でのスターバックス創業30周年を記念したコーヒー",
+    "flavor_tags": [
+      "トロピカルフルーツ",
+      "ハーブ",
+      "バニラ",
+      "ベリー",
+      "スイカや煎茶を思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 25,
+    "sweetness": 65,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785557536",
+    "name": "スターバックス® カティ カティ ブレンド",
+    "price_jpy": 2180,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785557536",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557536/4524785557536_11.jpg",
+    "image_local": "data/images/starbucks/4524785557536.jpg",
+    "og_description": "フローラルな香りと赤いベリーやピンクグレープフルーツを思わせる風味が、みずみずしい口あたりにより引き立てられる、甘みをともなう華やかなコーヒーです。東アフリカ産コーヒーの表情豊かな魅力を存分にお楽しみいただけます。",
+    "content": "焙煎度: ブロンド ロースト（軽やかな風味）\n味わい: 夏のコーヒータイムを彩る、華やかな味わいのコーヒー\n酸味: HIGH\nコク: MEDIUM\nキーワード: NOTES OF GRAPEFRUIT, HONEYSUCKLE & RED BERRIES（グレープフルーツや赤いベリーを思わせる風味）\n相性のよいフレーバー: シトラス, チョコレート\n加工方法: 水洗式/乾燥式\n内容量: 250g\nフローラルな香りと赤いベリーやピンクグレープフルーツを思わせる風味が、みずみずしい口あたりにより引き立てられる、甘みをともなう華やかなコーヒーです。東アフリカ産コーヒーの表情豊かな魅力を存分にお楽しみいただけます。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "light",
+    "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+    "taste_label_ja": "夏のコーヒータイムを彩る、華やかな味わいのコーヒー",
+    "flavor_tags": [
+      "シトラス",
+      "チョコレート",
+      "グレープフルーツや赤いベリーを思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 80,
+    "body": 55,
+    "bitterness": 25,
+    "sweetness": 65,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785598683",
+    "name": "スターバックス® アイスコーヒー ブレンド",
+    "price_jpy": 1980,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785598683",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785598683/4524785598683_11.jpg",
+    "image_local": "data/images/starbucks/4524785598683.jpg",
+    "og_description": "ブラウンシュガーやミルクチョコレートを思わせる香ばしさや甘み、後味のすっきりさが心地よいバランスのとれた味わいのコーヒーです。どのような飲み方でもお楽しみいただける、アイスコーヒーのためのブレンドです。",
+    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: アイスコーヒーにぴったりな夏の定番\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF MALTED MILK CHOCOLATE & BROWN SUGAR（ブラウンシュガーやミルクチョコレートを思わせる風味）\n相性のよいフレーバー: キャラメル, ミルクチョコレート, ピーナッツバター\n加工方法: 水洗式/乾燥式\n内容量: 250g\nブラウンシュガーやミルクチョコレートを思わせる香ばしさや甘み、後味のすっきりさが心地よいバランスのとれた味わいのコーヒーです。どのような飲み方でもお楽しみいただける、アイスコーヒーのためのブレンドです。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "medium",
+    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+    "taste_label_ja": "アイスコーヒーにぴったりな夏の定番",
+    "flavor_tags": [
+      "キャラメル",
+      "ミルクチョコレート",
+      "ピーナッツバター",
+      "ブラウンシュガーやミルクチョコレートを思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 45,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785647824",
+    "name": "ウガンダ マウント エルゴン",
+    "price_jpy": 3580,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785647824",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785647824/4524785647824_11.jpg",
+    "image_local": "data/images/starbucks/4524785647824.jpg",
+    "og_description": "ストーンフルーツやバニラビーンズを思わせる甘みをおびた風味、なめらかな口あたりとほのかなスパイスのような余韻を感じられるコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: ウガンダとケニアの国境にそびえる火山・エルゴン山の斜面で、生産者たちが情熱をもって栽培したコーヒー\n酸味: HIGH\nコク: FULL\n相性のよいフレーバー: チョコレート, ストーンフルーツ\n加工方法: 水洗式\n内容量: 250g\nストーンフルーツやバニラビーンズを思わせる甘みをおびた風味、なめらかな口あたりとほのかなスパイスのような余韻を感じられるコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "ウガンダとケニアの国境にそびえる火山・エルゴン山の斜面で、生産者たちが情熱をもって栽培したコーヒー",
+    "flavor_tags": [
+      "チョコレート",
+      "ストーンフルーツ"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 80,
+    "body": 75,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785643383",
+    "name": "ルワンダ アバクンダカワ",
+    "price_jpy": 2970,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785643383",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785643383/4524785643383_11.jpg",
+    "image_local": "data/images/starbucks/4524785643383.jpg",
+    "og_description": "ドライアプリコットや糸飴を思わせる甘みに松の実のような香ばしさと繊細なフローラルさが重なる味わいのコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: 「コーヒーを愛する人たち」という名前をもち、女性たちが中心となって活動しているルワンダの協同組合から届けられたコーヒー\n酸味: MEDIUM\nコク: LIGHT\n相性のよいフレーバー: バニラ, バジル\n加工方法: 水洗式\n内容量: 250g\nドライアプリコットや糸飴を思わせる甘みに松の実のような香ばしさと繊細なフローラルさが重なる味わいのコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "「コーヒーを愛する人たち」という名前をもち、女性たちが中心となって活動しているルワンダの協同組合から届けられたコーヒー",
+    "flavor_tags": [
+      "バニラ",
+      "バジル"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 35,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785637047",
+    "name": "コロンビア フィンカ ポトシ ブラック ハニー",
+    "price_jpy": 8940,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785637047",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637047/4524785637047_11.jpg",
+    "image_local": "data/images/starbucks/4524785637047.jpg",
+    "og_description": "甘みをおびたマルベリーのような風味と、なめらかなホワイトチョコレートを思わせる余韻が長く続く、複雑で豊かな味わいのコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: 希少なブルボン シドラ種の豆を革新的な方法で加工した豊かな味わいのコーヒー\n酸味: MEDIUM\nコク: MEDIUM\n相性のよいフレーバー: アーモンド, ソフトチーズ\n加工方法: 半水洗式（ハニープロセス）\n内容量: 250g\n甘みをおびたマルベリーのような風味と、なめらかなホワイトチョコレートを思わせる余韻が長く続く、複雑で豊かな味わいのコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "希少なブルボン シドラ種の豆を革新的な方法で加工した豊かな味わいのコーヒー",
+    "flavor_tags": [
+      "アーモンド",
+      "ソフトチーズ"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785637054",
+    "name": "サンドライド ブラジル ファゼンダ サン ジョアン",
+    "price_jpy": 2970,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785637054",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785637054/4524785637054_11.jpg",
+    "image_local": "data/images/starbucks/4524785637054.jpg",
+    "og_description": "ヘーゼルナッツチョコレートやアプリコットを思わせる味わいと、清涼感のあるハーブのような風味がほのかに感じられるコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: 100年以上の長い歴史をもちながらも、栽培管理に新しい技術を積極的に採用して生産に取り組む農園から届いたコーヒー\n酸味: MEDIUM\nコク: MEDIUM\n相性のよいフレーバー: キャラメル, ナッツ, ドライフルーツ\n加工方法: 乾燥式\n内容量: 250g\nヘーゼルナッツチョコレートやアプリコットを思わせる味わいと、清涼感のあるハーブのような風味がほのかに感じられるコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "100年以上の長い歴史をもちながらも、栽培管理に新しい技術を積極的に採用して生産に取り組む農園から届いたコーヒー",
+    "flavor_tags": [
+      "キャラメル",
+      "ナッツ",
+      "ドライフルーツ"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785629387",
+    "name": "ナチュラル エチオピア チェレレクツ",
+    "price_jpy": 4200,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785629387",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629387/4524785629387_11.jpg",
+    "image_local": "data/images/starbucks/4524785629387.jpg",
+    "og_description": "バニラのような香りとココアバターを思わせるなめらかな口あたりに、マンゴスチンのようなトロピカルな風味が広がる、甘みのある味わいのコーヒー。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: コーヒー発祥の国エチオピアで、コーヒーの伝統を守る生産者たちから届いた乾燥式のコーヒー\n酸味: MEDIUM\nコク: MEDIUM\n相性のよいフレーバー: ライチ, ゆず\n加工方法: 乾燥式\n内容量: 250g\nバニラのような香りとココアバターを思わせるなめらかな口あたりに、マンゴスチンのようなトロピカルな風味が広がる、甘みのある味わいのコーヒー。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "コーヒー発祥の国エチオピアで、コーヒーの伝統を守る生産者たちから届いた乾燥式のコーヒー",
+    "flavor_tags": [
+      "ライチ",
+      "ゆず"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785629394",
+    "name": "ニカラグア ブエノスアイレス マラゴジッペ",
+    "price_jpy": 4200,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785629394",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785629394/4524785629394_11.jpg",
+    "image_local": "data/images/starbucks/4524785629394.jpg",
+    "og_description": "メイヤーレモンやハイビスカスティーを思わせる鮮やかな味わい、デメララシロップのような甘みを感じさせながら、繊細なフローラルさが余韻まで続くコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: 驚くほど大きなコーヒー豆が特徴のマラゴジッペ種のコーヒー\n酸味: HIGH\nコク: LIGHT\n相性のよいフレーバー: バニラ, ベリー類\n加工方法: 水洗式\n内容量: 250g\nメイヤーレモンやハイビスカスティーを思わせる鮮やかな味わい、デメララシロップのような甘みを感じさせながら、繊細なフローラルさが余韻まで続くコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "驚くほど大きなコーヒー豆が特徴のマラゴジッペ種のコーヒー",
+    "flavor_tags": [
+      "バニラ",
+      "ベリー類"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 80,
+    "body": 35,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785478190",
+    "name": "プリンチ® ブレンド",
+    "price_jpy": 2690,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785478190",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478190/4524785478190_11.jpg",
+    "image_local": "data/images/starbucks/4524785478190.jpg",
+    "og_description": "キャラメルを思わせる甘みと豊かなコク、深みのあるダークチョコレートの風味が特徴のコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: Princi® フードをより楽しむための特別なブレンド\n酸味: LOW\nコク: MEDIUM\nキーワード: CARAMEL and DARK CHOCOLATE（キャラメルやダークチョコレートのような風味）\n相性のよいフレーバー: コルネッティ, クッキー, パネトーネ\n加工方法: 水洗式\n内容量: 250g\nキャラメルを思わせる甘みと豊かなコク、深みのあるダークチョコレートの風味が特徴のコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "Princi® フードをより楽しむための特別なブレンド",
+    "flavor_tags": [
+      "コルネッティ",
+      "クッキー",
+      "パネトーネ",
+      "キャラメルやダークチョコレートのような風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 30,
+    "body": 55,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785553880",
+    "name": "マイクロブレンド™ No.21",
+    "price_jpy": 2690,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785553880",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553880/4524785553880_11.jpg",
+    "image_local": "data/images/starbucks/4524785553880.jpg",
+    "og_description": "キャンディードシトラスを思わせる風味が、ダークチョコレートのような味わいをまとったコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: 最高のエスプレッソコーヒーを目指すために、ラテンアメリカとアフリカというふたつの産地のコーヒーをブレンドした、バランスのとれた味わいのコーヒー\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: DARK CHOCOLATE and CANDIED FRUIT（ダークチョコレートとキャンディードシトラスを思わせる風味）\n相性のよいフレーバー: フルーツ類, チョコレート, クリーム\n加工方法: 水洗式\n内容量: 250g\nキャンディードシトラスを思わせる風味が、ダークチョコレートのような味わいをまとったコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "最高のエスプレッソコーヒーを目指すために、ラテンアメリカとアフリカというふたつの産地のコーヒーをブレンドした、バランスのとれた味わいのコーヒー",
+    "flavor_tags": [
+      "フルーツ類",
+      "チョコレート",
+      "クリーム",
+      "ダークチョコレートとキャンディードシトラスを思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 55,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785553873",
+    "name": "マイクロブレンド™ No.10",
+    "price_jpy": 2690,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785553873",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785553873/4524785553873_11.jpg",
+    "image_local": "data/images/starbucks/4524785553873.jpg",
+    "og_description": "チョコレートやキャラメル、コーラを思わせる甘みのある味わいなど、様々な表情をのぞかせるコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: 最高のコールドブリューの味わいを目指して、ラテンアメリカとアフリカのコーヒーをスターバックスの技術の粋を集めてブレンドしたコーヒー\n酸味: LOW\nコク: MEDIUM\nキーワード: VIBRANT and SWEET（チョコレートやキャラメルのような様々な表情）\n相性のよいフレーバー: ココア, バニラビーンズ, クリーム\n加工方法: 水洗式/乾燥式\n内容量: 250g\nチョコレートやキャラメル、コーラを思わせる甘みのある味わいなど、様々な表情をのぞかせるコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "最高のコールドブリューの味わいを目指して、ラテンアメリカとアフリカのコーヒーをスターバックスの技術の粋を集めてブレンドしたコーヒー",
+    "flavor_tags": [
+      "ココア",
+      "バニラビーンズ",
+      "クリーム",
+      "チョコレートやキャラメルのような様々な表情"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 30,
+    "body": 55,
+    "bitterness": 55,
+    "sweetness": 55,
+    "caffeine": "medium",
+    "available": true
+  },
+  {
+    "product_id": "4524785478183",
+    "name": "ディカフェ コスタリカ ハシエンダ アルサシア®",
+    "price_jpy": 2980,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785478183",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785478183/4524785478183_11.jpg",
+    "image_local": "data/images/starbucks/4524785478183.jpg",
+    "og_description": "スターバックスの自社農園である、コスタリカのハシエンダ アルサシア農園で栽培されたコーヒーです。",
+    "content": "焙煎度: STARBUCKS RESERVE®\n味わい: シトラスとミルクチョコレートの風味、はじけるような酸味が特徴のカフェインレスコーヒー\n酸味: MEDIUM\nコク: LIGHT\nキーワード: はじけるような酸味, カフェインレスコーヒー\n相性のよいフレーバー: シトラス, チョコレート\n加工方法: 水洗式\n内容量: 250g\nスターバックスの自社農園である、コスタリカのハシエンダ アルサシア農園で栽培されたコーヒーです。",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium_dark",
+    "roast_label_ja": "STARBUCKS RESERVE®",
+    "taste_label_ja": "シトラスとミルクチョコレートの風味、はじけるような酸味が特徴のカフェインレスコーヒー",
+    "flavor_tags": [
+      "シトラス",
+      "チョコレート"
+    ],
+    "origin": [
+      "シングルオリジン"
+    ],
+    "acidity": 50,
+    "body": 35,
+    "bitterness": 55,
+    "sweetness": 45,
+    "caffeine": "decaf",
+    "available": true
+  },
+  {
+    "product_id": "4524785557826",
+    "name": "STARBUCKS RESERVE® コーヒーセレクション",
+    "price_jpy": 5767,
+    "weight_g": 500,
+    "buy_url": "https://menu.starbucks.co.jp/4524785557826",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557826/4524785557826_11.jpg",
+    "image_local": "data/images/starbucks/4524785557826.jpg",
+    "og_description": "チョコレートとの相性ぴったり、エスプレッソ用に開発された深い味わいのNo.21と、アイスコーヒーにもおすすめ、コールドブリュー用に開発された表情豊かな味わいのNo.10をセットにしました。スターバックスの長年の経験を活かし、各生産地の個性豊かなコーヒーを最適な割合でブレンドしています。どちらもブリュードコーヒーでもその特徴をご堪能いただけます。\n\n内容\nスターバックス リザーブ® マイクロブレンド No.10 1袋（Whole Bean 250g）\nスターバックス リザーブ® マイクロブレンド No.21 1袋（Whole Bean 250g）",
+    "content": "味わい: スターバックス リザーブのコーヒーの詰め合わせ\n加工方法: なし\n内容量: 500g\nチョコレートとの相性ぴったり、エスプレッソ用に開発された深い味わいのNo.21と、アイスコーヒーにもおすすめ、コールドブリュー用に開発された表情豊かな味わいのNo.10をセットにしました。スターバックスの長年の経験を活かし、各生産地の個性豊かなコーヒーを最適な割合でブレンドしています。どちらもブリュードコーヒーでもその特徴をご堪能いただけます。\n\n内容\nスターバックス リザーブ® マイクロブレンド No.10 1袋（Whole Bean 250g）\nスターバックス リザーブ® マイクロブレンド No.21 1袋（Whole Bean 250g）",
+    "category": "スターバックス リザーブ®",
+    "roast_level": "medium",
+    "roast_label_ja": null,
+    "taste_label_ja": "スターバックス リザーブのコーヒーの詰め合わせ",
+    "flavor_tags": [],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 50,
+    "bitterness": 45,
+    "sweetness": 60,
+    "caffeine": "medium",
+    "available": true
+  }
+]

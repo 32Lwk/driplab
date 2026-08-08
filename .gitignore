@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Env & secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scraped raw (large / optional commit)
+data/scraped/**/raw.html
+
+# Logs
+*.log
+npm-debug.log*
+
+# GCP
+.gcloud/
+
+# Cursor
+.cursor/

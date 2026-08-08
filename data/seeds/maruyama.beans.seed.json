@@ -1,0 +1,95 @@
+{
+  "version": "0.1.0",
+  "chain_id": "maruyama",
+  "scraped_at": "2026-08-08T15:55:03+09:00",
+  "source": "https://www.maruyamacoffee.com/ec",
+  "beans": [
+    {
+      "id": "maruyama-blend-100g",
+      "chain_id": "maruyama",
+      "name": "丸山珈琲のブレンド",
+      "description": "人気No.1 ダークチョコレートのような風味。味わい深いコク。 創業当時から長年愛され続ける定番のブレンドコーヒーです。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "香ばしさ",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "香ばしさ"
+      ],
+      "acidity": 37,
+      "body": 37,
+      "bitterness": 37,
+      "sweetness": 60,
+      "caffeine": "medium",
+      "price_jpy": 810,
+      "weight_g": 100,
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/24",
+      "product_id": 24,
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0820143311_5f3e0b177adf7.jpg",
+      "image_local": "data/images/maruyama/24.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "maruyama-mocha-akane-100g",
+      "chain_id": "maruyama",
+      "name": "モカブレンド 茜すみれ",
+      "description": "モカコーヒーがお好きな方におすすめの人気の定番ブレンド。 丸山珈琲創業の地である軽井沢では、長く寒さの厳しい冬が終わり、最初に花をつけるのがすみれの花です。 毎年すみれの花の開花とともに、春の訪れを感じます。 コーヒーはアカネ科の植物ということで、すみれの中でも「茜すみれ」と名付けました。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "花の香りと柑橘類の爽やかな風味。",
+      "origin": [
+        "モカ"
+      ],
+      "flavor_tags": [
+        "花の香りと柑橘類の爽やかな風味。"
+      ],
+      "acidity": 37,
+      "body": 37,
+      "bitterness": 37,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 810,
+      "weight_g": 100,
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/26",
+      "product_id": 26,
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927145058_5d8da342201d6.jpg",
+      "image_local": "data/images/maruyama/26.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "maruyama-samanbaia-geisha-80g",
+      "chain_id": "maruyama",
+      "name": "サマンバイア ゲイシャ 中煎り",
+      "description": "ジャスミンを思わせる香りの中、飲み進めるにつれてアプリコットやオレンジのような酸味と優しい甘さが広がり、滑らかな口当たりが後味の甘さとともに長く続きます。 香りと味わいが複雑に絡みあう、滑らかな口当たりと甘さが絶妙なバランスを作り出すコーヒーです。 ＜ブラジル サマンバイア＞",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "ジャスミン",
+      "origin": [
+        "ブラジル　サマンバイア"
+      ],
+      "flavor_tags": [
+        "ジャスミン",
+        "アプリコット",
+        "オレンジ",
+        "ミント"
+      ],
+      "acidity": 37,
+      "body": 37,
+      "bitterness": 37,
+      "sweetness": 60,
+      "caffeine": "medium",
+      "price_jpy": 2000,
+      "weight_g": 80,
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3087",
+      "product_id": 3087,
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152403_6a548483d0cd3.jpg",
+      "image_local": "data/images/maruyama/3087.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}

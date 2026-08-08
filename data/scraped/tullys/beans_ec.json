@@ -1,0 +1,158 @@
+{
+  "chain_id": "tullys",
+  "scraped_at": "2026-08-08T15:42:48+09:00",
+  "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+  "source_note": "Official online store linked from https://www.tullys.co.jp/onlinestore/ (operated by Ito En)",
+  "count": 8,
+  "beans": [
+    {
+      "product_id": "gTCJ-beans-260318-0001",
+      "product_code": "",
+      "name": "【限定パッケージ】タリーズ ブラジル バウ 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 セラード パトス デ ミナス"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "【限定パッケージ】タリーズ ブラジル バウ 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-260415-0003",
+      "product_code": "",
+      "name": "アイスコーヒーブレンド 200g（豆）",
+      "price_jpy": 1690,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル",
+        "グァテマラ",
+        "他"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "アイスコーヒーブレンド 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260415-0003/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-25080113",
+      "product_code": "",
+      "name": "キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "タンザニア マラ州 タリメエリア"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-25080103",
+      "product_code": "",
+      "name": "コスタリカ ラ ミニータ ウェットミル スイートウォッシュド 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（粉）",
+      "origin_countries": [
+        "コスタリカ タラス ロス サントス"
+      ],
+      "tasting_words_en": [
+        "Clean",
+        "Smooth",
+        "Bright"
+      ],
+      "flavor_tags": [
+        "すっきり",
+        "まろやか",
+        "明るい"
+      ],
+      "description": "コスタリカ ラ ミニータ ウェットミル スイートウォッシュド 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080103/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-260805-0001",
+      "product_code": "",
+      "name": "タリーズ アニバーサリーブレンド 200g 豆",
+      "price_jpy": 1800,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル",
+        "タンザニア",
+        "ペルー",
+        "インドネシア"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "タリーズ アニバーサリーブレンド 200g 豆",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0002",
+      "product_code": "",
+      "name": "タリーズ ブラジル バウ イエローブルボン 200g（豆）",
+      "price_jpy": 1535,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 セラード パトス デ ミナス"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "タリーズ ブラジル バウ イエローブルボン 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0002/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-260318-0003",
+      "product_code": "",
+      "name": "タリーズ ブラジル ファゼンダ バレ ド クリスタル 200g（豆）",
+      "price_jpy": 1845,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 ジアマンチーナ"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [],
+      "description": "タリーズ ブラジル ファゼンダ バレ ド クリスタル 200g（豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0003/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    },
+    {
+      "product_id": "gTCJ-beans-25080118",
+      "product_code": "",
+      "name": "デカフェ ブラジル IP農園 200g （豆）",
+      "price_jpy": 1810,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（粉）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 カルモ デ ミナス地区"
+      ],
+      "tasting_words_en": [
+        "Caramel",
+        "Sweet",
+        "Soft"
+      ],
+      "flavor_tags": [
+        "カラメル",
+        "甘み",
+        "やわらか"
+      ],
+      "description": "デカフェ ブラジル IP農園 200g （豆）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080118/",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html"
+    }
+  ]
+}

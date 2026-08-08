@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "updated_at": "2026-08-08",
+  "description": "MVP 15品目の統合インデックス。各チェーン seed は data/seeds/{chain}.beans.seed.json、生成物は data/catalog/mvp_beans.json",
+  "chains": ["doutor", "starbucks", "maruyama", "tullys", "kaldi"],
+  "count": 15,
+  "note": "全155品目は data/catalog/beans.json を参照"
+}

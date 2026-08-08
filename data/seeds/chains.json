@@ -1,0 +1,34 @@
+{
+  "chains": [
+    {
+      "id": "starbucks",
+      "name_ja": "スターバックス",
+      "name_en": "Starbucks",
+      "website": "https://www.starbucks.co.jp/"
+    },
+    {
+      "id": "maruyama",
+      "name_ja": "丸山コーヒー",
+      "name_en": "Maruyama Coffee",
+      "website": "https://www.maruyamacoffee.com/ec/"
+    },
+    {
+      "id": "doutor",
+      "name_ja": "ドトールコーヒー",
+      "name_en": "Doutor Coffee",
+      "website": "https://www.doutor.co.jp/"
+    },
+    {
+      "id": "tullys",
+      "name_ja": "タリーズコーヒー",
+      "name_en": "Tully's Coffee",
+      "website": "https://www.tullys.co.jp/"
+    },
+    {
+      "id": "kaldi",
+      "name_ja": "カルディ",
+      "name_en": "KALDI COFFEE FARM",
+      "website": "https://www.kaldi.co.jp/"
+    }
+  ]
+}

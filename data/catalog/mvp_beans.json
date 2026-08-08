@@ -1,0 +1,465 @@
+{
+  "version": "0.1.0",
+  "generated_at": "2026-08-08T15:56:43.589290+09:00",
+  "count": 15,
+  "beans": [
+    {
+      "id": "doutor-mild-blend-500g",
+      "chain_id": "doutor",
+      "name": "マイルドブレンド コーヒー（豆）500g",
+      "description": "ドトールコーヒーショップの定番ブレンド。「香り高く、甘みのあるコーヒー」を追求し、バランスのとれた味わいに仕上げた逸品。",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "ハイロースト（中深煎）",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ"
+      ],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2781,
+      "weight_g": 500,
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/19",
+      "product_id": 19,
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301112758_65e13d2e3769f.jpg",
+      "image_local": "data/images/doutor/19.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "doutor-golden-mocha-500g",
+      "chain_id": "doutor",
+      "name": "ゴールデンモカブレンド コーヒー（豆）500g",
+      "description": "モカの豊かな風味を活かした奥行きのある味わい。熟したベリーのような甘酸っぱさとローストナッツのような香ばしさが特長。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアムロースト（中煎）",
+      "taste_label_ja": "まろやか",
+      "origin": [
+        "エチオピア（モカ）",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ベリー",
+        "ナッツ",
+        "甘み",
+        "香ばしさ"
+      ],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 45,
+      "sweetness": 76,
+      "caffeine": "medium",
+      "price_jpy": 2850,
+      "weight_g": 500,
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/21",
+      "product_id": 21,
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0301113035_65e13dcb0db3e.jpg",
+      "image_local": "data/images/doutor/21.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "doutor-kilimanjaro-200g",
+      "chain_id": "doutor",
+      "name": "キリマンジャロ（豆）200g",
+      "description": "レモングラスのようなすっきりとした香りに、シトラスを感じる爽やかな酸味、キレのあるのどごし。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアムロースト（中煎）",
+      "taste_label_ja": "すっきり・キレ",
+      "origin": [
+        "タンザニア"
+      ],
+      "flavor_tags": [
+        "シトラス",
+        "レモングラス",
+        "香ばしさ",
+        "キレ"
+      ],
+      "acidity": 80,
+      "body": 40,
+      "bitterness": 50,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1200,
+      "weight_g": 200,
+      "buy_url": "https://onlineshop.doutor.co.jp/products/detail/29",
+      "product_id": 29,
+      "image_url": "https://onlineshop.doutor.co.jp/html/upload/save_image/0929090247_6334e0a75e4b1.jpg",
+      "image_local": "data/images/doutor/29.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "starbucks-light-note-blend-250g",
+      "chain_id": "starbucks",
+      "name": "スターバックス ライトノート ブレンド®",
+      "description": "ミルクチョコレートのような風味、モルトを思わせる香ばしさと甘みが特徴の穏やかな味わいのコーヒーです。\n創業当初から私たちと深いつながりをもつラテンアメリカ産のコーヒーを、軽めの焙煎で仕上げました。",
+      "roast_level": "light",
+      "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
+      "taste_label_ja": "軽やかで親しみやすい味わい",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ミルクチョコレート",
+        "煎ったナッツ",
+        "軽めのコクとミルクチョコレートのような風味"
+      ],
+      "acidity": 50,
+      "body": 35,
+      "bitterness": 25,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1480,
+      "weight_g": 250,
+      "buy_url": "https://menu.starbucks.co.jp/4524785492462",
+      "product_id": "4524785492462",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492462/4524785492462_11.jpg",
+      "image_local": "data/images/starbucks/4524785492462.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "starbucks-pike-place-roast-250g",
+      "chain_id": "starbucks",
+      "name": "パイクプレイス® ロースト",
+      "description": "ココアやプラリネを思わせる風味、なめらかでバランスのとれた味わいのコーヒーです。\n1号店があるシアトルの「パイクプレイスマーケット」の名前を冠したコーヒーは、一日を通して、また毎日でもお楽しみいただきたい味わいです。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+      "taste_label_ja": "毎日でも楽しみたくなるコーヒー",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ナッツ",
+        "チョコレート",
+        "シナモン",
+        "ほのかな香ばしさとなめらかな口あたり"
+      ],
+      "acidity": 50,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1480,
+      "weight_g": 250,
+      "buy_url": "https://menu.starbucks.co.jp/4524785492509",
+      "product_id": "4524785492509",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492509/4524785492509_11.jpg",
+      "image_local": "data/images/starbucks/4524785492509.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "starbucks-kenya-250g",
+      "chain_id": "starbucks",
+      "name": "ケニア",
+      "description": "ジューシーな酸味とグレープフルーツやブラックカラントを思わせる風味が特徴の、エキゾチックな味わいのコーヒーです。\nケニアの豊かな自然によって生み出された味わいは他に類を見ず、私たちに常に驚きを与えてくれます。",
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアム ロースト（豊かな風味）",
+      "taste_label_ja": "フルーティで鮮やかな味わい",
+      "origin": [
+        "シングルオリジン"
+      ],
+      "flavor_tags": [
+        "グレープフルーツ",
+        "ベリー類",
+        "カラント（スグリ）",
+        "グレープフルーツやブラックカラントを思わせる風味"
+      ],
+      "acidity": 80,
+      "body": 55,
+      "bitterness": 45,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1740,
+      "weight_g": 250,
+      "buy_url": "https://menu.starbucks.co.jp/4524785492493",
+      "product_id": "4524785492493",
+      "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785492493/4524785492493_11.jpg",
+      "image_local": "data/images/starbucks/4524785492493.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "maruyama-blend-100g",
+      "chain_id": "maruyama",
+      "name": "丸山珈琲のブレンド",
+      "description": "人気No.1 ダークチョコレートのような風味。味わい深いコク。 創業当時から長年愛され続ける定番のブレンドコーヒーです。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "香ばしさ",
+      "origin": [
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "香ばしさ"
+      ],
+      "acidity": 37,
+      "body": 37,
+      "bitterness": 37,
+      "sweetness": 60,
+      "caffeine": "medium",
+      "price_jpy": 810,
+      "weight_g": 100,
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/24",
+      "product_id": 24,
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0820143311_5f3e0b177adf7.jpg",
+      "image_local": "data/images/maruyama/24.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "maruyama-mocha-akane-100g",
+      "chain_id": "maruyama",
+      "name": "モカブレンド 茜すみれ",
+      "description": "モカコーヒーがお好きな方におすすめの人気の定番ブレンド。 丸山珈琲創業の地である軽井沢では、長く寒さの厳しい冬が終わり、最初に花をつけるのがすみれの花です。 毎年すみれの花の開花とともに、春の訪れを感じます。 コーヒーはアカネ科の植物ということで、すみれの中でも「茜すみれ」と名付けました。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "花の香りと柑橘類の爽やかな風味。",
+      "origin": [
+        "モカ"
+      ],
+      "flavor_tags": [
+        "花の香りと柑橘類の爽やかな風味。"
+      ],
+      "acidity": 37,
+      "body": 37,
+      "bitterness": 37,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 810,
+      "weight_g": 100,
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/26",
+      "product_id": 26,
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0927145058_5d8da342201d6.jpg",
+      "image_local": "data/images/maruyama/26.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "maruyama-samanbaia-geisha-80g",
+      "chain_id": "maruyama",
+      "name": "サマンバイア ゲイシャ 中煎り",
+      "description": "ジャスミンを思わせる香りの中、飲み進めるにつれてアプリコットやオレンジのような酸味と優しい甘さが広がり、滑らかな口当たりが後味の甘さとともに長く続きます。 香りと味わいが複雑に絡みあう、滑らかな口当たりと甘さが絶妙なバランスを作り出すコーヒーです。 ＜ブラジル サマンバイア＞",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "ジャスミン",
+      "origin": [
+        "ブラジル　サマンバイア"
+      ],
+      "flavor_tags": [
+        "ジャスミン",
+        "アプリコット",
+        "オレンジ",
+        "ミント"
+      ],
+      "acidity": 37,
+      "body": 37,
+      "bitterness": 37,
+      "sweetness": 60,
+      "caffeine": "medium",
+      "price_jpy": 2000,
+      "weight_g": 80,
+      "buy_url": "https://www.maruyamacoffee.com/ec/products/detail/3087",
+      "product_id": 3087,
+      "image_url": "https://www.maruyamacoffee.com/ec/upload/save_image/0713152403_6a548483d0cd3.jpg",
+      "image_local": "data/images/maruyama/3087.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "tullys-ハウスブレンド",
+      "chain_id": "tullys",
+      "name": "ハウスブレンド",
+      "description": "ほどよいボディとすっきりとした酸味、スムースな飲み口が特徴です。バランスがよく飲みやすい、タリーズコーヒーの定番の味わいです。",
+      "roast_level": "medium",
+      "roast_label_ja": "",
+      "taste_label_ja": "すっきり・コク",
+      "origin": [
+        "コロンビア",
+        "グァテマラ 他"
+      ],
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "まろやか",
+        "バランス"
+      ],
+      "acidity": 65,
+      "body": 60,
+      "bitterness": 58,
+      "sweetness": 60,
+      "caffeine": "medium",
+      "price_jpy": 1470,
+      "weight_g": 200,
+      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/house_blend.html",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/house_blend_181212.jpg",
+      "image_local": "data/images/tullys/store-house_blend.jpg",
+      "product_id": "store-house_blend",
+      "availability": [
+        "store"
+      ],
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "tullys-タリーズ-アニバーサリーブレンド-200g-豆",
+      "chain_id": "tullys",
+      "name": "タリーズ アニバーサリーブレンド 200g 豆",
+      "description": "タリーズ アニバーサリーブレンド 200g 豆",
+      "roast_level": "medium",
+      "roast_label_ja": "",
+      "taste_label_ja": "",
+      "origin": [
+        "ブラジル",
+        "タンザニア",
+        "ペルー",
+        "インドネシア"
+      ],
+      "flavor_tags": [],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1800,
+      "weight_g": 200,
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260805-0001/",
+      "image_url": null,
+      "image_local": null,
+      "product_id": "gTCJ-beans-260805-0001",
+      "availability": [
+        "ec"
+      ],
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "tullys-キリマンジャロ-kibo-タリメ-スイートウォッシュド-200g-豆",
+      "chain_id": "tullys",
+      "name": "キリマンジャロ KIBO タリメ スイートウォッシュド 200g（豆）",
+      "description": "シトラスや紅茶を感じさせる華やかな香りのコーヒーです。なめらかな口あたりで飲みやすく、まるではちみつやカラメルのような豊かな甘みが広がります。",
+      "roast_level": "medium",
+      "roast_label_ja": "",
+      "taste_label_ja": "",
+      "origin": [
+        "タンザニア マラ州 タリメエリア"
+      ],
+      "flavor_tags": [],
+      "acidity": 50,
+      "body": 50,
+      "bitterness": 50,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-25080113/",
+      "image_url": "https://www.tullys.co.jp/menu/uploads/0454aace61fd0976c896cbbe6bf3b649dc943f16.jpg",
+      "image_local": "data/images/tullys/store-kilimanjaro_kibosw.jpg",
+      "product_id": "gTCJ-beans-25080113",
+      "availability": [
+        "ec",
+        "store"
+      ],
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "kaldi-mild-kaldi-200g",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】マイルドカルディ/200g",
+      "description": "カルディコーヒーファームの看板ブレンド。持続する余韻。マイルドカルディは、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴です。 バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、またコーヒーサービスのようにミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくのもおすすめです。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "やわらかな甘み",
+      "origin": [
+        "ブラジル",
+        "コロンビア他",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み"
+      ],
+      "acidity": 45,
+      "body": 50,
+      "bitterness": 40,
+      "sweetness": 65,
+      "caffeine": "medium",
+      "price_jpy": 1166,
+      "weight_g": 200,
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996019050",
+      "product_id": "4515996019050",
+      "image_url": "https://www.kaldi.co.jp/ec/img/050/4515996019050_M_1m.jpg",
+      "image_local": "data/images/kaldi/4515996019050.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "kaldi-mocha-blend-200g",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】モカブレンド/200g",
+      "description": "モカの甘く芳醇な香り。エチオピア産モカの甘く華やかな香りが特徴のブレンドです。赤い果実のような芳醇な風味をお楽しみください。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "爽やかな酸味",
+      "origin": [
+        "コロンビア",
+        "エチオピア他",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "芳醇"
+      ],
+      "acidity": 72,
+      "body": 50,
+      "bitterness": 35,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1382,
+      "weight_g": 200,
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015052",
+      "product_id": "4515996015052",
+      "image_url": "https://www.kaldi.co.jp/ec/img/052/4515996015052_M_1m.jpg",
+      "image_local": "data/images/kaldi/4515996015052.jpg",
+      "source": "scraped",
+      "available": true
+    },
+    {
+      "id": "kaldi-kilimanjaro-200g",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】キリマンジャロ/200g",
+      "description": "甘酸っぱい香りとキレのある酸味。アフリカ最高峰のキリマンジャロ山で有名なタンザニアのコーヒーです。甘酸っぱい果実を思わせる、キレの良い酸味が特徴です。",
+      "roast_level": "medium",
+      "roast_label_ja": "中煎り",
+      "taste_label_ja": "爽やかな酸味",
+      "origin": [
+        "タンザニア"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "酸味"
+      ],
+      "acidity": 72,
+      "body": 50,
+      "bitterness": 35,
+      "sweetness": 50,
+      "caffeine": "medium",
+      "price_jpy": 1490,
+      "weight_g": 200,
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996015120",
+      "product_id": "4515996015120",
+      "image_url": "https://www.kaldi.co.jp/ec/img/120/4515996015120_M_1m.jpg",
+      "image_local": "data/images/kaldi/4515996015120.jpg",
+      "source": "scraped",
+      "available": true
+    }
+  ]
+}
