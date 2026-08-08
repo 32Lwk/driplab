@@ -9,9 +9,11 @@ FROM node:20-alpine AS builder
 WORKDIR /app
 COPY packages/recommender ./packages/recommender
 COPY packages/web ./packages/web
+COPY data/catalog/beans.json ./data/catalog/beans.json
+COPY scripts/sync-web-beans.mjs ./scripts/sync-web-beans.mjs
 COPY --from=deps /app/packages/web/node_modules ./packages/web/node_modules
 WORKDIR /app/packages/web
-RUN npm run build
+RUN node ../../scripts/sync-web-beans.mjs && npm run build
 
 FROM node:20-alpine AS runner
 WORKDIR /app
