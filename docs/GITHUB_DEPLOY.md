@@ -44,8 +44,17 @@ git push origin main
   → Cloud Run driplab
 ```
 
-GitHub Actions が Workload Identity Federation で GCP に認証し、Cloud Build トリガーを起動します。
+GitHub Actions が Workload Identity Federation で GCP に認証し、Cloud Build トリガー `driplab-deploy-main` を起動します。
 Cloud Build GitHub App の push Webhook だけではトリガーが動かない場合があるため、Actions を正としています。
+
+### GitHub Actions 用 IAM（初回セットアップ済み）
+
+| リソース | 値 |
+|----------|-----|
+| Workload Identity Pool | `github-pool` |
+| OIDC Provider | `github-provider` |
+| サービスアカウント | `github-actions-deploy@medicine-recommend.iam.gserviceaccount.com` |
+| ワークフロー | `.github/workflows/deploy.yml` |
 
 ## 3. 手動デプロイ（ローカル）
 
