@@ -35,6 +35,11 @@ export interface BeanProduct {
   display_name: string;
   description?: string;
   roast_level: RoastLevel;
+  /**
+   * Absolute roast index after cross-chain calibration (0=true light … 3=very dark).
+   * Used for scoring; roast_level is the snapped category for recipes/UI.
+   */
+  roast_index?: number;
   roast_label_ja?: string;
   taste_label_ja?: string;
   origin?: string[];

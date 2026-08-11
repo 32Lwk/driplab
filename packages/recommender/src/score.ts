@@ -25,24 +25,29 @@ function dimDistance(a: number, b: number): number {
   return d * d;
 }
 
+const ROAST_ORDER: RoastLevel[] = ["light", "medium", "medium_dark", "dark"];
+
+function beanRoastIndex(bean: BeanProduct): number {
+  if (typeof bean.roast_index === "number" && !Number.isNaN(bean.roast_index)) {
+    return bean.roast_index;
+  }
+  const idx = ROAST_ORDER.indexOf(bean.roast_level);
+  return idx >= 0 ? idx : 1;
+}
+
 function roastDistance(
   preferred: RoastLevel[],
-  actual: RoastLevel,
+  bean: BeanProduct,
   idealIndex: number,
 ): number {
-  if (preferred.includes(actual)) {
-    const order: RoastLevel[] = ["light", "medium", "medium_dark", "dark"];
-    const actualIdx = order.indexOf(actual);
-    if (actualIdx >= 0) {
-      return Math.abs(idealIndex - actualIdx) / (order.length - 1) * 0.35;
-    }
-    return 0;
+  const actualIdx = beanRoastIndex(bean);
+  const span = ROAST_ORDER.length - 1;
+
+  if (preferred.includes(bean.roast_level)) {
+    return (Math.abs(idealIndex - actualIdx) / span) * 0.35;
   }
 
-  const order: RoastLevel[] = ["light", "medium", "medium_dark", "dark"];
-  const actualIdx = order.indexOf(actual);
-  if (actualIdx < 0) return 0.5;
-  return Math.abs(idealIndex - actualIdx) / (order.length - 1);
+  return Math.abs(idealIndex - actualIdx) / span;
 }
 
 export function scoreBean(
@@ -59,7 +64,7 @@ export function scoreBean(
     WEIGHTS.caffeine *
       dimDistance(ideal.target_caffeine_num, CAFFEINE_NUM[bean.caffeine]) +
     WEIGHTS.roast *
-      roastDistance(ideal.preferred_roast, bean.roast_level, ideal.target_roast_index);
+      roastDistance(ideal.preferred_roast, bean, ideal.target_roast_index);
 
   return Math.round((1 - distance) * 10000) / 10000;
 }

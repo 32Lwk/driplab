@@ -50,6 +50,19 @@ score = 1 - normalizedDistance(ideal, bean);
 - Top1 = primary
 - Top2-3 = alternatives（**チェーン被りを避ける**）
 
+### クロスチェーン補正（Plan A）
+
+各社の焙煎・味わい表記は社内相対スケールのため、正規化後に affine 補正する。
+
+```typescript
+score_global = clamp(0, 100, round(OFFSET + GAIN * score_local))
+```
+
+- 係数表: `packages/recommender/src/calibration.ts`（`CHAIN_TASTE_CALIBRATION`）
+- 基準点 ≈ カルディ・マイルド相当の日常カップ（グローバル 50）
+- 焙煎は絶対指数 `roast_index`（0=真の浅煎り … 3=極深煎り）へ再マップし、`roast_level` はスナップ結果を保持
+- 例: スタバ Blonde → index 0.8 / BB ボールド → 2.0（dark 扱いしない）/ 猿田彦浅煎り → 0.2
+
 ## Step 3: 器具 → 抽出レシピ
 
 豆の `roast_level` + `equipment` + `mood.alertness` からテンプレ選択。

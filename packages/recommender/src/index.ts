@@ -15,6 +15,12 @@ export {
   equipmentReasonPhrase,
 } from "./equipment";
 export { normalizeBean, normalizeCatalog } from "./normalize";
+export {
+  calibrateTasteScores,
+  calibrateRoastLevel,
+  absoluteRoastIndex,
+  CHAIN_TASTE_CALIBRATION,
+} from "./calibration";
 export { formatProductName, isBundleProduct, isBulkVariant } from "./displayName";
 export { cleanStoryText, resolveStoryFields, storyTextsEqual } from "./storyText";
 export {

@@ -35,6 +35,13 @@ const ROAST_IDX: Record<RoastLevel, number> = {
   dark: 3,
 };
 
+function beanRoastIndex(bean: BeanProduct): number {
+  if (typeof bean.roast_index === "number" && !Number.isNaN(bean.roast_index)) {
+    return bean.roast_index;
+  }
+  return ROAST_IDX[bean.roast_level] ?? 1;
+}
+
 interface ScoredCandidate {
   bean: BeanProduct;
   beanScore: number;
@@ -50,7 +57,7 @@ function moodAffinityBonus(
   ideal: IdealCoffeeProfile,
 ): number {
   const bitternessPref = 100 - mood.sweetness_pref;
-  const roastIdx = ROAST_IDX[bean.roast_level] ?? 1;
+  const roastIdx = beanRoastIndex(bean);
   const caffeine = CAFFEINE_NUM[bean.caffeine];
 
   const align = (pref: number, value: number) =>
@@ -199,7 +206,7 @@ function moodBeanRank(
   ideal: IdealCoffeeProfile,
 ): number {
   const bitternessPref = 100 - mood.sweetness_pref;
-  const roastIdx = ROAST_IDX[bean.roast_level] ?? 1;
+  const roastIdx = beanRoastIndex(bean);
   const caffeine = CAFFEINE_NUM[bean.caffeine];
 
   const distance =
