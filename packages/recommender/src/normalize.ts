@@ -1,3 +1,7 @@
+import {
+  calibrateRoastLevel,
+  calibrateTasteScores,
+} from "./calibration";
 import { formatProductName, isBundleProduct, isBulkVariant } from "./displayName";
 import { resolveStoryFields, stripEmbeddedCss } from "./storyText";
 import type { BeanProduct, CaffeineLevel, ChainId, RoastLevel } from "./types";
@@ -345,9 +349,18 @@ export function normalizeBean(raw: RawBean): BeanProduct | null {
   const id = str(raw.id) ?? `${chain_id}-${String(productId)}`;
   const display_name = formatProductName(name, chain_id);
 
-  const roast_level = inferRoast(raw);
-  const defaults = ROAST_DEFAULTS[roast_level];
-  const taste = inferTasteProfile(raw, roast_level);
+  // Local (within-chain) roast + taste, then cross-chain Plan A calibration.
+  const localRoast = inferRoast(raw);
+  const defaults = ROAST_DEFAULTS[localRoast];
+  const localTaste = inferTasteProfile(raw, localRoast);
+  const taste = calibrateTasteScores(chain_id, localTaste);
+  const roastLabel = str(raw.roast_label_ja) ?? str(raw.roast as string);
+  const { roast_level, roast_index } = calibrateRoastLevel(
+    chain_id,
+    localRoast,
+    roastLabel,
+    name,
+  );
   const tasteLabel =
     extractTasteLabel(raw) ??
     str(raw.taste_label_ja) ??
@@ -382,7 +395,8 @@ export function normalizeBean(raw: RawBean): BeanProduct | null {
     display_name,
     description: episode,
     roast_level,
-    roast_label_ja: str(raw.roast_label_ja) ?? str(raw.roast as string),
+    roast_index,
+    roast_label_ja: roastLabel,
     taste_label_ja: tasteLabel,
     origin: origin.length > 0 ? origin : undefined,
     flavor_tags: flavor_tags.length > 0 ? flavor_tags : undefined,

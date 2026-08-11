@@ -8,13 +8,21 @@ export {
 } from "./beanImage";
 export { moodToIdeal, roastFromMood, idealRoastIndex } from "./mood";
 export { scoreBean } from "./score";
-export { buildRecipe } from "./recipe";
 export {
   scoreEquipment,
   pickBestEquipment,
   equipmentReasonPhrase,
+  methodChangeNote,
 } from "./equipment";
+export { buildRecipe } from "./recipe";
+export { buildReason, buildReasonParts } from "./reason";
 export { normalizeBean, normalizeCatalog } from "./normalize";
+export {
+  calibrateTasteScores,
+  calibrateRoastLevel,
+  absoluteRoastIndex,
+  CHAIN_TASTE_CALIBRATION,
+} from "./calibration";
 export { formatProductName, isBundleProduct, isBulkVariant } from "./displayName";
 export { cleanStoryText, resolveStoryFields, storyTextsEqual } from "./storyText";
 export {
@@ -34,4 +42,5 @@ export type {
   RecommendRequest,
   RecommendResponse,
   RecommendItem,
+  RecommendReasonParts,
 } from "./types";

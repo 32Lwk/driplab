@@ -35,6 +35,11 @@ export interface BeanProduct {
   display_name: string;
   description?: string;
   roast_level: RoastLevel;
+  /**
+   * Absolute roast index after cross-chain calibration (0=true light … 3=very dark).
+   * Used for scoring; roast_level is the snapped category for recipes/UI.
+   */
+  roast_index?: number;
   roast_label_ja?: string;
   taste_label_ja?: string;
   origin?: string[];
@@ -98,14 +103,27 @@ export interface BrewRecipe {
   steps?: string[];
   notes?: string;
   reference_url?: string;
+  /** Short explanation of what this method changes in the cup */
+  suitability_note?: string;
+}
+
+export interface RecommendReasonParts {
+  /** User mood / preference summary */
+  mood_summary: string;
+  /** Why this bean */
+  bean_fit: string;
+  /** Why this brew method + parameters */
+  brew_fit: string;
 }
 
 export interface RecommendRequest {
   mood: MoodProfile;
-  /** 使える器具を限定する場合のみ指定。未指定なら全器具から提案 */
+  /** Owned / available equipment. When set, recommendations stay inside this set. */
   equipment?: EquipmentId[];
   /** チェーンを限定する場合のみ指定。未指定なら全チェーン */
   chains?: ChainId[];
+  /** Drip servings (1 or 2). Default 2. */
+  servings?: number;
 }
 
 export interface RecommendItem {
@@ -134,6 +152,7 @@ export interface RecommendItem {
   processing?: string;
   recipe: BrewRecipe;
   reason: string;
+  reason_parts?: RecommendReasonParts;
 }
 
 export interface RecommendResponse {
