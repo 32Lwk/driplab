@@ -3,10 +3,12 @@
 import { useCallback, useState } from "react";
 import type {
   ChainId,
+  EquipmentId,
   MoodProfile,
   RecommendResponse,
 } from "@driplab/recommender";
 import { ChainSelector } from "@/components/ChainSelector";
+import { EquipmentSelector } from "@/components/EquipmentSelector";
 import { MoodSliders } from "@/components/MoodSliders";
 import { PresetButtons } from "@/components/PresetButtons";
 import { ResultPanel } from "@/components/ResultPanel";
@@ -18,9 +20,14 @@ const DEFAULT_MOOD: MoodProfile = {
   sweetness_pref: 50,
 };
 
+const DEFAULT_EQUIPMENT: EquipmentId[] = ["drip"];
+
 export function HomeClient() {
   const [mood, setMood] = useState<MoodProfile>(DEFAULT_MOOD);
+  const [equipment, setEquipment] =
+    useState<EquipmentId[]>(DEFAULT_EQUIPMENT);
   const [chainFilter, setChainFilter] = useState<ChainId | "all">("all");
+  const [servings, setServings] = useState<1 | 2>(2);
   const [result, setResult] = useState<RecommendResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -34,6 +41,8 @@ export function HomeClient() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           mood,
+          equipment,
+          servings,
           chains: chainFilter === "all" ? undefined : [chainFilter],
         }),
       });
@@ -49,7 +58,7 @@ export function HomeClient() {
     } finally {
       setLoading(false);
     }
-  }, [mood, chainFilter]);
+  }, [mood, equipment, servings, chainFilter]);
 
   return (
     <main className="app-main">
@@ -62,6 +71,27 @@ export function HomeClient() {
             <p className="section-title">今日の気分</p>
             <MoodSliders mood={mood} onChange={setMood} />
 
+            <p className="section-title">持っている器具</p>
+            <EquipmentSelector value={equipment} onChange={setEquipment} />
+
+            <p className="section-title">杯数</p>
+            <div className="filter-row" style={{ marginTop: "0.25rem" }}>
+              <button
+                type="button"
+                className={`filter-chip${servings === 1 ? " active" : ""}`}
+                onClick={() => setServings(1)}
+              >
+                1杯
+              </button>
+              <button
+                type="button"
+                className={`filter-chip${servings === 2 ? " active" : ""}`}
+                onClick={() => setServings(2)}
+              >
+                2杯
+              </button>
+            </div>
+
             <p className="section-title">チェーン（任意）</p>
             <ChainSelector value={chainFilter} onChange={setChainFilter} />
           </div>
@@ -71,7 +101,7 @@ export function HomeClient() {
               type="button"
               className="primary-btn"
               onClick={submit}
-              disabled={loading}
+              disabled={loading || equipment.length === 0}
             >
               {loading ? "提案を作成中…" : "今日の一杯を見つける"}
             </button>
@@ -97,7 +127,7 @@ export function HomeClient() {
               style={{ color: "var(--text-muted)", textAlign: "center" }}
             >
               <p style={{ margin: 0 }}>
-                スライダーで気分を選んで
+                気分と所持器具を選んで
                 <br />
                 「今日の一杯を見つける」を押してください
               </p>
@@ -107,7 +137,7 @@ export function HomeClient() {
                   fontSize: "0.8125rem",
                 }}
               >
-                豆・抽出器具・レシピをまとめて提案します
+                豆・淹れ方・レシピを、理由付きで提案します
               </p>
             </div>
           )}

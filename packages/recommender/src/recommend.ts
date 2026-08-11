@@ -2,7 +2,7 @@ import { resolveBeanImageUrls } from "./beanImage";
 import { CHAIN_LABELS } from "./constants";
 import { pickBestEquipment, rankOtherEquipment } from "./equipment";
 import { moodToIdeal } from "./mood";
-import { buildReason } from "./reason";
+import { buildReason, buildReasonParts, otherMethodBlurb } from "./reason";
 import { buildRecipe } from "./recipe";
 import { scoreBean } from "./score";
 import type {
@@ -88,9 +88,11 @@ function toRecommendItem(
   equipmentScore: number,
   combinedScore: number,
   mood: RecommendRequest["mood"],
+  servings = 2,
 ): RecommendItem {
-  const recipe = buildRecipe(bean, equipment, mood);
+  const recipe = buildRecipe(bean, equipment, mood, servings);
   const { src: imageUrl, fallbacks: imageFallbacks } = resolveBeanImageUrls(bean);
+  const reason_parts = buildReasonParts(bean, mood, recipe);
   return {
     chain_id: bean.chain_id,
     chain_name_ja: CHAIN_LABELS[bean.chain_id],
@@ -115,6 +117,7 @@ function toRecommendItem(
     processing: bean.processing,
     recipe,
     reason: buildReason(bean, mood, recipe, equipmentScore),
+    reason_parts,
   };
 }
 
@@ -255,6 +258,8 @@ export function recommend(
   request: RecommendRequest,
 ): RecommendResponse {
   const available = request.equipment?.length ? request.equipment : undefined;
+  const servings =
+    request.servings && request.servings <= 1 ? 1 : 2;
   let pool = beans.filter((b) => b.available !== false);
   if (request.chains?.length) {
     const allowed = new Set(request.chains);
@@ -262,15 +267,14 @@ export function recommend(
   }
 
   const candidates = scoreCandidates(pool, request.mood, available);
+  if (candidates.length === 0) {
+    throw new Error("No beans available for recommendation");
+  }
   const primaryCandidate = pickPrimaryCandidate(candidates, request.mood);
   const top = pickTopCandidates(
     candidates.filter((c) => c.bean.id !== primaryCandidate.bean.id),
     4,
   );
-
-  if (!primaryCandidate) {
-    throw new Error("No beans available for recommendation");
-  }
 
   const primary = toRecommendItem(
     primaryCandidate.bean,
@@ -279,6 +283,7 @@ export function recommend(
     primaryCandidate.equipmentScore,
     primaryCandidate.combinedScore,
     request.mood,
+    servings,
   );
 
   const alternatives = top.map((item) =>
@@ -289,6 +294,7 @@ export function recommend(
       item.equipmentScore,
       item.combinedScore,
       request.mood,
+      servings,
     ),
   );
 
@@ -297,9 +303,18 @@ export function recommend(
     request.mood,
     primaryCandidate.equipment,
     available,
-  ).map(({ equipment }) =>
-    buildRecipe(primaryCandidate.bean, equipment, request.mood),
-  );
+  ).map(({ equipment, score }) => {
+    const recipe = buildRecipe(
+      primaryCandidate.bean,
+      equipment,
+      request.mood,
+      servings,
+    );
+    return {
+      ...recipe,
+      suitability_note: otherMethodBlurb(equipment, score),
+    };
+  });
 
   return { primary, alternatives, other_recipes };
 }

@@ -8,12 +8,14 @@ export {
 } from "./beanImage";
 export { moodToIdeal, roastFromMood, idealRoastIndex } from "./mood";
 export { scoreBean } from "./score";
-export { buildRecipe } from "./recipe";
 export {
   scoreEquipment,
   pickBestEquipment,
   equipmentReasonPhrase,
+  methodChangeNote,
 } from "./equipment";
+export { buildRecipe } from "./recipe";
+export { buildReason, buildReasonParts } from "./reason";
 export { normalizeBean, normalizeCatalog } from "./normalize";
 export {
   calibrateTasteScores,
@@ -40,4 +42,5 @@ export type {
   RecommendRequest,
   RecommendResponse,
   RecommendItem,
+  RecommendReasonParts,
 } from "./types";

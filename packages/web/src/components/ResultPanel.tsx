@@ -90,7 +90,26 @@ function ResultCardInner({
             {[price, weight].filter(Boolean).join(" · ")}
           </p>
         )}
-        <p className="result-reason">{item.reason}</p>
+        <p className="result-reason">
+          {item.reason_parts ? (
+            <>
+              <span className="reason-block">
+                <strong>志向</strong>
+                {item.reason_parts.mood_summary}
+              </span>
+              <span className="reason-block">
+                <strong>豆</strong>
+                {item.reason_parts.bean_fit}
+              </span>
+              <span className="reason-block">
+                <strong>淹れ方</strong>
+                {item.reason_parts.brew_fit}
+              </span>
+            </>
+          ) : (
+            item.reason
+          )}
+        </p>
         {item.episode && (
           <div className="episode-box">
             <h4>この豆のストーリー</h4>
@@ -176,11 +195,15 @@ export function ResultPanel({
           </summary>
           <div className="alternatives-list">
             {otherRecipes.map((recipe) => (
-              <RecipeDetails
-                key={recipe.method}
-                recipe={recipe}
-                title={recipe.method_ja}
-              />
+              <div key={recipe.method} className="other-recipe-block">
+                {recipe.suitability_note && (
+                  <p className="other-recipe-why">{recipe.suitability_note}</p>
+                )}
+                <RecipeDetails
+                  recipe={recipe}
+                  title={recipe.method_ja}
+                />
+              </div>
             ))}
           </div>
         </details>
