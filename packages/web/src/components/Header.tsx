@@ -6,6 +6,7 @@ import { CoffeeIcon } from "./CoffeeIcon";
 
 const NAV_ITEMS = [
   { href: "/", label: "今日の一杯" },
+  { href: "/favorites", label: "お気に入り" },
   { href: "/beans", label: "豆一覧" },
   { href: "/learn", label: "コーヒーを知る" },
   { href: "/methods", label: "淹れ方" },
@@ -21,7 +22,7 @@ export function Header() {
           <CoffeeIcon size={36} />
           <div>
             <span className="site-title">DripLab</span>
-            <span className="site-tagline">気分で選ぶ、今日の一杯</span>
+            <span className="site-tagline">気分・食事で選ぶ、今日の一杯</span>
           </div>
         </Link>
 

@@ -94,6 +94,7 @@ function toRecommendItem(
   const { src: imageUrl, fallbacks: imageFallbacks } = resolveBeanImageUrls(bean);
   const reason_parts = buildReasonParts(bean, mood, recipe);
   return {
+    bean_id: bean.id,
     chain_id: bean.chain_id,
     chain_name_ja: CHAIN_LABELS[bean.chain_id],
     product_name: bean.display_name,

@@ -116,6 +116,63 @@ export interface RecommendReasonParts {
   brew_fit: string;
 }
 
+export interface PairingReasonParts {
+  /** Food / pairing context summary */
+  food_summary: string;
+  /** Why this bean fits the food */
+  bean_fit: string;
+  /** Why this brew method + parameters for the food */
+  brew_fit: string;
+}
+
+export type RecommendMode = "mood" | "pairing";
+
+export type ReadjustDirection =
+  | "more_acidity"
+  | "less_bitterness"
+  | "stronger"
+  | "lighter";
+
+export interface PairingRequest {
+  food_preset_id?: string;
+  food_text?: string;
+  equipment?: EquipmentId[];
+  chains?: ChainId[];
+  servings?: number;
+}
+
+export interface PairingItem extends Omit<RecommendItem, "reason_parts"> {
+  pairing_reason: string;
+  food_label: string;
+  food_preset_id: string;
+  reason_parts?: PairingReasonParts;
+}
+
+export interface PairingResponse {
+  primary: PairingItem;
+  alternatives: PairingItem[];
+  other_recipes?: BrewRecipe[];
+  food_preset_id: string;
+  food_label: string;
+  food_source: "preset" | "free_text";
+  match_confidence: number;
+}
+
+export interface ReadjustRequest {
+  mode: RecommendMode;
+  direction: ReadjustDirection;
+  /** Bean id to keep fixed (recipe-only readjust) */
+  fixed_bean_id?: string;
+  /** Current mood (mood mode) */
+  mood?: MoodProfile;
+  /** Current food context (pairing mode) */
+  food_preset_id?: string;
+  food_text?: string;
+  equipment?: EquipmentId[];
+  chains?: ChainId[];
+  servings?: number;
+}
+
 export interface RecommendRequest {
   mood: MoodProfile;
   /** Owned / available equipment. When set, recommendations stay inside this set. */
@@ -127,6 +184,7 @@ export interface RecommendRequest {
 }
 
 export interface RecommendItem {
+  bean_id: string;
   chain_id: ChainId;
   chain_name_ja: string;
   product_name: string;
