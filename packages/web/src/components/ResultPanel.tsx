@@ -1,8 +1,18 @@
 "use client";
 
-import type { RecommendItem, BrewRecipe } from "@driplab/recommender";
+import type {
+  PairingItem,
+  PairingReasonParts,
+  ReadjustDirection,
+  RecommendItem,
+  RecommendMode,
+  RecommendReasonParts,
+  MoodProfile,
+  BrewRecipe,
+} from "@driplab/recommender";
 import { storyTextsEqual } from "@driplab/recommender";
 import { BeanImage } from "@/components/BeanImage";
+import { FavoriteButton, ReadjustButtons } from "@/components/FavoriteButton";
 import { RecipeDetails } from "@/components/RecipeDetails";
 import { showEpisodeSourceLink } from "@/lib/beanLinks";
 
@@ -11,12 +21,74 @@ function formatPrice(yen?: number): string | null {
   return `¥${yen.toLocaleString("ja-JP")}`;
 }
 
+function ReasonBlocks({
+  mode,
+  reasonParts,
+  fallbackReason,
+}: {
+  mode: RecommendMode;
+  reasonParts?: RecommendReasonParts | PairingReasonParts;
+  fallbackReason: string;
+}) {
+  if (!reasonParts) {
+    return <>{fallbackReason}</>;
+  }
+
+  if (mode === "pairing" && "food_summary" in reasonParts) {
+    const p = reasonParts as PairingReasonParts;
+    return (
+      <>
+        <span className="reason-block">
+          <strong>食事</strong>
+          {p.food_summary}
+        </span>
+        <span className="reason-block">
+          <strong>豆</strong>
+          {p.bean_fit}
+        </span>
+        <span className="reason-block">
+          <strong>淹れ方</strong>
+          {p.brew_fit}
+        </span>
+      </>
+    );
+  }
+
+  const p = reasonParts as RecommendReasonParts;
+  return (
+    <>
+      <span className="reason-block">
+        <strong>志向</strong>
+        {p.mood_summary}
+      </span>
+      <span className="reason-block">
+        <strong>豆</strong>
+        {p.bean_fit}
+      </span>
+      <span className="reason-block">
+        <strong>淹れ方</strong>
+        {p.brew_fit}
+      </span>
+    </>
+  );
+}
+
 function ResultCardInner({
   item,
   variant,
+  mode,
+  mood,
+  foodLabel,
+  foodPresetId,
+  pairingReason,
 }: {
-  item: RecommendItem;
+  item: RecommendItem | PairingItem;
   variant: "primary" | "alt";
+  mode: RecommendMode;
+  mood?: MoodProfile;
+  foodLabel?: string;
+  foodPresetId?: string;
+  pairingReason?: string;
 }) {
   const price = formatPrice(item.price_jpy);
   const weight = item.weight_g ? `${item.weight_g}g` : null;
@@ -27,7 +99,10 @@ function ResultCardInner({
         {item.image_url ? (
           <BeanImage
             src={item.image_url}
-            fallbacks={item.image_fallback_urls ?? (item.image_fallback_url ? [item.image_fallback_url] : undefined)}
+            fallbacks={
+              item.image_fallback_urls ??
+              (item.image_fallback_url ? [item.image_fallback_url] : undefined)
+            }
             alt={item.product_name}
             loading="lazy"
           />
@@ -68,7 +143,10 @@ function ResultCardInner({
         <div className="result-image-wrap">
           <BeanImage
             src={item.image_url}
-            fallbacks={item.image_fallback_urls ?? (item.image_fallback_url ? [item.image_fallback_url] : undefined)}
+            fallbacks={
+              item.image_fallback_urls ??
+              (item.image_fallback_url ? [item.image_fallback_url] : undefined)
+            }
             alt={item.product_name}
             loading="eager"
           />
@@ -77,7 +155,14 @@ function ResultCardInner({
       <div className="result-body">
         <div className="result-chain">{item.chain_name_ja}</div>
         <h2 className="result-name">{item.product_name}</h2>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem", marginBottom: "0.75rem" }}>
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "0.5rem",
+            marginBottom: "0.75rem",
+          }}
+        >
           <span className="result-score">
             マッチ度 {Math.round(item.match_score * 100)}%
           </span>
@@ -90,25 +175,18 @@ function ResultCardInner({
             {[price, weight].filter(Boolean).join(" · ")}
           </p>
         )}
+        {pairingReason && mode === "pairing" && (
+          <div className="pairing-reason-box">
+            <h4>なぜこの食事に合う？</h4>
+            <p>{pairingReason}</p>
+          </div>
+        )}
         <p className="result-reason">
-          {item.reason_parts ? (
-            <>
-              <span className="reason-block">
-                <strong>志向</strong>
-                {item.reason_parts.mood_summary}
-              </span>
-              <span className="reason-block">
-                <strong>豆</strong>
-                {item.reason_parts.bean_fit}
-              </span>
-              <span className="reason-block">
-                <strong>淹れ方</strong>
-                {item.reason_parts.brew_fit}
-              </span>
-            </>
-          ) : (
-            item.reason
-          )}
+          <ReasonBlocks
+            mode={mode}
+            reasonParts={item.reason_parts}
+            fallbackReason={item.reason}
+          />
         </p>
         {item.episode && (
           <div className="episode-box">
@@ -158,34 +236,94 @@ function ResultCardInner({
           </p>
         )}
         <RecipeDetails recipe={item.recipe} />
-        <a
-          className="buy-link"
-          href={item.buy_url}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          購入ページへ
-        </a>
+        <div className="result-actions">
+          <FavoriteButton
+            beanId={item.bean_id}
+            mode={mode}
+            chainName={item.chain_name_ja}
+            productName={item.product_name}
+            buyUrl={item.buy_url}
+            imageUrl={item.image_url}
+            recipe={item.recipe}
+            mood={mood}
+            foodLabel={foodLabel}
+            foodPresetId={foodPresetId}
+            pairingReason={pairingReason}
+          />
+          <a
+            className="buy-link"
+            href={item.buy_url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            購入ページへ
+          </a>
+        </div>
       </div>
     </article>
   );
 }
 
 interface ResultPanelProps {
-  primary: RecommendItem;
-  alternatives: RecommendItem[];
+  mode: RecommendMode;
+  primary: RecommendItem | PairingItem;
+  alternatives: (RecommendItem | PairingItem)[];
   otherRecipes?: BrewRecipe[];
+  pairingReason?: string;
+  foodLabel?: string;
+  foodPresetId?: string;
+  mood?: MoodProfile;
+  loading?: boolean;
+  onReadjust?: (direction: ReadjustDirection, recipeOnly: boolean) => void;
+  onEditConditions?: () => void;
 }
 
 export function ResultPanel({
+  mode,
   primary,
   alternatives,
   otherRecipes,
+  pairingReason,
+  foodLabel,
+  foodPresetId,
+  mood,
+  loading = false,
+  onReadjust,
+  onEditConditions,
 }: ResultPanelProps) {
   return (
     <div className="result-panel">
-      <p className="section-title">今日の一杯</p>
-      <ResultCardInner item={primary} variant="primary" />
+      <p className="section-title">
+        {mode === "pairing" ? "食事に合う一杯" : "今日の一杯"}
+      </p>
+      <ResultCardInner
+        item={primary}
+        variant="primary"
+        mode={mode}
+        mood={mood}
+        foodLabel={foodLabel}
+        foodPresetId={foodPresetId}
+        pairingReason={pairingReason ?? (primary as PairingItem).pairing_reason}
+      />
+
+      {onReadjust && (
+        <ReadjustButtons
+          mode={mode}
+          loading={loading}
+          onReadjust={onReadjust}
+        />
+      )}
+
+      {onEditConditions && (
+        <button
+          type="button"
+          className="ghost-btn"
+          style={{ marginTop: "0.5rem" }}
+          onClick={onEditConditions}
+        >
+          条件を編集して豆も再提案
+        </button>
+      )}
 
       {otherRecipes && otherRecipes.length > 0 && (
         <details className="alternatives">
@@ -199,10 +337,7 @@ export function ResultPanel({
                 {recipe.suitability_note && (
                   <p className="other-recipe-why">{recipe.suitability_note}</p>
                 )}
-                <RecipeDetails
-                  recipe={recipe}
-                  title={recipe.method_ja}
-                />
+                <RecipeDetails recipe={recipe} title={recipe.method_ja} />
               </div>
             ))}
           </div>
@@ -221,6 +356,7 @@ export function ResultPanel({
                 key={`${item.chain_id}-${item.product_name}`}
                 item={item}
                 variant="alt"
+                mode={mode}
               />
             ))}
           </div>

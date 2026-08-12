@@ -1,4 +1,20 @@
 export { recommend } from "./recommend";
+export { pair } from "./pairing";
+export { readjust } from "./readjust";
+export type { ReadjustResponse } from "./readjust";
+export {
+  FOOD_PRESETS,
+  getFoodPreset,
+  matchPresetFromText,
+} from "./foodPresets";
+export type { FoodPreset, FoodIdealProfile } from "./foodPresets";
+export {
+  scoreEquipmentForPairing,
+  pickBestEquipmentForPairing,
+  pairingEquipmentPhrase,
+} from "./pairingEquipment";
+export { buildPairingRecipe } from "./pairingRecipe";
+export { buildPairingReasonParts } from "./pairingReason";
 export {
   resolveBeanImageUrl,
   resolveBeanImageUrls,
@@ -43,4 +59,11 @@ export type {
   RecommendResponse,
   RecommendItem,
   RecommendReasonParts,
+  PairingRequest,
+  PairingResponse,
+  PairingItem,
+  PairingReasonParts,
+  RecommendMode,
+  ReadjustDirection,
+  ReadjustRequest,
 } from "./types";
