@@ -21,6 +21,8 @@ const CHAIN_BOILERPLATE: Partial<Record<ChainId, RegExp>> = {
     /猿田彦珈琲は東京・恵比寿発のスペシャルティコーヒー[^。]*。/g,
   bluebottle:
     /ブルーボトルコーヒーは鮮度と品質にこだわり[^。]*。/g,
+  saza:
+    /サザコーヒーは[^。]*焙煎[^。]*。/g,
 };
 
 const CSS_BLOCK_COMMENT = /\/\*[\s\S]*?\*\//g;

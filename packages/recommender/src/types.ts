@@ -8,7 +8,8 @@ export type ChainId =
   | "hoshino"
   | "ogawa"
   | "sarutahiko"
-  | "bluebottle";
+  | "bluebottle"
+  | "saza";
 
 export type RoastLevel = "light" | "medium" | "medium_dark" | "dark";
 

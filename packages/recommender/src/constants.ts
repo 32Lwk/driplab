@@ -11,6 +11,7 @@ export const CHAIN_LABELS: Record<ChainId, string> = {
   ogawa: "小川珈琲",
   sarutahiko: "猿田彦珈琲",
   bluebottle: "ブルーボトル",
+  saza: "サザコーヒー",
 };
 
 export const EQUIPMENT_OPTIONS: { id: EquipmentId; name_ja: string }[] = [

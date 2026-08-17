@@ -42,7 +42,8 @@
       "purchase_channel": "online",
       "seller": "日本レストランシステム株式会社",
       "item_name_ja": "星乃ブレンド",
-      "content_label": "500g ※豆は挽いていない状態です。"
+      "content_label": "500g ※豆は挽いていない状態です。",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34500100.jpg"
     },
     {
       "product_id": "34501100",
@@ -75,7 +76,8 @@
       "purchase_channel": "online",
       "seller": "日本レストランシステム株式会社",
       "item_name_ja": "星乃珈琲・珈琲豆【アイスブレンド】",
-      "content_label": "400g ※豆は挽いていない状態です。"
+      "content_label": "400g ※豆は挽いていない状態です。",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34501100.jpg"
     },
     {
       "product_id": "hoshino-blend-store-100g",
@@ -108,7 +110,8 @@
       "source": "store_menu",
       "available": true,
       "purchase_channel": "store",
-      "online_note": "Whole bean sold in-store at register; 100g units."
+      "online_note": "Whole bean sold in-store at register; 100g units.",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34500100.jpg"
     },
     {
       "product_id": "hikoboshi-store",
@@ -143,7 +146,8 @@
       "source": "store_menu",
       "available": true,
       "purchase_channel": "store",
-      "online_note": "Whole bean sold in-store at register; 100g units."
+      "online_note": "Whole bean sold in-store at register; 100g units.",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/hikoboshi-store.jpg"
     },
     {
       "product_id": "orihime-store-100g",
@@ -175,7 +179,8 @@
       "source": "store_menu",
       "available": true,
       "purchase_channel": "store",
-      "online_note": "Whole bean sold in-store at register; 100g units."
+      "online_note": "Whole bean sold in-store at register; 100g units.",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/orihime-store-100g.jpg"
     },
     {
       "product_id": "decaf-store-100g",
@@ -206,7 +211,8 @@
       "source": "store_menu",
       "available": true,
       "purchase_channel": "store",
-      "online_note": "Whole bean sold in-store at register; 100g units."
+      "online_note": "Whole bean sold in-store at register; 100g units.",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34500100.jpg"
     }
   ]
 }

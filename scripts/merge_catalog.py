@@ -20,6 +20,7 @@ CHAINS = [
     "ogawa",
     "sarutahiko",
     "bluebottle",
+    "saza",
 ]
 
 # Allow import when run as script
@@ -43,6 +44,7 @@ CHAIN_LABELS = {
     "ogawa": "小川珈琲",
     "sarutahiko": "猿田彦珈琲",
     "bluebottle": "ブルーボトル",
+    "saza": "サザコーヒー",
 }
 
 

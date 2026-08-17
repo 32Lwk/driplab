@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "generated_at": "2026-08-08T22:21:34.942328+09:00",
-  "count": 30,
+  "generated_at": "2026-08-17T16:28:34.969363+09:00",
+  "count": 33,
   "beans": [
     {
       "id": "doutor-mild-blend-500g",
@@ -1186,6 +1186,120 @@
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c001.jpg",
       "episode": "ベリーの繊細さと仄かなスモーキーさの絶妙なバランスを持った、ブルーボトルコーヒーで最も人気のドリップコーヒーといえば、ベラ・ドノヴァン。絶妙なバランスは、モカとジャバのスタンダードなブレンドを私たちの好みにアレンジして作られています。少し浅めの焙煎度合ですが、掛け合わせることで深みを生み出します。上品すぎず、主張しすぎることなく洗練された味は、最高級のコーヒーにも匹敵する程です。",
       "episode_source": "https://store.bluebottlecoffee.jp/products/c001"
+    },
+    {
+      "id": "saza-将軍珈琲-200g",
+      "chain_id": "saza",
+      "name": "将軍珈琲 200g (豆)",
+      "description": "江戸幕末のフランス風珈琲。 インドネシア産深煎りにエチオピアをブレンド。 徳川慶喜公が欧米公使をもてなした珈琲を文献を基に再現。 ベルベットのようなワイン、 濃厚できめ細やかな甘さは最後まで続きます。 たっぷりのミルクとの相性も抜群で、 店舗では『将軍カフェラテ』としても人気のコーヒーです。",
+      "roast_level": "dark",
+      "roast_label_ja": "フレンチロースト",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "インドネシア",
+        "エチオピア"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "スパイス",
+        "香ばしさ",
+        "コク"
+      ],
+      "acidity": 32,
+      "body": 90,
+      "bitterness": 80,
+      "sweetness": 54,
+      "caffeine": "medium",
+      "price_jpy": 1800,
+      "weight_g": 200,
+      "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103091&cat=030",
+      "product_id": "103091",
+      "image_url": "https://saza.coffee/Contents/ProductImages/0/103091_LL.jpg",
+      "image_local": "data/images/saza/103091.jpg",
+      "source": "scraped",
+      "available": true,
+      "variety": "カトゥアイ",
+      "processing": "ナチュラル",
+      "roast": "フレンチロースト",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103091.jpg",
+      "episode": "江戸幕末のフランス風珈琲。インドネシア産深煎りにエチオピアをブレンド。徳川慶喜公が欧米公使をもてなした珈琲を文献を基に再現。ベルベットのようなワイン、 濃厚できめ細やかな甘さは最後まで続きます。",
+      "episode_source": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103091&cat=030"
+    },
+    {
+      "id": "saza-サザスペシャルブレンド-200g",
+      "chain_id": "saza",
+      "name": "サザスペシャルブレンド 200g (豆)",
+      "description": "創業以来のベストセラー商品 1969年の創業以来、サザコーヒーが『コーヒー』の願いをこめた「契約農園のコーヒー」から出来ています。 古くからの品種、伝統的な精製、味重視で選抜したブレンド。 香りと甘さが強く、バランスの取れた味わいとすっきりとした後味。",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "フルシティロースト",
+      "taste_label_ja": "バランス",
+      "origin": [
+        "ブラジル",
+        "コロンビア",
+        "グアテマラ",
+        "エチオピア",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "香ばしさ",
+        "酸味"
+      ],
+      "acidity": 42,
+      "body": 54,
+      "bitterness": 56,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 1600,
+      "weight_g": 200,
+      "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103001&cat=030",
+      "product_id": "103001",
+      "image_url": "https://saza.coffee/Contents/ProductImages/0/103001_LL.jpg",
+      "image_local": "data/images/saza/103001.jpg",
+      "source": "scraped",
+      "available": true,
+      "variety": "カトゥアイ",
+      "processing": "ナチュラル",
+      "roast": "フルシティロースト",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103001.jpg",
+      "episode": "創業以来のベストセラー商品 1969年の創業以来、サザコーヒーが『コーヒー』の願いをこめた「契約農園のコーヒー」から出来ています。古くからの品種、伝統的な精製、味重視で選抜したブレンド。",
+      "episode_source": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103001&cat=030",
+      "taste_notes": "香りと甘さが強く、バランスの取れた味わいとすっきりとした後味。"
+    },
+    {
+      "id": "saza-将軍ケニア-200g",
+      "chain_id": "saza",
+      "name": "将軍ケニア 200g (豆)",
+      "description": "サザコーヒーの将軍ブランドに、新しい「将軍」が登場！ 深煎りのケニア。 ぶどうのような甘さとワインのような奥深さ。 なめらかな口当たりで長く心地よい余韻を楽しめます。",
+      "roast_level": "medium_dark",
+      "roast_label_ja": "フルシティロースト",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "ケニア"
+      ],
+      "flavor_tags": [
+        "甘み",
+        "スパイス"
+      ],
+      "acidity": 42,
+      "body": 80,
+      "bitterness": 68,
+      "sweetness": 58,
+      "caffeine": "medium",
+      "price_jpy": 2100,
+      "weight_g": 200,
+      "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103077&cat=030",
+      "product_id": "103077",
+      "image_url": "https://saza.coffee/Contents/ProductImages/0/103077_LL.jpg",
+      "image_local": "data/images/saza/103077.jpg",
+      "source": "scraped",
+      "available": true,
+      "variety": null,
+      "processing": "ウォッシュド",
+      "roast": "フルシティロースト",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103077.jpg",
+      "episode": "サザコーヒーの将軍ブランドに、新しい「将軍」が登場！深煎りのケニア。ぶどうのような甘さとワインのような奥深さ。なめらかな口当たりで長く心地よい余韻を楽しめます。",
+      "episode_source": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103077&cat=030"
     }
   ]
 }

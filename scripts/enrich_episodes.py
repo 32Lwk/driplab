@@ -23,6 +23,7 @@ CHAINS = [
     "ogawa",
     "sarutahiko",
     "bluebottle",
+    "saza",
 ]
 
 CHAIN_SITES = {
@@ -36,6 +37,7 @@ CHAIN_SITES = {
     "ogawa": "https://oc-shop.co.jp/",
     "sarutahiko": "https://sarutahiko.jp/",
     "bluebottle": "https://store.bluebottlecoffee.jp/",
+    "saza": "https://saza.coffee/",
 }
 
 CHAIN_VOICE = {
@@ -78,6 +80,10 @@ CHAIN_VOICE = {
     "bluebottle": (
         "ブルーボトルコーヒーは鮮度と品質にこだわり、"
         "産地の個性を活かしたスペシャルティコーヒーを届けています。"
+    ),
+    "saza": (
+        "サザコーヒーは1970年創業の老舗焙煎店として、"
+        "産地直送の生豆を自社焙煎し、将軍珈琲をはじめ個性ある一杯を届けています。"
     ),
 }
 

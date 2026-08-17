@@ -87,6 +87,12 @@ export const CHAIN_TASTE_CALIBRATION: Record<ChainId, TasteCalibration> = {
     bitterness: { gain: 0.95, offset: 0 },
     sweetness: { gain: 1.1, offset: 5 },
   },
+  saza: {
+    acidity: { gain: 1.08, offset: 2 },
+    body: { gain: 1.0, offset: 0 },
+    bitterness: { gain: 0.95, offset: 0 },
+    sweetness: { gain: 1.05, offset: 3 },
+  },
 };
 
 /**
@@ -104,6 +110,7 @@ const CHAIN_ROAST_INDEX: Record<ChainId, Record<RoastLevel, number>> = {
   ogawa: { light: 0.3, medium: 1.3, medium_dark: 2.0, dark: 2.6 },
   ucc: { light: 0.3, medium: 1.3, medium_dark: 2.0, dark: 2.6 },
   hoshino: { light: 0.4, medium: 1.3, medium_dark: 1.9, dark: 2.5 },
+  saza: { light: 0.2, medium: 1.0, medium_dark: 1.8, dark: 2.6 },
 };
 
 function clampScore(value: number): number {

@@ -198,7 +198,8 @@
       "available": true,
       "image_url": "https://www.doutor.co.jp/product/file/209705.jpg",
       "image_local": "data/images/doutor/store-209705.jpg",
-      "chain_id": "doutor"
+      "chain_id": "doutor",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-209705.jpg"
     },
     {
       "product_id": "store-2107",
@@ -230,7 +231,8 @@
       "available": true,
       "image_url": "https://www.doutor.co.jp/product/file/2107.jpg",
       "image_local": "data/images/doutor/store-2107.jpg",
-      "chain_id": "doutor"
+      "chain_id": "doutor",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-2107.jpg"
     }
   ]
 }

@@ -36,7 +36,8 @@
         "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_8_1m.jpg",
         "https://www.kaldi.co.jp/ec/images/coffee/coegift-02605_icon_l7.png",
         "https://www.kaldi.co.jp/ec/images/coffee/coegift-02605_icon_l10.png"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/coegift-02605.jpg"
     },
     {
       "product_id": "4515996019074",
@@ -62,7 +63,8 @@
         "https://www.kaldi.co.jp/ec/img/074/4515996019074_S_10_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/074/4515996019074_S_1_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/074/4515996019074_S_1_1m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019074.jpg"
     },
     {
       "product_id": "4515996019388",
@@ -86,7 +88,8 @@
         "https://www.kaldi.co.jp/ec/img/388/4515996019388_S_1_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/388/4515996019388_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/388/4515996019388_S_10_1m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019388.jpg"
     },
     {
       "product_id": "4515996015106",
@@ -109,7 +112,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/106/4515996015106_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/106/4515996015106_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015106.jpg"
     },
     {
       "product_id": "4515996015380",
@@ -133,7 +137,8 @@
         "https://www.kaldi.co.jp/ec/img/380/4515996015380_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/380/4515996015380_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/380/4515996015380_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015380.jpg"
     },
     {
       "product_id": "4515996019401",
@@ -156,7 +161,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/401/4515996019401_S_9_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/401/4515996019401_S_10_1m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019401.jpg"
     },
     {
       "product_id": "4515996015090",
@@ -179,7 +185,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/090/4515996015090_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/090/4515996015090_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015090.jpg"
     },
     {
       "product_id": "4515996017261",
@@ -203,7 +210,8 @@
         "https://www.kaldi.co.jp/ec/img/261/4515996017261_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/261/4515996017261_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/261/4515996017261_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996017261.jpg"
     },
     {
       "product_id": "4515996008795",
@@ -228,7 +236,8 @@
         "https://www.kaldi.co.jp/ec/img/795/4515996008795_S_10_1m.jpg",
         "https://www.kaldi.co.jp/ec/images/coffee/4515996008795_ethiopia01.jpg",
         "https://www.kaldi.co.jp/ec/images/coffee/4515996008795_ethiopia02.JPG"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996008795.jpg"
     },
     {
       "product_id": "4515996015014",
@@ -252,7 +261,8 @@
         "https://www.kaldi.co.jp/ec/img/014/4515996015014_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/014/4515996015014_S_10_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/014/4515996015014_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015014.jpg"
     },
     {
       "product_id": "4515996008399",
@@ -277,7 +287,8 @@
         "https://www.kaldi.co.jp/ec/img/399/4515996008399_S_10_1m.jpg",
         "https://www.kaldi.co.jp/ec/images/coffee/4515996008399_colombia01.jpg",
         "https://www.kaldi.co.jp/ec/images/coffee/4515996008399_colombia02.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996008399.jpg"
     },
     {
       "product_id": "4515996013775",
@@ -301,7 +312,8 @@
         "https://www.kaldi.co.jp/ec/img/775/4515996013775_M_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/775/4515996013775_S_9_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/775/4515996013775_S_10_1m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996013775.jpg"
     },
     {
       "product_id": "4515996015953",
@@ -324,7 +336,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/953/4515996015953_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/953/4515996015953_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015953.jpg"
     },
     {
       "product_id": "4515996017155",
@@ -348,7 +361,8 @@
         "https://www.kaldi.co.jp/ec/img/155/4515996017155_M_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/155/4515996017155_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/155/4515996017155_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996017155.jpg"
     },
     {
       "product_id": "4515996011399",
@@ -371,7 +385,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/399/4515996011399_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/399/4515996011399_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996011399.jpg"
     },
     {
       "product_id": "4515996016677",
@@ -394,7 +409,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/677/4515996016677_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/677/4515996016677_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016677.jpg"
     },
     {
       "product_id": "4515996017445",
@@ -419,7 +435,8 @@
         "https://www.kaldi.co.jp/ec/img/445/4515996017445_S_8_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/445/4515996017445_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/445/4515996017445_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996017445.jpg"
     },
     {
       "product_id": "4515996008634",
@@ -442,7 +459,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/634/4515996008634_S_9_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/634/4515996008634_S_10_1m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996008634.jpg"
     },
     {
       "product_id": "4515996015120",
@@ -465,7 +483,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/120/4515996015120_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/120/4515996015120_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015120.jpg"
     },
     {
       "product_id": "4515996015175",
@@ -488,7 +507,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/175/4515996015175_S_9_8m.jpg",
         "https://www.kaldi.co.jp/ec/img/175/4515996015175_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015175.jpg"
     },
     {
       "product_id": "4515996016868",
@@ -511,7 +531,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/868/4515996016868_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/868/4515996016868_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016868.jpg"
     },
     {
       "product_id": "4515996015434",
@@ -534,7 +555,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/434/4515996015434_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/434/4515996015434_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015434.jpg"
     },
     {
       "product_id": "4515996015144",
@@ -557,7 +579,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/144/4515996015144_S_9_7m.jpg",
         "https://www.kaldi.co.jp/ec/img/144/4515996015144_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015144.jpg"
     },
     {
       "product_id": "4515996016776",
@@ -582,7 +605,8 @@
         "https://www.kaldi.co.jp/ec/img/776/4515996016776_M_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/776/4515996016776_S_9_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/776/4515996016776_S_10_1m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016776.jpg"
     },
     {
       "product_id": "4515996016929",
@@ -606,7 +630,8 @@
         "https://www.kaldi.co.jp/ec/img/929/4515996016929_S_2_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/929/4515996016929_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/929/4515996016929_S_10_4m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016929.jpg"
     },
     {
       "product_id": "4515996012280",
@@ -629,7 +654,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/280/4515996012280_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/280/4515996012280_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996012280.jpg"
     },
     {
       "product_id": "4515996015045",
@@ -653,7 +679,8 @@
         "https://www.kaldi.co.jp/ec/img/045/4515996015045_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/045/4515996015045_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/045/4515996015045_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015045.jpg"
     },
     {
       "product_id": "4515996015212",
@@ -676,7 +703,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/212/4515996015212_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/212/4515996015212_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015212.jpg"
     },
     {
       "product_id": "4515996015281",
@@ -699,7 +727,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/281/4515996015281_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/281/4515996015281_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015281.jpg"
     },
     {
       "product_id": "4515996016578",
@@ -722,7 +751,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/578/4515996016578_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/578/4515996016578_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016578.jpg"
     },
     {
       "product_id": "4515996015168",
@@ -745,7 +775,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/168/4515996015168_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/168/4515996015168_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015168.jpg"
     },
     {
       "product_id": "4515996019159",
@@ -768,7 +799,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/159/4515996019159_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/159/4515996019159_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019159.jpg"
     },
     {
       "product_id": "4515996015298",
@@ -791,7 +823,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/298/4515996015298_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/298/4515996015298_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015298.jpg"
     },
     {
       "product_id": "4515996015038",
@@ -815,7 +848,8 @@
         "https://www.kaldi.co.jp/ec/img/038/4515996015038_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/038/4515996015038_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/038/4515996015038_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015038.jpg"
     },
     {
       "product_id": "4515996016554",
@@ -838,7 +872,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/554/4515996016554_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/554/4515996016554_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016554.jpg"
     },
     {
       "product_id": "4515996019050",
@@ -862,7 +897,8 @@
         "https://www.kaldi.co.jp/ec/img/050/4515996019050_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/050/4515996019050_S_10_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/050/4515996019050_S_9_2m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019050.jpg"
     },
     {
       "product_id": "4515996015137",
@@ -885,7 +921,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/137/4515996015137_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/137/4515996015137_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015137.jpg"
     },
     {
       "product_id": "4515996015205",
@@ -908,7 +945,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/205/4515996015205_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/205/4515996015205_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015205.jpg"
     },
     {
       "product_id": "4515996016783",
@@ -931,7 +969,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/783/4515996016783_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/783/4515996016783_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016783.jpg"
     },
     {
       "product_id": "4515996015052",
@@ -954,7 +993,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/052/4515996015052_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/052/4515996015052_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015052.jpg"
     },
     {
       "product_id": "4515996015151",
@@ -977,7 +1017,8 @@
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/151/4515996015151_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/151/4515996015151_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015151.jpg"
     },
     {
       "product_id": "4515996015076",
@@ -1001,7 +1042,8 @@
         "https://www.kaldi.co.jp/ec/img/076/4515996015076_M_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/076/4515996015076_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/076/4515996015076_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015076.jpg"
     },
     {
       "product_id": "4515996015083",
@@ -1025,7 +1067,8 @@
         "https://www.kaldi.co.jp/ec/img/083/4515996015083_S_1_1m.jpg",
         "https://www.kaldi.co.jp/ec/img/083/4515996015083_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/083/4515996015083_S_10_3m.jpg"
-      ]
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015083.jpg"
     },
     {
       "product_id": "freecfmildkld",
@@ -1044,7 +1087,8 @@
       "grind_options_include_bean": true,
       "available": true,
       "image_local": "data/images/kaldi/freecfmildkld.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/kld/freecfmildkld_M_1m.jpg"
+      "image_url": "https://www.kaldi.co.jp/ec/img/kld/freecfmildkld_M_1m.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/freecfmildkld.jpg"
     }
   ]
 }

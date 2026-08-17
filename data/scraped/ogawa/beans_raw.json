@@ -45,7 +45,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "ボディのあるふくよかな味わい。",
-      "handle": "r-coffeeshop-b3"
+      "handle": "r-coffeeshop-b3",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049834975543.jpg"
     },
     {
       "id": "ogawa-r-coffeeshop-b2-140g",
@@ -87,7 +88,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "ボディのあるふくよかな味わい。",
-      "handle": "r-coffeeshop-b2"
+      "handle": "r-coffeeshop-b2",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049826488631.jpg"
     },
     {
       "id": "ogawa-No-323-150g",
@@ -130,7 +132,8 @@
         "スペシャルティコーヒーシリーズ"
       ],
       "taste_comment": "バタートーストのような芳ばしい香りとミルクキャラメルのような優しい甘さが特徴のブレンドコーヒーです。 主な取り組み農園は＜ブラジル ハイーニャ農園＞です。ICO（国際コーヒー機関）生産国番号で、No.002はブラジルを表します。",
-      "handle": "323"
+      "handle": "323",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8596913226039.jpg"
     },
     {
       "id": "ogawa-No-322-150g",
@@ -173,7 +176,8 @@
         "スペシャルティコーヒーシリーズ"
       ],
       "taste_comment": "バタートーストのような芳ばしい香りとミルクキャラメルのような優しい甘さが特徴のブレンドコーヒーです。 主な取り組み農園は＜ブラジル ハイーニャ農園＞です。ICO（国際コーヒー機関）生産国番号で、No.002はブラジルを表します。",
-      "handle": "322"
+      "handle": "322",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8596880752951.jpg"
     },
     {
       "id": "ogawa-No-329-150g",
@@ -216,7 +220,8 @@
         "スペシャルティコーヒーシリーズ"
       ],
       "taste_comment": "レッドグレープのような香りとイエローピーチのような濃厚な甘さが特徴のブレンドコーヒーです。 主な取り組み農園は＜エルサルバドル ブエノスアイレス農園＞です。 ICO（国際コーヒー機関）生産国番号で、No.009はエルサルバドルを表します。",
-      "handle": "329"
+      "handle": "329",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8605977542967.jpg"
     },
     {
       "id": "ogawa-No-328-150g",
@@ -259,7 +264,8 @@
         "スペシャルティコーヒーシリーズ"
       ],
       "taste_comment": "レッドグレープのような香りとイエローピーチのような濃厚な甘さが特徴のブレンドコーヒーです。 主な取り組み農園は＜エルサルバドル ブエノスアイレス農園＞です。 ICO（国際コーヒー機関）生産国番号で、No.009はエルサルバドルを表します。",
-      "handle": "328"
+      "handle": "328",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8605969842487.jpg"
     },
     {
       "id": "ogawa-r-bluemountain-b3-140g",
@@ -301,7 +307,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "まろやかで豊かな味わい。",
-      "handle": "r-bluemountain-b3"
+      "handle": "r-bluemountain-b3",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052368761143.jpg"
     },
     {
       "id": "ogawa-r-bluemountain-b2-140g",
@@ -343,7 +350,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "まろやかで豊かな味わい。",
-      "handle": "r-bluemountain-b2"
+      "handle": "r-bluemountain-b2",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052365517111.jpg"
     },
     {
       "id": "ogawa-r-ocpremium-b3-140g",
@@ -385,7 +393,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "やわらかく芳醇な味わい。",
-      "handle": "r-ocpremium-b3"
+      "handle": "r-ocpremium-b3",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049820492087.jpg"
     },
     {
       "id": "ogawa-r-ocpremium-b2-140g",
@@ -427,7 +436,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "やわらかく芳醇な味わい。",
-      "handle": "r-ocpremium-b2"
+      "handle": "r-ocpremium-b2",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10084621975863.jpg"
     },
     {
       "id": "ogawa-rcb-premium50012-500g",
@@ -469,7 +479,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "やわらかく芳醇な味わい。",
-      "handle": "rcb-premium50012"
+      "handle": "rcb-premium50012",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10284405653815.jpg"
     },
     {
       "id": "ogawa-r-orgoriginal-b3-140g",
@@ -514,7 +525,8 @@
         "有機栽培"
       ],
       "taste_comment": "芳醇な香りとバランスのとれた味わい",
-      "handle": "r-orgoriginal-b3"
+      "handle": "r-orgoriginal-b3",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044781396279.jpg"
     },
     {
       "id": "ogawa-r-orgoriginal-b2-140g",
@@ -559,7 +571,8 @@
         "有機栽培"
       ],
       "taste_comment": "芳醇な香りとバランスのとれた味わい",
-      "handle": "r-orgoriginal-b2"
+      "handle": "r-orgoriginal-b2",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044778217783.jpg"
     },
     {
       "id": "ogawa-rcb-original50012-500g",
@@ -604,7 +617,8 @@
         "有機栽培"
       ],
       "taste_comment": "芳醇な香りとバランスのとれた味わい",
-      "handle": "rcb-original50012"
+      "handle": "rcb-original50012",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10284406178103.jpg"
     },
     {
       "id": "ogawa-r-orgguatemala-b3-140g",
@@ -652,7 +666,8 @@
         "有機栽培"
       ],
       "taste_comment": "香ばしい苦味と濃厚な味わい",
-      "handle": "r-orgguatemala-b3"
+      "handle": "r-orgguatemala-b3",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044922396983.jpg"
     },
     {
       "id": "ogawa-r-orgguatemala-b2-140g",
@@ -700,7 +715,8 @@
         "有機栽培"
       ],
       "taste_comment": "香ばしい苦味と濃厚な味わい",
-      "handle": "r-orgguatemala-b2"
+      "handle": "r-orgguatemala-b2",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044920660279.jpg"
     },
     {
       "id": "ogawa-r-fairtrademoca-b3-140g",
@@ -747,7 +763,8 @@
         "有機栽培"
       ],
       "taste_comment": "フルーティーな香りと爽やかな味わい",
-      "handle": "r-fairtrademoca-b3"
+      "handle": "r-fairtrademoca-b3",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044863381815.jpg"
     },
     {
       "id": "ogawa-r-fairtrademoca-b2-140g",
@@ -794,7 +811,8 @@
         "有機栽培"
       ],
       "taste_comment": "フルーティーな香りと爽やかな味わい",
-      "handle": "r-fairtrademoca-b2"
+      "handle": "r-fairtrademoca-b2",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044861940023.jpg"
     },
     {
       "id": "ogawa-set-octen-organic-rc",
@@ -836,7 +854,8 @@
         "送料無料"
       ],
       "taste_comment": null,
-      "handle": "set-octen-organic-rc"
+      "handle": "set-octen-organic-rc",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10452349124919.jpg"
     },
     {
       "id": "ogawa-no-00-100g",
@@ -876,7 +895,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100011"
+      "handle": "lab_100011",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532373303.jpg"
     },
     {
       "id": "ogawa-no-01-100g",
@@ -913,7 +933,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100021"
+      "handle": "lab_100021",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445534175543.jpg"
     },
     {
       "id": "ogawa-no-02-100g",
@@ -951,7 +972,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100020"
+      "handle": "lab_100020",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445534077239.jpg"
     },
     {
       "id": "ogawa-no-03-100g",
@@ -989,7 +1011,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100018"
+      "handle": "lab_100018",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533684023.jpg"
     },
     {
       "id": "ogawa-no-04-100g",
@@ -1029,7 +1052,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100015"
+      "handle": "lab_100015",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533061431.jpg"
     },
     {
       "id": "ogawa-no-05-100g",
@@ -1068,7 +1092,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100016"
+      "handle": "lab_100016",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533487415.jpg"
     },
     {
       "id": "ogawa-no-06-100g",
@@ -1108,7 +1133,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100012"
+      "handle": "lab_100012",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532700983.jpg"
     },
     {
       "id": "ogawa-no-08-100g",
@@ -1147,7 +1173,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100017"
+      "handle": "lab_100017",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533552951.jpg"
     },
     {
       "id": "ogawa-no-09-100g",
@@ -1184,7 +1211,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100019"
+      "handle": "lab_100019",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533749559.jpg"
     },
     {
       "id": "ogawa-no-10-100g",
@@ -1223,7 +1251,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100014"
+      "handle": "lab_100014",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532995895.jpg"
     },
     {
       "id": "ogawa-no-11-100g",
@@ -1262,7 +1291,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100008"
+      "handle": "lab_100008",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532045623.jpg"
     },
     {
       "id": "ogawa-no-12-100g",
@@ -1306,7 +1336,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100007"
+      "handle": "lab_100007",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445531521335.jpg"
     },
     {
       "id": "ogawa-no-17-100g",
@@ -1346,7 +1377,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_200003"
+      "handle": "lab_200003",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445544595767.jpg"
     },
     {
       "id": "ogawa-no-18-100g",
@@ -1388,7 +1420,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_2000126"
+      "handle": "lab_2000126",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445546234167.jpg"
     },
     {
       "id": "ogawa-no-19-100g",
@@ -1427,7 +1460,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100010"
+      "handle": "lab_100010",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532340535.jpg"
     },
     {
       "id": "ogawa-no-20-100g",
@@ -1468,7 +1502,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100006"
+      "handle": "lab_100006",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445531488567.jpg"
     },
     {
       "id": "ogawa-no-23-100g",
@@ -1508,7 +1543,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100046"
+      "handle": "lab_100046",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8490520740151.jpg"
     },
     {
       "id": "ogawa-no-24-100g",
@@ -1547,7 +1583,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100047"
+      "handle": "lab_100047",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8496159523127.jpg"
     },
     {
       "id": "ogawa-no-27-100g",
@@ -1586,7 +1623,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_1000374"
+      "handle": "lab_1000374",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8496655958327.jpg"
     },
     {
       "id": "ogawa-no-28-100g",
@@ -1626,7 +1664,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100038"
+      "handle": "lab_100038",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8496797253943.jpg"
     },
     {
       "id": "ogawa-no-40-100g",
@@ -1666,7 +1705,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100036"
+      "handle": "lab_100036",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445534404919.jpg"
     },
     {
       "id": "ogawa-no-45-100g",
@@ -1706,7 +1746,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_200005"
+      "handle": "lab_200005",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445544726839.jpg"
     },
     {
       "id": "ogawa-no-46-100g",
@@ -1746,7 +1787,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_200012"
+      "handle": "lab_200012",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445544923447.jpg"
     },
     {
       "id": "ogawa-no-48-100g",
@@ -1785,7 +1827,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100493"
+      "handle": "lab_100493",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8486656966967.jpg"
     },
     {
       "id": "ogawa-no-49-100g",
@@ -1825,7 +1868,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "lab_100492"
+      "handle": "lab_100492",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8486630064439.jpg"
     },
     {
       "id": "ogawa-No-968-150g",
@@ -1870,7 +1914,8 @@
         "量り売り"
       ],
       "taste_comment": "レモングラスのような香り、アプリコットのような酸味、ココナッツのような甘さ、まろやかな口あたりと長い後味を活かした味わいに仕上げました。",
-      "handle": "968"
+      "handle": "968",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445504946487.jpg"
     },
     {
       "id": "ogawa-No-951-150g",
@@ -1909,7 +1954,8 @@
         "量り売り"
       ],
       "taste_comment": "ハイビスカスのような華やかな香りとイエローピーチのような明るい酸味、はちみつのようなコクを活かした味わいに仕上げました。",
-      "handle": "951"
+      "handle": "951",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506027831.jpg"
     },
     {
       "id": "ogawa-No-932-150g",
@@ -1955,7 +2001,8 @@
         "量り売り"
       ],
       "taste_comment": "赤ワインのような甘い香りとレッドグレープのような酸味、オランジェットのような甘さを活かした味わいに仕上げました。",
-      "handle": "932"
+      "handle": "932",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506126135.jpg"
     },
     {
       "id": "ogawa-No-967-150g",
@@ -1999,7 +2046,8 @@
         "量り売り"
       ],
       "taste_comment": "甘い香りが特徴のやさしい味わい",
-      "handle": "967"
+      "handle": "967",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506191671.jpg"
     },
     {
       "id": "ogawa-No-930-150g",
@@ -2042,7 +2090,8 @@
         "量り売り"
       ],
       "taste_comment": "有機コーヒーは、化学的に合成された農薬や肥料、遺伝子組換えなどに頼らず、自然の力を精一杯活かして育てられています。土壌など環境への負担が軽減されるだけでなく、薬品による健康への影響が少ないので、農園で働く生産者にもやさしい農業の方法です。ルールに基づいてきちんと生産されているかどうか、農園や製造工場などで登録認証機関による検査が毎年行われています。こうして厳しい基準をクリアした食品だけに「有機JASマーク」の表示が認められています。小川珈琲では2001年に京都工場で有機JAS認証を取得。美味しいコーヒーを皆様にお届けするために、有機コーヒーの販売を通して、持続可能なコーヒー栽培の環境づくりにも取り組んでいます。",
-      "handle": "930"
+      "handle": "930",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506322743.jpg"
     },
     {
       "id": "ogawa-No-941-150g",
@@ -2085,7 +2134,8 @@
         "量り売り"
       ],
       "taste_comment": "フローラルな香り、ブルーベリーのような明るい酸味とアプリコットのような甘さ、クリアな後味を活かした味わいに仕上げました。",
-      "handle": "941"
+      "handle": "941",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445508288823.jpg"
     },
     {
       "id": "ogawa-No-957-150g",
@@ -2127,7 +2177,8 @@
         "量り売り"
       ],
       "taste_comment": "</strong></h3> <div>レモングラスのような爽やかな香り、パッションフルーツのような酸味、ラズベリーのような甘さを活かした味わいに仕上げました。</div> <div style=\"text-align: left;\"> <p> </p> <p><strong>",
-      "handle": "957"
+      "handle": "957",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445508583735.jpg"
     },
     {
       "id": "ogawa-r-coffeeshop-b-140g",
@@ -2168,7 +2219,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "ボディのあるふくよかな味わい。",
-      "handle": "r-coffeeshop-b"
+      "handle": "r-coffeeshop-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049830781239.jpg"
     },
     {
       "id": "ogawa-No-939-150g",
@@ -2207,7 +2259,8 @@
         "量り売り"
       ],
       "taste_comment": "マスカットのような香りとシャンパンのような明るい酸味、グレープフルーツのような苦味とシルキーな口あたりを活かした味わいに仕上げました。",
-      "handle": "939"
+      "handle": "939",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445509566775.jpg"
     },
     {
       "id": "ogawa-rcb-sumava-blackmoon-150g",
@@ -2251,7 +2304,8 @@
         "量り売り"
       ],
       "taste_comment": "チェリーパイのようなフレーバー、オレンジのような酸味、パインのような甘さとクリアな後味でクリームのような口あたりを感じる味わいに仕上げました。",
-      "handle": "rcb-sumava-blackmoon"
+      "handle": "rcb-sumava-blackmoon",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10558846140727.jpg"
     },
     {
       "id": "ogawa-rcb-don-jose-n-150g",
@@ -2296,7 +2350,8 @@
         "量り売り"
       ],
       "taste_comment": "アールグレイのような香り、アプリコットのような酸味、ダークチェリーのような甘さとピーカンナッツのような後味が調和した味わいに仕上げました。",
-      "handle": "rcb-don-jose-n"
+      "handle": "rcb-don-jose-n",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10558831165751.jpg"
     },
     {
       "id": "ogawa-No-963-150g",
@@ -2340,7 +2395,8 @@
         "量り売り"
       ],
       "taste_comment": "</strong></h3> <p style=\"text-align: left;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: left;\">レーズンのような香り、ココナッツのような酸味、チョコレートのような甘さとクリーミーなコクを活かした味わいに仕上げました。</p> <p style=\"text-align: left;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: left;\">",
-      "handle": "963"
+      "handle": "963",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445510943031.jpg"
     },
     {
       "id": "ogawa-No-321-150g",
@@ -2382,7 +2438,8 @@
         "スペシャルティコーヒーシリーズ"
       ],
       "taste_comment": "バタートーストのような芳ばしい香りとミルクキャラメルのような優しい甘さが特徴のブレンドコーヒーです。 主な取り組み農園は＜ブラジル ハイーニャ農園＞です。ICO（国際コーヒー機関）生産国番号で、No.002はブラジルを表します。",
-      "handle": "321"
+      "handle": "321",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8580523295031.jpg"
     },
     {
       "id": "ogawa-No-327-150g",
@@ -2424,7 +2481,8 @@
         "スペシャルティコーヒーシリーズ"
       ],
       "taste_comment": "レッドグレープのような香りとイエローピーチのような濃厚な甘さが特徴のブレンドコーヒーです。 主な取り組み農園は＜エルサルバドル ブエノスアイレス農園＞です。 ICO（国際コーヒー機関）生産国番号で、No.009はエルサルバドルを表します。",
-      "handle": "327"
+      "handle": "327",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8605950050615.jpg"
     },
     {
       "id": "ogawa-No-937-150g",
@@ -2467,7 +2525,8 @@
         "量り売り"
       ],
       "taste_comment": "</strong> </h3> <p style=\"text-align: left;\">華やかな香り、爽やかな酸味と濃厚な甘みが調和した味わいです。</p> <p style=\"text-align: left;\">",
-      "handle": "937"
+      "handle": "937",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445511696695.jpg"
     },
     {
       "id": "ogawa-No-927-150g",
@@ -2514,7 +2573,8 @@
         "量り売り"
       ],
       "taste_comment": "</strong></h3> <div style=\"text-align: left;\">ラズベリーのような香り、キウイフルーツのような酸味と甘さ、シルキーな口あたりを活かした味わいに仕上げました。</div> <p><br><span color=\"#000000\" size=\"3\"><strong>",
-      "handle": "927"
+      "handle": "927",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445512417591.jpg"
     },
     {
       "id": "ogawa-rcb-elipse-100g",
@@ -2557,7 +2617,8 @@
         "量り売り"
       ],
       "taste_comment": "ラベンダーのような香り、マスカットのような酸味、ホワイトピーチのような甘さとクリーミーでベルベットのような口あたりを活かした味わいに仕上げました。",
-      "handle": "rcb-elipse"
+      "handle": "rcb-elipse",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10558351769911.jpg"
     },
     {
       "id": "ogawa-No-929-150g",
@@ -2603,7 +2664,8 @@
         "量り売り"
       ],
       "taste_comment": "</strong></h3> <div data-mce-fragment=\"1\" style=\"text-align: left;\">プルーンのような甘さとはちみつのようなコクが特徴です。</div> <p><br><span data-mce-fragment=\"1\" color=\"#000000\" size=\"3\"><strong data-mce-fragment=\"1\">",
-      "handle": "929"
+      "handle": "929",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445512810807.jpg"
     },
     {
       "id": "ogawa-No-959-150g",
@@ -2646,7 +2708,8 @@
         "量り売り"
       ],
       "taste_comment": "シナモンのようなやさしい香りとココナッツのような甘さ、メイプルシロップのような口あたりを活かした味わいに仕上げました。",
-      "handle": "959"
+      "handle": "959",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445513564471.jpg"
     },
     {
       "id": "ogawa-r-bluemountain-b-140g",
@@ -2687,7 +2750,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "まろやかで豊かな味わい。",
-      "handle": "r-bluemountain-b"
+      "handle": "r-bluemountain-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052356145463.jpg"
     },
     {
       "id": "ogawa-No-961-150g",
@@ -2728,7 +2792,8 @@
         "量り売り"
       ],
       "taste_comment": "</strong></h3> <p style=\"text-align: left;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: left;\">ローストアーモンドのような香り、レッドアップルのような酸味、ミルクキャラメルのような甘さとなめらかなコクを活かした味わいに仕上げました。</p> <p style=\"text-align: left;\" data-mce-fragment=\"1\" data-mce-style=\"text-align: left;\">",
-      "handle": "961"
+      "handle": "961",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445516874039.jpg"
     },
     {
       "id": "ogawa-r-ocpremium-b-140g",
@@ -2769,7 +2834,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "やわらかく芳醇な味わい。",
-      "handle": "r-ocpremium-b"
+      "handle": "r-ocpremium-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049817215287.jpg"
     },
     {
       "id": "ogawa-rcb-premium500-500g",
@@ -2810,7 +2876,8 @@
         "コーヒー豆"
       ],
       "taste_comment": "やわらかく芳醇な味わい。",
-      "handle": "rcb-premium500"
+      "handle": "rcb-premium500",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10270965956919.jpg"
     },
     {
       "id": "ogawa-select-bundle-b",
@@ -2848,7 +2915,8 @@
         "再入荷通知除外"
       ],
       "taste_comment": null,
-      "handle": "select-bundle-b"
+      "handle": "select-bundle-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10185668165943.jpg"
     },
     {
       "id": "ogawa-r-orgoriginal-b-140g",
@@ -2892,7 +2960,8 @@
         "有機栽培"
       ],
       "taste_comment": "芳醇な香りとバランスのとれた味わい",
-      "handle": "r-orgoriginal-b"
+      "handle": "r-orgoriginal-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044744466743.jpg"
     },
     {
       "id": "ogawa-rcb-original500-500g",
@@ -2936,7 +3005,8 @@
         "有機栽培"
       ],
       "taste_comment": "芳醇な香りとバランスのとれた味わい",
-      "handle": "rcb-original500"
+      "handle": "rcb-original500",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10270965072183.jpg"
     },
     {
       "id": "ogawa-r-orgguatemala-b-140g",
@@ -2983,7 +3053,8 @@
         "有機栽培"
       ],
       "taste_comment": "香ばしい苦味と濃厚な味わい",
-      "handle": "r-orgguatemala-b"
+      "handle": "r-orgguatemala-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044918464823.jpg"
     },
     {
       "id": "ogawa-r-fairtrademoca-b-140g",
@@ -3029,7 +3100,8 @@
         "有機栽培"
       ],
       "taste_comment": "フルーティーな香りと爽やかな味わい",
-      "handle": "r-fairtrademoca-b"
+      "handle": "r-fairtrademoca-b",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044856369463.jpg"
     }
   ]
 }

@@ -34,7 +34,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260804_T___ec.jpg?v=1786092144",
       "image_local": "data/images/sarutahiko/m-hon20260807-mame.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hon20260807-mame.jpg"
     },
     {
       "id": "sarutahiko-8-12より順次発送-浅煎り-コロンビア-pe-as-blancas-geish",
@@ -66,7 +67,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_S___EC.jpg?v=1784261767",
       "image_local": "data/images/sarutahiko/m-col20260711.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-col20260711.jpg"
     },
     {
       "id": "sarutahiko-オンラインショップ限定-巣ごもりブレンド-500g",
@@ -97,7 +99,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/newlogo.jpg?v=1736947510",
       "image_local": "data/images/sarutahiko/m-su500.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-su500.jpg"
     },
     {
       "id": "sarutahiko-中深煎り-サンフレッチェ広島-猿田彦珈琲",
@@ -129,7 +132,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/2025.02.04.sarutahiko1791.jpg?v=1739327824",
       "image_local": "data/images/sarutahiko/m-hiroshima.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hiroshima.jpg"
     },
     {
       "id": "sarutahiko-中深煎り-恵比寿シティ",
@@ -161,7 +165,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/100g_sizeUPver_fda7989a-e916-4167-a888-0e1a238de626.jpg?v=1770701136",
       "image_local": "data/images/sarutahiko/m-ec.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-ec.jpg"
     },
     {
       "id": "sarutahiko-中深煎り-花火ブレンド",
@@ -196,7 +201,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/2026.07.17.sarutahiko2005.jpg?v=1784968756",
       "image_local": "data/images/sarutahiko/m-hana2026.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hana2026.jpg"
     },
     {
       "id": "sarutahiko-中煎り-tokyo-til-infinity",
@@ -227,7 +233,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/260304tokyo_til_2026.jpg?v=1772608794",
       "image_local": "data/images/sarutahiko/m-t-spring2026.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-t-spring2026.jpg"
     },
     {
       "id": "sarutahiko-浅煎り-ケニア-marua-aa",
@@ -259,7 +266,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715___ec.jpg?v=1784364830",
       "image_local": "data/images/sarutahiko/m-ken260717.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-ken260717.jpg"
     },
     {
       "id": "sarutahiko-浅煎り-バレルエイジドブラジル-monte-alegre-anaerobic-w",
@@ -287,7 +295,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/260723_bf2d6401-40b1-475a-bd37-0c60ca62ffc2.jpg?v=1785392144",
       "image_local": "data/images/sarutahiko/m-balbra20260723.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-balbra20260723.jpg"
     },
     {
       "id": "sarutahiko-浅煎り-パナマ-janson-los-alpes-geisha-washed-l",
@@ -318,7 +327,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_panama_ec.jpg?v=1784269892",
       "image_local": "data/images/sarutahiko/m-pan260717.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-pan260717.jpg"
     },
     {
       "id": "sarutahiko-浅煎り-ブラジル-boa-vista-catuai-pulped-natural",
@@ -350,7 +360,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260602_A___top.jpg?v=1780367166",
       "image_local": "data/images/sarutahiko/m-braboa260530.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-braboa260530.jpg"
     },
     {
       "id": "sarutahiko-浅煎り-ブラジル-um-yellow-bourbon-anaerobic-nat",
@@ -380,7 +391,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260602_T.jpg?v=1780367166",
       "image_local": "data/images/sarutahiko/m-braum260529.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-braum260529.jpg"
     },
     {
       "id": "sarutahiko-深煎り-ディカフェ-エチオピア-bombe-natural",
@@ -410,7 +422,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/2026_ad2c9335-9051-4904-a814-be57d764b9c3.jpg?v=1770701065",
       "image_local": "data/images/sarutahiko/m-de-251228.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-de-251228.jpg"
     },
     {
       "id": "sarutahiko-深煎り-バレルエイジド-グアテマラ-san-cristobal-natural",
@@ -440,7 +453,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/260723___graph.png?v=1784803042",
       "image_local": "data/images/sarutahiko/m-balgua20260723.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-balgua20260723.jpg"
     },
     {
       "id": "sarutahiko-深煎り-大吉ブレンド",
@@ -472,7 +486,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/100g__UPver.jpg?v=1772097503",
       "image_local": "data/images/sarutahiko/m-d.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-d.jpg"
     },
     {
       "id": "sarutahiko-深煎り-猿田彦フレンチ",
@@ -504,7 +519,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/100g_sizeUPver.jpg?v=1770701172",
       "image_local": "data/images/sarutahiko/m-stf.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-stf.jpg"
     }
   ]
 }

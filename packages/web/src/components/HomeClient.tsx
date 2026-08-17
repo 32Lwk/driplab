@@ -3,7 +3,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type {
   ChainId,
-  EquipmentId,
   MoodProfile,
   PairingResponse,
   ReadjustDirection,
@@ -11,13 +10,11 @@ import type {
   RecommendResponse,
 } from "@driplab/recommender";
 import { ChainSelector } from "@/components/ChainSelector";
-import { EquipmentSelector } from "@/components/EquipmentSelector";
 import { FoodFreeInput } from "@/components/FoodFreeInput";
 import { FoodPresetSelector } from "@/components/FoodPresetSelector";
 import { ModeToggle } from "@/components/ModeToggle";
 import { MoodSliders } from "@/components/MoodSliders";
 import { Onboarding } from "@/components/Onboarding";
-import { PresetButtons } from "@/components/PresetButtons";
 import { ResultPanel } from "@/components/ResultPanel";
 import { TermLabel } from "@/components/TermTooltip";
 import { isOnboardingDone } from "@/lib/onboarding";
@@ -29,8 +26,6 @@ const DEFAULT_MOOD: MoodProfile = {
   sweetness_pref: 50,
 };
 
-const DEFAULT_EQUIPMENT: EquipmentId[] = ["drip"];
-
 type ResultState =
   | { mode: "mood"; data: RecommendResponse }
   | { mode: "pairing"; data: PairingResponse };
@@ -41,10 +36,7 @@ export function HomeClient() {
   const [mood, setMood] = useState<MoodProfile>(DEFAULT_MOOD);
   const [foodPresetId, setFoodPresetId] = useState<string | null>("chocolate");
   const [foodText, setFoodText] = useState("");
-  const [equipment, setEquipment] =
-    useState<EquipmentId[]>(DEFAULT_EQUIPMENT);
   const [chainFilter, setChainFilter] = useState<ChainId | "all">("all");
-  const [servings, setServings] = useState<1 | 2>(2);
   const [result, setResult] = useState<ResultState | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -65,8 +57,6 @@ export function HomeClient() {
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
             mood,
-            equipment,
-            servings,
             chains: chainFilter === "all" ? undefined : [chainFilter],
           }),
         });
@@ -86,8 +76,6 @@ export function HomeClient() {
           body: JSON.stringify({
             food_preset_id: foodPresetId ?? undefined,
             food_text: foodText.trim() || undefined,
-            equipment,
-            servings,
             chains: chainFilter === "all" ? undefined : [chainFilter],
           }),
         });
@@ -109,7 +97,7 @@ export function HomeClient() {
     } finally {
       setLoading(false);
     }
-  }, [mode, mood, foodPresetId, foodText, equipment, servings, chainFilter]);
+  }, [mode, mood, foodPresetId, foodText, chainFilter]);
 
   const readjust = useCallback(
     async (direction: ReadjustDirection, recipeOnly: boolean) => {
@@ -126,8 +114,6 @@ export function HomeClient() {
                   ? result.data.primary.bean_id
                   : undefined,
                 mood,
-                equipment,
-                servings,
                 chains: chainFilter === "all" ? undefined : [chainFilter],
               }
             : {
@@ -138,8 +124,6 @@ export function HomeClient() {
                   : undefined,
                 food_preset_id: result.data.food_preset_id,
                 food_text: result.data.food_label,
-                equipment,
-                servings,
                 chains: chainFilter === "all" ? undefined : [chainFilter],
               };
 
@@ -164,7 +148,7 @@ export function HomeClient() {
         setLoading(false);
       }
     },
-    [result, mood, equipment, servings, chainFilter],
+    [result, mood, chainFilter],
   );
 
   function scrollToInput() {
@@ -184,9 +168,6 @@ export function HomeClient() {
           <div className="section-card" style={{ marginTop: "1rem" }}>
             {mode === "mood" ? (
               <>
-                <p className="section-title">気分プリセット</p>
-                <PresetButtons mood={mood} onSelect={setMood} />
-
                 <p className="section-title">
                   今日の気分（<TermLabel term="酸味" />・
                   <TermLabel term="コク" /> など）
@@ -213,27 +194,6 @@ export function HomeClient() {
               </>
             )}
 
-            <p className="section-title">持っている器具</p>
-            <EquipmentSelector value={equipment} onChange={setEquipment} />
-
-            <p className="section-title">杯数</p>
-            <div className="filter-row" style={{ marginTop: "0.25rem" }}>
-              <button
-                type="button"
-                className={`filter-chip${servings === 1 ? " active" : ""}`}
-                onClick={() => setServings(1)}
-              >
-                1杯
-              </button>
-              <button
-                type="button"
-                className={`filter-chip${servings === 2 ? " active" : ""}`}
-                onClick={() => setServings(2)}
-              >
-                2杯
-              </button>
-            </div>
-
             <p className="section-title">チェーン（任意）</p>
             <ChainSelector value={chainFilter} onChange={setChainFilter} />
           </div>
@@ -245,7 +205,6 @@ export function HomeClient() {
               onClick={submit}
               disabled={
                 loading ||
-                equipment.length === 0 ||
                 (mode === "pairing" && !foodPresetId && !foodText.trim())
               }
             >
@@ -293,38 +252,33 @@ export function HomeClient() {
               onEditConditions={scrollToInput}
             />
           )}
-          {!loading && !result && (
-            <div
-              className="section-card"
-              style={{ color: "var(--text-muted)", textAlign: "center" }}
-            >
-              <p style={{ margin: 0 }}>
-                {mode === "mood" ? (
-                  <>
-                    気分と所持器具を選んで
-                    <br />
-                    「今日の一杯を見つける」を押してください
-                  </>
-                ) : (
-                  <>
-                    食事・スイーツと器具を選んで
-                    <br />
-                    「食事に合う一杯を見つける」を押してください
-                  </>
-                )}
-              </p>
-              <p
-                style={{
-                  margin: "0.75rem 0 0",
-                  fontSize: "0.8125rem",
-                }}
-              >
-                豆・淹れ方・レシピを、理由付きで提案します
-              </p>
-            </div>
-          )}
         </section>
       </div>
+
+      {!loading && !result && (
+        <footer className="app-footer">
+          <div className="app-footer-card">
+            <p className="app-footer-lead">
+              {mode === "mood" ? (
+                <>
+                  気分を選んで
+                  <br />
+                  「今日の一杯を見つける」を押してください
+                </>
+              ) : (
+                <>
+                  食事・スイーツを選んで
+                  <br />
+                  「食事に合う一杯を見つける」を押してください
+                </>
+              )}
+            </p>
+            <p className="app-footer-sub">
+              豆・淹れ方・レシピを、理由付きで提案します
+            </p>
+          </div>
+        </footer>
+      )}
     </main>
   );
 }

@@ -51,10 +51,40 @@ button {
 
 .app-main {
   flex: 1;
+  display: flex;
+  flex-direction: column;
   width: 100%;
   max-width: 1080px;
   margin: 0 auto;
   padding: 1.25rem 1rem 3rem;
+}
+
+.app-footer {
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.app-footer-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  box-shadow: var(--shadow);
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.app-footer-lead {
+  margin: 0;
+}
+
+.app-footer-sub {
+  margin: 0.75rem 0 0;
+  font-size: 0.8125rem;
+}
+
+.workspace {
+  flex: 1;
 }
 
 @media (min-width: 900px) {
@@ -113,34 +143,6 @@ button {
   cursor: not-allowed;
 }
 
-.preset-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 1.25rem;
-}
-
-.preset-chip {
-  padding: 0.4rem 0.85rem;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: var(--bg-elevated);
-  color: var(--text);
-  font-size: 0.875rem;
-  cursor: pointer;
-  transition: border-color 0.2s, background 0.2s;
-}
-
-.preset-chip:hover {
-  border-color: var(--accent);
-}
-
-.preset-chip.active {
-  background: var(--accent-dark);
-  border-color: var(--accent-dark);
-  color: #fff;
-}
-
 .slider-group {
   display: flex;
   flex-direction: column;
@@ -166,40 +168,6 @@ button {
   width: 100%;
   accent-color: var(--accent-dark);
   cursor: pointer;
-}
-
-.equipment-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.625rem;
-}
-
-@media (min-width: 480px) {
-  .equipment-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-.equipment-chip {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.75rem;
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--border);
-  background: var(--bg-elevated);
-  cursor: pointer;
-  font-size: 0.875rem;
-  transition: border-color 0.2s, background 0.2s;
-}
-
-.equipment-chip.selected {
-  border-color: var(--accent-dark);
-  background: #efebe9;
-}
-
-.equipment-chip input {
-  accent-color: var(--accent-dark);
 }
 
 .result-panel {
@@ -3862,15 +3830,6 @@ a.lineage-v-node--sub:hover {
     font-size: 0.8125rem;
   }
 
-  .equipment-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .equipment-chip {
-    min-height: 2.75rem;
-  }
-
-  .preset-chip,
   .filter-chip {
     min-height: 2.5rem;
     padding-top: 0.55rem;
@@ -4038,3 +3997,4 @@ a.lineage-v-node--sub:hover {
   .lineage-zoom-hint {
     display: none;
   }
+}

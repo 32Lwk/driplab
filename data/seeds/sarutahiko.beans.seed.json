@@ -33,7 +33,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260804_T___ec.jpg?v=1786092144",
       "image_local": "data/images/sarutahiko/m-hon20260807-mame.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hon20260807-mame.jpg"
     },
     {
       "id": "sarutahiko-8-12より順次発送-浅煎り-コロンビア-pe-as-blancas-geish",
@@ -65,7 +66,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/20260715_S___EC.jpg?v=1784261767",
       "image_local": "data/images/sarutahiko/m-col20260711.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-col20260711.jpg"
     },
     {
       "id": "sarutahiko-オンラインショップ限定-巣ごもりブレンド-500g",
@@ -96,7 +98,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0582/9299/4101/files/newlogo.jpg?v=1736947510",
       "image_local": "data/images/sarutahiko/m-su500.jpg",
       "source": "scraped",
-      "available": true
+      "available": true,
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-su500.jpg"
     }
   ]
 }

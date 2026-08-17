@@ -44,6 +44,7 @@ SCRAPED_CHAINS = [
     "ogawa",
     "sarutahiko",
     "bluebottle",
+    "saza",
 ]
 CATALOG_PATH = ROOT / "data" / "catalog" / "beans.json"
 MANIFEST_PATH = ROOT / "data" / "catalog" / "image_manifest.json"

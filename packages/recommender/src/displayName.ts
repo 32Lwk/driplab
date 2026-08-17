@@ -9,6 +9,7 @@ const CHAIN_PREFIXES: Partial<Record<ChainId, RegExp[]>> = {
   ogawa: [/^小川珈琲\s*/, /^小川珈琲店\s*/],
   sarutahiko: [/^猿田彦珈琲\s*/, /^【[^】]*】\s*/],
   bluebottle: [/^ブルーボトルコーヒー\s*/, /^BLUE BOTTLE\s*/i],
+  saza: [/^サザコーヒー\s*/, /^サザ\s*/],
 };
 
 const LEADING_TAGS =

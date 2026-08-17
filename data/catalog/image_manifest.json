@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-08-08T19:02:25.062775+09:00",
+  "generated_at": "2026-08-17T19:04:05.288630+09:00",
   "bucket": "driplab-assets",
   "public_base_url": "https://assets.coffee.yutok.dev",
-  "uploaded": 181,
-  "failed": 0,
+  "uploaded": 436,
+  "failed": 9,
   "entries": [
+    {
+      "image_local": "data/images/bluebottle/c001.jpg",
+      "r2_key": "beans/bluebottle/c001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c001.jpg",
+      "size_bytes": 22256
+    },
+    {
+      "image_local": "data/images/bluebottle/c002.jpg",
+      "r2_key": "beans/bluebottle/c002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c002.jpg",
+      "size_bytes": 22276
+    },
+    {
+      "image_local": "data/images/bluebottle/c003.jpg",
+      "r2_key": "beans/bluebottle/c003.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c003.jpg",
+      "size_bytes": 22196
+    },
+    {
+      "image_local": "data/images/bluebottle/c004.jpg",
+      "r2_key": "beans/bluebottle/c004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c004.jpg",
+      "size_bytes": 22545
+    },
+    {
+      "image_local": "data/images/bluebottle/c076.jpg",
+      "r2_key": "beans/bluebottle/c076.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c076.jpg",
+      "size_bytes": 23111
+    },
+    {
+      "image_local": "data/images/bluebottle/c079.jpg",
+      "r2_key": "beans/bluebottle/c079.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c079.jpg",
+      "size_bytes": 21822
+    },
+    {
+      "image_local": "data/images/bluebottle/c080.jpg",
+      "r2_key": "beans/bluebottle/c080.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c080.jpg",
+      "size_bytes": 21616
+    },
+    {
+      "image_local": "data/images/bluebottle/c107.jpg",
+      "r2_key": "beans/bluebottle/c107.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c107.jpg",
+      "size_bytes": 21649
+    },
+    {
+      "image_local": "data/images/bluebottle/c115.jpg",
+      "r2_key": "beans/bluebottle/c115.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c115.jpg",
+      "size_bytes": 21291
+    },
+    {
+      "image_local": "data/images/bluebottle/c154.jpg",
+      "r2_key": "beans/bluebottle/c154.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c154.jpg",
+      "size_bytes": 33955
+    },
+    {
+      "image_local": "data/images/bluebottle/c219484-100g.jpg",
+      "r2_key": "beans/bluebottle/c219484-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c219484-100g.jpg",
+      "size_bytes": 22584
+    },
+    {
+      "image_local": "data/images/bluebottle/c219484-200g.jpg",
+      "r2_key": "beans/bluebottle/c219484-200g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c219484-200g.jpg",
+      "size_bytes": 22584
+    },
+    {
+      "image_local": "data/images/bluebottle/c219484.jpg",
+      "r2_key": "beans/bluebottle/c219484.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c219484.jpg",
+      "size_bytes": 22584
+    },
+    {
+      "image_local": "data/images/bluebottle/c225205.jpg",
+      "r2_key": "beans/bluebottle/c225205.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c225205.jpg",
+      "size_bytes": 59449
+    },
+    {
+      "image_local": "data/images/bluebottle/c229156-100g.jpg",
+      "r2_key": "beans/bluebottle/c229156-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229156-100g.jpg",
+      "size_bytes": 22277
+    },
+    {
+      "image_local": "data/images/bluebottle/c229156-200g.jpg",
+      "r2_key": "beans/bluebottle/c229156-200g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229156-200g.jpg",
+      "size_bytes": 22277
+    },
+    {
+      "image_local": "data/images/bluebottle/c229156.jpg",
+      "r2_key": "beans/bluebottle/c229156.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229156.jpg",
+      "size_bytes": 22277
+    },
+    {
+      "image_local": "data/images/bluebottle/c229670-100g.jpg",
+      "r2_key": "beans/bluebottle/c229670-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/c229670-100g.jpg",
+      "size_bytes": 50309
+    },
+    {
+      "image_local": "data/images/bluebottle/s074.jpg",
+      "r2_key": "beans/bluebottle/s074.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/s074.jpg",
+      "size_bytes": 28937
+    },
+    {
+      "image_local": "data/images/bluebottle/s242.jpg",
+      "r2_key": "beans/bluebottle/s242.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/bluebottle/s242.jpg",
+      "size_bytes": 26134
+    },
     {
       "image_local": "data/images/doutor/19.jpg",
       "r2_key": "beans/doutor/19.jpg",
@@ -48,34 +168,58 @@
       "size_bytes": 322047
     },
     {
-      "image_local": "data/images/doutor/26.jpg",
-      "r2_key": "beans/doutor/26.jpg",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/26.jpg",
-      "size_bytes": 277857
-    },
-    {
-      "image_local": "data/images/doutor/27.jpg",
-      "r2_key": "beans/doutor/27.jpg",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/27.jpg",
-      "size_bytes": 274851
-    },
-    {
-      "image_local": "data/images/doutor/29.jpg",
-      "r2_key": "beans/doutor/29.jpg",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/29.jpg",
-      "size_bytes": 287936
-    },
-    {
-      "image_local": "data/images/doutor/30.jpg",
-      "r2_key": "beans/doutor/30.jpg",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/30.jpg",
-      "size_bytes": 282980
-    },
-    {
       "image_local": "data/images/doutor/32.jpg",
       "r2_key": "beans/doutor/32.jpg",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/32.jpg",
       "size_bytes": 293473
+    },
+    {
+      "image_local": "data/images/doutor/store-209705.jpg",
+      "r2_key": "beans/doutor/store-209705.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-209705.jpg",
+      "size_bytes": 281256
+    },
+    {
+      "image_local": "data/images/doutor/store-2107.jpg",
+      "r2_key": "beans/doutor/store-2107.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-2107.jpg",
+      "size_bytes": 278084
+    },
+    {
+      "image_local": "data/images/hoshino/34500100.jpg",
+      "r2_key": "beans/hoshino/34500100.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34500100.jpg",
+      "size_bytes": 29830
+    },
+    {
+      "image_local": "data/images/hoshino/34501100.jpg",
+      "r2_key": "beans/hoshino/34501100.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/34501100.jpg",
+      "size_bytes": 27610
+    },
+    {
+      "image_local": "data/images/hoshino/decaf-store-100g.jpg",
+      "r2_key": "beans/hoshino/decaf-store-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/decaf-store-100g.jpg",
+      "size_bytes": 29830
+    },
+    {
+      "image_local": "data/images/hoshino/hikoboshi-store.jpg",
+      "r2_key": "beans/hoshino/hikoboshi-store.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/hikoboshi-store.jpg",
+      "size_bytes": 104251
+    },
+    {
+      "image_local": "data/images/hoshino/hoshino-blend-store-100g.jpg",
+      "r2_key": "beans/hoshino/hoshino-blend-store-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/hoshino-blend-store-100g.jpg",
+      "size_bytes": 29830
+    },
+    {
+      "image_local": "data/images/hoshino/orihime-store-100g.jpg",
+      "r2_key": "beans/hoshino/orihime-store-100g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/hoshino/orihime-store-100g.jpg",
+      "size_bytes": 92075
     },
     {
       "image_local": "data/images/kaldi/4515996008399.jpg",
@@ -87,7 +231,7 @@
       "image_local": "data/images/kaldi/4515996008634.jpg",
       "r2_key": "beans/kaldi/4515996008634.jpg",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996008634.jpg",
-      "size_bytes": 43908
+      "size_bytes": 47705
     },
     {
       "image_local": "data/images/kaldi/4515996008795.jpg",
@@ -225,7 +369,7 @@
       "image_local": "data/images/kaldi/4515996015380.jpg",
       "r2_key": "beans/kaldi/4515996015380.jpg",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015380.jpg",
-      "size_bytes": 47381
+      "size_bytes": 42917
     },
     {
       "image_local": "data/images/kaldi/4515996015434.jpg",
@@ -328,12 +472,6 @@
       "r2_key": "beans/kaldi/4515996019401.jpg",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019401.jpg",
       "size_bytes": 44784
-    },
-    {
-      "image_local": "data/images/kaldi/coegift-02605.jpg",
-      "r2_key": "beans/kaldi/coegift-02605.jpg",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/coegift-02605.jpg",
-      "size_bytes": 40700
     },
     {
       "image_local": "data/images/kaldi/freecfmildkld.jpg",
@@ -646,6 +784,1074 @@
       "r2_key": "beans/maruyama/97.jpg",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/maruyama/97.jpg",
       "size_bytes": 105296
+    },
+    {
+      "image_local": "data/images/ogawa/10044744466743.jpg",
+      "r2_key": "beans/ogawa/10044744466743.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044744466743.jpg",
+      "size_bytes": 888287
+    },
+    {
+      "image_local": "data/images/ogawa/10044744466743.png",
+      "r2_key": "beans/ogawa/10044744466743.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044744466743.png",
+      "size_bytes": 888287
+    },
+    {
+      "image_local": "data/images/ogawa/10044778217783.jpg",
+      "r2_key": "beans/ogawa/10044778217783.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044778217783.jpg",
+      "size_bytes": 782502
+    },
+    {
+      "image_local": "data/images/ogawa/10044778217783.png",
+      "r2_key": "beans/ogawa/10044778217783.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044778217783.png",
+      "size_bytes": 782502
+    },
+    {
+      "image_local": "data/images/ogawa/10044781396279.jpg",
+      "r2_key": "beans/ogawa/10044781396279.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044781396279.jpg",
+      "size_bytes": 782023
+    },
+    {
+      "image_local": "data/images/ogawa/10044781396279.png",
+      "r2_key": "beans/ogawa/10044781396279.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044781396279.png",
+      "size_bytes": 782023
+    },
+    {
+      "image_local": "data/images/ogawa/10044856369463.jpg",
+      "r2_key": "beans/ogawa/10044856369463.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044856369463.jpg",
+      "size_bytes": 852276
+    },
+    {
+      "image_local": "data/images/ogawa/10044856369463.png",
+      "r2_key": "beans/ogawa/10044856369463.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044856369463.png",
+      "size_bytes": 852276
+    },
+    {
+      "image_local": "data/images/ogawa/10044861940023.jpg",
+      "r2_key": "beans/ogawa/10044861940023.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044861940023.jpg",
+      "size_bytes": 710181
+    },
+    {
+      "image_local": "data/images/ogawa/10044861940023.png",
+      "r2_key": "beans/ogawa/10044861940023.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044861940023.png",
+      "size_bytes": 710181
+    },
+    {
+      "image_local": "data/images/ogawa/10044863381815.jpg",
+      "r2_key": "beans/ogawa/10044863381815.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044863381815.jpg",
+      "size_bytes": 709850
+    },
+    {
+      "image_local": "data/images/ogawa/10044863381815.png",
+      "r2_key": "beans/ogawa/10044863381815.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044863381815.png",
+      "size_bytes": 709850
+    },
+    {
+      "image_local": "data/images/ogawa/10044918464823.jpg",
+      "r2_key": "beans/ogawa/10044918464823.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044918464823.jpg",
+      "size_bytes": 877586
+    },
+    {
+      "image_local": "data/images/ogawa/10044918464823.png",
+      "r2_key": "beans/ogawa/10044918464823.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044918464823.png",
+      "size_bytes": 877586
+    },
+    {
+      "image_local": "data/images/ogawa/10044920660279.jpg",
+      "r2_key": "beans/ogawa/10044920660279.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044920660279.jpg",
+      "size_bytes": 790482
+    },
+    {
+      "image_local": "data/images/ogawa/10044920660279.png",
+      "r2_key": "beans/ogawa/10044920660279.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044920660279.png",
+      "size_bytes": 790482
+    },
+    {
+      "image_local": "data/images/ogawa/10044922396983.jpg",
+      "r2_key": "beans/ogawa/10044922396983.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044922396983.jpg",
+      "size_bytes": 789747
+    },
+    {
+      "image_local": "data/images/ogawa/10044922396983.png",
+      "r2_key": "beans/ogawa/10044922396983.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10044922396983.png",
+      "size_bytes": 789747
+    },
+    {
+      "image_local": "data/images/ogawa/10049817215287.jpg",
+      "r2_key": "beans/ogawa/10049817215287.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049817215287.jpg",
+      "size_bytes": 844100
+    },
+    {
+      "image_local": "data/images/ogawa/10049817215287.png",
+      "r2_key": "beans/ogawa/10049817215287.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049817215287.png",
+      "size_bytes": 844100
+    },
+    {
+      "image_local": "data/images/ogawa/10049820492087.jpg",
+      "r2_key": "beans/ogawa/10049820492087.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049820492087.jpg",
+      "size_bytes": 853801
+    },
+    {
+      "image_local": "data/images/ogawa/10049820492087.png",
+      "r2_key": "beans/ogawa/10049820492087.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049820492087.png",
+      "size_bytes": 853801
+    },
+    {
+      "image_local": "data/images/ogawa/10049826488631.jpg",
+      "r2_key": "beans/ogawa/10049826488631.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049826488631.jpg",
+      "size_bytes": 711626
+    },
+    {
+      "image_local": "data/images/ogawa/10049826488631.png",
+      "r2_key": "beans/ogawa/10049826488631.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049826488631.png",
+      "size_bytes": 711626
+    },
+    {
+      "image_local": "data/images/ogawa/10049830781239.jpg",
+      "r2_key": "beans/ogawa/10049830781239.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049830781239.jpg",
+      "size_bytes": 831104
+    },
+    {
+      "image_local": "data/images/ogawa/10049830781239.png",
+      "r2_key": "beans/ogawa/10049830781239.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049830781239.png",
+      "size_bytes": 831104
+    },
+    {
+      "image_local": "data/images/ogawa/10049834975543.jpg",
+      "r2_key": "beans/ogawa/10049834975543.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049834975543.jpg",
+      "size_bytes": 711923
+    },
+    {
+      "image_local": "data/images/ogawa/10049834975543.png",
+      "r2_key": "beans/ogawa/10049834975543.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10049834975543.png",
+      "size_bytes": 711923
+    },
+    {
+      "image_local": "data/images/ogawa/10052356145463.jpg",
+      "r2_key": "beans/ogawa/10052356145463.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052356145463.jpg",
+      "size_bytes": 832212
+    },
+    {
+      "image_local": "data/images/ogawa/10052356145463.png",
+      "r2_key": "beans/ogawa/10052356145463.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052356145463.png",
+      "size_bytes": 832212
+    },
+    {
+      "image_local": "data/images/ogawa/10052365517111.jpg",
+      "r2_key": "beans/ogawa/10052365517111.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052365517111.jpg",
+      "size_bytes": 838882
+    },
+    {
+      "image_local": "data/images/ogawa/10052365517111.png",
+      "r2_key": "beans/ogawa/10052365517111.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052365517111.png",
+      "size_bytes": 838882
+    },
+    {
+      "image_local": "data/images/ogawa/10052368761143.jpg",
+      "r2_key": "beans/ogawa/10052368761143.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052368761143.jpg",
+      "size_bytes": 838227
+    },
+    {
+      "image_local": "data/images/ogawa/10052368761143.png",
+      "r2_key": "beans/ogawa/10052368761143.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10052368761143.png",
+      "size_bytes": 838227
+    },
+    {
+      "image_local": "data/images/ogawa/10084621975863.jpg",
+      "r2_key": "beans/ogawa/10084621975863.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10084621975863.jpg",
+      "size_bytes": 853654
+    },
+    {
+      "image_local": "data/images/ogawa/10084621975863.png",
+      "r2_key": "beans/ogawa/10084621975863.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10084621975863.png",
+      "size_bytes": 853654
+    },
+    {
+      "image_local": "data/images/ogawa/10185668165943.jpg",
+      "r2_key": "beans/ogawa/10185668165943.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10185668165943.jpg",
+      "size_bytes": 157984
+    },
+    {
+      "image_local": "data/images/ogawa/10270965072183.jpg",
+      "r2_key": "beans/ogawa/10270965072183.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10270965072183.jpg",
+      "size_bytes": 240613
+    },
+    {
+      "image_local": "data/images/ogawa/10270965072183.png",
+      "r2_key": "beans/ogawa/10270965072183.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10270965072183.png",
+      "size_bytes": 240613
+    },
+    {
+      "image_local": "data/images/ogawa/10270965956919.jpg",
+      "r2_key": "beans/ogawa/10270965956919.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10270965956919.jpg",
+      "size_bytes": 253561
+    },
+    {
+      "image_local": "data/images/ogawa/10270965956919.png",
+      "r2_key": "beans/ogawa/10270965956919.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10270965956919.png",
+      "size_bytes": 253561
+    },
+    {
+      "image_local": "data/images/ogawa/10284405653815.jpg",
+      "r2_key": "beans/ogawa/10284405653815.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10284405653815.jpg",
+      "size_bytes": 217166
+    },
+    {
+      "image_local": "data/images/ogawa/10284405653815.png",
+      "r2_key": "beans/ogawa/10284405653815.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10284405653815.png",
+      "size_bytes": 217166
+    },
+    {
+      "image_local": "data/images/ogawa/10284406178103.jpg",
+      "r2_key": "beans/ogawa/10284406178103.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10284406178103.jpg",
+      "size_bytes": 216391
+    },
+    {
+      "image_local": "data/images/ogawa/10284406178103.png",
+      "r2_key": "beans/ogawa/10284406178103.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10284406178103.png",
+      "size_bytes": 216391
+    },
+    {
+      "image_local": "data/images/ogawa/10452349124919.jpg",
+      "r2_key": "beans/ogawa/10452349124919.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10452349124919.jpg",
+      "size_bytes": 163363
+    },
+    {
+      "image_local": "data/images/ogawa/10558351769911.jpg",
+      "r2_key": "beans/ogawa/10558351769911.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10558351769911.jpg",
+      "size_bytes": 117100
+    },
+    {
+      "image_local": "data/images/ogawa/10558831165751.jpg",
+      "r2_key": "beans/ogawa/10558831165751.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10558831165751.jpg",
+      "size_bytes": 349009
+    },
+    {
+      "image_local": "data/images/ogawa/10558846140727.jpg",
+      "r2_key": "beans/ogawa/10558846140727.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/10558846140727.jpg",
+      "size_bytes": 347795
+    },
+    {
+      "image_local": "data/images/ogawa/321.jpg",
+      "r2_key": "beans/ogawa/321.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/321.jpg",
+      "size_bytes": 28856
+    },
+    {
+      "image_local": "data/images/ogawa/327.jpg",
+      "r2_key": "beans/ogawa/327.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/327.jpg",
+      "size_bytes": 29186
+    },
+    {
+      "image_local": "data/images/ogawa/8445504946487.jpg",
+      "r2_key": "beans/ogawa/8445504946487.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445504946487.jpg",
+      "size_bytes": 748634
+    },
+    {
+      "image_local": "data/images/ogawa/8445506027831.jpg",
+      "r2_key": "beans/ogawa/8445506027831.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506027831.jpg",
+      "size_bytes": 851516
+    },
+    {
+      "image_local": "data/images/ogawa/8445506126135.jpg",
+      "r2_key": "beans/ogawa/8445506126135.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506126135.jpg",
+      "size_bytes": 837286
+    },
+    {
+      "image_local": "data/images/ogawa/8445506191671.jpg",
+      "r2_key": "beans/ogawa/8445506191671.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506191671.jpg",
+      "size_bytes": 133316
+    },
+    {
+      "image_local": "data/images/ogawa/8445506322743.jpg",
+      "r2_key": "beans/ogawa/8445506322743.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445506322743.jpg",
+      "size_bytes": 488396
+    },
+    {
+      "image_local": "data/images/ogawa/8445508288823.jpg",
+      "r2_key": "beans/ogawa/8445508288823.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445508288823.jpg",
+      "size_bytes": 552553
+    },
+    {
+      "image_local": "data/images/ogawa/8445508583735.jpg",
+      "r2_key": "beans/ogawa/8445508583735.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445508583735.jpg",
+      "size_bytes": 592342
+    },
+    {
+      "image_local": "data/images/ogawa/8445509566775.jpg",
+      "r2_key": "beans/ogawa/8445509566775.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445509566775.jpg",
+      "size_bytes": 780455
+    },
+    {
+      "image_local": "data/images/ogawa/8445510943031.jpg",
+      "r2_key": "beans/ogawa/8445510943031.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445510943031.jpg",
+      "size_bytes": 395151
+    },
+    {
+      "image_local": "data/images/ogawa/8445511696695.jpg",
+      "r2_key": "beans/ogawa/8445511696695.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445511696695.jpg",
+      "size_bytes": 508275
+    },
+    {
+      "image_local": "data/images/ogawa/8445512417591.jpg",
+      "r2_key": "beans/ogawa/8445512417591.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445512417591.jpg",
+      "size_bytes": 1035016
+    },
+    {
+      "image_local": "data/images/ogawa/8445512810807.jpg",
+      "r2_key": "beans/ogawa/8445512810807.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445512810807.jpg",
+      "size_bytes": 297699
+    },
+    {
+      "image_local": "data/images/ogawa/8445513564471.jpg",
+      "r2_key": "beans/ogawa/8445513564471.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445513564471.jpg",
+      "size_bytes": 396766
+    },
+    {
+      "image_local": "data/images/ogawa/8445516874039.jpg",
+      "r2_key": "beans/ogawa/8445516874039.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445516874039.jpg",
+      "size_bytes": 378915
+    },
+    {
+      "image_local": "data/images/ogawa/8445531488567.jpg",
+      "r2_key": "beans/ogawa/8445531488567.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445531488567.jpg",
+      "size_bytes": 94448
+    },
+    {
+      "image_local": "data/images/ogawa/8445531521335.jpg",
+      "r2_key": "beans/ogawa/8445531521335.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445531521335.jpg",
+      "size_bytes": 61449
+    },
+    {
+      "image_local": "data/images/ogawa/8445532045623.jpg",
+      "r2_key": "beans/ogawa/8445532045623.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532045623.jpg",
+      "size_bytes": 67060
+    },
+    {
+      "image_local": "data/images/ogawa/8445532340535.jpg",
+      "r2_key": "beans/ogawa/8445532340535.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532340535.jpg",
+      "size_bytes": 65521
+    },
+    {
+      "image_local": "data/images/ogawa/8445532373303.jpg",
+      "r2_key": "beans/ogawa/8445532373303.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532373303.jpg",
+      "size_bytes": 93653
+    },
+    {
+      "image_local": "data/images/ogawa/8445532700983.jpg",
+      "r2_key": "beans/ogawa/8445532700983.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532700983.jpg",
+      "size_bytes": 99374
+    },
+    {
+      "image_local": "data/images/ogawa/8445532995895.jpg",
+      "r2_key": "beans/ogawa/8445532995895.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445532995895.jpg",
+      "size_bytes": 133275
+    },
+    {
+      "image_local": "data/images/ogawa/8445533061431.jpg",
+      "r2_key": "beans/ogawa/8445533061431.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533061431.jpg",
+      "size_bytes": 39179
+    },
+    {
+      "image_local": "data/images/ogawa/8445533487415.jpg",
+      "r2_key": "beans/ogawa/8445533487415.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533487415.jpg",
+      "size_bytes": 59125
+    },
+    {
+      "image_local": "data/images/ogawa/8445533552951.jpg",
+      "r2_key": "beans/ogawa/8445533552951.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533552951.jpg",
+      "size_bytes": 113965
+    },
+    {
+      "image_local": "data/images/ogawa/8445533684023.jpg",
+      "r2_key": "beans/ogawa/8445533684023.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533684023.jpg",
+      "size_bytes": 93686
+    },
+    {
+      "image_local": "data/images/ogawa/8445533749559.jpg",
+      "r2_key": "beans/ogawa/8445533749559.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445533749559.jpg",
+      "size_bytes": 90719
+    },
+    {
+      "image_local": "data/images/ogawa/8445534077239.jpg",
+      "r2_key": "beans/ogawa/8445534077239.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445534077239.jpg",
+      "size_bytes": 92072
+    },
+    {
+      "image_local": "data/images/ogawa/8445534175543.jpg",
+      "r2_key": "beans/ogawa/8445534175543.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445534175543.jpg",
+      "size_bytes": 130510
+    },
+    {
+      "image_local": "data/images/ogawa/8445534404919.jpg",
+      "r2_key": "beans/ogawa/8445534404919.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445534404919.jpg",
+      "size_bytes": 71209
+    },
+    {
+      "image_local": "data/images/ogawa/8445544595767.jpg",
+      "r2_key": "beans/ogawa/8445544595767.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445544595767.jpg",
+      "size_bytes": 55242
+    },
+    {
+      "image_local": "data/images/ogawa/8445544726839.jpg",
+      "r2_key": "beans/ogawa/8445544726839.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445544726839.jpg",
+      "size_bytes": 55881
+    },
+    {
+      "image_local": "data/images/ogawa/8445544923447.jpg",
+      "r2_key": "beans/ogawa/8445544923447.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445544923447.jpg",
+      "size_bytes": 61019
+    },
+    {
+      "image_local": "data/images/ogawa/8445546234167.jpg",
+      "r2_key": "beans/ogawa/8445546234167.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8445546234167.jpg",
+      "size_bytes": 60146
+    },
+    {
+      "image_local": "data/images/ogawa/8486630064439.jpg",
+      "r2_key": "beans/ogawa/8486630064439.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8486630064439.jpg",
+      "size_bytes": 69755
+    },
+    {
+      "image_local": "data/images/ogawa/8486656966967.jpg",
+      "r2_key": "beans/ogawa/8486656966967.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8486656966967.jpg",
+      "size_bytes": 127950
+    },
+    {
+      "image_local": "data/images/ogawa/8490520740151.jpg",
+      "r2_key": "beans/ogawa/8490520740151.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8490520740151.jpg",
+      "size_bytes": 106108
+    },
+    {
+      "image_local": "data/images/ogawa/8496159523127.jpg",
+      "r2_key": "beans/ogawa/8496159523127.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8496159523127.jpg",
+      "size_bytes": 93081
+    },
+    {
+      "image_local": "data/images/ogawa/8496655958327.jpg",
+      "r2_key": "beans/ogawa/8496655958327.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8496655958327.jpg",
+      "size_bytes": 74103
+    },
+    {
+      "image_local": "data/images/ogawa/8496797253943.jpg",
+      "r2_key": "beans/ogawa/8496797253943.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8496797253943.jpg",
+      "size_bytes": 73209
+    },
+    {
+      "image_local": "data/images/ogawa/8580523295031.jpg",
+      "r2_key": "beans/ogawa/8580523295031.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8580523295031.jpg",
+      "size_bytes": 28856
+    },
+    {
+      "image_local": "data/images/ogawa/8596880752951.jpg",
+      "r2_key": "beans/ogawa/8596880752951.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8596880752951.jpg",
+      "size_bytes": 43123
+    },
+    {
+      "image_local": "data/images/ogawa/8596913226039.jpg",
+      "r2_key": "beans/ogawa/8596913226039.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8596913226039.jpg",
+      "size_bytes": 43116
+    },
+    {
+      "image_local": "data/images/ogawa/8605950050615.jpg",
+      "r2_key": "beans/ogawa/8605950050615.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8605950050615.jpg",
+      "size_bytes": 29186
+    },
+    {
+      "image_local": "data/images/ogawa/8605969842487.jpg",
+      "r2_key": "beans/ogawa/8605969842487.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8605969842487.jpg",
+      "size_bytes": 43509
+    },
+    {
+      "image_local": "data/images/ogawa/8605977542967.jpg",
+      "r2_key": "beans/ogawa/8605977542967.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/8605977542967.jpg",
+      "size_bytes": 43514
+    },
+    {
+      "image_local": "data/images/ogawa/927.jpg",
+      "r2_key": "beans/ogawa/927.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/927.jpg",
+      "size_bytes": 1035016
+    },
+    {
+      "image_local": "data/images/ogawa/929.jpg",
+      "r2_key": "beans/ogawa/929.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/929.jpg",
+      "size_bytes": 297699
+    },
+    {
+      "image_local": "data/images/ogawa/930.jpg",
+      "r2_key": "beans/ogawa/930.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/930.jpg",
+      "size_bytes": 488396
+    },
+    {
+      "image_local": "data/images/ogawa/932.jpg",
+      "r2_key": "beans/ogawa/932.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/932.jpg",
+      "size_bytes": 837286
+    },
+    {
+      "image_local": "data/images/ogawa/937.jpg",
+      "r2_key": "beans/ogawa/937.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/937.jpg",
+      "size_bytes": 508275
+    },
+    {
+      "image_local": "data/images/ogawa/939.jpg",
+      "r2_key": "beans/ogawa/939.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/939.jpg",
+      "size_bytes": 780455
+    },
+    {
+      "image_local": "data/images/ogawa/941.jpg",
+      "r2_key": "beans/ogawa/941.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/941.jpg",
+      "size_bytes": 552553
+    },
+    {
+      "image_local": "data/images/ogawa/951.jpg",
+      "r2_key": "beans/ogawa/951.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/951.jpg",
+      "size_bytes": 851516
+    },
+    {
+      "image_local": "data/images/ogawa/957.jpg",
+      "r2_key": "beans/ogawa/957.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/957.jpg",
+      "size_bytes": 592342
+    },
+    {
+      "image_local": "data/images/ogawa/959.jpg",
+      "r2_key": "beans/ogawa/959.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/959.jpg",
+      "size_bytes": 396766
+    },
+    {
+      "image_local": "data/images/ogawa/961.jpg",
+      "r2_key": "beans/ogawa/961.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/961.jpg",
+      "size_bytes": 378915
+    },
+    {
+      "image_local": "data/images/ogawa/963.jpg",
+      "r2_key": "beans/ogawa/963.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/963.jpg",
+      "size_bytes": 395151
+    },
+    {
+      "image_local": "data/images/ogawa/967.jpg",
+      "r2_key": "beans/ogawa/967.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/967.jpg",
+      "size_bytes": 133316
+    },
+    {
+      "image_local": "data/images/ogawa/968.jpg",
+      "r2_key": "beans/ogawa/968.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/968.jpg",
+      "size_bytes": 748634
+    },
+    {
+      "image_local": "data/images/ogawa/r-bluemountain-b.jpg",
+      "r2_key": "beans/ogawa/r-bluemountain-b.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/r-bluemountain-b.jpg",
+      "size_bytes": 832212
+    },
+    {
+      "image_local": "data/images/ogawa/r-coffeeshop-b.jpg",
+      "r2_key": "beans/ogawa/r-coffeeshop-b.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/r-coffeeshop-b.jpg",
+      "size_bytes": 831104
+    },
+    {
+      "image_local": "data/images/ogawa/r-fairtrademoca-b.jpg",
+      "r2_key": "beans/ogawa/r-fairtrademoca-b.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/r-fairtrademoca-b.jpg",
+      "size_bytes": 852276
+    },
+    {
+      "image_local": "data/images/ogawa/r-ocpremium-b.jpg",
+      "r2_key": "beans/ogawa/r-ocpremium-b.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/r-ocpremium-b.jpg",
+      "size_bytes": 844100
+    },
+    {
+      "image_local": "data/images/ogawa/r-orgguatemala-b.jpg",
+      "r2_key": "beans/ogawa/r-orgguatemala-b.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/r-orgguatemala-b.jpg",
+      "size_bytes": 877586
+    },
+    {
+      "image_local": "data/images/ogawa/r-orgoriginal-b.jpg",
+      "r2_key": "beans/ogawa/r-orgoriginal-b.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/r-orgoriginal-b.jpg",
+      "size_bytes": 888287
+    },
+    {
+      "image_local": "data/images/ogawa/rcb-don-jose-n.jpg",
+      "r2_key": "beans/ogawa/rcb-don-jose-n.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcb-don-jose-n.jpg",
+      "size_bytes": 349009
+    },
+    {
+      "image_local": "data/images/ogawa/rcb-elipse.jpg",
+      "r2_key": "beans/ogawa/rcb-elipse.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcb-elipse.jpg",
+      "size_bytes": 117100
+    },
+    {
+      "image_local": "data/images/ogawa/rcb-original500.jpg",
+      "r2_key": "beans/ogawa/rcb-original500.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcb-original500.jpg",
+      "size_bytes": 240613
+    },
+    {
+      "image_local": "data/images/ogawa/rcb-premium500.jpg",
+      "r2_key": "beans/ogawa/rcb-premium500.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcb-premium500.jpg",
+      "size_bytes": 253561
+    },
+    {
+      "image_local": "data/images/ogawa/rcb-sumava-blackmoon.jpg",
+      "r2_key": "beans/ogawa/rcb-sumava-blackmoon.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcb-sumava-blackmoon.jpg",
+      "size_bytes": 347795
+    },
+    {
+      "image_local": "data/images/ogawa/rcp-akicoffee.jpg",
+      "r2_key": "beans/ogawa/rcp-akicoffee.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcp-akicoffee.jpg",
+      "size_bytes": 619248
+    },
+    {
+      "image_local": "data/images/ogawa/rcp-coldbrew50.jpg",
+      "r2_key": "beans/ogawa/rcp-coldbrew50.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcp-coldbrew50.jpg",
+      "size_bytes": 32602
+    },
+    {
+      "image_local": "data/images/ogawa/rcp-orangutan17g.jpg",
+      "r2_key": "beans/ogawa/rcp-orangutan17g.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/rcp-orangutan17g.jpg",
+      "size_bytes": 134508
+    },
+    {
+      "image_local": "data/images/ogawa/subscriptionser.jpg",
+      "r2_key": "beans/ogawa/subscriptionser.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/subscriptionser.jpg",
+      "size_bytes": 77575
+    },
+    {
+      "image_local": "data/images/ogawa/sumiyaki-coldbrew.jpg",
+      "r2_key": "beans/ogawa/sumiyaki-coldbrew.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ogawa/sumiyaki-coldbrew.jpg",
+      "size_bytes": 59432
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-balbra20260723.jpg",
+      "r2_key": "beans/sarutahiko/m-balbra20260723.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-balbra20260723.jpg",
+      "size_bytes": 155637
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-balgua20260723.jpg",
+      "r2_key": "beans/sarutahiko/m-balgua20260723.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-balgua20260723.jpg",
+      "size_bytes": 78507
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-balgua20260723.png",
+      "r2_key": "beans/sarutahiko/m-balgua20260723.png",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-balgua20260723.png",
+      "size_bytes": 78507
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-braboa260530.jpg",
+      "r2_key": "beans/sarutahiko/m-braboa260530.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-braboa260530.jpg",
+      "size_bytes": 134697
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-braum260529.jpg",
+      "r2_key": "beans/sarutahiko/m-braum260529.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-braum260529.jpg",
+      "size_bytes": 124489
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-col20260711.jpg",
+      "r2_key": "beans/sarutahiko/m-col20260711.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-col20260711.jpg",
+      "size_bytes": 112844
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-d.jpg",
+      "r2_key": "beans/sarutahiko/m-d.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-d.jpg",
+      "size_bytes": 135898
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-de-251228.jpg",
+      "r2_key": "beans/sarutahiko/m-de-251228.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-de-251228.jpg",
+      "size_bytes": 91719
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-ec.jpg",
+      "r2_key": "beans/sarutahiko/m-ec.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-ec.jpg",
+      "size_bytes": 129978
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-hana2026.jpg",
+      "r2_key": "beans/sarutahiko/m-hana2026.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hana2026.jpg",
+      "size_bytes": 100648
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-hiroshima.jpg",
+      "r2_key": "beans/sarutahiko/m-hiroshima.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hiroshima.jpg",
+      "size_bytes": 98552
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-hon20260807-mame.jpg",
+      "r2_key": "beans/sarutahiko/m-hon20260807-mame.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-hon20260807-mame.jpg",
+      "size_bytes": 115457
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-ken260717.jpg",
+      "r2_key": "beans/sarutahiko/m-ken260717.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-ken260717.jpg",
+      "size_bytes": 105789
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-pan260717.jpg",
+      "r2_key": "beans/sarutahiko/m-pan260717.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-pan260717.jpg",
+      "size_bytes": 114785
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-stf.jpg",
+      "r2_key": "beans/sarutahiko/m-stf.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-stf.jpg",
+      "size_bytes": 123460
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-su500.jpg",
+      "r2_key": "beans/sarutahiko/m-su500.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-su500.jpg",
+      "size_bytes": 84568
+    },
+    {
+      "image_local": "data/images/sarutahiko/m-t-spring2026.jpg",
+      "r2_key": "beans/sarutahiko/m-t-spring2026.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/sarutahiko/m-t-spring2026.jpg",
+      "size_bytes": 114239
+    },
+    {
+      "image_local": "data/images/saza/103001.jpg",
+      "r2_key": "beans/saza/103001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103001.jpg",
+      "size_bytes": 72818
+    },
+    {
+      "image_local": "data/images/saza/103011.jpg",
+      "r2_key": "beans/saza/103011.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103011.jpg",
+      "size_bytes": 80618
+    },
+    {
+      "image_local": "data/images/saza/103041.jpg",
+      "r2_key": "beans/saza/103041.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103041.jpg",
+      "size_bytes": 88588
+    },
+    {
+      "image_local": "data/images/saza/103061.jpg",
+      "r2_key": "beans/saza/103061.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103061.jpg",
+      "size_bytes": 73916
+    },
+    {
+      "image_local": "data/images/saza/103071.jpg",
+      "r2_key": "beans/saza/103071.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103071.jpg",
+      "size_bytes": 79192
+    },
+    {
+      "image_local": "data/images/saza/103077.jpg",
+      "r2_key": "beans/saza/103077.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103077.jpg",
+      "size_bytes": 84112
+    },
+    {
+      "image_local": "data/images/saza/103091.jpg",
+      "r2_key": "beans/saza/103091.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103091.jpg",
+      "size_bytes": 76681
+    },
+    {
+      "image_local": "data/images/saza/103098.jpg",
+      "r2_key": "beans/saza/103098.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103098.jpg",
+      "size_bytes": 85001
+    },
+    {
+      "image_local": "data/images/saza/103101.jpg",
+      "r2_key": "beans/saza/103101.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103101.jpg",
+      "size_bytes": 80678
+    },
+    {
+      "image_local": "data/images/saza/103211.jpg",
+      "r2_key": "beans/saza/103211.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103211.jpg",
+      "size_bytes": 83881
+    },
+    {
+      "image_local": "data/images/saza/103511.jpg",
+      "r2_key": "beans/saza/103511.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103511.jpg",
+      "size_bytes": 79907
+    },
+    {
+      "image_local": "data/images/saza/103551.jpg",
+      "r2_key": "beans/saza/103551.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103551.jpg",
+      "size_bytes": 66931
+    },
+    {
+      "image_local": "data/images/saza/103931.jpg",
+      "r2_key": "beans/saza/103931.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103931.jpg",
+      "size_bytes": 62958
+    },
+    {
+      "image_local": "data/images/saza/103961.jpg",
+      "r2_key": "beans/saza/103961.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/103961.jpg",
+      "size_bytes": 62352
+    },
+    {
+      "image_local": "data/images/saza/104016.jpg",
+      "r2_key": "beans/saza/104016.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104016.jpg",
+      "size_bytes": 82186
+    },
+    {
+      "image_local": "data/images/saza/104186.jpg",
+      "r2_key": "beans/saza/104186.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104186.jpg",
+      "size_bytes": 72648
+    },
+    {
+      "image_local": "data/images/saza/104222.jpg",
+      "r2_key": "beans/saza/104222.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104222.jpg",
+      "size_bytes": 58257
+    },
+    {
+      "image_local": "data/images/saza/104336.jpg",
+      "r2_key": "beans/saza/104336.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104336.jpg",
+      "size_bytes": 57350
+    },
+    {
+      "image_local": "data/images/saza/104411.jpg",
+      "r2_key": "beans/saza/104411.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104411.jpg",
+      "size_bytes": 50403
+    },
+    {
+      "image_local": "data/images/saza/104532.jpg",
+      "r2_key": "beans/saza/104532.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104532.jpg",
+      "size_bytes": 66377
+    },
+    {
+      "image_local": "data/images/saza/104681.jpg",
+      "r2_key": "beans/saza/104681.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104681.jpg",
+      "size_bytes": 95497
+    },
+    {
+      "image_local": "data/images/saza/104721.jpg",
+      "r2_key": "beans/saza/104721.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104721.jpg",
+      "size_bytes": 80607
+    },
+    {
+      "image_local": "data/images/saza/104841.jpg",
+      "r2_key": "beans/saza/104841.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104841.jpg",
+      "size_bytes": 83359
+    },
+    {
+      "image_local": "data/images/saza/104913.jpg",
+      "r2_key": "beans/saza/104913.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104913.jpg",
+      "size_bytes": 48962
+    },
+    {
+      "image_local": "data/images/saza/105340.jpg",
+      "r2_key": "beans/saza/105340.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105340.jpg",
+      "size_bytes": 48333
+    },
+    {
+      "image_local": "data/images/saza/105362.jpg",
+      "r2_key": "beans/saza/105362.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105362.jpg",
+      "size_bytes": 61554
+    },
+    {
+      "image_local": "data/images/saza/105940.jpg",
+      "r2_key": "beans/saza/105940.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105940.jpg",
+      "size_bytes": 51192
+    },
+    {
+      "image_local": "data/images/saza/105945.jpg",
+      "r2_key": "beans/saza/105945.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105945.jpg",
+      "size_bytes": 61342
+    },
+    {
+      "image_local": "data/images/saza/105946.jpg",
+      "r2_key": "beans/saza/105946.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105946.jpg",
+      "size_bytes": 56788
+    },
+    {
+      "image_local": "data/images/saza/105956.jpg",
+      "r2_key": "beans/saza/105956.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105956.jpg",
+      "size_bytes": 59932
+    },
+    {
+      "image_local": "data/images/saza/105966.jpg",
+      "r2_key": "beans/saza/105966.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105966.jpg",
+      "size_bytes": 57903
+    },
+    {
+      "image_local": "data/images/saza/105967.jpg",
+      "r2_key": "beans/saza/105967.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105967.jpg",
+      "size_bytes": 60865
+    },
+    {
+      "image_local": "data/images/saza/105976.jpg",
+      "r2_key": "beans/saza/105976.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105976.jpg",
+      "size_bytes": 56768
+    },
+    {
+      "image_local": "data/images/saza/106940.jpg",
+      "r2_key": "beans/saza/106940.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/106940.jpg",
+      "size_bytes": 47619
+    },
+    {
+      "image_local": "data/images/saza/108362.jpg",
+      "r2_key": "beans/saza/108362.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/108362.jpg",
+      "size_bytes": 57668
     },
     {
       "image_local": "data/images/starbucks/4524785379572.jpg",
@@ -1090,6 +2296,330 @@
       "r2_key": "beans/tullys/store-tullys_brazil_bau.jpg",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/store-tullys_brazil_bau.jpg",
       "size_bytes": 167925
+    },
+    {
+      "image_local": "data/images/ucc/GSP0600001.jpg",
+      "r2_key": "beans/ucc/GSP0600001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/GSP0600001.jpg",
+      "size_bytes": 37211
+    },
+    {
+      "image_local": "data/images/ucc/GSP0600002.jpg",
+      "r2_key": "beans/ucc/GSP0600002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/GSP0600002.jpg",
+      "size_bytes": 47230
+    },
+    {
+      "image_local": "data/images/ucc/HLS0600001.jpg",
+      "r2_key": "beans/ucc/HLS0600001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/HLS0600001.jpg",
+      "size_bytes": 112282
+    },
+    {
+      "image_local": "data/images/ucc/HLS0600002.jpg",
+      "r2_key": "beans/ucc/HLS0600002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/HLS0600002.jpg",
+      "size_bytes": 112487
+    },
+    {
+      "image_local": "data/images/ucc/PRE0600006.jpg",
+      "r2_key": "beans/ucc/PRE0600006.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/PRE0600006.jpg",
+      "size_bytes": 25640
+    },
+    {
+      "image_local": "data/images/ucc/PRE0600007.jpg",
+      "r2_key": "beans/ucc/PRE0600007.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/PRE0600007.jpg",
+      "size_bytes": 27531
+    },
+    {
+      "image_local": "data/images/ucc/PRE0600008.jpg",
+      "r2_key": "beans/ucc/PRE0600008.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/PRE0600008.jpg",
+      "size_bytes": 27588
+    },
+    {
+      "image_local": "data/images/ucc/PRE0600010.jpg",
+      "r2_key": "beans/ucc/PRE0600010.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/PRE0600010.jpg",
+      "size_bytes": 50684
+    },
+    {
+      "image_local": "data/images/ucc/SAI3301002.jpg",
+      "r2_key": "beans/ucc/SAI3301002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/SAI3301002.jpg",
+      "size_bytes": 339590
+    },
+    {
+      "image_local": "data/images/ucc/SAI3301004.jpg",
+      "r2_key": "beans/ucc/SAI3301004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/SAI3301004.jpg",
+      "size_bytes": 338251
+    },
+    {
+      "image_local": "data/images/ucc/SAI3301006.jpg",
+      "r2_key": "beans/ucc/SAI3301006.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/SAI3301006.jpg",
+      "size_bytes": 339710
+    },
+    {
+      "image_local": "data/images/ucc/SHI0600001.jpg",
+      "r2_key": "beans/ucc/SHI0600001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/SHI0600001.jpg",
+      "size_bytes": 147800
+    },
+    {
+      "image_local": "data/images/ucc/TAN0600002.jpg",
+      "r2_key": "beans/ucc/TAN0600002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/TAN0600002.jpg",
+      "size_bytes": 59978
+    },
+    {
+      "image_local": "data/images/ucc/TAN0600003.jpg",
+      "r2_key": "beans/ucc/TAN0600003.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/TAN0600003.jpg",
+      "size_bytes": 55288
+    },
+    {
+      "image_local": "data/images/ucc/TAN0600004.jpg",
+      "r2_key": "beans/ucc/TAN0600004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/TAN0600004.jpg",
+      "size_bytes": 57589
+    },
+    {
+      "image_local": "data/images/ucc/TAN0600005.jpg",
+      "r2_key": "beans/ucc/TAN0600005.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/TAN0600005.jpg",
+      "size_bytes": 67169
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600001.jpg",
+      "r2_key": "beans/ucc/UCC0600001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600001.jpg",
+      "size_bytes": 55937
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600002.jpg",
+      "r2_key": "beans/ucc/UCC0600002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600002.jpg",
+      "size_bytes": 51381
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600003.jpg",
+      "r2_key": "beans/ucc/UCC0600003.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600003.jpg",
+      "size_bytes": 48086
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600004.jpg",
+      "r2_key": "beans/ucc/UCC0600004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600004.jpg",
+      "size_bytes": 109321
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600005.jpg",
+      "r2_key": "beans/ucc/UCC0600005.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600005.jpg",
+      "size_bytes": 111071
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600006.jpg",
+      "r2_key": "beans/ucc/UCC0600006.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600006.jpg",
+      "size_bytes": 112128
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600007.jpg",
+      "r2_key": "beans/ucc/UCC0600007.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600007.jpg",
+      "size_bytes": 49713
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600008.jpg",
+      "r2_key": "beans/ucc/UCC0600008.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600008.jpg",
+      "size_bytes": 49222
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600009.jpg",
+      "r2_key": "beans/ucc/UCC0600009.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600009.jpg",
+      "size_bytes": 88350
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600010.jpg",
+      "r2_key": "beans/ucc/UCC0600010.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600010.jpg",
+      "size_bytes": 81054
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600011.jpg",
+      "r2_key": "beans/ucc/UCC0600011.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600011.jpg",
+      "size_bytes": 70624
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600012.jpg",
+      "r2_key": "beans/ucc/UCC0600012.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600012.jpg",
+      "size_bytes": 35022
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600013.jpg",
+      "r2_key": "beans/ucc/UCC0600013.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600013.jpg",
+      "size_bytes": 40580
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600014.jpg",
+      "r2_key": "beans/ucc/UCC0600014.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600014.jpg",
+      "size_bytes": 37085
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600015.jpg",
+      "r2_key": "beans/ucc/UCC0600015.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600015.jpg",
+      "size_bytes": 38583
+    },
+    {
+      "image_local": "data/images/ucc/UCC0600016.jpg",
+      "r2_key": "beans/ucc/UCC0600016.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC0600016.jpg",
+      "size_bytes": 48110
+    },
+    {
+      "image_local": "data/images/ucc/UCC3332500.jpg",
+      "r2_key": "beans/ucc/UCC3332500.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCC3332500.jpg",
+      "size_bytes": 26965
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600000.jpg",
+      "r2_key": "beans/ucc/UCT0600000.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600000.jpg",
+      "size_bytes": 143822
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600001.jpg",
+      "r2_key": "beans/ucc/UCT0600001.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600001.jpg",
+      "size_bytes": 123531
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600002.jpg",
+      "r2_key": "beans/ucc/UCT0600002.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600002.jpg",
+      "size_bytes": 131085
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600003.jpg",
+      "r2_key": "beans/ucc/UCT0600003.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600003.jpg",
+      "size_bytes": 130080
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600004.jpg",
+      "r2_key": "beans/ucc/UCT0600004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600004.jpg",
+      "size_bytes": 127927
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600005.jpg",
+      "r2_key": "beans/ucc/UCT0600005.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600005.jpg",
+      "size_bytes": 124759
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600006.jpg",
+      "r2_key": "beans/ucc/UCT0600006.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600006.jpg",
+      "size_bytes": 54726
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600007.jpg",
+      "r2_key": "beans/ucc/UCT0600007.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600007.jpg",
+      "size_bytes": 50721
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600008.jpg",
+      "r2_key": "beans/ucc/UCT0600008.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600008.jpg",
+      "size_bytes": 54924
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600009.jpg",
+      "r2_key": "beans/ucc/UCT0600009.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600009.jpg",
+      "size_bytes": 55109
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600010.jpg",
+      "r2_key": "beans/ucc/UCT0600010.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600010.jpg",
+      "size_bytes": 49890
+    },
+    {
+      "image_local": "data/images/ucc/UCT0600011.jpg",
+      "r2_key": "beans/ucc/UCT0600011.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UCT0600011.jpg",
+      "size_bytes": 55181
+    },
+    {
+      "image_local": "data/images/ucc/UMM0600004.jpg",
+      "r2_key": "beans/ucc/UMM0600004.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM0600004.jpg",
+      "size_bytes": 60072
+    },
+    {
+      "image_local": "data/images/ucc/UMM0600005.jpg",
+      "r2_key": "beans/ucc/UMM0600005.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM0600005.jpg",
+      "size_bytes": 231184
+    },
+    {
+      "image_local": "data/images/ucc/UMM2701015.jpg",
+      "r2_key": "beans/ucc/UMM2701015.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM2701015.jpg",
+      "size_bytes": 142530
+    },
+    {
+      "image_local": "data/images/ucc/UMM3151340.jpg",
+      "r2_key": "beans/ucc/UMM3151340.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM3151340.jpg",
+      "size_bytes": 172963
+    },
+    {
+      "image_local": "data/images/ucc/UMM3151370.jpg",
+      "r2_key": "beans/ucc/UMM3151370.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM3151370.jpg",
+      "size_bytes": 168014
+    },
+    {
+      "image_local": "data/images/ucc/UMM3151680.jpg",
+      "r2_key": "beans/ucc/UMM3151680.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM3151680.jpg",
+      "size_bytes": 174630
+    },
+    {
+      "image_local": "data/images/ucc/UMM3151970.jpg",
+      "r2_key": "beans/ucc/UMM3151970.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM3151970.jpg",
+      "size_bytes": 192700
+    },
+    {
+      "image_local": "data/images/ucc/UMM3230510.jpg",
+      "r2_key": "beans/ucc/UMM3230510.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM3230510.jpg",
+      "size_bytes": 171411
+    },
+    {
+      "image_local": "data/images/ucc/UMM3233480.jpg",
+      "r2_key": "beans/ucc/UMM3233480.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/ucc/UMM3233480.jpg",
+      "size_bytes": 192858
     }
   ]
 }

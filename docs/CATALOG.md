@@ -1,7 +1,7 @@
 # DripLab 全チェーン コーヒー豆カタログ
 
-生成日: 2026-08-08
-**合計: 327 品目**
+生成日: 2026-08-17
+**合計: 362 品目**
 
 ## ドトール（14 品目）
 
@@ -379,3 +379,43 @@
 | 15 | ルワンダ・ニャマシェケ・ニャブメラ・ナチュラル 100g | 100g | ¥1,484 | medium | [link](https://store.bluebottlecoffee.jp/products/c219484) |
 | 16 | ルワンダ・ニャマシェケ・ニャブメラ・ナチュラル 200g | 200g | ¥2,800 | medium | [link](https://store.bluebottlecoffee.jp/products/c219484) |
 | 17 | 東京喫茶ブレンド | 200g | ¥2,550 | ボールド | [link](https://store.bluebottlecoffee.jp/products/c225205) |
+
+## サザコーヒー（35 品目）
+
+| # | 商品名 | 容量 | 価格 | 焙煎 | 購入URL |
+|---|--------|------|------|------|---------|
+| 1 | ありがとうブレンド 150g (豆) | 150g | ¥1,750 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104721&cat=030) |
+| 2 | カフェインフリー 200g (豆) | 200g | ¥1,600 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103101&cat=030) |
+| 3 | ケニア 200g (豆) | 200g | ¥1,800 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103071&cat=030) |
+| 4 | ケニア ナチュラル 150g (豆) | 150g | ¥2,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104841&cat=030) |
+| 5 | ゲイシャハンター 100g (豆) | 100g | ¥2,600 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104411&cat=030) |
+| 6 | ゲイシャブレンド 150g (豆) | 150g | ¥2,050 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104532&cat=030) |
+| 7 | ゴールデンモカ 150g (豆) | 150g | ¥2,550 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104016&cat=030) |
+| 8 | サザエチオピアモカ 200g (豆) | 200g | ¥1,800 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103011&cat=030) |
+| 9 | サザグァテマラ 200g (豆) | 200g | ¥1,600 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103041&cat=030) |
+| 10 | サザスペシャルブレンド 200g (豆) | 200g | ¥1,600 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103001&cat=030) |
+| 11 | サザ贅沢ブレンド 200g (豆) | 200g | ¥1,800 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103511&cat=030) |
+| 12 | サザ農園コロンビア 200g (豆) | 200g | ¥1,800 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103211&cat=030) |
+| 13 | サザ農園コロンビア ゲイシャW 100g (豆) | 100g | ¥3,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104222&cat=030) |
+| 14 | パナマ ジャンソン パカマラN 50g (豆) | 50g | ¥3,000 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105946&cat=030) |
+| 15 | パナマゲイシャ アルティエリ N 50g (豆) | 50g | ¥4,500 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105340&cat=030) |
+| 16 | パナマゲイシャ エスメラルダ マリオ 50g (豆) | 50g | ¥5,500 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105966&cat=030) |
+| 17 | パナマゲイシャ エスメラルダ 緑 100g （豆） | 100g | ¥3,600 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104336&cat=030) |
+| 18 | パナマゲイシャ エスメラルダ 青 12.5g (豆) | 5g | ¥20,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=106940&cat=030) |
+| 19 | パナマゲイシャ エスメラルダ 青 50g (豆) | 50g | ¥80,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105940&cat=030) |
+| 20 | パナマゲイシャ エリダ 50g (豆) | 50g | ¥4,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105976&cat=030) |
+| 21 | パナマゲイシャ エリダN 50g (豆) | 50g | ¥4,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105956&cat=030) |
+| 22 | パナマゲイシャ ジャンソン 50g (豆) | 50g | ¥4,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=108362&cat=030) |
+| 23 | パナマゲイシャ ジャンソンN 50g (豆) | 50g | ¥4,000 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105945&cat=030) |
+| 24 | パナマゲイシャ ジャンソンW 50g (豆) | 50g | ¥3,500 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105362&cat=030) |
+| 25 | パナマゲイシャ ラホネスW 50g (豆) | 50g | ¥4,500 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105967&cat=030) |
+| 26 | パナマチリキナチュラル 200g (豆) | 200g | ¥2,000 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103061&cat=030) |
+| 27 | フレンチロースト 200g (豆) | 200g | ¥1,600 | フレンチロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103551&cat=030) |
+| 28 | ブラジル ブラックダイヤモンド 150g (豆) | 150g | ¥2,000 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104186&cat=030) |
+| 29 | プリンセス将軍珈琲 100g (豆) | 100g | ¥2,330 | フレンチロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104913&cat=030) |
+| 30 | 夏の贅沢サザアイス150g (豆) | 150g | ¥2,000 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=104681&cat=030) |
+| 31 | 将軍ケニア 200g (豆) | 200g | ¥2,100 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103077&cat=030) |
+| 32 | 将軍モカ 200g (豆) | 200g | ¥2,100 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103098&cat=030) |
+| 33 | 将軍珈琲 200g (豆) | 200g | ¥1,800 | フレンチロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103091&cat=030) |
+| 34 | 茨城トヨペットオリジナルブレンド 200g (豆) | 200g | ¥1,800 | フルシティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103931&cat=030) |
+| 35 | 茨城トヨペットオリジナルブレンドversion L 200g (豆) | 200g | ¥1,800 | シティロースト | [link](https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=103961&cat=030) |
