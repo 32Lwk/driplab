@@ -353,11 +353,6 @@ export function LineageOverviewFork({
           </div>
         </div>
       </LineageZoomViewport>
-
-      <p className="lineage-fork-caption">
-        上から下へ系統・派生の流れ。左右がアラビカ種・ロブスタ種の大分岐です。線でつながった品種が親子関係、
-        <strong>×</strong> は交配です。ドラッグで移動、左下の操作で拡大縮小できます。
-      </p>
     </>
   );
 }

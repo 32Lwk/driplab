@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useCallback, useEffect, useState } from "react";
 import { CoffeeIcon } from "./CoffeeIcon";
 
 const NAV_ITEMS = [
@@ -14,11 +15,23 @@ const NAV_ITEMS = [
 
 export function Header() {
   const pathname = usePathname();
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  const closeMenu = useCallback(() => setMenuOpen(false), []);
+
+  useEffect(() => {
+    closeMenu();
+  }, [pathname, closeMenu]);
+
+  useEffect(() => {
+    document.body.classList.toggle("nav-open", menuOpen);
+    return () => document.body.classList.remove("nav-open");
+  }, [menuOpen]);
 
   return (
     <header className="site-header">
       <div className="site-header-inner">
-        <Link href="/" className="site-brand">
+        <Link href="/" className="site-brand" onClick={closeMenu}>
           <CoffeeIcon size={36} />
           <div>
             <span className="site-title">DripLab</span>
@@ -26,18 +39,34 @@ export function Header() {
           </div>
         </Link>
 
-        <nav className="site-nav" aria-label="メインメニュー">
+        <button
+          type="button"
+          className="site-nav-toggle"
+          aria-expanded={menuOpen}
+          aria-controls="site-nav"
+          aria-label={menuOpen ? "メニューを閉じる" : "メニューを開く"}
+          onClick={() => setMenuOpen((open) => !open)}
+        >
+          <span className="site-nav-toggle-bar" aria-hidden />
+          <span className="site-nav-toggle-bar" aria-hidden />
+          <span className="site-nav-toggle-bar" aria-hidden />
+        </button>
+
+        <nav
+          id="site-nav"
+          className={`site-nav${menuOpen ? " site-nav--open" : ""}`}
+          aria-label="メインメニュー"
+        >
           {NAV_ITEMS.map(({ href, label }) => {
             const active =
-              href === "/"
-                ? pathname === "/"
-                : pathname.startsWith(href);
+              href === "/" ? pathname === "/" : pathname.startsWith(href);
             return (
               <Link
                 key={href}
                 href={href}
                 className={`nav-link${active ? " nav-link-active" : ""}`}
                 aria-current={active ? "page" : undefined}
+                onClick={closeMenu}
               >
                 {label}
               </Link>
@@ -45,6 +74,16 @@ export function Header() {
           })}
         </nav>
       </div>
+
+      {menuOpen && (
+        <button
+          type="button"
+          className="site-nav-backdrop"
+          aria-label="メニューを閉じる"
+          tabIndex={-1}
+          onClick={closeMenu}
+        />
+      )}
     </header>
   );
 }

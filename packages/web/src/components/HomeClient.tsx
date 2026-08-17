@@ -49,6 +49,7 @@ export function HomeClient() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const inputRef = useRef<HTMLElement>(null);
+  const resultRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
     setShowOnboarding(!isOnboardingDone());
@@ -96,6 +97,11 @@ export function HomeClient() {
         }
         const data: PairingResponse = await res.json();
         setResult({ mode: "pairing", data });
+      }
+      if (window.matchMedia("(max-width: 899px)").matches) {
+        requestAnimationFrame(() => {
+          resultRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
       }
     } catch (e) {
       setError(e instanceof Error ? e.message : "エラーが発生しました");
@@ -254,7 +260,7 @@ export function HomeClient() {
           {error && <div className="error-banner">{error}</div>}
         </section>
 
-        <section>
+        <section ref={resultRef} className="result-section" aria-live="polite">
           {loading && !result && (
             <div className="loading section-card">
               {mode === "mood"

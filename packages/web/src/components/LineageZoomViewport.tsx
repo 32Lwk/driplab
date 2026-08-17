@@ -67,6 +67,8 @@ export function LineageZoomViewport({
 }) {
   const [scale, setScale] = useState(1);
   const [pan, setPan] = useState({ x: 0, y: 0 });
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const innerRef = useRef<HTMLDivElement>(null);
   const dragRef = useRef<{ active: boolean; x: number; y: number; panX: number; panY: number }>({
     active: false,
     x: 0,
@@ -87,16 +89,52 @@ export function LineageZoomViewport({
     [clampScale],
   );
 
-  const resetView = useCallback(() => {
-    setScale(1);
+  const fitToView = useCallback(() => {
+    const scroll = scrollRef.current;
+    const inner = innerRef.current;
+    if (!scroll || !inner) return;
+
+    const isMobile = window.matchMedia("(max-width: 639px)").matches;
+    if (!isMobile) {
+      setScale(1);
+      setPan({ x: 0, y: 0 });
+      return;
+    }
+
+    const innerW = inner.scrollWidth;
+    const innerH = inner.scrollHeight;
+    if (innerW === 0 || innerH === 0) return;
+
+    const padX = 16;
+    const padY = 56;
+    const fitScale = Math.min(
+      1,
+      (scroll.clientWidth - padX) / innerW,
+      (scroll.clientHeight - padY) / innerH,
+    );
+    setScale(clampScale(Number(fitScale.toFixed(2))));
     setPan({ x: 0, y: 0 });
-  }, []);
+  }, [clampScale]);
+
+  const resetView = useCallback(() => {
+    fitToView();
+  }, [fitToView]);
 
   useEffect(() => {
     if (resetKey !== undefined) {
-      resetView();
+      fitToView();
     }
-  }, [resetKey, resetView]);
+  }, [resetKey, fitToView]);
+
+  useEffect(() => {
+    fitToView();
+    const inner = innerRef.current;
+    if (!inner) return;
+
+    const observer = new ResizeObserver(() => fitToView());
+    observer.observe(inner);
+    return () => observer.disconnect();
+  }, [fitToView, children]);
 
   const handleWheel = useCallback(
     (event: ReactWheelEvent<HTMLDivElement>) => {
@@ -142,6 +180,7 @@ export function LineageZoomViewport({
       className={`lineage-zoom-wrap${variant === "overview" ? " lineage-zoom-wrap--overview" : ""}`}
     >
       <div
+        ref={scrollRef}
         className={`lineage-v-scroll lineage-v-scroll--zoom${variant === "overview" ? " lineage-v-scroll--zoom-overview" : ""}`}
         onWheel={handleWheel}
         onPointerDown={handlePointerDown}
@@ -149,7 +188,9 @@ export function LineageZoomViewport({
         onPointerUp={handlePointerUp}
         onPointerCancel={handlePointerUp}
       >
+        <p className="lineage-zoom-hint">ドラッグで移動 · ボタンで拡大縮小</p>
         <div
+          ref={innerRef}
           className="lineage-zoom-inner"
           style={{
             transform: `translate(${pan.x}px, ${pan.y}px) scale(${scale})`,
