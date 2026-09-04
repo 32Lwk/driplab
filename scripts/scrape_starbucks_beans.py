@@ -50,6 +50,10 @@ MVP_MATCH = [
     ("ケニア", "starbucks-kenya-250g"),
 ]
 
+BUNDLE_NAME_RE = re.compile(
+    r"コーヒーセレクション|詰め合わせ|ギフトセット|セット$",
+)
+
 
 def fetch(url: str) -> str:
     req = urllib.request.Request(url, headers={
@@ -208,10 +212,16 @@ def main():
     print(f"Found {listing['count']} whole bean products")
 
     beans = []
+    skipped = []
     downloaded = 0
     for i, item in enumerate(listing["item"], 1):
         code = item["item_code"]
-        print(f"[{i}/{listing['count']}] {code} {item['item_name']}")
+        name = item["item_name"]
+        print(f"[{i}/{listing['count']}] {code} {name}")
+        if BUNDLE_NAME_RE.search(name):
+            skipped.append(name)
+            print(f"  skip bundle/set: {name}")
+            continue
         time.sleep(RATE_LIMIT_S)
         src = parse_detail(code)
         img_url, img_local = download_image(
@@ -227,6 +237,8 @@ def main():
     with RAW_PATH.open("w", encoding="utf-8") as f:
         json.dump(beans, f, ensure_ascii=False, indent=2)
     print(f"Saved {RAW_PATH} ({len(beans)} items, {downloaded} images)")
+    if skipped:
+        print(f"Skipped bundles: {len(skipped)}")
 
     seed_beans = []
     for pattern, seed_id in MVP_MATCH:

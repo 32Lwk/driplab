@@ -35,7 +35,7 @@ def merge_ec_store(ec: list[dict], store: list[dict]) -> list[dict]:
         pid = str(item.get("product_id"))
         if pid in by_id:
             row = by_id[pid]
-            for key in ("image_url", "image_local", "menu_url", "description", "price_jpy"):
+            for key in ("image_url", "image_local", "image_cdn_url", "menu_url", "description", "price_jpy"):
                 if item.get(key) is not None:
                     row[key] = item[key]
             continue
@@ -66,8 +66,8 @@ def main() -> None:
             "https://www.doutor.co.jp/dcs/products/",
         ],
         "source_note": (
-            "EC 12 whole-bean SKUs + 2 store-only beans "
-            "(Italian Espresso, Iced Coffee)."
+            "EC 12 whole-bean SKUs + 3 store-only beans "
+            "(Italian Espresso, Iced Coffee, Geisha Blend 2026 limited)."
         ),
         "count": len(merged),
         "ec_count": len(ec),

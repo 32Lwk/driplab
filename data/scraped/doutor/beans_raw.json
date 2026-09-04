@@ -1,14 +1,14 @@
 {
   "chain_id": "doutor",
-  "scraped_at": "2026-08-08T21:11:57+09:00",
+  "scraped_at": "2026-09-04T01:17:16+09:00",
   "sources": [
     "https://onlineshop.doutor.co.jp",
     "https://www.doutor.co.jp/dcs/products/"
   ],
-  "source_note": "EC 12 whole-bean SKUs + 2 store-only beans (Italian Espresso, Iced Coffee).",
-  "count": 14,
+  "source_note": "EC 12 whole-bean SKUs + 3 store-only beans (Italian Espresso, Iced Coffee, Geisha Blend 2026 limited).",
+  "count": 15,
   "ec_count": 12,
-  "store_only_count": 2,
+  "store_only_count": 3,
   "beans": [
     {
       "product_id": 19,
@@ -198,8 +198,8 @@
       "available": true,
       "image_url": "https://www.doutor.co.jp/product/file/209705.jpg",
       "image_local": "data/images/doutor/store-209705.jpg",
-      "chain_id": "doutor",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-209705.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-209705.jpg",
+      "chain_id": "doutor"
     },
     {
       "product_id": "store-2107",
@@ -231,8 +231,47 @@
       "available": true,
       "image_url": "https://www.doutor.co.jp/product/file/2107.jpg",
       "image_local": "data/images/doutor/store-2107.jpg",
-      "chain_id": "doutor",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-2107.jpg"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-2107.jpg",
+      "chain_id": "doutor"
+    },
+    {
+      "product_id": "store-geisha-blend-2026",
+      "name": "ゲイシャブレンド2026（豆）200g",
+      "description": "コロンビア産とエチオピア産のゲイシャ種をブレンド。ベルガモットや沈丁花を思わせる上品な香りと、青りんごのようなやさしい酸味。数量限定・2026年9月17日より店舗販売。",
+      "price_jpy": 1890,
+      "weight_g": 200,
+      "roast_level": "medium",
+      "roast_label_ja": "ミディアムロースト（中煎）",
+      "taste_label_ja": "すっきり・フルーティ",
+      "origin": [
+        "ペルー",
+        "コロンビア",
+        "エチオピア",
+        "ブレンド"
+      ],
+      "flavor_tags": [
+        "ベルガモット",
+        "沈丁花",
+        "青りんご",
+        "ゲイシャ",
+        "限定"
+      ],
+      "acidity": 58,
+      "body": 48,
+      "bitterness": 35,
+      "sweetness": 62,
+      "caffeine": "medium",
+      "buy_url": "https://www.doutor.co.jp/news/newsrelease/detail/20260826171656.html",
+      "menu_url": "https://www.doutor.co.jp/news/newsrelease/detail/20260826171656.html",
+      "purchase_channel": "store",
+      "source": "store_menu",
+      "available": true,
+      "limited": true,
+      "release_date": "2026-09-17",
+      "image_url": "https://www.doutor.co.jp/news/newsrelease/detail/news_file/file/%E3%82%B2%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89_c.jpg",
+      "image_local": "data/images/doutor/store-geisha-blend-2026.jpg",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/doutor/store-geisha-blend-2026.jpg",
+      "chain_id": "doutor"
     }
   ]
 }

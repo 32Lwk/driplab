@@ -14,7 +14,7 @@ function canonicalKey(bean: BeanProduct): string {
 
 function beanPreferenceScore(bean: BeanProduct): number {
   let score = 0;
-  if (/【大容量】|80g【|【まとめ買い】|まとめ買い/.test(bean.name)) score -= 100;
+  if /【大容量】|80g【|【まとめ買い】|まとめ買い|\d+袋/.test(bean.name)) score -= 100;
   if (bean.weight_g != null && bean.weight_g <= 200) score += 10;
   if (bean.episode && bean.episode.length > 30) score += 5;
   return score;

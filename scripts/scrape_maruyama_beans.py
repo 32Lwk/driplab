@@ -275,6 +275,11 @@ def parse_product_detail(pid: str, html: str | None = None) -> dict | None:
     if re.search(r"ドリップ|バッグ|リキッド", name):
         return None
 
+    pack_count = parse_pack_count(name)
+    # Multi-bag SKUs (400g 2袋 / 3袋) duplicate single-bag products — exclude.
+    if pack_count > 1:
+        return None
+
     og = ""
     m4 = re.search(r'property="og:description"\s+content="([^"]*)"', html)
     if m4:
@@ -290,7 +295,7 @@ def parse_product_detail(pid: str, html: str | None = None) -> dict | None:
         "name": name,
         "price_jpy": parse_bean_price(html, categories),
         "weight_g": parse_weight_g(name, html),
-        "pack_count": parse_pack_count(name),
+        "pack_count": pack_count,
         "roast": parse_roast(name),
         "description": parse_description(og),
         "flavor_notes": parse_flavor_notes(og),

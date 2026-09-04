@@ -140,6 +140,7 @@ function slugId(handle, weightG) {
     c225205: "tokyo-kissaten",
     c229156: "honduras-santa-barbara",
     c229670: "sumatra-kerinci",
+    c230313: "colombia-huila",
   };
   const base = slugMap[handle] ?? handle;
   return `bluebottle-${base}-${weightG}g`;
@@ -279,8 +280,9 @@ const raw = {
     "All whole beans sold as whole bean only; store explicitly states no grinding service (挽き売りなし).",
     "Standard blends are 200g @ ¥1,950–2,550. Seasonal/single-origin offer 100g (¥1,484) and 200g (¥2,800) variants on same product page.",
     "Roast labels use Blue Bottle terminology: バランス (medium) and ボールド (dark). Some SKUs omit explicit roast label; inferred from description (e.g. 東京喫茶=深煎り, Bright/Bold from product name).",
-    "Single-origin roster rotates seasonally; as of 2026-08-08: Sumatra Kerinci, Honduras Santa Bárbara, Rwanda Nyamasheke.",
-    "アウトドアブレンド (c154) was SOLD OUT at scrape time.",
+    "Single-origin roster rotates seasonally; as of 2026-09-04: Colombia Huila (c230313, NEW), Sumatra Kerinci, Honduras Santa Bárbara, Rwanda Nyamasheke.",
+    "アウトドアブレンド (c154) remains SOLD OUT at scrape time.",
+    "Upcoming (not yet on EC as of 2026-09-04): 清澄ブレンド (ex-10th Anniversary Blend) launches 2026-09-11 per PRTimes.",
     "Product IDs are Shopify handles (e.g. c001); variant suffix added for multi-weight SO (-100g / -200g).",
   ],
   beans,

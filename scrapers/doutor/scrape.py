@@ -213,6 +213,10 @@ def download_product_image(image_url: str, product_id: int | str) -> str | None:
         return None
 
 
+def is_store_id(product_id: object) -> bool:
+    return str(product_id).startswith("store-")
+
+
 def load_existing_beans() -> list[dict]:
     if not RAW_PATH.exists():
         return []
@@ -289,11 +293,11 @@ def build_seed_entry(raw: dict) -> dict:
 
 
 def main() -> None:
-    beans = load_existing_beans()
+    beans = [b for b in load_existing_beans() if not is_store_id(b.get("product_id"))]
     if not beans:
-        raise SystemExit(f"No beans found at {RAW_PATH}")
+        raise SystemExit(f"No EC beans found at {RAW_PATH}")
 
-    print(f"Enhancing {len(beans)} Doutor beans...")
+    print(f"Enhancing {len(beans)} Doutor EC beans...")
     enriched: list[dict] = []
 
     for i, bean in enumerate(beans):
@@ -310,7 +314,7 @@ def main() -> None:
         )
         time.sleep(0.5)
 
-    enriched.sort(key=lambda x: x["product_id"])
+    enriched.sort(key=lambda x: str(x["product_id"]))
     RAW_PATH.parent.mkdir(parents=True, exist_ok=True)
     RAW_PATH.write_text(json.dumps(enriched, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {RAW_PATH} ({len(enriched)} items)")

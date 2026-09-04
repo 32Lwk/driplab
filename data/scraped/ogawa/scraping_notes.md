@@ -1,12 +1,7 @@
 # Ogawa Coffee scraping notes
 
-Scraped: 2026-08-08T10:52:59+09:00
+Scraped: 2026-09-03T16:16:57+09:00 (bundles removed 2026-09-05)
 Source: https://oc-shop.co.jp
-
-## Official store
-- Brand site: https://www.ogawa-coffee.co.jp/
-- **Online shop (EC)**: https://oc-shop.co.jp/ (Shopify)
-- Corporate domain `ogawa-coffee.co.jp` links to the OC-shop storefront
 
 ## Method
 - Shopify public JSON API: `/products.json`, `/products/{handle}.json`
@@ -14,13 +9,12 @@ Source: https://oc-shop.co.jp
 - Taste scores estimated from 味わいコメント diamond ratings (◆) and description keywords
 
 ## Catalog scope
-- **Included**: Products titled with `（豆）`, lab format `豆 150g`, or `no.XX ... 100g` (roasted whole bean)
-- **Excluded**: 粉 (ground), ドリップ, 生豆 (green), equipment, gifts with ground coffee, subscriptions
+- **Included**: Single-SKU whole-bean products titled with `（豆）`, lab format `豆 150g`, or `no.XX ... 100g`
+- **Excluded**: 粉 (ground), ドリップ, 生豆 (green), equipment, gifts, subscriptions, まとめ買い / multi-pack sets
 
 ## Counts
-- Total whole-bean SKUs: **72**
-- Single-SKU products: **52**
-- Bundles / まとめ買い / sets: **20**
+- Catalog (single SKUs): **52**
+- Excluded bundles / まとめ買い / sets: **20**
 
 ## Not available as whole bean on EC
 - キリマンジャロブレンド — powder only (R043)

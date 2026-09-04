@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
   "chain_id": "saza",
-  "scraped_at": "2026-08-17T16:27:41+0900",
+  "scraped_at": "2026-09-04T01:15:32+0900",
   "source": "https://saza.coffee/Form/Product/ProductList.aspx?sort=10&cat=030",
-  "count": 35,
+  "count": 34,
   "beans": [
     {
       "id": "saza-ありがとうブレンド-150g",
@@ -222,6 +222,41 @@
       "processing": null,
       "roast": "フルシティロースト",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/104532.jpg"
+    },
+    {
+      "id": "saza-コロンビア-エルプラセール農園-ゲイシャＨ-50g",
+      "chain_id": "saza",
+      "name": "コロンビア エルプラセール農園 ゲイシャＨ 50g (豆)",
+      "description": "ウィークリーゲイシャまつり2026 Season9 サザコーヒーが世界各地から厳選したゲイシャコーヒーを期間限定でご紹介するシリーズ。 どれも希少なコーヒーなので数量限定、売切御免です。 今回は、コロンビア エルプラセール農園産のゲイシャ！！ 2026/8/14(金)～9/6(日) まで特別価格！ 9/7(月)以降の販売価格は￥3,000になります。 柚子を思わせるシトラスな爽やかな香りと味わい。 フレーバードティのような後味。 明るいシトラスの酸味と、やわらかな黒糖の甘み。 ジューシーな口当たりです。",
+      "roast_level": "medium",
+      "roast_label_ja": "シティロースト",
+      "taste_label_ja": "甘み",
+      "origin": [
+        "コロンビア"
+      ],
+      "flavor_tags": [
+        "シトラス",
+        "甘み",
+        "香ばしさ",
+        "酸味"
+      ],
+      "acidity": 62,
+      "body": 52,
+      "bitterness": 44,
+      "sweetness": 68,
+      "caffeine": "medium",
+      "price_jpy": 2600,
+      "weight_g": 50,
+      "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105422&cat=030",
+      "product_id": "105422",
+      "image_url": "https://saza.coffee/Contents/ProductImages/0/105422_LL.jpg",
+      "image_local": "data/images/saza/105422.jpg",
+      "source": "scraped",
+      "available": true,
+      "variety": "ゲイシャ",
+      "processing": "ホワイトハニー",
+      "roast": "シティロースト",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105422.jpg"
     },
     {
       "id": "saza-ゴールデンモカ-150g",
@@ -513,7 +548,7 @@
       "id": "saza-パナマゲイシャ-アルティエリ-N-50g",
       "chain_id": "saza",
       "name": "パナマゲイシャ アルティエリ N 50g (豆)",
-      "description": "ウィークリーゲイシャまつり2026 Season8 サザコーヒーが世界各地から厳選したゲイシャコーヒーを期間限定でご紹介するシリーズ。 どれも希少なコーヒーなので数量限定、売切御免です。 今回は、パナマ アルティエリ農園産のゲイシャ！！ 2026/7/23(木)～8/13(木) まで特別価格！ 8/14(金)以降の販売価格は￥5,000になります。 華やかなグレープのような香り、温州みかんとはちみつの味わい。 後味はブラックティーの飲み心地と、みずみずしいオレンジの酸味が調和します。",
+      "description": "華やかなグレープのような香り、温州みかんとはちみつの味わい。 後味はブラックティーの飲み心地と、みずみずしいオレンジの酸味が調和します。",
       "roast_level": "medium",
       "roast_label_ja": "シティロースト",
       "taste_label_ja": "華やか",
@@ -530,7 +565,7 @@
       "bitterness": 44,
       "sweetness": 58,
       "caffeine": "medium",
-      "price_jpy": 4500,
+      "price_jpy": 5000,
       "weight_g": 50,
       "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105340&cat=030",
       "product_id": "105340",
@@ -648,42 +683,6 @@
       "processing": "ナチュラル",
       "roast": "シティロースト",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/106940.jpg"
-    },
-    {
-      "id": "saza-パナマゲイシャ-エスメラルダ-青-50g",
-      "chain_id": "saza",
-      "name": "パナマゲイシャ エスメラルダ 青 50g (豆)",
-      "description": "濃厚なはちみつと、ほのかな花の香り。 オレンジのみずみずしさに滑らかな甘さ。 冷めるとあんずのようなジューシーさが現れます。 希少性と品質の高さを誇る「パナマ エスメラルダ農園」のコーヒー 世界中のコーヒー愛好家から注目を集める「パナマ エスメラルダ農園」にて開催されたプライベートオークションにて、 サザコーヒーが落札した特別なロットのゲイシャコーヒーを皆さまにお披露目いたします。 挽く瞬間から、香りとともに広がる贅沢な時間をお楽しみください。",
-      "roast_level": "medium",
-      "roast_label_ja": "シティロースト",
-      "taste_label_ja": "甘み",
-      "origin": [
-        "パナマ"
-      ],
-      "flavor_tags": [
-        "シトラス",
-        "甘み",
-        "香ばしさ",
-        "コク",
-        "フローラル"
-      ],
-      "acidity": 50,
-      "body": 60,
-      "bitterness": 56,
-      "sweetness": 60,
-      "caffeine": "medium",
-      "price_jpy": 80000,
-      "weight_g": 50,
-      "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105940&cat=030",
-      "product_id": "105940",
-      "image_url": "https://saza.coffee/Contents/ProductImages/0/105940_LL.jpg",
-      "image_local": "data/images/saza/105940.jpg",
-      "source": "scraped",
-      "available": true,
-      "variety": "ゲイシャ",
-      "processing": "ナチュラル",
-      "roast": "シティロースト",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105940.jpg"
     },
     {
       "id": "saza-パナマゲイシャ-エリダ-50g",
@@ -821,41 +820,6 @@
       "processing": "ナチュラル",
       "roast": "シティロースト",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105945.jpg"
-    },
-    {
-      "id": "saza-パナマゲイシャ-ジャンソンW-50g",
-      "chain_id": "saza",
-      "name": "パナマゲイシャ ジャンソンW 50g (豆)",
-      "description": "ウィークリーゲイシャまつり2025 Season12 サザコーヒーが世界各地から厳選したゲイシャコーヒーを期間限定でご紹介するシリーズ。 どれも希少なコーヒーなので数量限定、売切御免です。 2025/11/8(土)～10/9(日) まで特別価格！ 11/10(月)以降の販売価格は￥3,500になります。 --> ダージリンや白い花を思わせる華やかな香り。 温かいときはジューシーなみかんのような甘さと質感があり、冷めるにつれて白ぶどうのような上品なフルーツの印象へと変化するエレガントなコーヒーです。 保存しやすいチャック付きスタンドパック。 立てて置けるので、キッチンや棚にもすっきり置けて便利です。",
-      "roast_level": "medium",
-      "roast_label_ja": "シティロースト",
-      "taste_label_ja": "すっきり",
-      "origin": [
-        "パナマ"
-      ],
-      "flavor_tags": [
-        "甘み",
-        "香ばしさ",
-        "酸味",
-        "フローラル"
-      ],
-      "acidity": 50,
-      "body": 44,
-      "bitterness": 44,
-      "sweetness": 60,
-      "caffeine": "medium",
-      "price_jpy": 3500,
-      "weight_g": 50,
-      "buy_url": "https://saza.coffee/Form/Product/ProductDetail.aspx?shop=0&pid=105362&cat=030",
-      "product_id": "105362",
-      "image_url": "https://saza.coffee/Contents/ProductImages/0/105362_LL.jpg",
-      "image_local": "data/images/saza/105362.jpg",
-      "source": "scraped",
-      "available": true,
-      "variety": "ゲイシャ",
-      "processing": "ウォッシュド",
-      "roast": "シティロースト",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/saza/105362.jpg"
     },
     {
       "id": "saza-パナマゲイシャ-ラホネスW-50g",

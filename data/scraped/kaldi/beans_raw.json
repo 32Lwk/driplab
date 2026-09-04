@@ -1,44 +1,12 @@
 {
   "chain_id": "kaldi",
   "source": "https://www.kaldi.co.jp/ec/Facet?category_0=11010100000",
-  "scraped_at": "2026-08-08T22:04:17+09:00",
-  "count": 44,
+  "scraped_at": "2026-09-04T01:34:49.938427+09:00",
+  "count": 48,
   "skipped_ids": [
     "2600000003711"
   ],
   "beans": [
-    {
-      "product_id": "coegift-02605",
-      "chain_id": "kaldi",
-      "name": "【予約販売】オンラインストア限定　カップ・オブ・エクセレンス　2025　コスタリカ7位・ニカラグア10位　2種ギフトセット100g×2【5/30頃お届け】",
-      "price_jpy": 5400,
-      "weight_g": 100,
-      "roast": null,
-      "roast_label_ja": null,
-      "origin": "コスタリカ／ニカラグア",
-      "coffee_type": null,
-      "taste_balance": null,
-      "body_label": null,
-      "description": "「カップ・オブ・エクセレンス2025」 コーヒー生産国で2025年に収穫されたコーヒー豆の中から最も優れたコーヒー豆を決める品評会で選ばれた最高水準のコーヒー豆2種セット。ご案内。国際品評会「カップ・オブ・エクセレンス」で選ばれたコーヒーをオンラインストア限定で事前予約販売いたします。 コーヒー豆はご注文を受けてから焙煎し、発送いたします。カルディコーヒーファームが単独落札した、ここでしか飲めない特別なコーヒーです。 生産者のこだわりや味わいが書かれたカードを読みながら、最高水準の味わいをじっくりとお楽しみください。。■カップ・オブ・エクセレンス（COE）とは。コスタリカ第7位 ラス・ヌベス農園 ゲイシャ ハニー。標高2,000m、雲を冠する農園から届いたゲイシャ 農園名「ラス・ヌべス」はスペイン語で「雲」を意味します。標高2,000mの冷涼な高地に位置し、雲や霧が立ち込める環境がその名の由来です。生産処理は毎年改良を重ねてきたハニープロセス。「レポサド」と呼ばれるコーヒーチェリーを寝かせる工程を施し、ミューシレージを程よく残したイエローハニーに仕上げました。ゲイシャ種らしいフローラルな香り、ドタのテロワールがもたらす明るいオレンジの酸味と、キャンディのような甘さが美しく重なります。コスタリカのスペシャルティコーヒーシーンを切り拓く、アレックス氏の情熱が結実した一杯です。。世界に認められる、類まれなコーヒーを作り続ける サンタ・テレサ2000マイクロミルを率いるアレックス氏は、コーヒー生産と並行して自らカッピングを行い、品質を見極めています。味わいの傾向を分析し、最適な生産処理を選択。さらにカッピングで出来栄えを評価するという試行錯誤を重ねてきました。そうして選び抜かれ、COEに出品されたのがこのコーヒーです。類まれなコーヒーを作り続ける努力が、この一杯の裏側に息づいています。。生産者 アレックス・ウレーニャ・マリン氏 スコア 88.63（トラディショナル ハニー＆ナチュラル部門） 生産処理 ハニー 生産エリア サンホセ州 サンタマリア・デ・ドタ 標高 2,000m 品種 ゲイシャ アロマ／フレーバー オレンジ、イエローピーチ、エルダーフラワー、キャンディ ロースト 浅煎り。ニカラグア第10位 ロス・コンゴス農園 ピンクブルボン ナチュラル。芳醇な香りと果実味に満ちた、ピンクブルボン 農園主のレイマン氏は2025年に初めてCOEに参加し、10位入賞という快挙を成し遂げました。品種は、コロンビア発祥でコーヒーチェリーがピンク色に熟す、ピンクブルボン。ニカラグアでは珍しいこの品種に、14度～18度の環境下で60時間の嫌気性発酵（アナエロビック）を施し、ナチュラルプロセスで仕上げています。果実酒のような芳醇な香りに、クランベリーを思わせるみずみずしい甘さが広がりま",
-      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/coegift-02605",
-      "grind_options_include_bean": true,
-      "available": true,
-      "image_local": "data/images/kaldi/coegift-02605.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/605/coegift-02605_M_1m.jpg",
-      "extra_images": [
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_1_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_2_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_3_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_4_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_5_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_6_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_7_1m.jpg",
-        "https://www.kaldi.co.jp/ec/img/605/coegift-02605_S_8_1m.jpg",
-        "https://www.kaldi.co.jp/ec/images/coffee/coegift-02605_icon_l7.png",
-        "https://www.kaldi.co.jp/ec/images/coffee/coegift-02605_icon_l10.png"
-      ],
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/coegift-02605.jpg"
-    },
     {
       "product_id": "4515996019074",
       "chain_id": "kaldi",
@@ -119,7 +87,7 @@
       "product_id": "4515996015380",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】イタリアーノ/200g",
-      "price_jpy": 1271,
+      "price_jpy": 1382,
       "weight_g": 200,
       "roast": "深煎り",
       "roast_label_ja": "深煎り",
@@ -389,6 +357,31 @@
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996011399.jpg"
     },
     {
+      "product_id": "4515996007064",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】オータムモカ/200g",
+      "price_jpy": 1490,
+      "weight_g": 200,
+      "roast": "中深煎り",
+      "roast_label_ja": "中深煎り",
+      "origin": "エチオピア",
+      "coffee_type": "ブレンド",
+      "taste_balance": "やわらかな甘み",
+      "body_label": "飲みごたえ",
+      "description": "香ばしさと果実の風味が重なる、秋のモカ。ぶどうやラズベリーのような風味、甘く華やかな香りが楽しめます。秋の深まりとともに楽しみたい、中深煎りのエチオピア産モカです。",
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996007064",
+      "grind_options_include_bean": true,
+      "available": true,
+      "image_url": "https://www.kaldi.co.jp/ec/img/064/4515996007064_M_1m.jpg",
+      "image_local": "data/images/kaldi/4515996007064.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/4cf/4515996007064cf_M_1m.jpg",
+        "https://www.kaldi.co.jp/ec/img/064/4515996007064_S_9_1m.jpg",
+        "https://www.kaldi.co.jp/ec/img/064/4515996007064_S_10_1m.jpg"
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996007064.jpg"
+    },
+    {
       "product_id": "4515996016677",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】カナリオ/200g",
@@ -442,7 +435,7 @@
       "product_id": "4515996008634",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】カフェフルッタ/200g",
-      "price_jpy": 1171,
+      "price_jpy": 1274,
       "weight_g": 200,
       "roast": "深煎り",
       "roast_label_ja": "深煎り",
@@ -527,7 +520,7 @@
       "grind_options_include_bean": true,
       "available": true,
       "image_local": "data/images/kaldi/4515996016868.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/868/4515996016868_M_1m.jpg",
+      "image_url": "https://www.kaldi.co.jp/ec/images/common/og_logo.jpg",
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/868/4515996016868_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/868/4515996016868_S_10_3m.jpg"
@@ -707,6 +700,30 @@
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015212.jpg"
     },
     {
+      "product_id": "4515996016646",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】ハロウィンブレンド/200g",
+      "price_jpy": 1382,
+      "weight_g": 200,
+      "roast": "中煎り",
+      "roast_label_ja": "中煎り",
+      "origin": "ブラジル、コロンビア他",
+      "coffee_type": "ブレンド",
+      "taste_balance": "やわらかな甘み",
+      "body_label": "バランス",
+      "description": "お菓子にぴったり、豊かな甘さ。甘いお菓子にぴったりな中煎りのブレンドです。 ブラウンシュガーやベリーを思わせる豊かな甘さをお楽しみください。 深煎りの ブラックハロウィンブレンド との飲み比べもおすすめです。 ※限定デザイン袋はなくなり次第スペシャルブレンド等と同じ通常パッケージでのお届けとなります。",
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996016646",
+      "grind_options_include_bean": true,
+      "available": true,
+      "image_url": "https://www.kaldi.co.jp/ec/img/646/4515996016646_M_4m.jpg",
+      "image_local": "data/images/kaldi/4515996016646.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/646/4515996016646_S_9_4m.jpg",
+        "https://www.kaldi.co.jp/ec/img/646/4515996016646_S_10_3m.jpg"
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996016646.jpg"
+    },
+    {
       "product_id": "4515996015281",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】ハワイコナ/200g",
@@ -731,6 +748,31 @@
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015281.jpg"
     },
     {
+      "product_id": "4515996007057",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】ハーベストブレンド/200g",
+      "price_jpy": 1490,
+      "weight_g": 200,
+      "roast": "中深煎り",
+      "roast_label_ja": "中深煎り",
+      "origin": "コロンビア、ケニア他",
+      "coffee_type": "ブレンド",
+      "taste_balance": "強い香りと苦み",
+      "body_label": "飲みごたえ",
+      "description": "秋限定、芳醇で深みのある味わい。焼きりんごやビターキャラメルのような風味、重厚なボディが特徴です。豊かな甘さと香ばしさが広がる、秋限定のブレンド。",
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996007057",
+      "grind_options_include_bean": true,
+      "available": true,
+      "image_url": "https://www.kaldi.co.jp/ec/img/057/4515996007057_M_1m.jpg",
+      "image_local": "data/images/kaldi/4515996007057.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/7cf/4515996007057cf_M_1m.jpg",
+        "https://www.kaldi.co.jp/ec/img/057/4515996007057_S_9_1m.jpg",
+        "https://www.kaldi.co.jp/ec/img/057/4515996007057_S_10_1m.jpg"
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996007057.jpg"
+    },
+    {
       "product_id": "4515996016578",
       "chain_id": "kaldi",
       "name": "【焙煎珈琲】バードフレンドリー(R)　コロンビア/200g",
@@ -747,7 +789,7 @@
       "grind_options_include_bean": true,
       "available": true,
       "image_local": "data/images/kaldi/4515996016578.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/578/4515996016578_M_3m.jpg",
+      "image_url": "https://www.kaldi.co.jp/ec/images/common/og_logo.jpg",
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/578/4515996016578_S_9_2m.jpg",
         "https://www.kaldi.co.jp/ec/img/578/4515996016578_S_10_3m.jpg"
@@ -801,6 +843,30 @@
         "https://www.kaldi.co.jp/ec/img/159/4515996019159_S_10_3m.jpg"
       ],
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996019159.jpg"
+    },
+    {
+      "product_id": "4515996017414",
+      "chain_id": "kaldi",
+      "name": "【焙煎珈琲】ブラックハロウィンブレンド/200g",
+      "price_jpy": 1382,
+      "weight_g": 200,
+      "roast": "深煎り",
+      "roast_label_ja": "深煎り",
+      "origin": "ブラジル、コロンビア他",
+      "coffee_type": "ブレンド",
+      "taste_balance": "強い香りと苦み",
+      "body_label": "飲みごたえ",
+      "description": "秋の夜長にぴったり、重厚な味わい。ダークチョコレートのような濃厚な風味と、深煎りならではのしっかりとした苦味が特徴です。秋の夜長にぴったりな、重厚で奥深い味わいをお楽しみください。 中煎りの ハロウィンブレンド との飲み比べもおすすめです。 ※限定デザイン袋はなくなり次第スペシャルブレンド等と同じ通常パッケージでのお届けとなります。",
+      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/4515996017414",
+      "grind_options_include_bean": true,
+      "available": true,
+      "image_url": "https://www.kaldi.co.jp/ec/img/414/4515996017414_M_4m.jpg",
+      "image_local": "data/images/kaldi/4515996017414.jpg",
+      "extra_images": [
+        "https://www.kaldi.co.jp/ec/img/414/4515996017414_S_9_4m.jpg",
+        "https://www.kaldi.co.jp/ec/img/414/4515996017414_S_10_4m.jpg"
+      ],
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996017414.jpg"
     },
     {
       "product_id": "4515996015298",
@@ -868,7 +934,7 @@
       "grind_options_include_bean": true,
       "available": true,
       "image_local": "data/images/kaldi/4515996016554.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/554/4515996016554_M_1m.jpg",
+      "image_url": "https://www.kaldi.co.jp/ec/img/554/4515996016554_M_3m.jpg",
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/554/4515996016554_S_9_3m.jpg",
         "https://www.kaldi.co.jp/ec/img/554/4515996016554_S_10_3m.jpg"
@@ -965,7 +1031,7 @@
       "grind_options_include_bean": true,
       "available": true,
       "image_local": "data/images/kaldi/4515996016783.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/783/4515996016783_M_1m.jpg",
+      "image_url": "https://www.kaldi.co.jp/ec/images/common/og_logo.jpg",
       "extra_images": [
         "https://www.kaldi.co.jp/ec/img/783/4515996016783_S_9_4m.jpg",
         "https://www.kaldi.co.jp/ec/img/783/4515996016783_S_10_3m.jpg"
@@ -1069,26 +1135,7 @@
         "https://www.kaldi.co.jp/ec/img/083/4515996015083_S_10_3m.jpg"
       ],
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/4515996015083.jpg"
-    },
-    {
-      "product_id": "freecfmildkld",
-      "chain_id": "kaldi",
-      "name": "＜送料無料＞オンラインストア限定　【焙煎珈琲】マイルドカルディ200g×3個セット",
-      "price_jpy": 3498,
-      "weight_g": 600,
-      "roast": "中煎り",
-      "roast_label_ja": "中煎り",
-      "origin": "ブラジル、コロンビア他",
-      "coffee_type": "ブレンド",
-      "taste_balance": "やわらかな甘み",
-      "body_label": "バランス",
-      "description": "いまだけ送料無料！『マイルドカルディ200g×3個セット』。ご案内。オンラインストア特別企画・数量限定「＜送料無料＞オリジナルコーヒー豆 マイルドカルディ200g×3袋」の販売ページです。当店の看板コーヒー「マイルドカルディ」をたっぷり200g×3袋（合計600g）お届けします。 「マイルドカルディ」 は、ブラジル本来のやさしい甘さを引き出し、やわらかな口あたりと長く続く甘い余韻が特徴。バランスのとれた中煎りのブレンドコーヒーなので、そのままブラックでも飲みやすく、また、ミルクや砂糖を加えてもコーヒー豆の甘さや余韻をしっかり感じることができます。夏場には少し濃いめに抽出して、さっぱり爽やかなアイスコーヒーでお飲みいただくのもおすすめです。コーヒー豆は［ペーパーフィルター用］に挽いた状態と［豆］のままのいずれかをお選びいただけます。とってもお得なこの機会をお見逃しなく！ ・商品は袋や箱にまとめた状態ではなく、それぞれ単品のままお届けいたします。 ・販売価格は単品購入の合計額と異なる場合があります。 ・実店舗ではセット販売は行っておりません。",
-      "buy_url": "https://www.kaldi.co.jp/ec/pro/disp/1/freecfmildkld",
-      "grind_options_include_bean": true,
-      "available": true,
-      "image_local": "data/images/kaldi/freecfmildkld.jpg",
-      "image_url": "https://www.kaldi.co.jp/ec/img/kld/freecfmildkld_M_1m.jpg",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/kaldi/freecfmildkld.jpg"
     }
-  ]
+  ],
+  "product_count": 46
 }

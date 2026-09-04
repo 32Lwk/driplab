@@ -1,5 +1,35 @@
 [
   {
+    "product_id": "4524785562783",
+    "name": "スターバックス® オータム ブレンド",
+    "price_jpy": 2180,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785562783",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785562783/4524785562783_11.jpg",
+    "image_local": "data/images/starbucks/4524785562783.jpg",
+    "og_description": "なめらかな口あたりに、キャンディードピーカンを思わせる甘みや香ばしさと、ハーブのような風味を感じられるコーヒーです。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: 秋の味覚との相性を考えて作られたブレンド\n酸味: MEDIUM\nコク: FULL\nキーワード: NOTES OF CANDIED PECAN & SAGE（キャンディードピーカンやセージを思わせる風味）\n相性のよいフレーバー: ハーブ, チーズ\n加工方法: 水洗式/半水洗式\n内容量: 250g\nなめらかな口あたりに、キャンディードピーカンを思わせる甘みや香ばしさと、ハーブのような風味を感じられるコーヒーです。",
+    "category": "SEASONAL COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "秋の味覚との相性を考えて作られたブレンド",
+    "flavor_tags": [
+      "ハーブ",
+      "チーズ",
+      "キャンディードピーカンやセージを思わせる風味"
+    ],
+    "origin": [
+      "ブレンド"
+    ],
+    "acidity": 50,
+    "body": 75,
+    "bitterness": 65,
+    "sweetness": 50,
+    "caffeine": "medium",
+    "available": true,
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785562783.jpg"
+  },
+  {
     "product_id": "4524785492462",
     "name": "スターバックス ライトノート ブレンド®",
     "price_jpy": 1480,
@@ -597,67 +627,6 @@
     "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785647602.jpg"
   },
   {
-    "product_id": "4524785557536",
-    "name": "スターバックス® カティ カティ ブレンド",
-    "price_jpy": 2180,
-    "weight_g": 250,
-    "buy_url": "https://menu.starbucks.co.jp/4524785557536",
-    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557536/4524785557536_11.jpg",
-    "image_local": "data/images/starbucks/4524785557536.jpg",
-    "og_description": "フローラルな香りと赤いベリーやピンクグレープフルーツを思わせる風味が、みずみずしい口あたりにより引き立てられる、甘みをともなう華やかなコーヒーです。東アフリカ産コーヒーの表情豊かな魅力を存分にお楽しみいただけます。",
-    "content": "焙煎度: ブロンド ロースト（軽やかな風味）\n味わい: 夏のコーヒータイムを彩る、華やかな味わいのコーヒー\n酸味: HIGH\nコク: MEDIUM\nキーワード: NOTES OF GRAPEFRUIT, HONEYSUCKLE & RED BERRIES（グレープフルーツや赤いベリーを思わせる風味）\n相性のよいフレーバー: シトラス, チョコレート\n加工方法: 水洗式/乾燥式\n内容量: 250g\nフローラルな香りと赤いベリーやピンクグレープフルーツを思わせる風味が、みずみずしい口あたりにより引き立てられる、甘みをともなう華やかなコーヒーです。東アフリカ産コーヒーの表情豊かな魅力を存分にお楽しみいただけます。",
-    "category": "SEASONAL COFFEE",
-    "roast_level": "light",
-    "roast_label_ja": "ブロンド ロースト（軽やかな風味）",
-    "taste_label_ja": "夏のコーヒータイムを彩る、華やかな味わいのコーヒー",
-    "flavor_tags": [
-      "シトラス",
-      "チョコレート",
-      "グレープフルーツや赤いベリーを思わせる風味"
-    ],
-    "origin": [
-      "ブレンド"
-    ],
-    "acidity": 80,
-    "body": 55,
-    "bitterness": 25,
-    "sweetness": 65,
-    "caffeine": "medium",
-    "available": true,
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785557536.jpg"
-  },
-  {
-    "product_id": "4524785598683",
-    "name": "スターバックス® アイスコーヒー ブレンド",
-    "price_jpy": 1980,
-    "weight_g": 250,
-    "buy_url": "https://menu.starbucks.co.jp/4524785598683",
-    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785598683/4524785598683_11.jpg",
-    "image_local": "data/images/starbucks/4524785598683.jpg",
-    "og_description": "ブラウンシュガーやミルクチョコレートを思わせる香ばしさや甘み、後味のすっきりさが心地よいバランスのとれた味わいのコーヒーです。どのような飲み方でもお楽しみいただける、アイスコーヒーのためのブレンドです。",
-    "content": "焙煎度: ミディアム ロースト（豊かな風味）\n味わい: アイスコーヒーにぴったりな夏の定番\n酸味: MEDIUM\nコク: MEDIUM\nキーワード: NOTES OF MALTED MILK CHOCOLATE & BROWN SUGAR（ブラウンシュガーやミルクチョコレートを思わせる風味）\n相性のよいフレーバー: キャラメル, ミルクチョコレート, ピーナッツバター\n加工方法: 水洗式/乾燥式\n内容量: 250g\nブラウンシュガーやミルクチョコレートを思わせる香ばしさや甘み、後味のすっきりさが心地よいバランスのとれた味わいのコーヒーです。どのような飲み方でもお楽しみいただける、アイスコーヒーのためのブレンドです。",
-    "category": "SEASONAL COFFEE",
-    "roast_level": "medium",
-    "roast_label_ja": "ミディアム ロースト（豊かな風味）",
-    "taste_label_ja": "アイスコーヒーにぴったりな夏の定番",
-    "flavor_tags": [
-      "キャラメル",
-      "ミルクチョコレート",
-      "ピーナッツバター",
-      "ブラウンシュガーやミルクチョコレートを思わせる風味"
-    ],
-    "origin": [
-      "ブレンド"
-    ],
-    "acidity": 50,
-    "body": 55,
-    "bitterness": 45,
-    "sweetness": 55,
-    "caffeine": "medium",
-    "available": true,
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785598683.jpg"
-  },
-  {
     "product_id": "4524785647824",
     "name": "ウガンダ マウント エルゴン",
     "price_jpy": 3580,
@@ -955,29 +924,33 @@
     "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785478183.jpg"
   },
   {
-    "product_id": "4524785557826",
-    "name": "STARBUCKS RESERVE® コーヒーセレクション",
-    "price_jpy": 5767,
-    "weight_g": 500,
-    "buy_url": "https://menu.starbucks.co.jp/4524785557826",
-    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785557826/4524785557826_11.jpg",
-    "image_local": "data/images/starbucks/4524785557826.jpg",
-    "og_description": "チョコレートとの相性ぴったり、エスプレッソ用に開発された深い味わいのNo.21と、アイスコーヒーにもおすすめ、コールドブリュー用に開発された表情豊かな味わいのNo.10をセットにしました。スターバックスの長年の経験を活かし、各生産地の個性豊かなコーヒーを最適な割合でブレンドしています。どちらもブリュードコーヒーでもその特徴をご堪能いただけます。\n\n内容\nスターバックス リザーブ® マイクロブレンド No.10 1袋（Whole Bean 250g）\nスターバックス リザーブ® マイクロブレンド No.21 1袋（Whole Bean 250g）",
-    "content": "味わい: スターバックス リザーブのコーヒーの詰め合わせ\n加工方法: なし\n内容量: 500g\nチョコレートとの相性ぴったり、エスプレッソ用に開発された深い味わいのNo.21と、アイスコーヒーにもおすすめ、コールドブリュー用に開発された表情豊かな味わいのNo.10をセットにしました。スターバックスの長年の経験を活かし、各生産地の個性豊かなコーヒーを最適な割合でブレンドしています。どちらもブリュードコーヒーでもその特徴をご堪能いただけます。\n\n内容\nスターバックス リザーブ® マイクロブレンド No.10 1袋（Whole Bean 250g）\nスターバックス リザーブ® マイクロブレンド No.21 1袋（Whole Bean 250g）",
-    "category": "スターバックス リザーブ®",
-    "roast_level": "medium",
-    "roast_label_ja": null,
-    "taste_label_ja": "スターバックス リザーブのコーヒーの詰め合わせ",
-    "flavor_tags": [],
+    "product_id": "4524785627635",
+    "name": "[9月9日発売]スターバックス 1971 ダーク ロースト®",
+    "price_jpy": 1880,
+    "weight_g": 250,
+    "buy_url": "https://menu.starbucks.co.jp/4524785627635",
+    "image_url": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785627635/4524785627635_11.jpg",
+    "image_local": "data/images/starbucks/4524785627635.jpg",
+    "og_description": "豊かなコクに、クルミや焦がした砂糖のような香ばしい甘みが長く続く、深みのある味わい。スターバックスが1971年の創業当初から受け継ぐ、ダーク ローストへのこだわりをお楽しみください。",
+    "content": "焙煎度: ダーク ロースト（力強い風味）\n味わい: 力強く奥深い味わいのあるブレンド\n酸味: LOW\nコク: FULL\nキーワード: NOTES OF TOASTED SUGAR & RICH WALNUT（クルミや焦がした砂糖のような香ばしい甘みと深み）\n相性のよいフレーバー: ダークチョコレート, カラメル\n加工方法: 水洗式/半水洗式\n内容量: 250g\n豊かなコクに、クルミや焦がした砂糖のような香ばしい甘みが長く続く、深みのある味わい。スターバックスが1971年の創業当初から受け継ぐ、ダーク ローストへのこだわりをお楽しみください。",
+    "category": "CORE COFFEE",
+    "roast_level": "dark",
+    "roast_label_ja": "ダーク ロースト（力強い風味）",
+    "taste_label_ja": "力強く奥深い味わいのあるブレンド",
+    "flavor_tags": [
+      "ダークチョコレート",
+      "カラメル",
+      "クルミや焦がした砂糖のような香ばしい甘みと深み"
+    ],
     "origin": [
       "ブレンド"
     ],
-    "acidity": 50,
-    "body": 50,
-    "bitterness": 45,
-    "sweetness": 60,
+    "acidity": 30,
+    "body": 75,
+    "bitterness": 65,
+    "sweetness": 50,
     "caffeine": "medium",
     "available": true,
-    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785557826.jpg"
+    "image_cdn_url": "https://assets.coffee.yutok.dev/beans/starbucks/4524785627635.jpg"
   }
 ]

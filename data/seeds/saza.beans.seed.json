@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "chain_id": "saza",
-  "scraped_at": "2026-08-17T16:27:41+0900",
+  "scraped_at": "2026-09-04T01:15:32+0900",
   "source": "https://saza.coffee/Form/Product/ProductList.aspx?sort=10&cat=030",
   "beans": [
     {

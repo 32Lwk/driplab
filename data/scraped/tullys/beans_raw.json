@@ -1,45 +1,21 @@
 {
   "chain_id": "tullys",
-  "scraped_at": "2026-08-08T16:00:22+09:00",
+  "scraped_at": "2026-09-04T01:20:25+09:00",
   "source": "https://shop.itoen.jp/tullyscoffee/index.html + https://www.tullys.co.jp/menu/beans/ + https://www.rakuten.co.jp/tullyscoffee-official/",
   "source_note": "Merged catalog: Ito En EC (whole bean), Tully's store menu, Rakuten official shop. Root cause: Ito En EC sells only ~8 whole-bean SKUs; store menu lists 20+ beans.",
-  "count": 21,
+  "count": 22,
   "stats": {
-    "ec_count": 8,
+    "ec_count": 11,
     "menu_count": 21,
     "rakuten_count": 0,
-    "merged_count": 21,
-    "images_downloaded": 21,
+    "merged_count": 22,
+    "images_downloaded": 22,
     "images_failed": 0,
-    "added_from_ec_only": []
+    "added_from_ec_only": [
+      "ホンジュラス 森のエランデュケ 150g（豆）"
+    ]
   },
   "beans": [
-    {
-      "product_id": "gTCJ-beans-260318-0001",
-      "product_code": "",
-      "name": "【限定パッケージ】タリーズ ブラジル バウ 200g（豆）",
-      "price_jpy": 1755,
-      "weight_g": 200,
-      "product_type": "レギュラーコーヒー（豆）",
-      "origin_countries": [
-        "ブラジル ミナスジェライス州 セラード パトス デ ミナス"
-      ],
-      "tasting_words_en": [],
-      "flavor_tags": [
-        "すっきり",
-        "コク",
-        "甘み",
-        "明るい"
-      ],
-      "description": "豊かなアロマ、しっかりとしたボディと酸味がバランスよく調和し、後味に広がる甘みがお楽しみいただけます。",
-      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/",
-      "purchase_channel": "ec",
-      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
-      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260318-0001_L.jpg",
-      "image_local": "data/images/tullys/gTCJ-beans-260318-0001.jpg",
-      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/tullys_brazil_bau.html",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260318-0001.jpg"
-    },
     {
       "product_id": "gTCJ-beans-260415-0003",
       "product_code": "",
@@ -197,10 +173,10 @@
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-25080113.jpg"
     },
     {
-      "product_id": "menu-26cresent_moon",
+      "product_id": "gTCJ-goods-260701-0001",
       "product_code": "",
-      "name": "クレセントムーン",
-      "price_jpy": 1680,
+      "name": "クレセントムーン 200g（豆）",
+      "price_jpy": 1800,
       "weight_g": 200,
       "product_type": "レギュラーコーヒー（豆）",
       "origin_countries": [
@@ -217,13 +193,13 @@
         "深煎り"
       ],
       "description": "夏を愉しむ季節限定オリジナルブレンド。深めの焙煎で仕上げることで生まれる、力強くなめらかなボディが特徴で、アイスコーヒーにもよく合います。ダークチョコレートのような濃厚さとコーヒーの甘みを感じる、スモーキーな味わいをどうぞお楽しみください。",
-      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html",
-      "purchase_channel": "store",
-      "source": "https://www.tullys.co.jp/menu/beans/",
-      "image_url": "https://www.tullys.co.jp/menu/uploads/cresent_moon.png",
-      "image_local": "data/images/tullys/menu-26cresent_moon.png",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-goods-260701-0001/",
+      "purchase_channel": "ec",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-goods-260701-0001.png",
+      "image_local": "data/images/tullys/gTCJ-goods-260701-0001.png",
       "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26cresent_moon.html",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/menu-26cresent_moon.png"
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-goods-260701-0001.png"
     },
     {
       "product_id": "gTCJ-beans-25080103",
@@ -257,6 +233,35 @@
       "image_local": "data/images/tullys/gTCJ-beans-25080103.jpg",
       "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/costarica_laminita.html",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-25080103.jpg"
+    },
+    {
+      "product_id": "gTCJ-goods-260514-0001",
+      "product_code": "",
+      "name": "コーヒーマスターズノート 150g（豆）",
+      "price_jpy": 1800,
+      "weight_g": 150,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "エチオピア",
+        "ブラジル",
+        "ブルンジ"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "チョコ",
+        "フルーティ",
+        "複雑"
+      ],
+      "description": "コーヒーマスター*が商品開発に参加し、自信をもってお届けする、この夏アイスコーヒーにおすすめのブレンド。 エチオピアを軸にした、華やかな香りとフルーティ感が特徴です。チョコレートのような豊かなコクが重なり合う、奥行のある味わいをお楽しみください。 *コーヒーマスターとは、コーヒー全般に関する深い知識を持ち、豆ごとの個性や味わいを見極める、社内の厳しい試験に合格したコーヒーのスペシャリスト。現在、全国で約61名のコーヒーマスターが活躍しています。（2026年5月時点）",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-goods-260514-0001/",
+      "purchase_channel": "ec",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-goods-260514-0001.png",
+      "image_local": "data/images/tullys/gTCJ-goods-260514-0001.png",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-goods-260514-0001.png"
     },
     {
       "product_id": "menu-26mandeheling_g1",
@@ -317,6 +322,32 @@
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260805-0001.jpg"
     },
     {
+      "product_id": "gTCJ-beans-260318-0001",
+      "product_code": "",
+      "name": "【限定パッケージ】タリーズ ブラジル バウ 200g（豆）",
+      "price_jpy": 1755,
+      "weight_g": 200,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ブラジル ミナスジェライス州 セラード パトス デ ミナス"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [
+        "すっきり",
+        "コク",
+        "甘み",
+        "明るい"
+      ],
+      "description": "豊かなアロマ、しっかりとしたボディと酸味がバランスよく調和し、後味に広がる甘みがお楽しみいただけます。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-beans-260318-0001/",
+      "purchase_channel": "ec",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-beans-260318-0001_L.jpg",
+      "image_local": "data/images/tullys/gTCJ-beans-260318-0001.jpg",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/tullys_brazil_bau.html",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260318-0001.jpg"
+    },
+    {
       "product_id": "gTCJ-beans-260318-0002",
       "product_code": "",
       "name": "タリーズ ブラジル バウ イエローブルボン 200g（豆）",
@@ -365,35 +396,6 @@
       "image_local": "data/images/tullys/gTCJ-beans-260318-0003.jpg",
       "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26brazil_vare_do_cristal.html",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-beans-260318-0003.jpg"
-    },
-    {
-      "product_id": "menu-26tls_masters_note",
-      "product_code": "",
-      "name": "タリーズコーヒーマスターズノート",
-      "price_jpy": 1680,
-      "weight_g": 150,
-      "product_type": "レギュラーコーヒー（豆）",
-      "origin_countries": [
-        "エチオピア",
-        "ブラジル",
-        "ブルンジ"
-      ],
-      "tasting_words_en": [],
-      "flavor_tags": [
-        "すっきり",
-        "コク",
-        "チョコ",
-        "フルーティ",
-        "複雑"
-      ],
-      "description": "コーヒーマスター*が商品開発に参加し、自信をもってお届けする、この夏アイスコーヒーにおすすめのブレンド。 エチオピアを軸にした、華やかな香りとフルーティ感が特徴です。チョコレートのような豊かなコクが重なり合う、奥行のある味わいをお楽しみください。 *コーヒーマスターとは、コーヒー全般に関する深い知識を持ち、豆ごとの個性や味わいを見極める、社内の厳しい試験に合格したコーヒーのスペシャリスト。現在、全国で約61名のコーヒーマスターが活躍しています。（2026年5月時点）",
-      "buy_url": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
-      "purchase_channel": "store",
-      "source": "https://www.tullys.co.jp/menu/beans/",
-      "image_url": "https://www.tullys.co.jp/menu/uploads/masters_notes_20260508.jpg",
-      "image_local": "data/images/tullys/menu-26tls_masters_note.jpg",
-      "menu_url": "https://www.tullys.co.jp/menu/beans/blend/26tls_masters_note.html",
-      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/menu-26tls_masters_note.jpg"
     },
     {
       "product_id": "gTCJ-beans-25080118",
@@ -558,6 +560,30 @@
       "image_local": "data/images/tullys/menu-26honduras_erandique.jpg",
       "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html",
       "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/menu-26honduras_erandique.jpg"
+    },
+    {
+      "product_id": "gTCJ-goods-260601-0001",
+      "product_code": "",
+      "name": "ホンジュラス 森のエランデュケ 150g（豆）",
+      "price_jpy": 1680,
+      "weight_g": 150,
+      "product_type": "レギュラーコーヒー（豆）",
+      "origin_countries": [
+        "ホンジュラス レンピラ県 エランディケ"
+      ],
+      "tasting_words_en": [],
+      "flavor_tags": [
+        "すっきり",
+        "コク"
+      ],
+      "description": "標高1500mを超える、深い森に囲まれたエランディケ。豊かな森と豊富な水源の元、ゆっくりと育まれたコーヒーは、シトラスのような爽やかなフレーバーと、澄んだ飲み心地が特徴です。",
+      "buy_url": "https://shop.itoen.jp/shop/tullyscoffee/g/gTCJ-goods-260601-0001/",
+      "purchase_channel": "ec",
+      "source": "https://shop.itoen.jp/tullyscoffee/index.html",
+      "image_url": "https://shop.itoen.jp/img/goods/L/TCJ-goods-260601-0001.png",
+      "image_local": "data/images/tullys/gTCJ-goods-260601-0001.png",
+      "menu_url": "https://www.tullys.co.jp/menu/beans/varietal/26honduras_erandique.html",
+      "image_cdn_url": "https://assets.coffee.yutok.dev/beans/tullys/gTCJ-goods-260601-0001.png"
     },
     {
       "product_id": "menu-mocha_java",

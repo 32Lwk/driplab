@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "chain_id": "ogawa",
-  "scraped_at": "2026-08-08T10:52:59+09:00",
+  "scraped_at": "2026-09-03T16:16:57+09:00",
   "source": "https://oc-shop.co.jp",
   "beans": [
     {
@@ -43,7 +43,7 @@
       "description": "赤ワインのような甘い香りとレッドグレープのような酸味、オランジェットのような甘さを活かした味わいに仕上げました。",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
-      "taste_label_ja": "フルーティ",
+      "taste_label_ja": "コク",
       "origin": [
         "エチオピア"
       ],
@@ -63,7 +63,7 @@
       "weight_g": 150,
       "buy_url": "https://oc-shop.co.jp/products/932",
       "product_id": 8445506126135,
-      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/f68c6293dfcfcc7f5b5610f26ca7201a.jpg?v=1713837377",
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/organic-ethiopia-yirgachefe-mocha-beans.jpg?v=1788417798",
       "image_local": "data/images/ogawa/8445506126135.jpg",
       "source": "scraped",
       "available": true,
@@ -76,7 +76,7 @@
       "description": "シナモンのようなやさしい香りとココナッツのような甘さ、メイプルシロップのような口あたりを活かした味わいに仕上げました。",
       "roast_level": "medium",
       "roast_label_ja": "中煎り",
-      "taste_label_ja": "まろやか",
+      "taste_label_ja": "コク",
       "origin": [
         "ブラジル"
       ],
@@ -96,7 +96,7 @@
       "weight_g": 150,
       "buy_url": "https://oc-shop.co.jp/products/959",
       "product_id": 8445513564471,
-      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/ae268249727b4aaa410aeeeacf50b54f.jpg?v=1713838114",
+      "image_url": "https://cdn.shopify.com/s/files/1/0744/3680/4919/files/brazil-vereda-beans.jpg?v=1788418321",
       "image_local": "data/images/ogawa/8445513564471.jpg",
       "source": "scraped",
       "available": true,

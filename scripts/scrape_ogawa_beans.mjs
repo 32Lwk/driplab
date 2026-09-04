@@ -345,9 +345,16 @@ async function main() {
   const beans = [];
   const errors = [];
 
+  const excludedBundles = [];
+
   for (let i = 0; i < products.length; i++) {
     const p = products[i];
     console.error(`[${i + 1}/${products.length}] ${p.title}`);
+    if (isBundleOrSet(p.title)) {
+      excludedBundles.push(p.title);
+      console.error(`  skip bundle/set: ${p.title}`);
+      continue;
+    }
     try {
       beans.push(await enrichProduct(p));
     } catch (e) {
@@ -362,6 +369,7 @@ async function main() {
     source: "https://oc-shop.co.jp",
     chain_id: "ogawa",
     product_count: beans.length,
+    excluded_bundles: excludedBundles,
     errors,
     beans,
   };
@@ -380,9 +388,6 @@ async function main() {
 
   fs.writeFileSync(SEED_PATH, JSON.stringify(seedOutput, null, 2), "utf8");
 
-  const singles = beans.filter((b) => !b.is_bundle);
-  const bundles = beans.filter((b) => b.is_bundle);
-
   const notes = `# Ogawa Coffee scraping notes
 
 Scraped: ${rawOutput.scraped_at}
@@ -394,13 +399,12 @@ Source: ${rawOutput.source}
 - Taste scores estimated from 味わいコメント diamond ratings (◆) and description keywords
 
 ## Catalog scope
-- **Included**: Products titled with \`（豆）\`, lab format \`豆 150g\`, or \`no.XX ... 100g\` (roasted whole bean)
-- **Excluded**: 粉 (ground), ドリップ, 生豆 (green), equipment, gifts with ground coffee, subscriptions
+- **Included**: Single-SKU whole-bean products titled with \`（豆）\`, lab format \`豆 150g\`, or \`no.XX ... 100g\`
+- **Excluded**: 粉 (ground), ドリップ, 生豆 (green), equipment, gifts, subscriptions, まとめ買い / multi-pack sets
 
 ## Counts
-- Total whole-bean SKUs: **${beans.length}**
-- Single-SKU products: **${singles.length}**
-- Bundles / まとめ買い / sets: **${bundles.length}**
+- Catalog (single SKUs): **${beans.length}**
+- Excluded bundles / まとめ買い / sets: **${excludedBundles.length}**
 
 ## Not available as whole bean on EC
 - キリマンジャロブレンド — powder only (R043)

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Merge per-chain scraped data and MVP seeds into unified catalogs."""
 import json
+import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -109,6 +110,26 @@ def load_raw(chain_id: str) -> list[dict]:
     return data if isinstance(data, list) else data.get("beans", [])
 
 
+def is_bundle_or_multipack(bean: dict) -> bool:
+    """Drop gift / まとめ買い / multi-bag SKUs from the unified catalog."""
+    name = str(bean.get("name") or "")
+    if bean.get("is_bundle") is True:
+        return True
+    pack = bean.get("pack_count")
+    if isinstance(pack, int) and pack > 1:
+        return True
+    return bool(
+        re.search(
+            r"【まとめ買い】|選べる\s*まとめ買い|ギフトセット|お試しセット|"
+            r"アソート|詰め合わせ|コーヒーセレクション|"
+            r"×\s*\d+個|×\s*\d+袋|\d+個セット|\d+袋セット|"
+            r"\d+g\s*\d+袋|2種.*セット|3種.*セット",
+            name,
+            re.I,
+        )
+    )
+
+
 def load_mvp_seeds() -> list[dict]:
     beans: list[dict] = []
     for chain_id in CHAINS:
@@ -127,12 +148,20 @@ def main() -> None:
 
     all_raw: list[dict] = []
     by_chain: dict[str, int] = {}
+    dropped = 0
     for chain_id in CHAINS:
         items = load_raw(chain_id)
-        by_chain[chain_id] = len(items)
+        kept: list[dict] = []
         for item in items:
             item.setdefault("chain_id", chain_id)
-        all_raw.extend(items)
+            if is_bundle_or_multipack(item):
+                dropped += 1
+                continue
+            kept.append(item)
+        by_chain[chain_id] = len(kept)
+        all_raw.extend(kept)
+    if dropped:
+        print(f"dropped {dropped} bundle/multipack SKUs")
 
     img_stats = ensure_bean_images(all_raw, delay_s=0.2)
     print(

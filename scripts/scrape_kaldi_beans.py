@@ -35,6 +35,14 @@ MVP_SEED_IDS = {
 
 GENERIC_DESC_MARKERS = ("公式オンラインストアです", "@charset")
 
+# Gift / multi-pack SKUs — keep singles only (same product exists as 1 bag).
+BUNDLE_NAME_RE = re.compile(
+    r"ギフトセット|お試しセット|アソート|詰め合わせ|"
+    r"×\s*\d+個|×\s*\d+袋|\d+個セット|\d+袋セット|"
+    r"2種.*セット|3種.*セット|まとめ買い",
+    re.I,
+)
+
 
 def fetch(url: str) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -303,6 +311,9 @@ def parse_product(product_id: str, html: str | None = None) -> dict | None:
         name = unescape(name_m.group(1).strip())
 
     if not name:
+        return None
+
+    if BUNDLE_NAME_RE.search(name):
         return None
 
     if not has_whole_bean_option(html):

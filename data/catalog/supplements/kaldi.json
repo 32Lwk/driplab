@@ -220,6 +220,26 @@
       "product_id": "freecfmildkld",
       "taste_notes": "不明",
       "processing": "不明"
+    },
+    {
+      "product_id": "4515996007064",
+      "taste_notes": "ぶどうやラズベリーのような風味。甘く華やかな香り。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "4515996007057",
+      "taste_notes": "焼きりんごやビターキャラメルのような風味。重厚なボディ。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "4515996016646",
+      "taste_notes": "ブラウンシュガーやベリーを思わせる豊かな甘さ。",
+      "processing": "ブレンド（複数精製）"
+    },
+    {
+      "product_id": "4515996017414",
+      "taste_notes": "ダークチョコレートのような濃厚な風味。しっかりとした苦味。",
+      "processing": "ブレンド（複数精製）"
     }
   ]
 }
