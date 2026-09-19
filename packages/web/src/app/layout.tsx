@@ -14,10 +14,10 @@ export const metadata: Metadata = {
     "5チェーンのコーヒー豆と今日の気分から、買う豆と淹れ方を提案します。",
   icons: {
     icon: [
-      { url: "/favicons/cup-01-classic.svg", type: "image/svg+xml" },
-      { url: "/favicons/cup-01-classic.png", sizes: "512x512", type: "image/png" },
+      { url: "/favicons/cup-02-steam.svg", type: "image/svg+xml" },
+      { url: "/favicons/cup-02-steam.png", sizes: "512x512", type: "image/png" },
     ],
-    apple: "/favicons/cup-01-classic.png",
+    apple: "/favicons/cup-02-steam.png",
   },
   openGraph: {
     title: "DripLab — 気分で選ぶ、今日の一杯",
