@@ -217,17 +217,15 @@ struct PairingInputView: View {
         VStack(alignment: .leading, spacing: 14) {
             Text("食事・スイーツ")
                 .font(.headline)
-            ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 8) {
-                    ForEach(viewModel.foodPresets, id: \.id) { preset in
-                        FoodChoiceChip(
-                            icon: preset.icon,
-                            title: preset.label,
-                            isSelected: viewModel.foodPresetID == preset.id && viewModel.foodText.isEmpty
-                        ) {
-                            viewModel.foodPresetID = preset.id
-                            viewModel.foodText = ""
-                        }
+            LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 10) {
+                ForEach(viewModel.foodPresets, id: \.id) { preset in
+                    FoodChoiceCard(
+                        icon: preset.icon,
+                        title: preset.label,
+                        isSelected: viewModel.foodPresetID == preset.id && viewModel.foodText.isEmpty
+                    ) {
+                        viewModel.foodPresetID = preset.id
+                        viewModel.foodText = ""
                     }
                 }
             }
@@ -293,7 +291,7 @@ struct ChoiceChip: View {
     }
 }
 
-struct FoodChoiceChip: View {
+struct FoodChoiceCard: View {
     let icon: String
     let title: String
     let isSelected: Bool
@@ -301,13 +299,27 @@ struct FoodChoiceChip: View {
 
     var body: some View {
         Button(action: action) {
-            Label(title, systemImage: icon)
-                .font(.subheadline.weight(.medium))
-                .padding(.horizontal, 12)
-                .padding(.vertical, 8)
-                .foregroundStyle(isSelected ? .white : Color.dripInk)
-                .background(isSelected ? Color.dripAccent : Color.dripSurface, in: Capsule())
-                .overlay { Capsule().stroke(isSelected ? Color.clear : Color.dripBorder, lineWidth: 1) }
+            HStack(spacing: 10) {
+                Image(systemName: icon)
+                    .font(.title3)
+                    .frame(width: 26)
+                Text(title)
+                    .font(.subheadline.weight(.medium))
+                    .multilineTextAlignment(.leading)
+                Spacer(minLength: 0)
+                if isSelected {
+                    Image(systemName: "checkmark.circle.fill")
+                        .font(.subheadline)
+                }
+            }
+            .frame(maxWidth: .infinity, minHeight: 54, alignment: .leading)
+            .padding(.horizontal, 12)
+            .foregroundStyle(isSelected ? .white : Color.dripInk)
+            .background(isSelected ? Color.dripAccent : Color.dripSurface, in: RoundedRectangle(cornerRadius: 10))
+            .overlay {
+                RoundedRectangle(cornerRadius: 10)
+                    .stroke(isSelected ? Color.clear : Color.dripBorder, lineWidth: 1)
+            }
         }
         .buttonStyle(.plain)
     }
@@ -884,15 +896,18 @@ struct RemoteImage: View {
                     ShimmerView()
                     ProgressView()
                 }
-                .task(id: url) {
-                    await load()
-                }
             }
+        }
+        .task(id: url) {
+            await load()
         }
         .accessibilityLabel(title)
     }
 
     private func load() async {
+        image = nil
+        failed = false
+
         var request = URLRequest(url: url)
         request.setValue("Mozilla/5.0 DripLab/1.0", forHTTPHeaderField: "User-Agent")
         request.timeoutInterval = 15
