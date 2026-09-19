@@ -1,0 +1,41 @@
+name: DripLabIOS
+options:
+  bundleIdPrefix: dev.yutok
+  deploymentTarget:
+    iOS: "17.0"
+settings:
+  base:
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "5.0"
+targets:
+  DripLabIOS:
+    type: application
+    platform: iOS
+    sources:
+      - DripLabIOS
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.yutok.DripLabIOS
+        PRODUCT_NAME: DripLab
+        CODE_SIGN_STYLE: Automatic
+        DEVELOPMENT_TEAM: LV5GUMZZJM
+        INFOPLIST_FILE: DripLabIOS/Info.plist
+        INFOPLIST_KEY_CFBundleDisplayName: DripLab
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: UIInterfaceOrientationPortrait
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        DEVELOPMENT_ASSET_PATHS: ""
+  DripLabIOSTests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - DripLabIOSTests
+    dependencies:
+      - target: DripLabIOS
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.yutok.DripLabIOSUITests
+        GENERATE_INFOPLIST_FILE: YES

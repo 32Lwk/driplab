@@ -292,12 +292,23 @@ function cleanDescription(raw: RawBean): string | undefined {
 }
 
 function extractOrigins(raw: RawBean): string[] {
-  const originRaw = raw.origin ?? raw.origin_countries;
-  if (Array.isArray(originRaw)) {
-    return originRaw.filter((v): v is string => typeof v === "string");
-  }
-  const single = str(originRaw);
-  return single ? [single] : [];
+  const direct = strArray(raw.origin);
+  const countries = strArray(raw.origin_countries);
+  const isBlendOnly = direct.length === 1 && direct[0].trim() === "ブレンド";
+  if (direct.length > 0 && !isBlendOnly) return direct;
+  if (countries.length > 0) return countries;
+
+  const sourceText = [raw.name, raw.description, raw.og_description, raw.content]
+    .map(str)
+    .join(" ");
+  if (sourceText.includes("カフェインを94％カットしたコロンビア産")) return ["コロンビア"];
+  if (sourceText.includes("ハワイコナ")) return ["アメリカ（ハワイ）"];
+  if (sourceText.includes("ブルーマウンテン")) return ["ジャマイカ"];
+  if (sourceText.includes("キリマンジャロ")) return ["タンザニア"];
+  if (sourceText.includes("マンデリン")) return ["インドネシア"];
+  if (sourceText.includes("グアテマラ")) return ["グアテマラ"];
+  if (sourceText.includes("ケニア")) return ["ケニア"];
+  return direct;
 }
 
 function inferProcessingFromName(name: string): string | undefined {
